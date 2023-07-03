@@ -1,4 +1,14 @@
-baseURL = 'www.nullsheen.com/'
+baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
+
+[[menu.main]]
+  name = "Matrix Generator (3rd)"
+  weight = 1
+  url = "https://matrix.nullsheen.com"
+
+[[menu.main]]
+  name = "Matrix Generator (2nd)"
+  weight = 2
+  url = "https://matrix2.nullsheen.com"
