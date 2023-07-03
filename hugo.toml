@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'www.nullsheen.com'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
