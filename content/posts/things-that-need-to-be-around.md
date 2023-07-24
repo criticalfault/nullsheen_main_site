@@ -6,7 +6,7 @@ draft: false
 
 There are a lot of tools I used growing up and trying to learn Shadowrun. The few that always made me happiest were the ones that really gave me the fully control and customization that Shadowrun allows. People at FASA really dug into the idea that characters will want signature weapons/vehicles/spells/etc. That being a major part of who they are meant we needed that DEEP control over who and what they were. 
 
-NSRCG was one such program, though it used to be hosted here: http://www.shadowrun3.com. That domain has sense gone the way of FASA and disappeared into the dark. I don't know if you can find the software around these days but i've always kept a copy in my back pocket for when I knew i was going to run again. The zip I have is here: [NSRCG](files/nsrcg.zip).
+NSRCG was one such program, though it used to be hosted here: http://www.shadowrun3.com. That domain has sense gone the way of FASA and disappeared into the dark. I don't know if you can find the software around these days but i've always kept a copy in my back pocket for when I knew i was going to run again. The zip I have is here: [NSRCG](/files/nsrcg.zip).
 
 Decker was another fun project. This one however is still around! [Decker](https://sourceforge.net/projects/decker/). I've spent many hours messing around in this game. Its modeled on Shadowrun 2nd's matrix system. The perfect cyberware dungeon crawler. 
 
