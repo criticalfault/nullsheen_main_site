@@ -2,6 +2,14 @@ baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
+Paginate = 10
+
+params:
+  ananke_socials:
+  - name: github
+    url: https://github.com/criticalfault
+    label: TND GitHub Account
+    color: '#ff6800'
 
 [[menu.main]]
   name = "Matrix Generator (3rd)"
