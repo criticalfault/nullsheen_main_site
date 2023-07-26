@@ -1,6 +1,7 @@
 ---
 title: "Old Sr2 Character Generator"
 date: 2023-07-24T01:29:34Z
+featured_image: "/images/matrixGenerator2.jpg"
 draft: false
 ---
 
