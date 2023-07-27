@@ -18,3 +18,8 @@ Paginate = 10
   name = "Initiative Tracker"
   weight = 3
   url = "https://initiative-tracker.nullsheen.com/"
+
+[[menu.main]]
+  name = "Tools"
+  weight = 4
+  url = "https://www.nullsheen.com/software/"
