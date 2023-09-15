@@ -11,6 +11,8 @@ That makes this first post a setup post with a few special rules. Some of these 
 
 I will be releasing 12 adventures to go with this setting to get you and your friends in the seat. A lot of these are based on episodes of various police procedurals with some shadowrun flare.
 
+If you do decide to run this campaign please let me know! I'd love to hear some war stories! Please send me an email. Dean 'at' nullsheen.com. 
+
 ## Court Cases 
 
 ### Gathering Evidence
