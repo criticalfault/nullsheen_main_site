@@ -48,13 +48,13 @@ The gamemaster must determine the strength of the case against the runner based 
 
 ## Character Creation Special Rules
 
-|------------------------------------------------|
-|Priority|Race|Magic|Attributes|Skills|Resources |
-|A|    -    |Full Magician or Adept|24|30|250,000|
-|B|    -    |Aspected Magician     |21|25|100,000|
-|C|Troll/Elf|        -             |18|20|50,000 |
-|D|Dwarf/Ork|        -             |15|17|10,000 |
-|E|Human    |        -             |12|15|3,000  |
+| Priority | Race | Magic | Attributes | Skills | Resources | 
+|------|-------|-----|------|------|-------|
+|A| -|Full Magician or Adept|24|30|250,000| 
+|B| -| |Aspected Magician |21|25|100,000| 
+|C|Troll/Elf| - |18|20|50,000 | 
+|D|Dwarf/Ork| - |15|17|10,000 | 
+|E|Human | - |12|15|3,000 |
 
 Full Magicians Start with 18 Spell Points
 Aspected Magicians start with 25 Spell Points
