@@ -20,6 +20,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |The Shop | https://ojaste.ca/TheShop/ | The Shop is a program to build vehicles for the Shadowrun RPG conforming to the rules presented in the Rigger 2 sourcebook |
 |Matrix Builder|https://matrix2.nullsheen.com/| Allows for detailed matrix creation|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
+|Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
 
 ## Shadowrun 3rd Edition
 
