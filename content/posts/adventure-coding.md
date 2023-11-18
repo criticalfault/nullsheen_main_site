@@ -5,10 +5,13 @@ featured_image: "/images/CodingAdventure.webp"
 draft: false
 ---
 
-# Adventure Title: Coding
-## Adventure Type: Cyber Crime
-## Setting: Seattle, 2075
-## Plot Overview: 
+# Coding
+
+**Adventure Type:** Cyber Crime
+
+**Setting:** Seattle, 2075
+
+**Plot Overview:** 
 
 The group of officers arrive on scene of a catastrophic traffic accident (Go Gang related attack with civilians caught in the crossfire). The EMTs arrive after the officers give what aid they can. One of the victims has an incredibly rare blood type and is an organ donor (this rare type is resistant to organ growth, so vat grown organs are off the table) and needs to be rushed to the nearest hospital (with police escort). Another group of officers is called to give a police escort to a family who’s in desperate need of that heart. 
 
@@ -17,30 +20,30 @@ While the first officer group watches the pain of the family who has lost a love
 The man announces he is holding the hospital hostage until his wife receives the new heart promised to the young girl. Finally, once the man and his Deamon is dealt with, his 'friends' try their own hand at extorting the hospital for hard nuyen.
 
 ## NPCs: 
-Jenny Erickson - Daughter with a bad heart that even magic wont fix
-John Erickson - Protective Father with a sick daughter
-David Defore - Desperate husband willing to risk everything for his sick wife
-Melissa Defore - Sick woman who has forgotten what its like to bed well
-Hacker Hive
-James Hitchcock
-Zelda Peterson
-Michelle Cruthers - Head of the Hospital
-Sam Burke - Surgeon in charge of the Heart Replacement
-Sarah Elrin - Victim of the gang violence
+ - Jenny Erickson - Daughter with a bad heart that even magic wont fix
+ - John Erickson - Protective Father with a sick daughter
+ - David Defore - Desperate husband willing to risk everything for his sick wife
+ - Melissa Defore - Sick woman who has forgotten what its like to bed well
+ - Hacker Hive
+   - James Hitchcock - Hacker
+   - Zelda Peterson - Hacker
+ - Michelle Cruthers - Head of the Hospital
+ - Sam Burke - Surgeon in charge of the Heart Replacement
+ - Sarah Elrin - Victim of the gang violence
 
 ## Locations:
-Accident Site
-Hospital
+- Accident Site
+- Hospital
 
 ## Challenges:
-Keep the accident victim calm and stay with them until the end.
-Hacker group has total control over the hospital.
-The ability to shut off health care to anyone
-Lock doors and turn off lights
-Stall elevators, force them to specific floors,etc
-Watch over the cameras and disable peoples use of the cameras
-David has a code he has to enter every 15 minutes, else the Daemon will randomly attack a patient.
-After the initial attack has begun, all patients show as "coding"
+- Keep the accident victim calm and stay with them until the end.
+- Hacker group has total control over the hospital.
+- The ability to shut off health care to anyone
+- Lock doors and turn off lights
+- Stall elevators, force them to specific floors,etc
+- Watch over the cameras and disable peoples use of the cameras
+- David has a code he has to enter every 15 minutes, else the Daemon will randomly attack a patient.
+- After the initial attack has begun, all patients show as "coding"
 
 ## Scenes:
 
@@ -82,7 +85,8 @@ Assuming the players don’t influence Michelle Cruthers one way or the other, s
 
 ##### Refuse the demands
 If the players rebel hard against the demands, they can convince Michelle Cruthers to give the heart to the child even though it will cause heavy damage to the hospital and several innocent people. If David doesn’t keep his device or if he doesn’t enter his predefined codes. This will cause his events to come much faster. 
- Cruthers will hold out until step 4, then her hands are tied. She can’t hold back the shareholders of the hospital. They will force her hand or remove her for someone who follows their instructions. Once this happens they will open the flood gates and try to get the feds involved. 
+
+Cruthers will hold out until step 4, then her hands are tied. She can’t hold back the shareholders of the hospital. They will force her hand or remove her for someone who follows their instructions. Once this happens they will open the flood gates and try to get the feds involved. 
 
 ### Scene 4: Remote Scene - Hacker’s In House
 Sooner or later, it will come time to narrow down where these attacks are coming from. With bouncing hosts and attempting to hide themselves as best they can the hackers cannot hold the hospital forever AND remain hidden. After the police deckers are made aware it will only be a matter of time before they are found. As the GM of this adventure it’s up to you when they finally find the deckers that are helping David (or at least using him as a mule to get a rogue device on the wifi). These two deckers believe ultimately that they will not get caught and want their payday before leaving.
@@ -96,11 +100,11 @@ The deckers have set up a small maser grid connection to the matrix in their hid
 If you want more excitement you can give the deckers bodyguards or make them combat deckers with shotguns ready for the police to break in at any moment. Once they are arrested, the police deckers will be able to rip through their code and combat the daemon/malware loaded onto the hospitals computers to return things back to normal.
 
 |Number of times Davids biomonitor pings|Effect|
-------------------------------------------------
+|---------------------------------------|------|
 |1|Hospital exterior doors lock, primary lighting turned off|
 |2|1d6 random patients on life support begin to have their equipment fail. Ventilators, automated drug dispensers, etc.|
 |3|General terminals lock down,first backup generator goes offline. Everyone has to switch to paper copies for all orders. Machines for life support still function on automatic.|
 |4|Rooms begin to get hotter, the first hour uncomfortably, further on dangerous for ill patients. This requires the staff to move people out into the halls, making this hospital a cramped nightmare.|
 |5|1d6 random patients on life support are administered a lethal amount of insulin. These will all be on the same floor of the hospital. There is no reversal for poisoning of this type.|
 |6|The Oxygen central supply becomes erratic. Randomly giving either too much or too little to random rooms. Rooms with too little will obviously suffocate their patients. However rooms with too much will cause the victim to be poisoned as well as turning those rooms into a severe fire hazard. Any weapon discharged into that room will instantly|
-7|The hospital itself now has its environmentals tweaked to the same degree. Temps begin to rise steady, a few degrees every hour. Within 4 hours, it will be close to 100 degrees Fahrenheit. In 8 hours, it will be 140 and people start dropping and dying from heat stroke.|
+|7|The hospital itself now has its environmentals tweaked to the same degree. Temps begin to rise steady, a few degrees every hour. Within 4 hours, it will be close to 100 degrees Fahrenheit. In 8 hours, it will be 140 and people start dropping and dying from heat stroke.|
