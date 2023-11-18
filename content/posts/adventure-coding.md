@@ -1,7 +1,8 @@
 ---
-title: "Adventure Coding"
+title: "Lonestar Adventure - Coding"
 date: 2023-11-18T20:31:38Z
-draft: true
+featured_image: "/images/CodingAdventure.webp"
+draft: false
 ---
 
 # Adventure Title: Coding
