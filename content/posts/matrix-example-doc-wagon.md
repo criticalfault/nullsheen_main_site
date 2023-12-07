@@ -1,7 +1,8 @@
 ---
 title: "Matrix Example - Doc Wagon"
 date: 2023-12-03T21:28:33Z
-draft: true
+featured_image: "/images/DocWagonCommandCenter.png"
+draft: false
 ---
 
 As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems. The way SR3 explains it, is that until you leave the host wholesale or log in from a different RTG. This means however that each host only cares about its own tally. 
@@ -159,6 +160,9 @@ Something to note is p.216's rules for Editing Files. You need to be sure that f
 ```text
 Red-9/14/13/12/13/15
 
+Always Loaded IC: 
+Scrambler-9 attached to File Icons
+
 Step: Event
 2: Tar Pit-8 (Browse)
 6: Tar Pit-12 (Read/Write)
@@ -170,7 +174,7 @@ Step: Event
 25: Sparky-8 
 27: Active Alert
 29: Sparky-10 
-33: Psychotropic Black IC-8 (Devotion to DocWagon Brand)
+33: Psychotropic Black IC-8 (Positive Conditioning)
 36: Lethal Black IC-8
 40: Shutdown
 ```
@@ -182,7 +186,7 @@ This host would also have Security Deckers which would begin investigating after
 Red-12/17/17/16/13/15
 
 Always Loaded IC: 
-Scramble-9 attached to Slave Nodes
+Data Bomb-9 attached to Slave Nodes
 
 Step: Event
 4: Trace-12
@@ -204,11 +208,15 @@ Step: Event
 54: Lethal Black IC-10
 58: Shutdown
 ```
+
 ### Host E (Red Hard) - Patients Biomonitoring Systems
-This is the host where all bio-monitors are recorded at. Each would be their own slave within the system 
+This is the host where all bio-monitors are recorded at. Each would be their own slave within the system.  
 
 ```text
 Red-10/17/14/18/15/14
+
+Always Loaded IC: 
+Scrambler-9 attached to Slave Nodes
 
 Step: Event
 3: Killer-8
