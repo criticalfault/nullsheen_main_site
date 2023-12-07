@@ -5,8 +5,6 @@ featured_image: "/images/GridGuide.png"
 draft: false
 ---
 
-# Matrix System Examples
-
 A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitaslism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.
 
 Shadowrun offers amazing experiences to be had when it comes to the Matrix. Part of the excitement comes from how these systems work. Something I believe that not many people really understand enough to truly get all of the enjoyment out of it. I'll be giving several examples of craft systems in this post. I'll try my best to explain why these systems are designed this way and perhaps hopefully save some GMs some time in ensuring that some common systems accessed we have some deeper thought put into their generation instead of randomly created.
@@ -18,7 +16,7 @@ High levels in Slave and Files due to those two things being the most dangerous 
 
 One thing I always consider is pushing back the shutdown phase. The IC on any given system should be enough to really thoroughly punish a decker. Shutting a system down (especially something as huge as GridGuide) is the kind of thing that makes the news. So I pushed it all the way back to Step 50. They will need to think they are under a full scale assault before they will actually flip the switch. That being said, they will absolutely ensure they throw everything they can before shutting down. Since lives are on the line, once the system goes into active alert, the gloves come off and they stop trying to cripple the decker and start trying to kill them.
 
-### Actions Deckers may find intriguing on this system
+## Actions Deckers may find intriguing on this system
  - Find current location of specific vehicle / Listen in to a vehicle's internal mics / Monitor vehicles location/heading/etc
    - [Locate Slave] p. 217 - SR3
      - 5 Successes needed if they just have the rough description of the car
@@ -50,6 +48,43 @@ One thing I always consider is pushing back the shutdown phase. The IC on any gi
       - 3 Successes needed if they know the plate or VIN number of vehicle registered or Account Number or SIN of Account Holder
     - [Download Data] p. 216 - SR3
       - 1 Success is needed to download the log file. This would be considered paydata so since this is an orange system would be 2D6 x 10 in Mega Pulses. This is a very common plot hook or makes a great little run for a decker for side projects for extra cash for utilities/upgrades/etc.
+
+## Extra Security
+
+This example below is a more "basic" example. When you want to switch it up or make it even more difficult. This kind of system would have deckers monitoring the system constantly. They may be alerted when the Scramble IC is deactived or crashes. 
+
+Here is a stat block for such an advanced Sysop for a system like this.
+```text
+Game Statistics
+B Q S   I   W C  E    R
+3 5 3 6 (7) 6 5 3.6  5 (6)
+INIT: 5 (6) + 1D6, Matrix INIT (pure DNI): 7 (11) + 1D6 (3D6)
+Dice Pool: Combat 9, Hacking 5 (10), Task 2
+Karma Pool/Professional Rating: 3/2
+Active Skills: Computer 6 (Decking 8), Computer B/R 3,
+Electronics 4, Etiquette 4 (Matrix 6) (Corporate 5), Instruction 2
+(Decking 4), Leadership 4, Pistols 4, Small Unit Tactics 4 (Matrix
+Tactics 6)
+Knowledge Skills: Decker Tricks 4, IC profiles 6, Matrix
+Topography 5, 5 others at rating 5
+Bioware/Cyberware: Cerebral booster 1, datajack, encephalon
+2, headware memory (150 Mp), math SPU 3
+Gear: Transys Highlander cyberdeck, various programs Ratings between 6 and 9. 
+
+Programs to consider:
+Scanner - For finding deckers
+Validate - For invalidating users
+Triangulation - Finding users in the real world
+Track - Finding users in the real world
+Armor   - Combat!
+Cloak   - Combat!
+Lock-On - Combat!
+Attack-S- Combat!
+Medic - Healing from Combat Damage
+```
+
+## System
+
 ```text
 
 ACIFS: 
