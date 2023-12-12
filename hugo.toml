@@ -3,6 +3,19 @@ languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
 Paginate = 10
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[params.ananke_socials]]
+  name = "kofi"
+  url = "https://ko-fi.com/criticalfault"
+  label = "Ko-fi"
+  color= "#ff6800"
 
 [[menu.main]]
   name = "Matrix Generator (3rd)"
@@ -10,7 +23,7 @@ Paginate = 10
   url = "https://matrix.nullsheen.com"
 
 [[menu.main]]
-  name = "Matrix Generator (2nd)"
+  name = "Matrix Builder (2nd)"
   weight = 2
   url = "https://matrix2.nullsheen.com"
 
