@@ -25,16 +25,4 @@
       {{ partial "site-navigation.html" . }}
     </div>
   </header>
-  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-  <script>
-    //Render this after a second to wait for the rest of the page to load. A hack, but it should work.
-    setTimeout(function(){
-      kofiWidgetOverlay.draw('criticalfault', {
-      'type': 'floating-chat',
-      'floating-chat.donateButton.text': 'Support me',
-      'floating-chat.donateButton.background-color': '#323842',
-      'floating-chat.donateButton.text-color': '#fff'
-    });
-    },1000)
-  </script>
 {{ end }}
