@@ -8,8 +8,7 @@ draft: false
 When you have a decker in the group, a lot of people miss some golden oppertunities. Deckers can add great resources outside of opening security doors and stopping poison gas from geeking your team. Part of it is realizing how much cyber crime your decker can do for you. This usually comes in the form of a few common decking activites.
 
 ## Decker Actions
-
-Decking is an art form. 
+Decking is an art form. There are a few things every decker needs to know how to do. These are a good starting point!
 
 ### Matrix Searching
 Almost everything important enough to remember is recorded on the matrix. When you need to know it, you just need to know where to look. In Matrix 3 (pg 129), the discussion begins with where to search. One of the most common things folks miss as a decker is buying Databases for research as contacts!
