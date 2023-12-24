@@ -3,6 +3,7 @@ title: "How to be a Decker including Dumb Matrix Tricks"
 date: 2023-12-10T19:58:36Z
 featured_image: "/images/Cyberdeck-high-tech-vending-machine-hack.png"
 draft: false
+tags: ['Decking', 'Guides']
 ---
 
 When you have a decker in the group, a lot of people miss some golden oppertunities. Deckers can add great resources outside of opening security doors and stopping poison gas from geeking your team. Part of it is realizing how much cyber crime your decker can do for you. This usually comes in the form of a few common decking activites.
