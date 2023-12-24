@@ -11,12 +11,6 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-[[params.ananke_socials]]
-  name = "kofi"
-  url = "https://ko-fi.com/criticalfault"
-  label = "Ko-fi"
-  color= "#ff6800"
-
 [[menu.main]]
   name = "Matrix Generator (3rd)"
   weight = 1
@@ -36,3 +30,8 @@ enableRobotsTXT = true
   name = "Tools"
   weight = 4
   url = "https://www.nullsheen.com/software/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "https://www.nullsheen.com/contact/"
