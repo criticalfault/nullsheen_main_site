@@ -1,6 +1,6 @@
 ---
 title: "How to be a Decker including Dumb Matrix Tricks"
-date: 2023-12-10T19:58:36Z
+date: 2023-12-22T19:58:36Z
 featured_image: "/images/Cyberdeck-high-tech-vending-machine-hack.png"
 draft: false
 tags: ['Decking', 'Guides']
