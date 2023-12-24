@@ -3,6 +3,7 @@ title: "Decker Game"
 date: 2023-11-16T17:29:35Z
 featured_image: "/images/decker_game.png"
 draft: false
+tags: ['Archive']
 ---
 
 A long long time in a galaxy far far away, any kind of shadowrun content was gold. It was rare and beautiful to behold. Decker was one of those nuggets from the era. It was difficult, but getting ahead was extremely satisfying. This of course led to save scumming like never before! All of this said, it was written in an era of windows that has since passed, but just like everything these days. A spark held in someones heart allowed it to step forward into the future.

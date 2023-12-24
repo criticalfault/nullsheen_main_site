@@ -3,6 +3,7 @@ title: "Software And Tools"
 date: 2023-09-01T12:53:33Z
 featured_image: "/images/AltPostArt.jpg"
 draft: false
+tags: ['Tools']
 ---
 
 I've decided to attempt to collect as much as I possibly can for various projects. I'll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I cant wait to hear from you. 

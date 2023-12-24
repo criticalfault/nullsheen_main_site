@@ -3,6 +3,7 @@ title: "Matrix Example - Doc Wagon"
 date: 2023-12-03T21:28:33Z
 featured_image: "/images/DocWagonCommandCenter.png"
 draft: false
+tags: ['GM Help']
 ---
 
 As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems. The way SR3 explains it, is that until you leave the host wholesale or log in from a different RTG. This means however that each host only cares about its own tally. 
