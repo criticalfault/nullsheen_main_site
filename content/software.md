@@ -3,6 +3,7 @@ title: "Software And Tools"
 date: 2023-09-01T12:53:33Z
 featured_image: "/images/AltPostArt.jpg"
 draft: false
+type: page
 tags: ['Tools']
 ---
 
