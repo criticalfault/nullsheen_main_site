@@ -3,6 +3,7 @@ title: "Matrix System Examples - Grid Guide"
 date: 2023-12-01T23:26:00Z
 featured_image: "/images/GridGuide.png"
 draft: false
+tags: ['GM Help']
 ---
 
 A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitaslism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.
