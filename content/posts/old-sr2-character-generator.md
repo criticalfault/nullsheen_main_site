@@ -3,6 +3,7 @@ title: "Old Sr2 Character Generator"
 date: 2023-07-24T01:29:34Z
 featured_image: "/images/reporter.jpg"
 draft: false
+tags: ['Tools','Archive']
 ---
 
 After doing a deep dive on researching old Shadowrun Programs (and I think i've decided to collect them all for mirrors) I stumbled onto an SR2 Character Creator. This was great for me because if I end up going down that road of making a character creator, I now have all of the base data files to extract the data and put it into a standard format (JSON in this case). 
