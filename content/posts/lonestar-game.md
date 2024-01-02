@@ -7,11 +7,11 @@ tags: ['Adventure']
 ---
 
 ## Lone Star Campaign
-For a long time ive had a desire to run a Lone Star game. I've always been a huge fan of police procedurals on TV and I thought i'd take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.
+For a long time i've had a desire to run a Lone Star game. I've always been a huge fan of police procedural's on TV and I thought i'd take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.
 
-That makes this first post a setup post with a few special rules. Some of these are modified directly out of the Lone Star book. It was a very good resources, but I think it could use for some more gamification on both sides of the law. The campaign will revolve around 2 different aspects. Its up to you and your table if you want to play out the Court Cases. Otherwise, this is a background activity that the sessions build too. It should be the crux of your campaign to see these suspects charged and placed in jail!
+That makes this first post a setup post with a few special rules. Some of these are modified directly out of the Lone Star book. It was a very good resources, but I think it could use for some more gamification on both sides of the law. The campaign will revolve around 2 different aspects. It's up to you and your table if you want to play out the Court Cases. Otherwise, this is a background activity that the sessions build too. It should be the crux of your campaign to see these suspects charged and placed in jail!
 
-I will be releasing 12 adventures to go with this setting to get you and your friends in the seat. A lot of these are based on episodes of various police procedurals with some shadowrun flare.
+I will be releasing 12 adventures to go with this setting to get you and your friends in the seat. A lot of these are based on episodes of various police procedural with some shadowrun flare.
 
 If you do decide to run this campaign please let me know! I'd love to hear some war stories! Please send me an email. Dean 'at' nullsheen.com. 
 
@@ -33,10 +33,10 @@ Notice how some of these assets can be destroyed and or killed. Your evidence mu
 You may spend a karma in order to prevent a piece of evidence from being degraded by some happen stance. Each time will require more karma than the last. 1,2,4,8,16,etc. One exception is that witness cannot be protected in this way, only physical evidence. Its up to the witnesses themselves to spend the karma. Which may come hard to those who have already witnessed and survived something terrible...
 
 ### Slips in Judgement
-Sometimes you have to bend the rules to get the job done. If that gets noticed that puts ammo in the pocket of the defense attorney. This ends up as a "Task Pool" to be used by the criminal defense team. Its limited up to the skill of the Attorney (Can't use more than you know how too).
+Sometimes you have to bend the rules to get the job done. If that gets noticed that puts ammo in the pocket of the defense attorney. This ends up as a "Task Pool" to be used by the criminal defense team. It's limited up to the skill of the Attorney (Can't use more than you know how too).
 
 ### Successful Defense
-When a case comes to court, the defendant must answer to judgment on the following criteria: motive, means and ability. 
+When a case comes to court, the defendant must answer to judgement on the following criteria: motive, means and ability. 
 
 - The motive represents the character's reason for committing the crime.
 - The means, the tools necessary to perform the crime.
@@ -44,7 +44,7 @@ When a case comes to court, the defendant must answer to judgment on the followi
 
 If all three can be proved in court, supported by the testimony of witnesses and the presence of physical evidence, then the prosecution succeeds in presenting an iron-clad case. Lack of or sufficient cause to disregard one or more of these criteria increases the character's chance of being acquitted.
 
-The gamemaster must determine the strength of the case against the runner based on motive, means, and ability. Rate the case against the character on a scale of 1 to 20, with 1 being the weakest and 20 being the strongest (i.e., an open-and-shut case). Use half of this, as the the target number for a Success Test made by the defense attorney using the Criminal Law skill. The prosecuting attorney makes a Success Test using the Criminal Law skill as well, using the Criminal Law Rating of the defense attorney as his target number. The attorney with the highest number of successes wins the case. If the two attorneys achieve the same number of successes, the judge declares a recess and sets a new date for a hearing. At the new hearing, the attorneys must make new Success Tests.
+The game master must determine the strength of the case against the runner based on motive, means, and ability. Rate the case against the character on a scale of 1 to 20, with 1 being the weakest and 20 being the strongest (i.e., an open-and-shut case). Use half of this, as the target number for a Success Test made by the defense attorney using the Criminal Law skill. The prosecuting attorney makes a Success Test using the Criminal Law skill as well, using the Criminal Law Rating of the defense attorney as his target number. The attorney with the highest number of successes wins the case. If the two attorneys achieve the same number of successes, the judge declares a recess and sets a new date for a hearing. At the new hearing, the attorneys must make new Success Tests.
 
 
 ## Character Creation Special Rules
@@ -65,8 +65,8 @@ Characters begin with 3 months of medium lifestyle of 9 months of low lifestyle.
 As a reminder, illegal things get you jail time if you are caught with them. That being said, a lot can be done in the shadows.
 Starting cash is 1D6x100 Nuyen.
 
-All Characters recieve 3 points of Police Procedures (Knowledge Skill).
-All characters recieve 2 points of Psychology, 3 points of a speciality skill (Go Gangs, Smugglers, Organized Crime, Terrorist Groups, Vice, Forensics, Criminal Profiling, Street Drugs, etc).
+All Characters receive 3 points of Police Procedures (Knowledge Skill).
+All characters receive 2 points of Psychology, 3 points of a specialty skill (Go Gangs, Smugglers, Organized Crime, Terrorist Groups, Vice, Forensics, Criminal Profiling, Street Drugs, etc.).
 
 Each character starts with 3 contacts and one CI contact. CI Contacts are always level 1 and cannot be raised above that except by CRAZY circumstances. Cannot be someone even remotely high up in any criminal empire at CG.
 
@@ -145,13 +145,13 @@ The world is full of people on both sides of the line.
 - By Assignment Only
   - Cyberware Scanner Rating 3
   - Blood Scanner Rating 3
-  - Demoltion Kits
+  - Demolition Kits
   - Electronics Kits
 - Vehicles
 	- “BLACK MARIAH” USPTV
     - LONE STAR-MODIFIED GM-HONDA 3220 ZX TURBO
     - LONE STAR-MODIFIED FORD AMERICAR
-  - Speciality Vehicles
+  - Specialty Vehicles
     - GMC “HARPY” SCOUT LAV
     - LS-MODIFIED AERODESIGN SYSTEMS CONDOR LDSD-23
     - ARES MOB MASTER
