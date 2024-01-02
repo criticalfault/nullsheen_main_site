@@ -5,8 +5,6 @@ draft: false
 featured_image: "/images/digital_tools.png"
 tags: ['GM Help']
 ---
-
-Discuss the overview...
 As time as continued forward and with the horrid times that was the panic following the COVID, we as tabletop gamers ran into some serious problems. The games that we wanted to play with our friends suddenly had to move online. Separated from our friends and unable to share a table, we turned to the tools that were made for online play. The real problem here is, most things were made for DnD. Shadowrun DOES have its own tactical movements, but they are a tad clunky (in my opinion of course).
 
 After looking most people just turned to Discord and simple dice roller bots. 
@@ -58,6 +56,6 @@ Once you decide you are going to go full online (either because people are sick,
 
 Finally, one of the more popular ways people play online has been [Tabletop Simulator](https://steamcommunity.com/workshop/browse/?appid=286160&searchtext=shadowrun&childpublishedfileid=0&browsesort=textsearch). This is pretty nifty in that it really does try to replicate the feeling of sitting around the table with your friends. They have a great amount of support for Shadowrun of every edition. You should be able to import your maps here as well. 
 
-If you have any tips for running online games I'd love to hear them! Please send me an email or reach out to me from my (Contact Page)[https://www.nullsheen.com/contact/]
+If you have any tips for running online games I'd love to hear them! Please send me an email or reach out to me from my [Contact Page](https://www.nullsheen.com/contact/)
 
 Play on friends, I hope you have a wonderful year of new games in 2024!
