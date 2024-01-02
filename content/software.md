@@ -45,8 +45,10 @@ I've decided to attempt to collect as much as I possibly can for various project
 ## Shadowrun 5th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-|Chummer5|https://github.com/chummer5a/chummer5a|Another of the Chummer series of character generators|
+|Chummer5|https://github.com/chummer5a/chummer5a|Another of the Chummer series of character generators. Has to be installed|
+|Omae v.2|https://heyomae.github.io/|Web App Character Generator|
+
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-Omae|https://oma3.vercel.app/|Character Generator and Phone app!|
+Omae|https://oma3.vercel.app/|Character Generator - Web / Phone app!|
