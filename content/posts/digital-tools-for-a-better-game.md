@@ -1,7 +1,7 @@
 ---
 title: "Digital Tools for a Better Game"
-date: 2023-12-26T03:02:03Z
-draft: true
+date: 2023-12-30T03:02:03Z
+draft: false
 featured_image: "/images/digital_tools.png"
 tags: ['GM Help']
 ---
