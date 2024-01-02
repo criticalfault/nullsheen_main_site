@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/digital_tools.png"
 tags: ['GM Help']
 ---
-As time as continued forward and with the horrid times that was the panic following the COVID, we as tabletop gamers ran into some serious problems. The games that we wanted to play with our friends suddenly had to move online. Separated from our friends and unable to share a table, we turned to the tools that were made for online play. The real problem here is, most things were made for DnD. Shadowrun DOES have its own tactical movements, but they are a tad clunky (in my opinion of course).
+As time continued forward and with the horrid times that was the panic following the COVID, we as tabletop gamers ran into some serious problems. The games that we wanted to play with our friends suddenly had to move online. Separated from our friends and unable to share a table, we turned to the tools that were made for online play. The real problem here is, most things were made for DnD. Shadowrun DOES have its own tactical movements, but they are a tad clunky (in my opinion of course).
 
 After looking most people just turned to Discord and simple dice roller bots. 
 
