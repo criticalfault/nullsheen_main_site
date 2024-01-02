@@ -76,7 +76,7 @@ Medic - Healing from Combat Damage
    - [Monitor Slave] p. 218 - SR3
         - 1 Success is needed to monitor the vehicle. This would allow the decker to watch from the camera feeds of the vehicle, get the GPS location of the vehicle's transponder or even listen in on internal Mics of the Vehicle.
    - [Edit Slave] p 216 - 217 - SR3
-     - 1 Success is enough to override the GPS transponder or edit the crew's location data in the computer to possibily swap where they need to go. 
+     - 1 Success is enough to override the GPS transponder or edit the crew's location data in the computer to possibly swap where they need to go. 
  - #### Alter / Erase Records / Get Free Health Insurance
    - Files needing to be edited are located inside Host C.
    - [Locate File] p. 217 - SR3
@@ -110,7 +110,7 @@ Medic - Healing from Combat Damage
 ```
 
 ### Host A (Green Average) - Public Host
-This host is a front facing host for people to use for looking up public information, meet with Doc Wagon employees to inquire about their services, etc. Nothing important is kept in this host, its simply a place for icons to gather to do business. Everything important to Doc Wagon is store within the P-LTG
+This host is a front facing host for people to use for looking up public information, meet with Doc Wagon employees to inquire about their services, etc. Nothing important is kept in this host, it's simply a place for icons to gather to do business. Everything important to Doc Wagon is store within the P-LTG
 ```text
 Green-7/11/11/13/13/11
 
