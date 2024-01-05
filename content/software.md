@@ -23,7 +23,8 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Matrix Builder|https://matrix2.nullsheen.com/| Allows for detailed matrix creation|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
-
+|The Shop|[The Shop](/files/Shop142s.zip)|A vehicle builder for 2nd Edition. Doesn't run on 64 bit systems.|
+|SK Soft|[SK Soft](/files/sksoft.zip)|Skill Soft Generator for 2nd Edition. Doesn't run on 64 bit systems.|
 ## Shadowrun 3rd Edition
 
 | Tool        | URL   | Description |
@@ -33,7 +34,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Matrix Generator|https://matrix.nullsheen.com/|Generates Sheafs on the fly.|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
 |NSRCG|[NSRCG](/files/nsrcg.zip)|Shadowrun Character Generator. This has been around for a long time, its worth while! Works on Windows 10 as well!|
-|Jackpoint|[Jackpoint](Jackpoint_Beta2_Redux_Setup.zip)|The Mac daddy of all helper programs. This is a character generator AND DM helper. A lot of cool tools. Works in Windows 10!|
+|Jackpoint|[Jackpoint](/files/Jackpoint_Beta2_Redux_Setup.zip)|The Mac daddy of all helper programs. This is a character generator AND DM helper. A lot of cool tools. Works in Windows 10!|
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
 
 ## Shadowrun 4th Edition
