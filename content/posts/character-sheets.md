@@ -18,7 +18,7 @@ These sheets all have their own trademarks but are also free to distribute if yo
 - [3rd Edition Vehicle Sheet](/static/files/SR3-Printable-Vehicle-Sheet.pdf)
 
 - [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html)
-    - This is a sheet collection I've sworn by my whole Shadowrun career. Made by (Wordman)[https://rpg.divnull.com/srun/]. A legend in the Shadows. I'm linking his site for the moment (though it appears to be untouched since its golden age). If he gives me direct permission. I'll host his files here as well.
+    - This is a sheet collection I've sworn by my whole Shadowrun career. Made by [Wordman](https://rpg.divnull.com/srun/). A legend in the Shadows. I'm linking his site for the moment (though it appears to be untouched since its golden age). If he gives me direct permission. I'll host his files here as well.
 
 - [4th Edition Character Sheets](https://www.gamingverse.com/shadowrun/sheets.html)
     - Following Wordman's path. Jhaiisiin created the 4th edition version. Same thing with Wordman's files. Once I hear from Jhaiisiin, then I'll host their files on this site as well.
