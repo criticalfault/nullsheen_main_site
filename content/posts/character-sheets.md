@@ -10,8 +10,11 @@ After doing some digging into character sheets for an up and coming game. I sudd
 
 These sheets all have their own trademarks but are also free to distribute if you're not making coin on it and I for one and not making a dime!
 
-- [1st & 2nd Edition Character Sheet](/static/files/SR_2ed_Charsheet_Theograth%20v3.pdf)
-    - Elly l33t 0wnij originally laid this out, but [Theograth](https://www.reddit.com/r/Shadowrun/comments/l765bj/shadowrun_2e_fillable_character_sheet_pdf/) made it form fillable. Always glad to have folks keeping up older pages!
+- [1st Edition Character Sheet](/static/files/Shadowrun_Character_Sheet_1e.pdf) - Printable character sheet
+
+- [2nd Edition Character Sheet - Form Fillable](/static/files/SR_2ed_Charsheet_Theograth%20v3.pdf)
+    - Elly l33t 0wnij originally laid this out, but [Pink Fohawk](https://pinkfohawk.podbean.com/) made it form fillable. 
+- [2nd Edition Character Sheet](/static/files/Shadowrun_Character_Sheet_2e.pdf) - Printable character sheet 
 
 - [3rd Edition Character Sheet](/static/files/SR3-Printable-Sheet.pdf)
 - [3rd Edition Matrix Sheet](/static/files/SR3-Printable-Matrix-Sheet.pdf)
