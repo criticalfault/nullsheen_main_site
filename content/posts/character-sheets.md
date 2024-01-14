@@ -20,7 +20,7 @@ These sheets all have their own trademarks but are also free to distribute if yo
 - [3rd Edition Matrix Sheet](/static/files/SR3-Printable-Matrix-Sheet.pdf)
 - [3rd Edition Vehicle Sheet](/static/files/SR3-Printable-Vehicle-Sheet.pdf)
 
-- [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html)
+- [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html) [My Mirror](/files/SR3Sheets31.pdf)
     - This is a sheet collection I've sworn by my whole Shadowrun career. Made by [Wordman](https://rpg.divnull.com/srun/). A legend in the Shadows. I'm linking his site for the moment (though it appears to be untouched since its golden age). If he gives me direct permission. I'll host his files here as well.
 
 - [4th Edition Character Sheets](https://www.gamingverse.com/shadowrun/sheets.html)
