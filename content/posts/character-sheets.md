@@ -15,15 +15,17 @@ These sheets all have their own trademarks but are also free to distribute if yo
 - [2nd Edition Character Sheet - Form Fillable](/files/SR_2ed_Charsheet_Theograth%20v3.pdf)
     - Elly l33t 0wnij originally laid this out, but [Pink Fohawk](https://pinkfohawk.podbean.com/) made it form fillable. 
 - [2nd Edition Character Sheet](/files/Shadowrun_Character_Sheet_2e.pdf) - Printable character sheet 
+- [2nd Edition Google Sheet](https://docs.google.com/spreadsheets/d/1v-PTnZMyKucRSmI980YY0VqFypoArVxVO5lG4iKJIEo/edit#gid=0) - illogicaldolphin from the SR Discords has made an awesome character sheet for 2nd Edition. This great for online games!
+
 
 - [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
 - [3rd Edition Matrix Sheet](/files/SR3-Printable-Matrix-Sheet.pdf)
 - [3rd Edition Vehicle Sheet](/files/SR3-Printable-Vehicle-Sheet.pdf)
 
-- [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html) [My Mirror](/files/SR3Sheets31.pdf)
+- [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html) [My Mirror For 3rd Edition Sheets](/files/SRSheets31.pdf)
     - This is a sheet collection I've sworn by my whole Shadowrun career. Made by [Wordman](https://rpg.divnull.com/srun/). A legend in the Shadows. I'm linking his site for the moment (though it appears to be untouched since its golden age). If he gives me direct permission. I'll host his files here as well.
 
-- [4th Edition Character Sheets](https://www.gamingverse.com/shadowrun/sheets.html)
+- [4th Edition Character Sheets](https://www.gamingverse.com/shadowrun/sheets.html) [My Mirror for 4th Edition Sheets](/files/sr4sheets18.pdf)
     - Following Wordman's path. Jhaiisiin created the 4th edition version. Same thing with Wordman's files. Once I hear from Jhaiisiin, then I'll host their files on this site as well.
 
 - [5th Edition Character Sheet](/files/SR5-Character-Sheet-Fillable.pdf)
