@@ -14,25 +14,25 @@ This plays deeply into my own emotional feelings about the internet. Back before
 
 When trying to get my own hands on this, I discovered most of it was only on Archive.org. They of course do amazing work, but I don’t want this flame to ever stop burning. Part of the reason I made this site was for this exact reason. Preservation of media like the Supplemental in the form you would have found in all those years ago. All of these incredible creators deserve to be immortalized for their work and contributions. So for as long as I can hold the torch, I will put them here for everyone. Until someone else takes up the torch when I can no longer hold it.
 
-If you still hold a spark (An issue I don’t have listed here), please reach out to me. I know there are several I don’t have and want to preserve. 
+If you still hold a spark [An issue I don’t have listed here], please reach out to me. I know there are several I don’t have and want to preserve. 
 
-(Shadowrun Supplemental Link 1)[/files/The-Shadowrun-Supplemental-Issue-1.pdf]
-(Shadowrun Supplemental Link 2)[/files/The-Shadowrun-Supplemental-Issue-2.pdf]
-(Shadowrun Supplemental Link 3)[/files/The-Shadowrun-Supplemental-Issue-3.pdf]
-(Shadowrun Supplemental Link 4)[/files/The-Shadowrun-Supplemental-Issue-4.pdf]
-(Shadowrun Supplemental Link 5)[/files/The-Shadowrun-Supplemental-Issue-5.pdf]
-(Shadowrun Supplemental Link 6)[/files/The-Shadowrun-Supplemental-Issue-6.pdf]
-(Shadowrun Supplemental Link 6b)[/files/The-Shadowrun-Supplemental-Issue-6b-More-Vehicles.pdf]
-(Shadowrun Supplemental Link 7)[/files/The-Shadowrun-Supplemental-Issue-7.pdf]
-(Shadowrun Supplemental Link 8)[/files/The-Shadowrun-Supplemental-Issue-8.pdf]
-(Shadowrun Supplemental Link 9)[/files/The-Shadowrun-Supplemental-Issue-9.pdf]
-(Shadowrun Supplemental Link 10)[/files/The-Shadowrun-Supplemental-Issue-10.pdf]
-(Shadowrun Supplemental Link 11)[/files/The-Shadowrun-Supplemental-Issue-11.pdf]
-(Shadowrun Supplemental Link 12)[/files/The-Shadowrun-Supplemental-Issue-12.pdf]
-(Shadowrun Supplemental Link 13)[/files/The-Shadowrun-Supplemental-Issue-13.pdf]
-(Shadowrun Supplemental Link 14)[/files/The-Shadowrun-Supplemental-Issue-14.pdf]
-(Shadowrun Supplemental Link 15)[/files/The-Shadowrun-Supplemental-Issue-15.pdf]
-(Shadowrun Supplemental Link 16)[/files/The-Shadowrun-Supplemental-Issue-16.pdf]
-(Shadowrun Supplemental Link 17)[/files/The-Shadowrun-Supplemental-Issue-17.pdf]
-(Shadowrun Supplemental Link 18)[/files/The-Shadowrun-Supplemental-Issue-18.pdf]
-(Shadowrun Supplemental Link 19)[/files/The-Shadowrun-Supplemental-Issue-19.pdf]
+[Shadowrun Supplemental Link 1](/files/The-Shadowrun-Supplemental-Issue-1.pdf)
+[Shadowrun Supplemental Link 2](/files/The-Shadowrun-Supplemental-Issue-2.pdf)
+[Shadowrun Supplemental Link 3](/files/The-Shadowrun-Supplemental-Issue-3.pdf)
+[Shadowrun Supplemental Link 4](/files/The-Shadowrun-Supplemental-Issue-4.pdf)
+[Shadowrun Supplemental Link 5](/files/The-Shadowrun-Supplemental-Issue-5.pdf)
+[Shadowrun Supplemental Link 6](/files/The-Shadowrun-Supplemental-Issue-6.pdf)
+[Shadowrun Supplemental Link 6b](/files/The-Shadowrun-Supplemental-Issue-6b-More-Vehicles.pdf)
+[Shadowrun Supplemental Link 7](/files/The-Shadowrun-Supplemental-Issue-7.pdf)
+[Shadowrun Supplemental Link 8](/files/The-Shadowrun-Supplemental-Issue-8.pdf)
+[Shadowrun Supplemental Link 9](/files/The-Shadowrun-Supplemental-Issue-9.pdf)
+[Shadowrun Supplemental Link 10](/files/The-Shadowrun-Supplemental-Issue-10.pdf)
+[Shadowrun Supplemental Link 11](/files/The-Shadowrun-Supplemental-Issue-11.pdf)
+[Shadowrun Supplemental Link 12](/files/The-Shadowrun-Supplemental-Issue-12.pdf)
+[Shadowrun Supplemental Link 13](/files/The-Shadowrun-Supplemental-Issue-13.pdf)
+[Shadowrun Supplemental Link 14](/files/The-Shadowrun-Supplemental-Issue-14.pdf)
+[Shadowrun Supplemental Link 15](/files/The-Shadowrun-Supplemental-Issue-15.pdf)
+[Shadowrun Supplemental Link 16](/files/The-Shadowrun-Supplemental-Issue-16.pdf)
+[Shadowrun Supplemental Link 17](/files/The-Shadowrun-Supplemental-Issue-17.pdf)
+[Shadowrun Supplemental Link 18](/files/The-Shadowrun-Supplemental-Issue-18.pdf)
+[Shadowrun Supplemental Link 19](/files/The-Shadowrun-Supplemental-Issue-19.pdf)
