@@ -1,7 +1,7 @@
 ---
 title: "Neo Anarchist's Guide to Everything Else"
 date: 2024-02-29T19:28:53Z
-draft: true
+draft: false
 featured_image: "/images/nagee.webp"
 tags: ['Archive','GM Help']
 ---
