@@ -40,7 +40,8 @@ I've decided to attempt to collect as much as I possibly can for various project
 ## Shadowrun 4th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-|Chummer4|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
+|Chummer4 Repo|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
+|Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)
 |Shadowrun Mob Master|https://toktic.github.io/sr_gmt/|NPC and Group creator for those combats you know are coming|
 
 ## Shadowrun 5th Edition
