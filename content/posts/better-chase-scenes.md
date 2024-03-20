@@ -31,6 +31,8 @@ Remember vehicles cannot go faster than 25% more of their “Speed” values. So
 
 Control Pool is available throughout the chase. It only refreshes every 3 segments.
 
+Each time a vehicle is forced to make a crash test and succeeds, it receives a light wound from the strain. This will keep the chases from begin infinite, as the slow wear and tear begins to strip them down from near misses and clipping various loose scenary.
+
 ## TN Modifiers
 Terrain Modifiers are subject to GMs discretion based on vehicle size. Motorcycles ripping between cars on the highway might be restricted, but for a car would be tight.
 | Description 	| Modifier 	|
@@ -41,7 +43,7 @@ Terrain Modifiers are subject to GMs discretion based on vehicle size. Motorcycl
 | Tight Terrain	| +3 |
 | Vehicle exceeding its Speed Rating 	| +1 	|
 | Vehicle is under half its Speed Rating  | -1 	|
-| VCR Implant 	| -(VCR Rating x2) 	|
+| VCR Implant 	| -(VCR Rating) 	|
 | Datajack User 	| -1 	|
 | Bad Weather 	|  +1	|
 | Horrible Weather 	| +3 	|
