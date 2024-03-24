@@ -1,6 +1,6 @@
 ---
 title: "Ghostbusters With Shadowrun 3rd Edition"
-date: 2023-11-18T20:31:38Z
+date: 2024-03-24T11:12:27Z
 featured_image: "/images/Ghostbusters.webp"
 draft: false
 tags: ['Tools','GM Help']
