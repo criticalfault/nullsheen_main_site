@@ -1,12 +1,12 @@
 ---
-title: "Ghostbusters With Shadowrun 3rd Edition"
+title: "Ghostbusters RPG With Shadowrun 3rd Edition"
 date: 2024-03-24T11:12:27Z
 featured_image: "/images/Ghostbusters.webp"
 draft: false
 tags: ['Tools','GM Help']
 ---
 
-# The New Ghost Busters
+# The New Ghost Busters - RPG using Shadowrun 3rd Edition
 Around 20 years ago I fell in love with a franchise I thought was dead. It was funny, it was spooky and it was wierd. I was never the same after seeing Ghostbusters for the first time. I too wanted to hold back the darkness with my wit and genius. Fighting with the heart of a lion against what goes bump in the night. Soon i ended up learning about Call of Cthulhu the table top game and Shadowrun. I decided I wanted to try to add the action of Shadowrun into the mystery and investigation of Call of Cthulhu. This birthed this madness below. 
 
 We only had a chance to play it once or twice, but every time we had just the best time. I hope this fills you and your friends with that same feeling. It begins with the assumption that the players have gotten a franchise right to the Ghostbusters after the 2nd Movie. Now that there are 4 more movies... its really up to you and your table how you want to handle it!
@@ -26,24 +26,27 @@ Along with knowing your character’s strengths and weaknesses when it comes to 
 
 These are all things to consider at character creation because they will affect your character throughout the entire game. The top row of the table below lists the five categories players needs to consider when making their characters.  If the table seems confusing now, don’t worry, keep reading.  It is all spelled out after the chart. 
 
-|Rank|Mysticism/Psionics|Skills|Attributes|Equipment|Bonus|
+|Rank|Mysticism/Psi|Skills|Attributes|Equipment|Bonus|
 |-- |-- |-- |-- |-- |-- |
-|1|Fully Active (40) 1d6+14 power|P 40 K 40|30|You name it, soldier   (30)|$100,000|
-|2|Semi-Active (20) 2d6+8 power|P 30 K 35|27|Newer gear          (20)|$75,000|
-|3|None 3d6+2 power|P 25 K 30|24|Standard gear       (15)|$50,000|
-|4|None 3d6 power|P 20 K 20|21|Old gear               (10)|$25,000|
-|5|None 2d6 power|P 15 K 10|18|Scraped together (7)|$10,000|
+|1|Fully Active (40) 1d6+14 power|P 40 K 40|30|30 pts|$100,000|
+|2|Semi-Active (20) 2d6+8 power|P 30 K 35|27|20pts|$75,000|
+|3|None 3d6+2 power|P 25 K 30|24|15pts|$50,000|
+|4|None 3d6 power|P 20 K-20|21|10pts|$25,000|
+|5|None 2d6 power|P 15 K 10|18|7pts|$10,000|
 
 Now that you’ve seen what there is to choose from, we’ll look briefly at each category.
 
 ### Mystical Abilities
 Is your character a mystic or psychic? If so, you will want to put either rank one or two into Mysticism/Psionics. This allows your character to tap into the mystic abilities locked in the inner recesses of the human mind.  On top of that, there is a difference between Mysticism/Psionics at rank one or two.  This affects the strength of your abilities.  Fully-Active, Semi-Active, and None are explained below. 
 
-#### Fully-Active – Whether you were born awakened or had a near death experience that opened your eyes to what was really going on, you can do and sense things far beyond that what a normal person can. At this level you can use and do anything listed under Mysticism chapter. This allows you 40 mystic points.
+#### Fully-Active
+Whether you were born awakened or had a near death experience that opened your eyes to what was really going on, you can do and sense things far beyond that what a normal person can. At this level you can use and do anything listed under Mysticism chapter. This allows you 40 mystic points.
 
-#### Semi-Active – Same as above only, you can’t quite seem to get the hang of the more powerful arts. Or maybe you simply just don’t know about them, whichever the case, you can’t seem to handle any of the powers listed with an asterisk by them. This allows you 20 mystic points.
+#### Semi-Active 
+Same as above only, you can’t quite seem to get the hang of the more powerful arts. Or maybe you simply just don’t know about them, whichever the case, you can’t seem to handle any of the powers listed with an asterisk by them. This allows you 20 mystic points.
 
-#### None – If your character isn’t mystically or psychically active you still get a power score. To find your power score roll dice equal to your rank. Your character can still use magical spells or items they happened to find, however they can’t learn the mystic skills.
+#### None 
+If your character isn’t mystically or psychically active you still get a power score. To find your power score roll dice equal to your rank. Your character can still use magical spells or items they happened to find, however they can’t learn the mystic skills.
 
 
 ### Skills
@@ -212,12 +215,16 @@ Battery Operated Handheld Voice Recorder ($50) – Small device allows you to re
 Emergency Kit ($100) – This kit includes a Swiss Army Knife, a package of 6-pack of batteries, jumper cables, tow rope, gallon of water, a blanket, 3 days rations, 10 road flares, matches, cheap AM/FM radio, First Aid Kit (Includes bandages, antiseptic, smelling salts, gauze, stitch kit with medical grade floss, tweezers, and anything else feasible and allowed by the storyteller.)
 
 GPS ($400) – These expensive little toys tells you where you’re at in latitude and longitude. 
-OnStar ($300 to install, $30 a month) 
-Palm Pilot ($500) – works as a small computer and can hold dates and numbers.
-Digital Camera ($400) – takes digital photos!
-Binoculars ($40) – allows the uses to see up to x20 farther
-Pager ($50 to buy, $10 a month) – simple paging system that shows the number of whom called.
 
+OnStar ($300 to install, $30 a month) 
+
+Palm Pilot ($500) – works as a small computer and can hold dates and numbers.
+
+Digital Camera ($400) – takes digital photos!
+
+Binoculars ($40) – allows the uses to see up to x20 farther
+
+Pager ($50 to buy, $10 a month) – simple paging system that shows the number of whom called.
  
 ### Bonus
 
@@ -253,33 +260,55 @@ All powers are listed in this section.  The cost is the initial cost before you 
 
 ## Merits and Flaws
 
-No one is perfect.  This section helps make sure your Ghostbuster isn’t either.  Here is a list of merits and flaws that may help you generate something else that may suit your character.  Consult your GM with any of your ideas or for any other ideas he or she may have.
+No one is perfect.  This section helps make sure your Ghostbuster isn’t either.  Here is a list of merits and flaws that may help you generate something else that may suit your character.  Consult your GM with any of your ideas or for any other ideas he or she may have. I had rules for these but it seems to be missing from my original document. I'll have to dig to see if i can find were i wrote the rules. You can make up your own or just ignore this section!
 
 Merits
 Genius [4 pt] 
+
 Hot Shot [2 pt]
+
 Acute Sense [2 pt]
+
 Bargain Boy/Girl [4 pt]
+
 Danger Sense [2 pt]
+
 Fast Reader [2 pt]
+
 Guardian Angel [6 pt]
+
 Huge [2, 4, or 6 pt]
+
 Power Buffer [2, 4, or 6 pt]
+
 Unshakeable [3 pt]
+
 Sexy [2 pt]
+
 
 Flaws
 Ignorant [2 pt]
+
 Old Injury [2 pt]
+
 Addiction [2, 4, or 6 pt]
+
 Blind [5 pt]
+
 Color Blind [2 pt]
+
 Criminal Record [2 pt]
+
 Deaf [3 pt]
+
 Dogged by Fringe Media [3 pt]
+
 Nightmares [2 pt]
+
 Shaky Hands [3 pt]
+
 Slow Learner [3 pt]
+
 
 ## Combat
 As with any game, not everything can be solved in a peaceful matter; this is especially true when hunting ghosts.  It is only natural that a person and/or supernatural being would lash out when threatened verbally or physically.  Combat takes place whenever the character experiences an aggressive action or initiates an aggressive action.  Combat falls into the following sequence.  
@@ -311,6 +340,7 @@ As the main purpose of this game is to feel what it is like to run around the ci
 1. The players in question roll imitative just as if they enter normal combat rounds. In order of initiatives they declare their actions from lowest to highest. After declarations have been made the players act in order from highest to lowest. When using a proton pack to attempt to contain a ghost the players makes an energy weapons roll at TN 5. If the player is using an improved proton pack the TN is reduced to 4. The ghosts dodge successes remove the successes achieved on this attack, if the attack score a negative or zero successes the attack misses. On a result of 1 or 2 successes the player has gotten a lead on the ghost and can fire the next round on a -1 TN. Once the players has gotten 3 successes on one attack, the ghost is contained and can be held in place. Each player that holds achives three successes on a containment attack add a -1 bonus to the TN of closing the trap.
 2. The player or players whom are currently holding the ghost may pass on their initative and continue to hold the ghost until the trap is closed. Every round they hold the ghost they make an opposing strength challenge at TN equal to the ghost power. The ghost receives a -1 TN penalty per players that succeed on a containment attack and is forgoing their initiative past the first.
 3. Once the ghost is being held its all the matter of getting him in position of the trap and then closing it. Only a player whom is not currently holding the ghost may attempt to throw and close a trap on a ghost who is being held. The player throwing the trap makes a ranged attack roll at TN 4. Only 1 success is needed to position the trap under the ghost. A failure results in an under or over thrown trap (1-50 over, 51-100 under). In either case the trap must be thrown again next round until a successful throw is made. Once the throw is successful is completed the player may close the trap, trapping the ghost inside.
+
 | Type 	| Damage Dice 	|
 |---	|---	|
 | Pistol 	| 4 Dice 	|
@@ -403,20 +433,30 @@ The beings from beyond have several powers and abilities far beyond that of huma
 Ghostbusters, to the premier defense science of this decade. The following information will prove indispensable in your ghost hunting. Classification of ghosts, specters, haunts, and Things That Go Bump in the Night is the first step toward conquering these manifestations. With this starting list of paranormal definitions, you are on your way to a glamorous career full of adventure. 
 
 **Class I**: These are undeveloped forms, insubstantial and difficult to see. Interaction with their environment is limited and enigmatic (e.g., spectral lights, voices and sounds, ectoplasmic vapors, etc.). Simple application of a proton pack beam is normally effective.
+
 **Class II**: Manifestations focused in this time and space, Class II ghosts and up can physically manipulate things in this world. These forms are vague, inconsistent, or incomplete (e.g., floating sheets, ghostly hands, animated lips, etc.). Although a proton pack beam is normally effective, some Class II ghosts have the capacity to return attacks.
+
 **Class III**: Anonymous Haunting. Distinct human form and personality is evident, but former identity (i.e., as a living being) is not established. If established, ghost is reassigned as Class IV. Often difficult to deal with, Class III ghosts generally possess sophisticated means of defense.
+
 **Class IV**: Identity is established. They have a distinct human form and personality with known identity, such as General Custer or Cleopatra. Economic disposal methods include research into the background of said entity, as well as possible communication with it.
+
 **Class V**: These are ectoplasmic manifestations of definite but non-human form. Speculation includes the theory that Class V's are formed from emotionally-charged events or as side effects from ritual summoning. (The spud Peter Venkman talks about so much was a by-product of the rituals that a cult held in the Sedgewick Hotel's basement.) These typically require extensive proton pack implementation to eradicate.
- Class VI: Ghosts from lower life forms. A giant penguin was once seen attacking a mugger in Central Park. Later it was discovered that the penguin was a ghost. Unique solutions are often required to handle these entities, including research into habitats, allergies, natural enemies, etc.
+
+**Class VI**: Ghosts from lower life forms. A giant penguin was once seen attacking a mugger in Central Park. Later it was discovered that the penguin was a ghost. Unique solutions are often required to handle these entities, including research into habitats, allergies, natural enemies, etc.
+
 **Class VII**: Metaspectres. Obsessively malevolent, exceptionally powerful, and exhibiting control over subordinate forms, such entities are potentially very dangerous. These are often identified by primitive cultures as "Demons". Entitles which fit this classification include Gozer and Zuul. Neutralizing them is usually a problematical undertaking at best. Most standard procedures are futile. The most realistic plan is to take measures to prevent these things from entering the sphere of influence in the first place.
 
 #### Traits
 Ghost traits vary, presenting everything from spooks to nuts. Though official terminology has not been regularized, a few commonly used terms are discussed bellow:
 
 **Free Floating**: A ghost that moves about at will, with no regard to buildings, people, or time and space as we know it. Sometimes just called "free".
+
 **Focused**: The ghost is tied to the specific locale in which it first appeared and cannot stray from it.
+
 **Full Torso**: Some ghosts have full torsos; some have arms and legs, and some have no head and the like. Full torso apparitions are relatively rare -- many haunting are indistinct below the chest.
+
 **Repeater**: May refer to a self-regenerating PKE force (common with ritually-summoned spooks) or to a spook with obsessive repetitious behavior patterns (i.e., always manifesting at a certain place and time). Even when the ghost can be captured or eliminated, some agency continues to produce successive haunting. Such ghosts reappear periodically until the source can be disabled.
+
 **Vapor or Mist**: A common but imprecise term, it may refer to a Class I or II entity, or any insubstantial haunting.
 
 #### Ghost Character Creation
