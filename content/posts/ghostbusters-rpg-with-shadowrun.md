@@ -9,7 +9,7 @@ tags: ['Tools','GM Help']
 # The New Ghost Busters - RPG using Shadowrun 3rd Edition
 Around 20 years ago I fell in love with a franchise I thought was dead. It was funny, it was spooky and it was wierd. I was never the same after seeing Ghostbusters for the first time. I too wanted to hold back the darkness with my wit and genius. Fighting with the heart of a lion against what goes bump in the night. Soon i ended up learning about Call of Cthulhu the table top game and Shadowrun. I decided I wanted to try to add the action of Shadowrun into the mystery and investigation of Call of Cthulhu. This birthed this madness below. 
 
-We only had a chance to play it once or twice, but every time we had just the best time. I hope this fills you and your friends with that same feeling. It begins with the assumption that the players have gotten a franchise right to the Ghostbusters after the 2nd Movie. Now that there are 4 more movies... its really up to you and your table how you want to handle it!
+We only had a chance to play it once or twice, but every time we had just the best time. I hope this fills you and your friends with that same feeling. It begins with the assumption that the players have gotten a franchise right to the Ghostbusters after the 2nd Movie. Now that there are 3 more movies... its really up to you and your table how you want to handle it!
 
 This hasn't been truly play tested, so it will need some massaging in some parts, but if your up for something different. I hope you try it! If you do, let me know. I'd love to hear about your stories.
 
@@ -28,11 +28,11 @@ These are all things to consider at character creation because they will affect 
 
 |Rank|Mysticism/Psi|Skills|Attributes|Equipment|Bonus|
 |-- |-- |-- |-- |-- |-- |
-|1|Fully Active (40) 1d6+14 power|P 40 K 40|30|30 pts|$100,000|
-|2|Semi-Active (20) 2d6+8 power|P 30 K 35|27|20pts|$75,000|
-|3|None 3d6+2 power|P 25 K 30|24|15pts|$50,000|
-|4|None 3d6 power|P 20 K-20|21|10pts|$25,000|
-|5|None 2d6 power|P 15 K 10|18|7pts|$10,000|
+|1|Fully Active (40) 1d6+14 power|A40 K40|30|30 pts|$100,000|
+|2|Semi-Active (20) 2d6+8 power|A30 K35|27|20pts|$75,000|
+|3|None 3d6+2 power|A25 K30|24|15pts|$50,000|
+|4|None 3d6 power|A20 K20|21|10pts|$25,000|
+|5|None 2d6 power|A15 K10|18|7pts|$10,000|
 
 Now that you’ve seen what there is to choose from, we’ll look briefly at each category.
 
@@ -40,20 +40,19 @@ Now that you’ve seen what there is to choose from, we’ll look briefly at eac
 Is your character a mystic or psychic? If so, you will want to put either rank one or two into Mysticism/Psionics. This allows your character to tap into the mystic abilities locked in the inner recesses of the human mind.  On top of that, there is a difference between Mysticism/Psionics at rank one or two.  This affects the strength of your abilities.  Fully-Active, Semi-Active, and None are explained below. 
 
 #### Fully-Active
-Whether you were born awakened or had a near death experience that opened your eyes to what was really going on, you can do and sense things far beyond that what a normal person can. At this level you can use and do anything listed under Mysticism chapter. This allows you 40 mystic points.
+Whether you were born awakened or had a near death experience that opened your eyes to what was really going on, you can do and sense things far beyond that which a normal person can. At this level you can use and do anything listed under Mysticism chapter. This allows you 40 mystic points.
 
 #### Semi-Active 
-Same as above only, you can’t quite seem to get the hang of the more powerful arts. Or maybe you simply just don’t know about them, whichever the case, you can’t seem to handle any of the powers listed with an asterisk by them. This allows you 20 mystic points.
+Same as above, only you can't quite seem to get the hang of the more powerful arts. Or maybe you simply don't know about them; whichever case, you can't handle any of the powers listed with an asterisk by them. This allows you 20 mystic points.
 
 #### None 
-If your character isn’t mystically or psychically active you still get a power score. To find your power score roll dice equal to your rank. Your character can still use magical spells or items they happened to find, however they can’t learn the mystic skills.
-
+If your character isn’t mystically or psychically active you still get a power score. To find your power score roll dice equal to your rank. Your character can still use magical spells or items they happen to find, however they can’t learn the mystic skills.
 
 ### Skills
-Choosing your skills is very important.  After all, the equipment used by the GB is far from standard issue for anyone who isn’t trained specially by Ghostbusters. This emphasizes that skills do, in fact, make the man.  Skills are divided into two different types: active and knowledge skills. Active skills are the things your character knows how to do.  These can be anything from building a car to firing a proton wand.  Knowledge skills are things your character knows about. These can range from parapsychology to mythologies, ancient Middle Eastern religions, or just recent TV shows. Whatever you may want to claim your character knows, just make sure the GM approves it and has it noted somewhere. Having the GM know what your character knows can help him or her prepare evidence or clues that only your character with his special knowledge would pick up.  While there are infinite skills your character can have, some may have special rules.  This will be discussed in detail in the Skills section of this book.
+Choosing your skills is very important.  After all, the equipment used by the GB is far from standard issue for anyone who isn’t trained specially by Ghostbusters. This emphasizes that skills do, in fact, make the man.  Skills are divided into two different types: active and knowledge skills. Active skills are the things your character knows how to do.  These can be anything from building a car to firing a neutrona wand.  Knowledge skills are things your character knows about. These can range from parapsychology to mythologies, ancient Middle Eastern religions, or just recent TV shows. Whatever you may want to claim your character knows, just make sure the GM approves it and has it noted somewhere. Having the GM know what your character knows can help them prepare evidence or clues that only your character with his special knowledge would pick up.  While there are infinite skills your character can have, some may have special rules.  This will be discussed in detail in the Skills section of this book.
 
 ### Attributes
-Attributes are your character physical and mental abilities. They determine how well your character is equipped in several aspects of human existence. Attributes are divided into six different stats: body, brains, brawn, cool, moves, and will. No attribute may be above six at character creation.
+Attributes are your character's physical and mental abilities. They determine how well your character is equipped in several aspects of human existence. Attributes are divided into six different stats: body, brains, brawn, cool, moves, and will. No attribute may be above six at character creation.
 
 #### Body
 Body defines your character’s ability to resist or soak damage.  This also dictates how much damage he can sustain before dying. A player calculates their character’s hit points by multiplying their body by five.  If at any time a character’s hit points are reduced to the negative of their body stat, they are dead.  For any disputes on damage consequences, refer to the Damage, Injury and Death section of this book.
@@ -65,28 +64,28 @@ Brains measure how intelligent your character is. This determines how hard, or e
 This attribute dictates how strong your character is. Without brawn a character will have trouble moving heavy objects or carrying heavy things.  With more brawn, a character can deal more damage in melee combat and generally look more muscular.
 
 #### Cool 
-Cool pertains to the character’s personality.  Cool helps you put the moves on the ladies or men.  It also helps you keep your cool when something freaky happens. While the number you put in this attribute is your cool scores, you also have cool points.  To find your cool points, multiply your cool score by five. While you may be wondering what cool points do, this will be discussed later.
+Cool pertains to the character’s personality. Cool helps you put the moves on the ladies or men.  It also helps you keep your cool when something freaky happens. While the number you put in this attribute is your cool score, you also have cool points.  To find your cool points, multiply your cool score by five. While you may be wondering what cool points do, this will be discussed later.
 
 #### Moves 
 The moves attribute defines the level of agility, speed, and dexterity your character possesses.  Remember, bulk tends to slow people down as well as make them clumsier. 
 
 #### Will
-Willpower is the character’s mental strength. This is vital to mystics and psionically active people as it helps to reduce stun damage from using powerful mystic abilities. Will also determines the amount of stun damage you can take before you pass out. The amount of stun points a character can take is found by multiplying the character’s will by five. 
+Will is the character’s mental strength. This is vital to mystics and psionically active people as it helps to reduce stun damage from using powerful mystic abilities. Will also determines the amount of stun damage you can take before you pass out. The amount of stun points a character can take is found by multiplying the character’s will by five. 
 
 ### Power and Pools
 
 Power – Power defines your characters ability to tap into the powers from beyond.  Your characters power points equal his or her power score. Attribute points can not be added to this attribute.
 
-Action Pool – Action Pool is a pool of dice created by combining Moves, Brawn, and Body.  Then, divide the result by two.  This can be used towards any combat action.  It refreshes once a turn.
+Action Pool – Action Pool is a pool of dice created by combining Moves, Brawn, and Body. Then, divide the result by two.  This can be used towards any combat action. It refreshes at the start of each turn.
 
-Power Pool – Power Pool is a pool of dice created by combining Power and Will, divided by three.  This can be used towards any mystic or psychic power test as well as defensively.  This pool refreshes after every scene.
+Power Pool – Power Pool is a pool of dice created by combining Power and Will, divided by three.  This can be used towards any mystic or psychic power test as well as defensively. This pool refreshes at the beginning of every scene. New scenes are determined by the GM.
 
 ### Skills
-Skills are vital to the success of your Ghost buster’s career. Skills are divided into two different types, knowledge and active. Active skills are skill your character can use actively, in other words they are skills that character use and perform. Knowledge skills on the other hand are skills that your character has in his knowledge. Just because your character knows a lot about cars, doesn’t mean he can install a new engine, unless someone trained him on how to use the tools to do so, and how to prop it up, etc. That’s where active skills come in. Knowledge skills mostly help you with active skills. As well give you the information about things that will help your character. All skills have a linked attribute to them. This is mostly for Experience costs later on, however during character creation, if at anytime you have a skill go above its linked attribute rating, it costs two skill points to rise. To use skills the player rolls 6 sided dice equal to his skill, difficulties are determined by the Game Master.
+Skills are vital to the success of your Ghostbuster’s career. Skills are divided into two different types: knowledge and active. Active skills are skills your character can use actively, in other words they are skills that character use and perform. Knowledge skills on the other hand are skills that your character knows. Just because your character knows a lot about cars, doesn’t mean he can install a new engine, unless someone trained him on how to use the tools to do so, and how to prop it up, etc. That’s where active skills come in. Knowledge skills mostly help you with active skills. As well give you the information about things that will help your character. All skills have a linked attribute to them. This is mostly for Experience costs later on, however during character creation, if at any time you have a skill go above its linked attribute rating, it costs two skill points to rise. To use skills the player rolls 6 sided dice equal to his skill, difficulties are determined by the Game Master.
 
 There are many active skills, only governed by GM approval and common sense.  A few active skills that are required are electronics and energy weapons. The rest are up to the GM and players.
 
-There are also quite a few knowledge skills as well. These can be anything to knowledge’s related to active skills or knowledge like occult and satanic cults. The gm should go over players knowledge skills to make sure they are useful and fair All knowledge skills are linked to Brains. So GMs beware. Here is a list of a few skills I made up. 
+There are also quite a few knowledge skills as they can represent everything from occult lore to soap opera fandom to bar trivia. The GM should go over players knowledge skills to make sure they are useful and fair All knowledge skills are linked to Brains. So GMs beware. Here is a list of a few skills I made up. 
 
 | Physical Skills 	| Knowledge Skills 	|
 |---	|---	|
@@ -110,7 +109,9 @@ There are also quite a few knowledge skills as well. These can be anything to kn
 | Repair (Brains) | Covens |
 | Craft (Type) (Brains)| Equipment|
 
-The key to being a good Ghostbuster is in the gear. No one would be able to tackle a spirit without their trusty proton pack, and containment trap. The equipment priority simple states what equipment you got to keep when you finished your training through GB HQ. Each of the following is gear that can be bought with your equipment points allowed in character creation. All entries have three parts. The name, the cost and of course what the stupid thing does. However, before you purchase your own equipment, this is what the standard GB satellite is equipped with:
+### Equipment
+
+The key to being a good Ghostbuster is in the gear. No one would be able to tackle a spirit without their trusty proton pack, and containment trap. The equipment priority simply states what equipment you got to keep when you finished your training through GB HQ. Each of the following is gear that can be bought with your equipment points allowed in character creation. All entries have three parts. The name, the cost and of course what the stupid thing does. However, before you purchase your own equipment, this is what the standard GB satellite is equipped with:
 
 - An official GB Ecto-vehicle
 - A central containment unit
@@ -128,33 +129,32 @@ The key to being a good Ghostbuster is in the gear. No one would be able to tack
 
 And without further adieu, the stuff you get to buy…
 
-### Equipment
-
-**Proton Pack (7)**–Standard issue proton pack, its used to contain ghosts to help improve the chance to catch ghosts in a trap. It takes a single round to power up before it can be used; the power switches on located on the side and on the wand of the weapon. To attempt to use the proton pack to contain a spook; the wielder must succeed in a contested energy weapons vs. power of the spook test at difficulty 5, and get at least three successes. These weapons are dangerous, powerful and above all destructive as hell, although they can’t harm ghosts, they pretty much can fuck up anything else. Whenever use they ALWAYS cause collateral damage.  For each dice rolled that comes up a one, does one dice of damage to something in the vicinity. 
+#### Equipment Points
+**Proton Pack (7)**–Standard issue proton pack, its used to contain ghosts to help improve the chance to catch ghosts in a trap. It takes a single round to power up before it can be used; the power switches on located on the side and on the wand of the weapon. To attempt to use the proton pack to contain a spook. The wielder must succeed in a contested energy weapons vs. power of the spook test at difficulty 5, and get at least three successes. These weapons are dangerous, powerful and above all destructive as hell, although they can’t harm ghosts, they pretty much can fuck up anything else. Whenever used they ALWAYS cause collateral damage. For each dice rolled that comes up a one, does one dice of damage to something in the vicinity. 
 
 **Proton Pack (10) [Improved]** – Same as above, except a lot more accurate, so its difficulty for containment streams is only 4.
 
-**PKE Meter (3)** – PKE meters allow the user to make an electronics test to detect ghosts and things they are inside or very attached to. The difficulty is 12 – Power of the spirit. If the ghost has a hiding or using a concealing power and it’s in active use. The difficulty is unfortunately increased per success of the concealing test. Each success can be assigned to one part of information. You may either check the power level of the ghost, its direction, how much of an area is affected by PK energies or the distance. It can be any combination until the successes are reduced to zero. 
+**PKE Meter (3)** – PKE meters allow the user to make an electronics test to detect ghosts and things they are inside or very attached to. The difficulty is 12 – Power of the spirit. If the ghost has a hiding or using a concealing power and it’s in active use. The difficulty is increased by 1 per success of the concealing test. Each success with the PKE Meter can be assigned to one part of information. You may either check the power level of the ghost, its direction, how much of an area is affected by PK energies or the distance. It can be any combination until the successes are reduced to zero. 
 
-**PKE Meter (6) [Improved]** – Same as above accept that the difficulty to find ghosts is 6 – power. As well this allows a bonus plus two dice on electronics use while trying to find ghosts with it.
+**PKE Meter (6) [Improved]** – Same as above accept that the difficulty to find ghosts is 8 – power. As well this allows a bonus plus two dice on electronics use while trying to find ghosts with it.
 
 **Containment Trap (3)** – This allows the user to make an athletics test at difficulty 5 to position the trap. Once the user has gotten three successes they can close the trap. Only 1 ghost may be trapped in a single trap at once. If one was to open the trap with a ghost inside it can easily just slip out.
 
 **Containment Trap (6) [Improved]** – Same as above accept that the difficulty is reduced by 1 and the unit can stick to walls and also can trap 2 ghosts at a time.
 
-**Body Armor (*)** – Body armor is used to reduce the amount of damage a person take from injuries via combat or simple misfortune. For every 2 points spend on body armor the armor provides a single dice worth of buffer against damage. Body armors rating can not exceed 10.
+**Body Armor (*)** – Body armor is used to reduce the amount of damage a person takes from injuries via combat or simple misfortune. For every 2 points spend on body armor the armor provides a single dice worth of buffer against damage. Body armors rating can not exceed 10.
 
-**Kirlian Camera (4)** – This item allows for an electronics use at difficulty 4 to see if something carries a ghostly aura. Ghost sometimes appear in these photos at Game Masters approval. However this is the easiest and fastest way to see if a ghost is inside something. These cameras require special developing agents to develop properly so it takes at least an hour to perform developments get decent results. The camera does not give you the ability to see ghosts who aren’t manifested! As well with a successful test of knowledge Metaphysics a GB can tell what mood the ghost is in by the color of the aura. Standard test is 6, the more powerful the ghost the easier this is. 
+**Kirlian Camera (4)** – This item allows for an electronics use at difficulty 4 to see if something carries a ghostly aura. Ghosts sometimes appear in these photos at Game Masters approval. However this is not the easiest and fastest way to see if a ghost is inside something. These cameras require special developing agents to develop properly so it takes at least an hour to perform developments get decent results. The camera does not give you the ability to see ghosts who aren’t manifested! As well with a successful test of knowledge Metaphysics a GB can tell what mood the ghost is in by the color of the aura. Standard test is 6, the more powerful the ghost the easier this is. 
 
 **Kirlian Video Cameras (6)** – Same as above except it doesn’t allow you to detect if someone is being possessed. However it does give you the ability to see ghost moving and acting while reviewing the tapes. The camera does not give you the ability to see ghosts who aren’t manifested! With a successful test of knowledge Metaphysics a GB can tell what mood the ghost is in by the color of the aura. Standard test is 6, the more powerful the ghost the easier this is. 
 
 **Kirlian Goggles (8)** – These special lenses allow a person to see unmanifested ghosts. There are EXTRMELY rare and should be brought to the game masters attention if you are purchasing them. With a successful test of knowledge Metaphysics a GB can tell what mood the ghost is in by the color of the aura. Standard test is 6, the more powerful the ghost the easier this is. 
 
-**Infravision Camera (2)** – Ghost has a habit of lowering the temperature in the area they are in. This camera allows the user to see in the photos is pockets of cold are in the area of the picture once developed. Again the view finder of this camera isn’t treated in anyway shape or form. So you must have the pictures to see the pockets of cold.
+**Thermographic Camera (2)** – Ghosts have a habit of lowering the temperature in the area they are in. This camera allows the user to see in the photos is pockets of cold are in the area of the picture once developed. Again the view finder of this camera isn’t treated in anyway shape or form. So you must have the pictures to see the pockets of cold.
 
-**Infravision Video Camera (4)** – Same as above only its in video form. However the lenses of this camera are treated so you can see the cold pockets and even see what the temperature of the pockets are with the camera. As well as video proof.
+**Thermographic Video Camera (4)** – Same as above only its in video form. However the lenses of this camera are treated so you can see the cold pockets and even see what the temperature of the pockets are with the camera. As well as video proof.
 
-**Infravision Goggles (3)** – Again, same as above only the goggles don’t allow for degrees simply shows the users different colors for varying temperatures.
+**Thermographic Goggles (3)** – Again, same as above only the goggles don’t allow for degrees simply shows the users different colors for varying temperatures.
 
 **Neural Brain Scanners (5)** – This nifty little device allows an electronics test at 15 – power of the spook to detect possession or ghostly compulsion over the target. This device needs to be connected to the target head and then of course to a desktop computer or laptop. When the ghost attempts to take over the target or simply is inside the target, the targets normal brain function is overlapped. This device shows that distinction.
 
@@ -177,9 +177,9 @@ Expensive – 150% of normal price and 1 minor merit.
 Ridiculous – 300% of normal price and 1 major merit or 2 minor ones.
 
 Equipment Merits and Flaws
-Improved Range (Minor Merit) –The device works at 150% range. So cameras can see farther, radios waves can be picked up from farther away, and explosives radius is increased.
+Improved Range (Minor Merit) – The device works at 150% range. So cameras can see farther, radio waves can be picked up from farther away, and explosives radius is increased.
 
-Improved Life (Minor Merit) – The devices lasts 150% longer than listed, so laptops get massive battery lives, flashlights that never seem to die, and flares that seem to burn forever.
+Improved Life (Minor Merit) – The devices lasts 150% longer than listed, so laptops that have super long battery lives, flashlights that never seem to die, and flares that seem to burn forever.
 
 Extra Feature (Minor Merit) – The device has one extra feature that is agreeable by the storyteller. So flashlights might be able to change colors, radios might be able to send transmissions as well, etc.
 
@@ -187,11 +187,11 @@ Just Won’t Die (Major Merit) – the device can take punishment that it just s
 
 Look at it go! (Major Merit) - This thing is impressive, not only does it work wonders, it does them five times faster than anything else ever had and probably ever will.  The device accomplishes all feats in 1/5 of the time and offers a +4 dice benefit to all skills related to device use.  
 
-Weather Proofed (Minor Merit) – the device can operate while under heavy weather conditions such as thunderstorms, hail, etc without penalties. 
+Weatherproofed (Minor Merit) – The device can operate while under heavy weather conditions such as thunderstorms, hail, etc without penalties. 
 
-Just what I need (Major Merit) – Once per story the device has the ability to be converted into something utterly useful. McGuiver style conversions are perfectly acceptable as long as storytellers allow and should for the cost of this merit. Matches that can double as small grade explosives, flashlights with “just the right wiring” to start a dead car, etc.
+Just what I need (Major Merit) – Once per story the device has the ability to be converted into something utterly useful. MacGyver style conversions are perfectly acceptable as long as storytellers allow and should for the cost of this merit. Matches that can double as small grade explosives, flashlights with "just the right wiring" to start a dead car, etc.
 
-This looks like a job for… (Major Merit) – At any time this piece of equipment could be used to perfection the storyteller is obligated to let you know it’s a good idea.
+This looks like a job for... (Major Merit) – At any time this piece of equipment could be used to perfection the storyteller is obligated to let you know it’s a good idea.
 
 Foreign (Minor Flaw) – Your device has foreign parts and or hard to find batteries. Have you ever gone to Wal-Mart for a FF battery? Me either, but your character is forced to buy high priced secondary items to make it work.
 
@@ -206,9 +206,9 @@ Examples:
 
 Headset Radios ($150 per pair)– These two way radios fit neatly over the subjects head so you can share communications over 1 mile in distance; useful in the day and age of crappy and expensive cell phones.
 
-Laptop (Depends on quality) – This incredibly useful item allows the GB to cross reference notes, names, and words with all sorts of tomes, books, and references the GB has access to on CD.  This allows him to research on the go, as a side note this item has a 2 hour battery life. Extra batteries can be bought at $100 per battery.  Characters may purchase a Poor, Average, or Excellent laptop.  A Poor laptop costs $900, the Average is $1500, and the Excellent goes for $3000.  The exact features on each laptop are subject to the storyteller’s judgment.  While using a laptop, the time it takes for Research and Data Searching is halved.  A Cheep laptop gives a +1 bonus dice, Average gives a +2, and Excellent gives a +4 to all Research Rolls while using the lap top.  However, the character must possess a Research skill to benefit from the bonus dice.
+Laptop (Depends on quality) – This incredibly useful item allows the GB to cross reference notes, names, and words with all sorts of tomes, books, and references the GB has access to on CD.  This allows him to research on the go, as a side note this item has a 2 hour battery life. Extra batteries can be bought at $100 per battery.  Characters may purchase a Poor, Average, or Excellent laptop.  A Poor laptop costs $900, the Average is $1500, and the Excellent goes for $3000.  The exact features on each laptop are subject to the storyteller’s judgment.  While using a laptop, the time it takes for Research and Data Searching is halved. A cheap laptop gives a +1 bonus dice, Average gives a +2, and Excellent gives a +4 to all Research Rolls while using the laptop.  However, the character must possess a Research skill to benefit from the bonus dice.
 
-Boom Microphone ($200) – This large movie style microphone allows the user to record incredibly faint sounds, as well ghosts sometimes can be picked up speak and moving on tapes. The users can hook up a pair of earphones to the microphone and hear what its recording. Meaning they MAY hear the ghosts being recorded, however this is rare, most of the time ghosts can only be heard on the tape.
+Boom Microphone ($200) – This large movie style microphone allows the user to record incredibly faint sounds, including any nearby ghosts. Ghosts sometimes can be picked up speak and moving on tapes. The users can hook up a pair of earphones to the microphone and hear what its recording. Meaning they MAY hear the ghosts being recorded, however this is rare, most of the time ghosts can only be heard on the tape.
 
 Battery Operated Handheld Voice Recorder ($50) – Small device allows you to record conversations or notes to oneself.  It will catch sounds up to 30 ft away.  If a boom mic is attached, it increases to a 100 ft range.  The battery has a life of 10 hours.
 
@@ -355,7 +355,7 @@ As the main purpose of this game is to feel what it is like to run around the ci
 
 ## Game Masters Section
 
-So you have taken on the responsibility of running Ghost Busters Role Playing Game! You’ve got big shoes to fill but don’t worry most of the stress is going to fall onto the players you just have to make sure they don’t do anything way…way out there. 
+So you have taken on the responsibility of running Ghostbusters Role Playing Game! You’ve got big shoes to fill but don’t worry most of the stress is going to fall onto the players you just have to make sure they don’t do anything way…way out there. 
 
 ### Building Records
 After your players have created their characters they are going to need a base of operations. This requires two things, money and planning. First the players need to decide what type of location their building is going, and then what is going into it. More than likely they are going to spit out actual locations at you. Your job is to decide what type of location that is low, medium, high, or luxurious.
