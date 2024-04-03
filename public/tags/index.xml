@@ -2,9 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NullSheen Shadowrun Tools</title>
-    <link>www.nullsheen.com/tags/</link>
+    <link>https://www.nullsheen.com/tags/</link>
     <description>Recent content in Tags on NullSheen Shadowrun Tools</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.nullsheen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 12:53:33 +0000</lastBuildDate>
+    <atom:link href="https://www.nullsheen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>https://www.nullsheen.com/tags/archive/</link>
+      <pubDate>Mon, 01 Apr 2024 12:53:33 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GM Help</title>
+      <link>https://www.nullsheen.com/tags/gm-help/</link>
+      <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/gm-help/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://www.nullsheen.com/tags/tools/</link>
+      <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://www.nullsheen.com/tags/guide/</link>
+      <pubDate>Fri, 08 Mar 2024 18:14:50 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GM Helper</title>
+      <link>https://www.nullsheen.com/tags/gm-helper/</link>
+      <pubDate>Sat, 06 Jan 2024 14:26:12 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/gm-helper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decking</title>
+      <link>https://www.nullsheen.com/tags/decking/</link>
+      <pubDate>Fri, 22 Dec 2023 19:58:36 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/decking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>https://www.nullsheen.com/tags/guides/</link>
+      <pubDate>Fri, 22 Dec 2023 19:58:36 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adventure</title>
+      <link>https://www.nullsheen.com/tags/adventure/</link>
+      <pubDate>Sat, 18 Nov 2023 20:31:38 +0000</pubDate>
+      <guid>https://www.nullsheen.com/tags/adventure/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
