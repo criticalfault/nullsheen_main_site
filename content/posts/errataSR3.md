@@ -3,7 +3,6 @@ title: "Shadowrun 3rd Edition - Errata"
 date: 2024-04-01T12:53:33Z
 featured_image: "/images/errors.webp"
 draft: false
-type: page
 tags: ['Archive']
 ---
 
