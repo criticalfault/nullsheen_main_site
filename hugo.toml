@@ -30,8 +30,3 @@ enableRobotsTXT = true
   name = "Tools"
   weight = 4
   url = "https://www.nullsheen.com/software/"
-
-[[menu.main]]
-  name = "Contact"
-  weight = 5
-  url = "https://www.nullsheen.com/contact/"
