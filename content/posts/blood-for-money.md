@@ -13,12 +13,12 @@ tags: ['Adventure']
 Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).
 
 NPCs: 
-Brendon Evers - Rich Kid
-Jacob Evers - Rich Kid's Father
-Elizabeth Evers - Rich Kid's Mother
-Eddy Bibbee - Idiot Kidnapper
-Simon Smith - Idiot Kidnapper
-Kyle Reiner - Lead Idiot
+- Brendon Evers - Rich Kid
+- Jacob Evers - Rich Kid's Father
+- Elizabeth Evers - Rich Kid's Mother
+- Eddy Bibbee - Idiot Kidnapper
+- Simon Smith - Idiot Kidnapper
+- Kyle Reiner - Lead Idiot
 
 *Locations:*
 - Streets
