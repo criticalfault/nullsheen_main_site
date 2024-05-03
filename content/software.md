@@ -7,13 +7,14 @@ type: page
 tags: ['Tools']
 ---
 
-I've decided to attempt to collect as much as I possibly can for various projects. I'll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I cant wait to hear from you. 
+I've decided to attempt to collect as much as I possibly can for various projects. I'll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I can't wait to hear from you. 
 
 ## Edition Agnostic
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 |TimeStamps|[Timestamps](/files/Timestamps.zip)|This little program generates comment blocks with "Matrix" timestamps for discussions as seen in source books|
 |GameName|[GameName](/files/GameName.7z)|Random Name Generator|
+|Shadowrun Primer|[Shadowrun Primer](/files/shadowrun_primer.pdf)|This was something written by Hair Brained Schemes when they released Shadowrun Returns.|
 
 ## Shadowrun 1st and 2nd Edition
 
