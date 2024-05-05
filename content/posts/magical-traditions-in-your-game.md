@@ -1,7 +1,7 @@
 ---
 title: "Magical Traditions in Your Game: Part 1"
 date: 2024-05-05T19:29:01Z
-draft: true
+draft: false
 featured_image: "/images/MagicalTraditions.JPG"
 tags: ['GM Help','Magical Traditions']
 ---
@@ -64,7 +64,7 @@ Another divination system called, Fula is sometimes used by different traditions
 #### How I would run Palero's in Shadowrun.
 This would be an option for Full Magician characters. Character creation would be done the usual way for purchasing Spells. The exception will be made when it comes to Conjuring. 
 
-The starting character would begin with a Force 1 Ancestor Spirit which will reside within a new Foci (call Nganga) they will also have to buy for 2500 nuyen. They will need to also give up a single spell point to bind the Nganga to them.
+The starting character would begin with a Force 1 nFumbe Spirit which will reside within a new Foci (call Nganga) they will also have to buy for 2500 nuyen. They will need to also give up a single spell point to bind the Nganga to them.
 
 The spirit is allowed to be called out of the cauldron every day and offer favors equal to its Force every day. They will be either bound to the cauldron or the priest (the priest would take some token from the cauldron to bind the spirit to themselves) at any given time and then may only be within Force x 5 KMs of whichever the spirit is bound too. 
 
@@ -72,6 +72,16 @@ The Nganga may have its rating increased by performing a ritual costing 2500 Nuy
 
 Should the spirit ever be defeated or banished, it will return to the Nganga and be too weak to leave until a number of days equals to its Force has passed. It can only be truly destroyed if the Nganga itself is destroyed.
 
+```text
+NFumbe Spirit 
+
+  B	      Q	      S	    C	W	I	E	R
+F + 2	F x 3	F + 1	F	F	F+1	F	F
+
+INIT: F + 10 + 1D6, Astral F + 20 + 1D6
+Attack: (Strength)M Stun
+Powers: Accident, Confusion,Divination, Guard, Materialization, Search
+```
 Palero’s should always have a spirit looking out for them in the astral space. They should be able to have an ear to the spiritual world nearly all the time. 
 
 If there is any interest in this, I will be glad to make this much more expansive and give a whole microsystem for empowering the spirit and making multiple cauldrons more worthwhile for the Palero.
