@@ -5,6 +5,7 @@ theme = 'ananke'
 Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
+show_reading_time = true
 
 [sitemap]
   changefreq = "monthly"
@@ -12,7 +13,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [[menu.main]]
-  name = "Matrix Generator (3rd)"
+  name = "Matrix Gen (3rd)"
   weight = 1
   url = "https://matrix.nullsheen.com"
 
@@ -22,7 +23,7 @@ enableRobotsTXT = true
   url = "https://matrix2.nullsheen.com"
 
 [[menu.main]]
-  name = "Initiative Tracker"
+  name = "Init Tracker"
   weight = 3
   url = "https://initiative-tracker.nullsheen.com/"
 
@@ -30,3 +31,13 @@ enableRobotsTXT = true
   name = "Tools"
   weight = 4
   url = "https://www.nullsheen.com/software/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "https://www.nullsheen.com/contact/"
+
+[[menu.main]]
+  name = "About Me"
+  weight = 6
+  url = "https://www.nullsheen.com/about-me/"
