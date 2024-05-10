@@ -9,6 +9,14 @@ tags: ['Tools']
 
 I've decided to attempt to collect as much as I possibly can for various projects. I'll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I can't wait to hear from you. 
 
+## My Tools
+| Tool        | URL   | Edition | Description |
+| ----------- | ----- |  -----  | ----------- |
+|Character Generator|https://character-generator.nullsheen.com/|2nd & 3rd|A Beta character generator for SR2 and 3.|
+|Matrix Builder|https://matrix2.nullsheen.com/|2nd| Allows for detailed matrix creation|
+|Matrix Generator|https://matrix.nullsheen.com/|3rd|Generates Sheafs on the fly.|
+|Initiative Tracker|https://initiative-tracker.nullsheen.com/|2nd & 3rd|Tracks initiative for PCs and NPCs with condition monitors|
+
 ## Edition Agnostic
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
@@ -30,7 +38,6 @@ I've decided to attempt to collect as much as I possibly can for various project
 
 
 ## Shadowrun 3rd Edition
-
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 | Cyberdeck Custom Calculator|https://sourceforge.net/projects/ccoc/ - [CCOC](/files/ccoc-161.zip)| a cyberdeck calculator, which will be integrated into the great Shadowrun-computerizing-initiative, by communicating with other Shadowrun programs.|
