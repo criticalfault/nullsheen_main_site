@@ -6,14 +6,6 @@ Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
-[languages]
-  [languages.en]
-    contentDir = 'content/posts'
-    languageCode = 'en-US'
-    languageName = 'English'
-    weight = 1
-    [languages.en.params]
-      reading_speed = 228
 
 [sitemap]
   changefreq = "monthly"
