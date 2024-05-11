@@ -5,66 +5,37 @@ draft: false
 ---
 **PRIVACY NOTICE**
 
-
 **Last updated May 09, 2024**
 
-This privacy notice for \_\_\_\_\_\_\_\_\_\_ ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
+This privacy notice for NullSheen.com ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
 *   Visit our website at [http://www.nullsheen.com](http://www.nullsheen.com), or any website of ours that links to this privacy notice
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.
-
-  
-
-  
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.  
 
 **SUMMARY OF KEY POINTS**
 
-  
-
 **_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our_** [**_table of contents_**](#toc) **_below to find the section you are looking for._**
-
-  
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
 
-  
-
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
-
-  
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-  
-
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#infouse).
-
-  
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#whoshare).
 
-  
-
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#privacyrights).
-
-  
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/0a8e2b70-8de1-4763-86b1-2fa0f3f211d0), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-  
-
 Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#toc).
 
-  
-
-  
-
 **TABLE OF CONTENTS**
-
-  
 
 [1\. WHAT INFORMATION DO WE COLLECT?](#infocollect)
 
@@ -94,49 +65,27 @@ Want to learn more about what we do with any information we collect? [Review th
 
 [14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
 
-  
-
-  
 
 **1\. WHAT INFORMATION DO WE COLLECT?**
 
-  
-
 **Personal information you disclose to us**
-
   
-
 **_In Short:_** _We collect personal information that you provide to us._
-
-  
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-  
-
 **Sensitive Information.** We do not process sensitive information.
-
-  
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-  
-
 **Information automatically collected**
-
-  
-
+ 
 **_In Short:_** _Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services._
 
-  
 
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
 
-  
-
 Like many businesses, we also collect information through cookies and similar technologies.
-
-  
 
 The information we collect includes:
 
@@ -146,21 +95,14 @@ The information we collect includes:
 
 *   _Location Data._ We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-  
-
 **2\. HOW DO WE PROCESS YOUR INFORMATION?**
 
-  
-
 **_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
-
-  
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
 *   **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-  
 
 **3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
@@ -443,11 +385,7 @@ J. Education Information
 
 Student records and directory information
 
-  
-
 NO
-
-  
 
 K. Inferences drawn from collected personal information
 
@@ -461,13 +399,8 @@ NO
 
 L. Sensitive personal Information
 
-  
-
 NO
 
-  
-
-  
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
@@ -495,15 +428,10 @@ We may disclose your personal information with our service providers pursuant to
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
-  
-
 We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-  
 
 **California Residents**
-
-  
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
@@ -511,11 +439,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law p
 
 If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
 
-  
-
 **CCPA Privacy Notice**
-
-  
 
 This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
 
@@ -537,23 +461,16 @@ All other individuals are defined as "non-residents."
 
 If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
-  
-
 **Your rights with respect to your personal data**
 
-  
 
 Right to request deletion of the data — Request to delete
 
-  
 
 You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
-
   
 
 Right to be informed — Request to know
-
-  
 
 Depending on the circumstances, you have a right to know:
 
@@ -575,35 +492,22 @@ Depending on the circumstances, you have a right to know:
 
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
-  
-
 Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
 
-  
-
 We will not discriminate against you if you exercise your privacy rights.
-
   
-
 Right to Limit Use and Disclosure of Sensitive Personal Information
-
-  
 
 We do not process consumer's sensitive personal information.
 
-  
 
-Verification process
-
-  
+Verification process  
 
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
 
   
 
-We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
-
-  
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.  
 
 Other privacy rights
 
@@ -617,35 +521,15 @@ Other privacy rights
 
 To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/0a8e2b70-8de1-4763-86b1-2fa0f3f211d0), by email at dean@nullsheen.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
-  
-
 **12\. DO WE MAKE UPDATES TO THIS NOTICE?**
-
-  
 
 _**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
-  
-
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
-
-  
 
 **13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
-  
-
-If you have questions or comments about this notice, you may email us at dean@nullsheen.com or contact us by post at:
-
-  
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
-
-  
+If you have questions or comments about this notice, you may email us at dean@nullsheen.com   
 
 **14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
