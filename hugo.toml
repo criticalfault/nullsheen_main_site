@@ -41,3 +41,8 @@ show_reading_time = true
   name = "About Me"
   weight = 6
   url = "https://www.nullsheen.com/about-me/"
+
+[[menu.main]]
+  name = "Privacy Policy"
+  weight = 7
+  url = "https://www.nullsheen.com/privacy-policy/" 
