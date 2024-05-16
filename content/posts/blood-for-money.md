@@ -3,6 +3,7 @@ title: "Lonestar Adventure - Blood for Money"
 date: 2023-11-07T14:28:39Z
 draft: false
 tags: ['Adventure']
+show_reading_time: true
 ---
 
 *Adventure Title:* Blood for Money

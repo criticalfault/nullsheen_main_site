@@ -4,6 +4,7 @@ date: 2023-11-18T20:31:38Z
 featured_image: "/images/CodingAdventure.webp"
 draft: false
 tags: ['Adventure']
+show_reading_time: true
 ---
 
 # Coding
