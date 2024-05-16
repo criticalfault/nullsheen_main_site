@@ -4,7 +4,14 @@ date: 2023-12-22T19:58:36Z
 featured_image: "/images/Cyberdeck-high-tech-vending-machine-hack.png"
 draft: false
 tags: ['Decking', 'Guides']
+show_reading_time: true
 ---
+
+## Books Used in this article. 
+ - [Matrix](https://amzn.to/4amN9z5)
+ - [Target: Matrix](https://amzn.to/3wu01Wp) 
+ - [SR3 Core](https://amzn.to/3WFuueI)
+
 
 When you have a decker in the group, a lot of people miss some golden opportunities. Deckers can add great resources outside of opening security doors and stopping poison gas from geeking your team. Part of it is realizing how much cyber crime your decker can do for you. This usually comes in the form of a few common decking activites.
 

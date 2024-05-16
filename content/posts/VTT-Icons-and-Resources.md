@@ -4,6 +4,7 @@ date: 2024-03-04T13:44:48Z
 draft: false
 featured_image: "/images/vtt-icons.webp"
 tags: ['GM Help']
+show_reading_time: true
 ---
 
 As we spoke about before, Covid really threw our lives when it came to game into some strangeness. We had to spin up new methods of keeping our stories alive. Though this is my least favorite of the ways to run a game. It holds itself aloft as something that can bring people together from across the world to enjoy the stories of friends who cannot gather around a table. Though in a more modern adaptation. Some have even begun to bring digital tables to their play groups. To this end I wanted to talk about digital assets and where to find them. 

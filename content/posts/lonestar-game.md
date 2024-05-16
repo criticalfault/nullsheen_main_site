@@ -4,6 +4,7 @@ date: 2023-09-15T16:59:55Z
 featured_image: "/images/Lonestar_Image.png"
 draft: false
 tags: ['Adventure']
+show_reading_time: true
 ---
 
 ## Lone Star Campaign

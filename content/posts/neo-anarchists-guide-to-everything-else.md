@@ -4,6 +4,7 @@ date: 2024-02-29T19:28:53Z
 draft: false
 featured_image: "/images/nagee.webp"
 tags: ['Archive','GM Help']
+show_reading_time: true
 ---
 
 We have another Zine that blazed trails in the Shadowrun universe! Started by Jerry Stratton and continued by Tony Moller. This along with the Shadowrun Supplemental were among the first player published materials out there. The first issue came out in 1992 and the last in 1994. 
