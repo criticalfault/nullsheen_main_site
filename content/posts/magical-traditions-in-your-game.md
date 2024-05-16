@@ -4,7 +4,12 @@ date: 2024-05-05T19:29:01Z
 draft: false
 featured_image: "/images/MagicalTraditions.JPG"
 tags: ['GM Help','Magical Traditions']
+show_reading_time: true
 ---
+
+## Books Used in this article. 
+ - [Magic In The Shadows](https://amzn.to/3K4XN2U)
+ - [SR3 Core](https://amzn.to/3WFuueI)
 
 
 I've always been drawn to various faiths as I grew up. What people believed and why was always so interesting to me. Being able to walk into a new church, temple or holy place and seeing the customs, hearing the music and enjoying lessons the faiths had. I tend to gravitate towards character concepts that have faith as their foundation. In Shadowrun, this often meant a Magical Tradition. 

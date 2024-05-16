@@ -4,6 +4,7 @@ date: 2024-03-24T11:12:27Z
 featured_image: "/images/Ghostbusters.webp"
 draft: false
 tags: ['Tools','GM Help']
+show_reading_time: true
 ---
 
 # The New Ghost Busters - RPG using Shadowrun 3rd Edition

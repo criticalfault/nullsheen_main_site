@@ -4,7 +4,14 @@ date: 2023-12-01T23:26:00Z
 featured_image: "/images/GridGuide.png"
 draft: false
 tags: ['GM Help']
+show_reading_time: true
 ---
+
+## Books Used in this article. 
+ - [Matrix](https://amzn.to/4amN9z5)
+ - [Target: Matrix](https://amzn.to/3wu01Wp) 
+ - [SR3 Core](https://amzn.to/3WFuueI)
+
 
 A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obsessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitalism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.
 

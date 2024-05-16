@@ -4,6 +4,7 @@ date: 2024-04-03T17:27:07Z
 draft: false
 featured_image: "/images/digital_tools.png"
 tags: ['Archive','GM Helper']
+show_reading_time: true
 ---
 
 As we continue to march forward in reclaiming our past a few people stepped up and created tools for our future. One such person is [Lord Nago](https://www.reddit.com/user/LordNago/). 

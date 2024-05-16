@@ -3,6 +3,7 @@ title: "Data Preservation Shadowrun 3rd"
 date: 2023-07-09T02:29:29Z
 draft: false
 tags: ['Archive']
+show_reading_time: true
 ---
 
 After seeing various sites I used to rely on disappearing day by day, I have grown nostalgic about the various programs i had used through out the years. As I have seen new players dig for resources for them to come up empty it has sparked my own interest in tossing my hat into the ring. I of course cannot promise I will suceed in some of these plans that seeing this data has given me, but what I can promise, is getting the data into a place for it to be preserved for the future.
