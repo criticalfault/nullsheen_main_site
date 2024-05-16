@@ -53,9 +53,9 @@ Here are some specific examples:
 
 Here are some examples of real life Grimoires. 
 
-“The Long Lost Friend”: https://en.wikipedia.org/wiki/Pow-Wows;_or,_Long_Lost_Friend
+“The Long Lost Friend”: https://en.wikipedia.org/wiki/Pow-Wows;_or,_Long_Lost_Friend - [The Long Lost Friend - Link to Buy](https://amzn.to/3UI5z7z) 
 
-“The Sixth and Seventh Books of Moses” : https://en.wikipedia.org/wiki/Sixth_and_Seventh_Books_of_Moses
+“The Sixth and Seventh Books of Moses” : https://en.wikipedia.org/wiki/Sixth_and_Seventh_Books_of_Moses - [The Sixth and Seventh Books of Moses - Link to Buy](https://amzn.to/3wAl6hV) Amazon Link to Buy
  
 “Egyptian Secrets of Albertus Magnus”: https://www.esotericarchives.com/moses/egyptian.htm
 
@@ -94,7 +94,7 @@ Another called a Bolline, is a knife or sickle with a white handle. This is used
 
 More information can be found in the following sources:
 
-The Solitary Practitioner: Scott Cunningham (https://www.amazon.com/Wicca-Solitary-Practitioner-Scott-Cunningham/dp/0875421180)
+The Solitary Practitioner: Scott Cunningham [The Solitary Practitioner - Link to Buy](https://amzn.to/3K19SGi)
 
 ### Special Conditional Modifiers
 #### Hermetic Wiccans:
