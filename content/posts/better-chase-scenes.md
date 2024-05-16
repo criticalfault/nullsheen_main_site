@@ -4,6 +4,7 @@ date: 2024-03-08T18:14:50Z
 draft: false
 featured_image: "/images/VehicleChases.webp"
 tags: ['GM Help', 'Guide']
+show_reading_time: true
 ---
 
 # Vehicle Chases
