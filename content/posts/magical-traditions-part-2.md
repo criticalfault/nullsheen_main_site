@@ -4,7 +4,12 @@ date: 2024-05-11T13:00:00Z
 draft: false
 featured_image: "/images/MagicalTraditions2.webp"
 tags: ['GM Help','Magical Traditions']
+show_reading_time: true
 ---
+
+## Books Used in this article. 
+ - [Magic In The Shadows](https://amzn.to/3K4XN2U)
+ - [SR3 Core](https://amzn.to/3WFuueI)
 
 As my introduction to magical traditions seems to have gathered a good deal of attention, I thought I would continue on with this. As always, if people have specific things they want covered, please send me an email, or reach out to me on Discord, and I'll be more than happy to sit down and write something up for you.
 
