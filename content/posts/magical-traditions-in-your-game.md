@@ -24,6 +24,8 @@ I'll be covering Voodoo (Which is covered in MiTS), Palo Mayombe (Which is not c
 ## Voodoo / Vodou
 Voodoo is common to see in a lot of movies and other media. Almost all of it is unfortunately crap. So let me try to set you straight on the fundamental beliefs and how to use Hougans and Mambas in your game.
 
+Best Book on the topic: [Tell My Horse: Voodoo and Life in Haiti and Jamaica](https://amzn.to/4dL3EYQ)
+
 ### Overview of Beliefs
 Vodou is a monotheistic faith that surrounds an entity known as "Bondye". This deity is the maintainer of the order of the universe. To aid in this, they created powerful spirits known as "Loa" (Also called Iwa). Essentially Bondye is remote and impossibly complex, perhaps so otherworldly, that we cannot speak to them directly. This is where the Loa come in. The Loa aid in communication with the singular God. 
 
@@ -50,6 +52,8 @@ This is a very controversial aspect of many diaspora faiths. Often during the he
 
 ## Palo Mayombe
 Palo is a common diaspora faith in Cuba and southern Florida. It's often confused with a lot of other faiths and is a beloved target of the media because it looks incredible from the outside. It is a faith about fighting against the darkness in life and offering medicine to those who need it. In this battle the Palero finds themselves, digging into the dirt and harvesting the wood to cure what ails those whom they love.
+
+Best Book on the topic: [Palo Mayombe: The Garden of Blood and Bones](https://amzn.to/3QKbgAY)
 
 ### Overview of Beliefs
 Palo is a faith of spirits, Wood (Palo is Spanish for stick), Fire and Blood. Palo is another diasporic faith that comes from a combination of a lot of Congo faiths. It also is monotheistic faith with the creator deity being known as Nsambi. Nsambi focuses its attention on the dead rather than the living, this being left to the Mpungu, powerful spirits that are charged with maintaining the living world. They are spirits of the natural world or spirits of the dead that wish to aid humanity still.
