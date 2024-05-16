@@ -3,6 +3,7 @@ title: "Pink Fohawk - Shadowrun Podcast"
 date: 2023-07-03T02:55:25Z
 featured_image: "/images/Pink_Fohawk.jpeg"
 draft: false
+show_reading_time: true
 ---
 
 When I started Shadowrun again, I wanted to be able to hear more stories from different people in order to get back into the mindset of it. I stumbled on Pink Fohawk and found another few folks who are deeply passionate about Shadowrun. Their podcast is incredibly fun, it has some folly and music work, but it definitely just some friends sitting around a table and having a damn good time. 

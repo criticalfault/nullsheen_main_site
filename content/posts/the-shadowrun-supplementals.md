@@ -4,6 +4,7 @@ date: 2024-02-18T00:23:58Z
 draft: false
 featured_image: "/images/TheShadowrunSupplemental.webp"
 tags: ['Archive','GM Help']
+show_reading_time: true
 ---
 
 On January 1st, 1992 we were given Shadowrun in its second form. Now revised with an attempt to bring the systems together and resolve some rules disputes, this gave us the form Shadowrun would exist in for some time. In 1997 Adam Jury rounded up some articles and put together the first Shadowrun Supplemental. This was a collection of articles written by players and Game Masters about topics they wanted to see in their games. Things they wanted to share with the world at large of Shadowrun players. 

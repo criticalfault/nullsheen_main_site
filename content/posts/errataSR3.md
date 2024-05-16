@@ -4,6 +4,7 @@ date: 2024-04-01T12:53:33Z
 featured_image: "/images/errors.webp"
 draft: false
 tags: ['Archive']
+show_reading_time: true
 ---
 
 This is a scrape from the https://www.shadowrunrpg.com site for ALL of their Erratas. They seem to have kind of let this go to seed and I know a TON of people are looking for this. I take no claim for any of this, I just want to preserve it for future generations to have the corrections they might be looking for.

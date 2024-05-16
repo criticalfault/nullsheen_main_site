@@ -4,6 +4,7 @@ date: 2024-01-06T14:26:12Z
 draft: false
 featured_image: "/images/character-sheets-bg.png"
 tags: ['GM Helper', 'Archive']
+show_reading_time: true
 ---
 
 After doing some digging into character sheets for an up and coming game. I suddenly realize the crap shoot that was finding character sheets for Shadowrun. On one hand, it makes sense. The IP has been shared and scattered to the winds across half a dozen companies all keeping their own digital presence. On the other, we used to have things like dumpshock.org to keep us with what we needed. Nowadays, well it's a whole different ball game. I think it's time to change that. One place, all the sheets you'll ever need.
