@@ -10,7 +10,7 @@ show_reading_time: true
 ## Books Useful for this article. 
  - [Magic In The Shadows](https://amzn.to/3K4XN2U)
  - [SR3 Core](https://amzn.to/3WFuueI)
- - [Street Wyld](https://amzn.to/3QPYAsj)
+ - [Street Wyrd](https://amzn.to/3QPYAsj)
 
 
 One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it's very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof! New Spell! Also character creation is much more exciting when you add personal touches to your character in this way.
