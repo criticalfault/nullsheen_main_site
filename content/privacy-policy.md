@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2024-05-10T01:08:24Z
 draft: false
+type: page
 ---
 **PRIVACY NOTICE**
 

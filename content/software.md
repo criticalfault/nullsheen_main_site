@@ -25,10 +25,9 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Shadowrun Primer|[Shadowrun Primer](/files/shadowrun_primer.pdf)|This was something written by Hair Brained Schemes when they released Shadowrun Returns.|
 
 ## Shadowrun 1st and 2nd Edition
-
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-|The Shop | https://ojaste.ca/TheShop/ | The Shop is a program to build vehicles for the Shadowrun RPG conforming to the rules presented in the Rigger 2 sourcebook |
+|The Shop|https://ojaste.ca/TheShop/ | The Shop is a program to build vehicles for the Shadowrun RPG conforming to the rules presented in the Rigger 2 sourcebook|
 |Matrix Builder|https://matrix2.nullsheen.com/| Allows for detailed matrix creation|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
@@ -52,7 +51,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 |Chummer4 Repo|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
-|Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)
+|Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)|Chummer for download!|
 |Shadowrun Mob Master|https://toktic.github.io/sr_gmt/|NPC and Group creator for those combats you know are coming|
 
 ## Shadowrun 5th Edition
@@ -64,4 +63,4 @@ I've decided to attempt to collect as much as I possibly can for various project
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-Omae|https://oma3.vercel.app/|Character Generator - Web / Phone app!|
+|Omae|https://oma3.vercel.app/|Character Generator - Web / Phone app!|
