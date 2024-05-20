@@ -43,6 +43,6 @@ show_reading_time = true
   url = "https://www.nullsheen.com/about-me/"
 
 [[menu.main]]
-  name = "Privacy Policy"
+  name = "Shadowrun Books"
   weight = 7
-  url = "https://www.nullsheen.com/privacy-policy/" 
+  url = "https://www.nullsheen.com/shadowrun-books/" 
