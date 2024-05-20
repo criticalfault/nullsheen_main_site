@@ -1,6 +1,6 @@
 ---
 title: "Top Five Cyberpunk Movies"
-date: 2024-05-20T17:34:10Z
+date: 2027-05-20T17:34:10Z
 draft: false
 featured_image: "/images/cyberpunkMovies.webp"
 tags: ['']
