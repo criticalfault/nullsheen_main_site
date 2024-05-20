@@ -3,7 +3,7 @@ title: "Matrix Example - Doc Wagon"
 date: 2023-12-03T21:28:33Z
 featured_image: "/images/DocWagonCommandCenter.png"
 draft: false
-tags: ['GM Help']
+tags: ['GM Help','3rd Edition']
 show_reading_time: true
 ---
 

@@ -2,8 +2,8 @@
 title: "Unusual Rewards for Shadowruns"
 date: 2024-05-19T21:27:54Z
 draft: true
-featured_image: "/images/"
-tags: ['']
+featured_image: "/images/unusual_items_header.webp"
+tags: ['GM Help', 'Any Edition']
 show_reading_time: true
 ---
 
