@@ -3,7 +3,7 @@ title: "Matrix System Examples - Grid Guide"
 date: 2023-12-01T23:26:00Z
 featured_image: "/images/GridGuide.png"
 draft: false
-tags: ['GM Help']
+tags: ['GM Help','3rd Edition']
 show_reading_time: true
 ---
 
