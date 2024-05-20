@@ -6,6 +6,9 @@ featured_image: "/images/unusual_items_header.webp"
 tags: ['GM Help', 'Any Edition']
 show_reading_time: true
 ---
+## Books Used in this article. 
+ - [SR3 Core](https://amzn.to/3WFuueI)
+ - [Mr. Johnson's Little Black Book](https://amzn.to/4dPrP8g)
 
 Shadowrun is a game about high risk and high rewards. Too often we however only see rewards of nuyen.  Some Gamemasters stretch their legs and add in things like extra contacts or some exotic ammos, but when was the last time you had something like a program, spell or exotic material for resale? Each of those rewards can lead to more stories and more stories is ALWAYS better!
 
