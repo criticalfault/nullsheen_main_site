@@ -1,7 +1,6 @@
-baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
-theme = 'ananke'
+theme = 'q'
 Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
