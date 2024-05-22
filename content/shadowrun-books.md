@@ -66,11 +66,11 @@ Looking for a specific Shadowrun Book? Wanting to add some books to your collect
 | 2nd|Cyberpirates!|[Amazon](https://amzn.to/4bKddFq)|[PDF](https://legacy.drivethrurpg.com/product/64111/Shadowrun-Cyberpirates?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|Tir Tairngire|[Amazon](https://amzn.to/3yrdkHv)|[PDF](https://legacy.drivethrurpg.com/product/2065/Shadowrun-Tir-Tairngire-The-Land-of-Promise?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|Denver: The City of Shadows|[Amazon](https://amzn.to/44QiKIo)| No | No |
-| 2nd|Aztlán|[Amazon]()|[PDF]()| |
-| 2nd|Target: UCAS|[Amazon]()|[PDF]()| |
-| 2nd|Target: Smuggler Havens|[Amazon](https://amzn.to/4dQZeiX)|[PDF]()| |
-| 2nd|Shadowrun Second Edition|[Amazon](https://amzn.to/3WOnlc3)|[PDF]()| |
-| 2nd|Shadowrun GM Screen|[Amazon]()|[PDF]()| |
+| 2nd|Aztlán|[Amazon](https://amzn.to/4dNl0Eh)| No | No |
+| 2nd|Target: UCAS|[Amazon](https://amzn.to/3wOgWmD)|[PDF](https://legacy.drivethrurpg.com/product/64109/Shadowrun-Target-UCAS?src=affiliate135005&affiliate_id=135005)| Yes |
+| 2nd|Target: Smuggler Havens|[Amazon](https://amzn.to/4dQZeiX)|[PDF](https://legacy.drivethrurpg.com/product/64017/Shadowrun-Target-Smuggler-Havens?src=affiliate135005&affiliate_id=135005)| No |
+| 2nd|Shadowrun Second Edition|[Amazon](https://amzn.to/3WOnlc3)| No | No |
+| 2nd|Shadowrun GM Screen|[Amazon]()| No | No |
 | 2nd|Grimoire|[Amazon]()|[PDF]()| |
 | 2nd|Virtual Realities 2.0|[Amazon](https://amzn.to/4anKTYh)|[PDF]()| |
 | 2nd|Shadowrun Companion: Beyond the Shadows|[Amazon](https://amzn.to/4bqCCV3)|[PDF]()| |
