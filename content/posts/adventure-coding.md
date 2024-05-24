@@ -7,6 +7,10 @@ tags: ['Adventure']
 show_reading_time: true
 ---
 
+## Books Useful for this article. 
+ - [SR2 Core](https://amzn.to/3WFuueI)
+ - [Lone Star](https://amzn.to/3ytS9ox)
+
 # Coding
 
 **Adventure Type:** Cyber Crime
