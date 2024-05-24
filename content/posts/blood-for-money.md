@@ -6,6 +6,10 @@ tags: ['Adventure']
 show_reading_time: true
 ---
 
+## Books Useful for this article. 
+ - [SR2 Core](https://amzn.to/3WFuueI)
+ - [Lone Star](https://amzn.to/3ytS9ox)
+
 *Adventure Title:* Blood for Money
 *Adventure Type:* Kidnapping
 *Setting:* Seattle, 2075
