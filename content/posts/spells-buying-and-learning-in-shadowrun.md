@@ -3,7 +3,7 @@ title: "Spells - Buying, Learning and Forms"
 date: 2024-05-18T17:35:32Z
 draft: false
 featured_image: "/images/spells_in_shadowrun.webp"
-tags: ['GM Helper', 'Any Edition']
+tags: ['GM Help', 'Any Edition']
 show_reading_time: true
 ---
 
