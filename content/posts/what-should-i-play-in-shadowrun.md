@@ -2,8 +2,8 @@
 title: "What Should I Play in Shadowrun?"
 date: 2024-05-24T14:53:05Z
 draft: false
-featured_image: "/images/"
-tags: ['']
+featured_image: "/images/chooseyourarchetype.webp"
+tags: ['Player Help','Any Edition']
 show_reading_time: true
 ---
 
