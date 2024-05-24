@@ -12,6 +12,7 @@ Looking for a specific Shadowrun Book? Wanting to add some books to your collect
 
 | Edition        | Title           |     Physical Book |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
+| 6th            | Shadowrun Sixth Edition: City Book Berlin| [Amazon](https://amzn.to/3Vbi4tM) | [PDF](https://www.drivethrurpg.com/en/product/460386/shadowrun-sixth-world-core-rulebook-city-edition-berlin?src=affiliate135005&affiliate_id=135005)| No |
 | 6th            |  Hack and Slash |  [Amazon](https://amzn.to/3wQgwvS)  |No | No |
 | 6th|Body Shop|[Amazon](https://amzn.to/44PgFMK)|No|No|
 | 5th|ShadowRun Fifth Edition|[Amazon](https://amzn.to/4dOLNjK)|No|No|
