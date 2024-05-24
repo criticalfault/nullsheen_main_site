@@ -2,177 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.nullsheen.com/tags/archive/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2027-05-20T17:34:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2027-05-20T17:34:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/shadowrun-books/</loc>
+    <lastmod>2024-05-20T03:19:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/any-edition/</loc>
+    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gm-help/</loc>
+    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/unusual-rewards/</loc>
+    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gm-helper/</loc>
+    <lastmod>2024-05-18T17:35:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/spells-buying-and-learning-in-shadowrun/</loc>
+    <lastmod>2024-05-18T17:35:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/ads-and-moving-forward/</loc>
+    <lastmod>2024-05-16T11:52:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/real-talk/</loc>
+    <lastmod>2024-05-16T11:52:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/magical-traditions/</loc>
+    <lastmod>2024-05-11T13:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/magical-traditions-part-2/</loc>
+    <lastmod>2024-05-11T13:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <lastmod>2024-05-10T01:08:24+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/about-me/</loc>
+    <lastmod>2024-05-10T00:49:26+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-05-10T00:44:31+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/magical-traditions-in-your-game/</loc>
+    <lastmod>2024-05-05T19:29:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/archive/</loc>
+    <lastmod>2024-04-03T17:27:07+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/custom-sr2e-sheets-for-roll20/</loc>
+    <lastmod>2024-04-03T17:27:07+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/3rd-edition/</loc>
     <lastmod>2024-04-01T12:53:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/</loc>
+    <loc>http://localhost:1313/posts/erratasr3/</loc>
     <lastmod>2024-04-01T12:53:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/</loc>
-    <lastmod>2024-04-01T12:53:33+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.nullsheen.com/posts/erratasr3/</loc>
-    <lastmod>2024-04-01T12:53:33+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.nullsheen.com/tags/</loc>
-    <lastmod>2024-04-01T12:53:33+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.nullsheen.com/posts/ghostbusters-rpg-with-shadowrun/</loc>
+    <loc>http://localhost:1313/posts/ghostbusters-rpg-with-shadowrun/</loc>
     <lastmod>2024-03-24T11:12:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/gm-help/</loc>
+    <loc>http://localhost:1313/tags/tools/</loc>
     <lastmod>2024-03-24T11:12:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/tools/</loc>
-    <lastmod>2024-03-24T11:12:27+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.nullsheen.com/posts/better-chase-scenes/</loc>
+    <loc>http://localhost:1313/posts/better-chase-scenes/</loc>
     <lastmod>2024-03-08T18:14:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/guide/</loc>
+    <loc>http://localhost:1313/tags/guide/</loc>
     <lastmod>2024-03-08T18:14:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/vtt-icons-and-resources/</loc>
+    <loc>http://localhost:1313/posts/vtt-icons-and-resources/</loc>
     <lastmod>2024-03-04T13:44:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/neo-anarchists-guide-to-everything-else/</loc>
+    <loc>http://localhost:1313/posts/neo-anarchists-guide-to-everything-else/</loc>
     <lastmod>2024-02-29T19:28:53+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/the-shadowrun-supplementals/</loc>
+    <loc>http://localhost:1313/posts/the-shadowrun-supplementals/</loc>
     <lastmod>2024-02-18T00:23:58+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/character-sheets/</loc>
+    <loc>http://localhost:1313/posts/character-sheets/</loc>
     <lastmod>2024-01-06T14:26:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/gm-helper/</loc>
-    <lastmod>2024-01-06T14:26:12+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.nullsheen.com/posts/digital-tools-for-a-better-game/</loc>
+    <loc>http://localhost:1313/posts/digital-tools-for-a-better-game/</loc>
     <lastmod>2023-12-30T03:02:03+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/decking/</loc>
+    <loc>http://localhost:1313/tags/decking/</loc>
     <lastmod>2023-12-22T19:58:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/guides/</loc>
+    <loc>http://localhost:1313/tags/guides/</loc>
     <lastmod>2023-12-22T19:58:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/dumb-matrix-tricks/</loc>
+    <loc>http://localhost:1313/posts/dumb-matrix-tricks/</loc>
     <lastmod>2023-12-22T19:58:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/matrix-example-doc-wagon/</loc>
+    <loc>http://localhost:1313/posts/matrix-example-doc-wagon/</loc>
     <lastmod>2023-12-03T21:28:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/matrix-system-examples/</loc>
+    <loc>http://localhost:1313/posts/matrix-system-examples/</loc>
     <lastmod>2023-12-01T23:26:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/tags/adventure/</loc>
+    <loc>http://localhost:1313/tags/adventure/</loc>
     <lastmod>2023-11-18T20:31:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/adventure-coding/</loc>
+    <loc>http://localhost:1313/posts/adventure-coding/</loc>
     <lastmod>2023-11-18T20:31:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/decker_game/</loc>
+    <loc>http://localhost:1313/posts/decker_game/</loc>
     <lastmod>2023-11-16T17:29:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/blood-for-money/</loc>
+    <loc>http://localhost:1313/posts/blood-for-money/</loc>
     <lastmod>2023-11-07T14:28:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/lonestar-game/</loc>
+    <loc>http://localhost:1313/posts/lonestar-game/</loc>
     <lastmod>2023-09-15T16:59:55+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/software/</loc>
+    <loc>http://localhost:1313/software/</loc>
     <lastmod>2023-09-01T12:53:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/old-sr2-character-generator/</loc>
+    <loc>http://localhost:1313/posts/old-sr2-character-generator/</loc>
     <lastmod>2023-07-24T01:29:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/init-tracker/</loc>
+    <loc>http://localhost:1313/posts/init-tracker/</loc>
     <lastmod>2023-07-15T18:56:56+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/data-preservation-shadowrun-3rd/</loc>
+    <loc>http://localhost:1313/posts/data-preservation-shadowrun-3rd/</loc>
     <lastmod>2023-07-09T02:29:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/things-that-need-to-be-around/</loc>
+    <loc>http://localhost:1313/posts/things-that-need-to-be-around/</loc>
     <lastmod>2023-07-03T12:19:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/pink-fohawk/</loc>
+    <loc>http://localhost:1313/posts/pink-fohawk/</loc>
     <lastmod>2023-07-03T02:55:25+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/sr3-matrix-sheaf-generator/</loc>
+    <loc>http://localhost:1313/posts/sr3-matrix-sheaf-generator/</loc>
     <lastmod>2023-07-02T23:55:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/posts/site-launched/</loc>
+    <loc>http://localhost:1313/posts/site-launched/</loc>
     <lastmod>2023-07-02T23:55:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.nullsheen.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
