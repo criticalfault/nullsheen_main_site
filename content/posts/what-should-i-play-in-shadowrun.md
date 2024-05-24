@@ -11,8 +11,9 @@ show_reading_time: true
  - [SR1 Core](https://amzn.to/3UNQxgN) - [PDF](https://www.drivethrurpg.com/en/product/78877/shadowrun-first-edition?src=affiliate135005&affiliate_id=135005)
  - [SR2 Core](https://amzn.to/3WFuueI)
  - [SR3 Core](https://amzn.to/3WFuueI) - [PDF](https://legacy.drivethrurpg.com/product/1893/Shadowrun-Third-Edition?src=affiliate135005&affiliate_id=135005)
- - [SR4 Core](https://amzn.to/4bFaBsg) - [PDF](https://legacy.drivethrurpg.com/product/60553/Shadowrun-4th-Ed-20th-Anniversary-Core-Rulebook?term=shadowrun+4th+ann?src=affiliate135005&affiliate_id=135005)
+ - [SR4 Core](https://amzn.to/4bFaBsg) - [PDF](https://legacy.drivethrurpg.com/product/60553/Shadowrun-4th-Ed-20th-Anniversary-Core-Rulebook?src=affiliate135005&affiliate_id=135005)
  - [SR5 Core](https://amzn.to/4dOLNjK)
+ - [SR6 Core](https://amzn.to/3Vbi4tM) - [PDF](https://www.drivethrurpg.com/en/product/460386/shadowrun-sixth-world-core-rulebook-city-edition-berlin?src=affiliate135005&affiliate_id=135005)
 
 
 This question is more common for new players than most GMs realize. Without classes and sets of specific dynamics to choose from, some players (especially those from games like Dungeons and Dragons) have a hard time understanding what kind of character to put together and that makes character creation overall much more difficult. I’m going to lay out some old school archetypes for you and what the perks are for trying to fit that role. This discussion should be more or less edition agnostic, so from 1st to 6th, this should get you going.
