@@ -52,6 +52,11 @@ Magic comes in a few flavors, but one of them is pushing your body to new found 
 
 One advantage that PA’s have above their Street Samurai cousins is access to some powers that they can only dream about. Being able to run across leaves on the water, strike spirits with their bare hands and have the ability to wield magical weapons (called Weapon Foci). Play a Physical Adept if you are looking for a mystical journey in the shadows looking for a deeper meaning to it all.
 
+### The Face / Fixer
+When it comes to running the shadows, who you know is who you are. The Face is the social grease the character needs in order to get the best deal, find the best weapons and be able to worm their way into places they shouldn't be with a smile and an enciting word. The Face often comes to bare with a dozen friends in places that can either get the word out or find out who is talking about whatever it is the shadowrunners need to know about. 
+
+This profession changes the least between editions and in general is always useful support in any game. You will usually be leaned on to help procure weapons, ammo and vehicles when needed. Part of the fun is always having "just the right person" to talk too when you need something very specific. Buy a lot of contacts and ask your GM what would be most useful to get the most out of playing the face.
+
 ### Street Samurai
 When it comes down to it, modifying your flesh and pushing yourself to the very edge of humanity through cybernetic enhancements is about as cyberpunk as it gets. The flesh is weak, but metal is perfection. Street Sams are the mercs on the street willing to run the shadows to test their skills against the best. When possible they continue to modify themselves in order to maintain their edge. In Shadowrun Reflexes are what separates the dead and the living. Wired Reflexes are the edge most Samurai go for. In earlier editions this allowed them to act multiple times before some people can even reach for their weapon. 
 
