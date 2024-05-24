@@ -2,171 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NullSheen - Tools for Shadowrun (And more) on NullSheen Shadowrun Tools</title>
-    <link>https://www.nullsheen.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in NullSheen - Tools for Shadowrun (And more) on NullSheen Shadowrun Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 12:53:33 +0000</lastBuildDate>
-    <atom:link href="https://www.nullsheen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 03:19:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shadowrun Books</title>
+      <link>http://localhost:1313/shadowrun-books/</link>
+      <pubDate>Mon, 20 May 2024 03:19:44 +0000</pubDate>
+      <guid>http://localhost:1313/shadowrun-books/</guid>
+      <description>Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I&amp;rsquo;ve put together as many books as I can scouring Amazon (And soon I hope Noble Knights for some rarer titles) to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I&amp;rsquo;ll be continuing to add to this page as I find new stuff I think is interesting and worth your time.</description>
+    </item>
+    <item>
+      <title>Unusual Rewards for Shadowruns</title>
+      <link>http://localhost:1313/posts/unusual-rewards/</link>
+      <pubDate>Sun, 19 May 2024 21:27:54 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unusual-rewards/</guid>
+      <description>Books Used in this article. SR3 Core Mr. Johnson&amp;rsquo;s Little Black Book Shadowrun is a game about high risk and high rewards. Too often we however only see rewards of nuyen. Some Gamemasters stretch their legs and add in things like extra contacts or some exotic ammos, but when was the last time you had something like a program, spell or exotic material for resale? Each of those rewards can lead to more stories and more stories is ALWAYS better!</description>
+    </item>
+    <item>
+      <title>Spells - Buying, Learning and Forms</title>
+      <link>http://localhost:1313/posts/spells-buying-and-learning-in-shadowrun/</link>
+      <pubDate>Sat, 18 May 2024 17:35:32 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spells-buying-and-learning-in-shadowrun/</guid>
+      <description>Books Useful for this article. Magic In The Shadows SR3 Core Street Wyld One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it&amp;rsquo;s very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof!</description>
+    </item>
+    <item>
+      <title>Affliation and Moving Forward</title>
+      <link>http://localhost:1313/posts/ads-and-moving-forward/</link>
+      <pubDate>Thu, 16 May 2024 11:52:21 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ads-and-moving-forward/</guid>
+      <description>After doing a lot of thinking about this little side project of mine, I had decided I perhaps needed to begin to supplement the cost of this website/hosting for tools/investment of time. I hate to make any kind of clutter or cause anyone any strife when it comes to reading my articles, using my tools, or just generally enjoying the spirit of the reason my site exists. However, seeing the cost continue to rise, I will need to come up with something.</description>
+    </item>
+    <item>
+      <title>Magical Traditions in Your Game: Part 2</title>
+      <link>http://localhost:1313/posts/magical-traditions-part-2/</link>
+      <pubDate>Sat, 11 May 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/magical-traditions-part-2/</guid>
+      <description>Books Used in this article. Magic In The Shadows SR3 Core As my introduction to magical traditions seems to have gathered a good deal of attention, I thought I would continue on with this. As always, if people have specific things they want covered, please send me an email, or reach out to me on Discord, and I&amp;rsquo;ll be more than happy to sit down and write something up for you.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Fri, 10 May 2024 01:08:24 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>PRIVACY NOTICE&#xA;Last updated May 09, 2024&#xA;This privacy notice for NullSheen.com (&amp;quot;we,&amp;quot; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;), describes how and why we might collect, store, use, and/or share (&amp;quot;process&amp;quot;) your information when you use our services (&amp;quot;Services&amp;quot;), such as when you:&#xA;Visit our website at http://www.nullsheen.com, or any website of ours that links to this privacy notice&#xA;Engage with us in other related ways, including any sales, marketing, or events&#xA;Questions or concerns?</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Fri, 10 May 2024 00:49:26 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>About Dean Professional Programmer &amp;amp; Shadowrun Enthusiast&#xA;Hello! I&amp;rsquo;m Dean, a seasoned programmer with nearly a decade of experience crafting dynamic web solutions using PHP, JavaScript, and Python. I earned my stripes in Web Development from Full Sail University, where I honed my skills and developed a deep understanding of the digital landscape.&#xA;Programming is more than just a job for me; it&amp;rsquo;s a platform that allows me to blend my technical skills with my personal passions.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 10 May 2024 00:44:31 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Are you passionate about digital preservation? Do you possess software tools that once played a pivotal role at your table or other creative endeavors you want preserved? If so, I’m eager to connect with you. My mission is to archive essential tools before they vanish into history. Along this journey, I’ve met several individuals who share this vision. They are the custodians of software that, though no longer available, once laid the groundwork for innovation and eased the burdens of GMs.</description>
+    </item>
+    <item>
+      <title>Magical Traditions in Your Game: Part 1</title>
+      <link>http://localhost:1313/posts/magical-traditions-in-your-game/</link>
+      <pubDate>Sun, 05 May 2024 19:29:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/magical-traditions-in-your-game/</guid>
+      <description>Books Used in this article. Magic In The Shadows SR3 Core I&amp;rsquo;ve always been drawn to various faiths as I grew up. What people believed and why was always so interesting to me. Being able to walk into a new church, temple or holy place and seeing the customs, hearing the music and enjoying lessons the faiths had. I tend to gravitate towards character concepts that have faith as their foundation.</description>
+    </item>
+    <item>
+      <title>Custom Shadowrun 2nd Edition Sheets for Roll20</title>
+      <link>http://localhost:1313/posts/custom-sr2e-sheets-for-roll20/</link>
+      <pubDate>Wed, 03 Apr 2024 17:27:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/custom-sr2e-sheets-for-roll20/</guid>
+      <description>As we continue to march forward in reclaiming our past a few people stepped up and created tools for our future. One such person is Lord Nago. He has created several pieces for a 2nd Edition Shadowrun Roll20 setup. With his permission i am making this post and hosting these files for him. Feel free to reach out to him on Reddit if you have questions or requests!&#xA;Here is his original post on Reddit: https://www.</description>
+    </item>
     <item>
       <title>Shadowrun 3rd Edition - Errata</title>
-      <link>https://www.nullsheen.com/posts/erratasr3/</link>
+      <link>http://localhost:1313/posts/erratasr3/</link>
       <pubDate>Mon, 01 Apr 2024 12:53:33 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/erratasr3/</guid>
+      <guid>http://localhost:1313/posts/erratasr3/</guid>
       <description>This is a scrape from the https://www.shadowrunrpg.com site for ALL of their Erratas. They seem to have kind of let this go to seed and I know a TON of people are looking for this. I take no claim for any of this, I just want to preserve it for future generations to have the corrections they might be looking for.&#xA;Shadowrun 3rd Edition Errata Version 4.1 Date: 02/28/2004&#xA;All changes are reflected in the corrected thirteenth printing of Shadowrun, Third Edition (the fourth printing by FanPro).</description>
     </item>
     <item>
       <title>Ghostbusters RPG With Shadowrun 3rd Edition</title>
-      <link>https://www.nullsheen.com/posts/ghostbusters-rpg-with-shadowrun/</link>
+      <link>http://localhost:1313/posts/ghostbusters-rpg-with-shadowrun/</link>
       <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/ghostbusters-rpg-with-shadowrun/</guid>
+      <guid>http://localhost:1313/posts/ghostbusters-rpg-with-shadowrun/</guid>
       <description>The New Ghost Busters - RPG using Shadowrun 3rd Edition Around 20 years ago I fell in love with a franchise I thought was dead. It was funny, it was spooky and it was wierd. I was never the same after seeing Ghostbusters for the first time. I too wanted to hold back the darkness with my wit and genius. Fighting with the heart of a lion against what goes bump in the night.</description>
     </item>
     <item>
       <title>Better Chase Scenes</title>
-      <link>https://www.nullsheen.com/posts/better-chase-scenes/</link>
+      <link>http://localhost:1313/posts/better-chase-scenes/</link>
       <pubDate>Fri, 08 Mar 2024 18:14:50 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/better-chase-scenes/</guid>
+      <guid>http://localhost:1313/posts/better-chase-scenes/</guid>
       <description>Vehicle Chases Vehicle chases have always been a thorn in my side since I started playing Shadowrun. I’ve always wanted that cinematic experience of the PCs&amp;rsquo; vehicles skittering down a road while gangers chase them, dragging chains through the streets. This has never been really successfully done. So many attempts, so many times I tried to figure out the chase TNs.&#xA;So this is my attempt to fix it so you can make chase TNs and Scenes that will make your players sit on the edge of their seat.</description>
     </item>
     <item>
       <title>VTT Icons and Resources</title>
-      <link>https://www.nullsheen.com/posts/vtt-icons-and-resources/</link>
+      <link>http://localhost:1313/posts/vtt-icons-and-resources/</link>
       <pubDate>Mon, 04 Mar 2024 13:44:48 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/vtt-icons-and-resources/</guid>
+      <guid>http://localhost:1313/posts/vtt-icons-and-resources/</guid>
       <description>As we spoke about before, Covid really threw our lives when it came to game into some strangeness. We had to spin up new methods of keeping our stories alive. Though this is my least favorite of the ways to run a game. It holds itself aloft as something that can bring people together from across the world to enjoy the stories of friends who cannot gather around a table. Though in a more modern adaptation.</description>
     </item>
     <item>
       <title>Neo Anarchist&#39;s Guide to Everything Else</title>
-      <link>https://www.nullsheen.com/posts/neo-anarchists-guide-to-everything-else/</link>
+      <link>http://localhost:1313/posts/neo-anarchists-guide-to-everything-else/</link>
       <pubDate>Thu, 29 Feb 2024 19:28:53 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/neo-anarchists-guide-to-everything-else/</guid>
+      <guid>http://localhost:1313/posts/neo-anarchists-guide-to-everything-else/</guid>
       <description>We have another Zine that blazed trails in the Shadowrun universe! Started by Jerry Stratton and continued by Tony Moller. This along with the Shadowrun Supplemental were among the first player published materials out there. The first issue came out in 1992 and the last in 1994.&#xA;As these are free to distribute I wanted to ensure it had a place among the archive of everything else Shadowrun had to offer for those who may have missed the boat so to speak on these wonderful publications.</description>
     </item>
     <item>
       <title>The Shadowrun Supplementals</title>
-      <link>https://www.nullsheen.com/posts/the-shadowrun-supplementals/</link>
+      <link>http://localhost:1313/posts/the-shadowrun-supplementals/</link>
       <pubDate>Sun, 18 Feb 2024 00:23:58 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/the-shadowrun-supplementals/</guid>
+      <guid>http://localhost:1313/posts/the-shadowrun-supplementals/</guid>
       <description>On January 1st, 1992 we were given Shadowrun in its second form. Now revised with an attempt to bring the systems together and resolve some rules disputes, this gave us the form Shadowrun would exist in for some time. In 1997 Adam Jury rounded up some articles and put together the first Shadowrun Supplemental. This was a collection of articles written by players and Game Masters about topics they wanted to see in their games.</description>
     </item>
     <item>
       <title>Character Sheets</title>
-      <link>https://www.nullsheen.com/posts/character-sheets/</link>
+      <link>http://localhost:1313/posts/character-sheets/</link>
       <pubDate>Sat, 06 Jan 2024 14:26:12 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/character-sheets/</guid>
+      <guid>http://localhost:1313/posts/character-sheets/</guid>
       <description>After doing some digging into character sheets for an up and coming game. I suddenly realize the crap shoot that was finding character sheets for Shadowrun. On one hand, it makes sense. The IP has been shared and scattered to the winds across half a dozen companies all keeping their own digital presence. On the other, we used to have things like dumpshock.org to keep us with what we needed. Nowadays, well it&amp;rsquo;s a whole different ball game.</description>
     </item>
     <item>
       <title>Digital Tools for a Better Game</title>
-      <link>https://www.nullsheen.com/posts/digital-tools-for-a-better-game/</link>
+      <link>http://localhost:1313/posts/digital-tools-for-a-better-game/</link>
       <pubDate>Sat, 30 Dec 2023 03:02:03 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/digital-tools-for-a-better-game/</guid>
+      <guid>http://localhost:1313/posts/digital-tools-for-a-better-game/</guid>
       <description>As time continued forward and with the horrid times that was the panic following the COVID, we as tabletop gamers ran into some serious problems. The games that we wanted to play with our friends suddenly had to move online. Separated from our friends and unable to share a table, we turned to the tools that were made for online play. The real problem here is, most things were made for DnD.</description>
     </item>
     <item>
       <title>How to be a Decker including Dumb Matrix Tricks</title>
-      <link>https://www.nullsheen.com/posts/dumb-matrix-tricks/</link>
+      <link>http://localhost:1313/posts/dumb-matrix-tricks/</link>
       <pubDate>Fri, 22 Dec 2023 19:58:36 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/dumb-matrix-tricks/</guid>
-      <description>When you have a decker in the group, a lot of people miss some golden opportunities. Deckers can add great resources outside of opening security doors and stopping poison gas from geeking your team. Part of it is realizing how much cyber crime your decker can do for you. This usually comes in the form of a few common decking activites.&#xA;Decker Actions Decking is an art form. There are a few things every decker needs to know how to do.</description>
+      <guid>http://localhost:1313/posts/dumb-matrix-tricks/</guid>
+      <description>Books Used in this article. Matrix Target: Matrix SR3 Core When you have a decker in the group, a lot of people miss some golden opportunities. Deckers can add great resources outside of opening security doors and stopping poison gas from geeking your team. Part of it is realizing how much cyber crime your decker can do for you. This usually comes in the form of a few common decking activites.</description>
     </item>
     <item>
       <title>Matrix Example - Doc Wagon</title>
-      <link>https://www.nullsheen.com/posts/matrix-example-doc-wagon/</link>
+      <link>http://localhost:1313/posts/matrix-example-doc-wagon/</link>
       <pubDate>Sun, 03 Dec 2023 21:28:33 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/matrix-example-doc-wagon/</guid>
-      <description>As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems.</description>
+      <guid>http://localhost:1313/posts/matrix-example-doc-wagon/</guid>
+      <description>Books Used in this article. Matrix Target: Matrix SR3 Core As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems.</description>
     </item>
     <item>
       <title>Matrix System Examples - Grid Guide</title>
-      <link>https://www.nullsheen.com/posts/matrix-system-examples/</link>
+      <link>http://localhost:1313/posts/matrix-system-examples/</link>
       <pubDate>Fri, 01 Dec 2023 23:26:00 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/matrix-system-examples/</guid>
-      <description>A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obsessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitalism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.</description>
+      <guid>http://localhost:1313/posts/matrix-system-examples/</guid>
+      <description>Books Used in this article. Matrix Target: Matrix SR3 Core A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obsessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitalism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.</description>
     </item>
     <item>
       <title>Lonestar Adventure - Coding</title>
-      <link>https://www.nullsheen.com/posts/adventure-coding/</link>
+      <link>http://localhost:1313/posts/adventure-coding/</link>
       <pubDate>Sat, 18 Nov 2023 20:31:38 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/adventure-coding/</guid>
+      <guid>http://localhost:1313/posts/adventure-coding/</guid>
       <description>Coding Adventure Type: Cyber Crime&#xA;Setting: Seattle, 2075&#xA;Plot Overview:&#xA;The group of officers arrive on scene of a catastrophic traffic accident (Go Gang related attack with civilians caught in the crossfire). The EMTs arrive after the officers give what aid they can. One of the victims has an incredibly rare blood type and is an organ donor (this rare type is resistant to organ growth, so vat grown organs are off the table) and needs to be rushed to the nearest hospital (with police escort).</description>
     </item>
     <item>
       <title>Decker Game</title>
-      <link>https://www.nullsheen.com/posts/decker_game/</link>
+      <link>http://localhost:1313/posts/decker_game/</link>
       <pubDate>Thu, 16 Nov 2023 17:29:35 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/decker_game/</guid>
+      <guid>http://localhost:1313/posts/decker_game/</guid>
       <description>A long long time in a galaxy far far away, any kind of shadowrun content was gold. It was rare and beautiful to behold. Decker was one of those nuggets from the era. It was difficult, but getting ahead was extremely satisfying. This of course led to save scumming like never before! All of this said, it was written in an era of windows that has since passed, but just like everything these days.</description>
     </item>
     <item>
       <title>Lonestar Adventure - Blood for Money</title>
-      <link>https://www.nullsheen.com/posts/blood-for-money/</link>
+      <link>http://localhost:1313/posts/blood-for-money/</link>
       <pubDate>Tue, 07 Nov 2023 14:28:39 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/blood-for-money/</guid>
-      <description>Adventure Title: Blood for Money Adventure Type: Kidnapping Setting: Seattle, 2075 Plot Overview:&#xA;Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).&#xA;NPCs: Brendon Evers - Rich Kid Jacob Evers - Rich Kid&amp;rsquo;s Father Elizabeth Evers - Rich Kid&amp;rsquo;s Mother Eddy Bibbee - Idiot Kidnapper Simon Smith - Idiot Kidnapper Kyle Reiner - Lead Idiot</description>
+      <guid>http://localhost:1313/posts/blood-for-money/</guid>
+      <description>Adventure Title: Blood for Money Adventure Type: Kidnapping Setting: Seattle, 2075 Plot Overview:&#xA;Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).&#xA;NPCs:&#xA;Brendon Evers - Rich Kid Jacob Evers - Rich Kid&amp;rsquo;s Father Elizabeth Evers - Rich Kid&amp;rsquo;s Mother Eddy Bibbee - Idiot Kidnapper Simon Smith - Idiot Kidnapper Kyle Reiner - Lead Idiot Locations:</description>
     </item>
     <item>
       <title>Lonestar Game</title>
-      <link>https://www.nullsheen.com/posts/lonestar-game/</link>
+      <link>http://localhost:1313/posts/lonestar-game/</link>
       <pubDate>Fri, 15 Sep 2023 16:59:55 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/lonestar-game/</guid>
+      <guid>http://localhost:1313/posts/lonestar-game/</guid>
       <description>Lone Star Campaign For a long time i&amp;rsquo;ve had a desire to run a Lone Star game. I&amp;rsquo;ve always been a huge fan of police procedural&amp;rsquo;s on TV and I thought i&amp;rsquo;d take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.&#xA;That makes this first post a setup post with a few special rules.</description>
     </item>
     <item>
       <title>Software And Tools</title>
-      <link>https://www.nullsheen.com/software/</link>
+      <link>http://localhost:1313/software/</link>
       <pubDate>Fri, 01 Sep 2023 12:53:33 +0000</pubDate>
-      <guid>https://www.nullsheen.com/software/</guid>
-      <description>I&amp;rsquo;ve decided to attempt to collect as much as I possibly can for various projects. I&amp;rsquo;ll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I cant wait to hear from you.&#xA;Edition Agnostic Tool URL Description TimeStamps Timestamps This little program generates comment blocks with &amp;ldquo;Matrix&amp;rdquo; timestamps for discussions as seen in source books GameName GameName Random Name Generator Shadowrun 1st and 2nd Edition Tool URL Description The Shop https://ojaste.</description>
+      <guid>http://localhost:1313/software/</guid>
+      <description>I&amp;rsquo;ve decided to attempt to collect as much as I possibly can for various projects. I&amp;rsquo;ll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I can&amp;rsquo;t wait to hear from you.&#xA;My Tools Tool URL Edition Description Character Generator https://character-generator.</description>
     </item>
     <item>
       <title>Old Sr2 Character Generator</title>
-      <link>https://www.nullsheen.com/posts/old-sr2-character-generator/</link>
+      <link>http://localhost:1313/posts/old-sr2-character-generator/</link>
       <pubDate>Mon, 24 Jul 2023 01:29:34 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/old-sr2-character-generator/</guid>
+      <guid>http://localhost:1313/posts/old-sr2-character-generator/</guid>
       <description>After doing a deep dive on researching old Shadowrun Programs (and I think I&amp;rsquo;ve decided to collect them all for mirrors) I stumbled onto an SR2 Character Creator. This was great for me because if I end up going down that road of making a character creator, I now have all of the base data files to extract the data and put it into a standard format (JSON in this case).</description>
     </item>
     <item>
       <title>Initiative Tracker</title>
-      <link>https://www.nullsheen.com/posts/init-tracker/</link>
+      <link>http://localhost:1313/posts/init-tracker/</link>
       <pubDate>Sat, 15 Jul 2023 18:56:56 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/init-tracker/</guid>
+      <guid>http://localhost:1313/posts/init-tracker/</guid>
       <description>After some more requests for tools, I bring you all my initiative tracker. So far it is made for Shadowrun 2nd And 3rd Edition (With a simple toggle for each edition). Currently it is configured to instantly remove initiative as they take damage. This is how my table plays however I realize a lot of others may not. I will make a toggle in the future which will remove this feature for tables that don&amp;rsquo;t play with it.</description>
     </item>
     <item>
       <title>Data Preservation Shadowrun 3rd</title>
-      <link>https://www.nullsheen.com/posts/data-preservation-shadowrun-3rd/</link>
+      <link>http://localhost:1313/posts/data-preservation-shadowrun-3rd/</link>
       <pubDate>Sun, 09 Jul 2023 02:29:29 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/data-preservation-shadowrun-3rd/</guid>
+      <guid>http://localhost:1313/posts/data-preservation-shadowrun-3rd/</guid>
       <description>After seeing various sites I used to rely on disappearing day by day, I have grown nostalgic about the various programs i had used through out the years. As I have seen new players dig for resources for them to come up empty it has sparked my own interest in tossing my hat into the ring. I of course cannot promise I will suceed in some of these plans that seeing this data has given me, but what I can promise, is getting the data into a place for it to be preserved for the future.</description>
     </item>
     <item>
       <title>Things That Need to Be Around</title>
-      <link>https://www.nullsheen.com/posts/things-that-need-to-be-around/</link>
+      <link>http://localhost:1313/posts/things-that-need-to-be-around/</link>
       <pubDate>Mon, 03 Jul 2023 12:19:49 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/things-that-need-to-be-around/</guid>
+      <guid>http://localhost:1313/posts/things-that-need-to-be-around/</guid>
       <description>There are a lot of tools I used growing up and trying to learn Shadowrun. The few that always made me happiest were the ones that really gave me the fully control and customization that Shadowrun allows. People at FASA really dug into the idea that characters will want signature weapons/vehicles/spells/etc. That being a major part of who they are meant we needed that DEEP control over who and what they were.</description>
     </item>
     <item>
       <title>Pink Fohawk - Shadowrun Podcast</title>
-      <link>https://www.nullsheen.com/posts/pink-fohawk/</link>
+      <link>http://localhost:1313/posts/pink-fohawk/</link>
       <pubDate>Mon, 03 Jul 2023 02:55:25 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/pink-fohawk/</guid>
+      <guid>http://localhost:1313/posts/pink-fohawk/</guid>
       <description>When I started Shadowrun again, I wanted to be able to hear more stories from different people in order to get back into the mindset of it. I stumbled on Pink Fohawk and found another few folks who are deeply passionate about Shadowrun. Their podcast is incredibly fun, it has some folly and music work, but it definitely just some friends sitting around a table and having a damn good time.</description>
     </item>
     <item>
       <title>Shadowrun 3rd Edition - Matrix Security Sheaf Generator</title>
-      <link>https://www.nullsheen.com/posts/sr3-matrix-sheaf-generator/</link>
+      <link>http://localhost:1313/posts/sr3-matrix-sheaf-generator/</link>
       <pubDate>Sun, 02 Jul 2023 23:55:11 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/sr3-matrix-sheaf-generator/</guid>
-      <description>Awhile ago we had need for a good security generator. I know there have been quite a few, and I checked on an old one that I used to use, and the hosting was going out on it. I took a lot of the concepts and rolled them into a new React project. It goes a bit above and beyond for it most of what was there. It gives rules and allows for some amount of tracking during a run.</description>
+      <guid>http://localhost:1313/posts/sr3-matrix-sheaf-generator/</guid>
+      <description>Books Used in this article. Matrix Target: Matrix SR3 Core Awhile ago we had need for a good security generator. I know there have been quite a few, and I checked on an old one that I used to use, and the hosting was going out on it. I took a lot of the concepts and rolled them into a new React project. It goes a bit above and beyond for it most of what was there.</description>
     </item>
     <item>
       <title>Site Launched</title>
-      <link>https://www.nullsheen.com/posts/site-launched/</link>
+      <link>http://localhost:1313/posts/site-launched/</link>
       <pubDate>Sun, 02 Jul 2023 23:55:11 +0000</pubDate>
-      <guid>https://www.nullsheen.com/posts/site-launched/</guid>
+      <guid>http://localhost:1313/posts/site-launched/</guid>
       <description>Starting Fresh After doing a lot of game play for a group of friends and getting back into the community at large. I (and some friends) have decided to make a space for tools and things we have ended up writing for the Shadowrun (2nd and 3rd) systems. This will start out pretty small, but hopefully will have a lot of helpful stuff for people in need for tools for randomization or just in need of being able to put together systems for their games.</description>
     </item>
   </channel>
