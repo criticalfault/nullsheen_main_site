@@ -1,9 +1,6 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <!-- Fathom - beautiful, simple website analytics -->
-  <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="YOACWQSB" defer></script>
-  <!-- / Fathom -->
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="bg-black-60">
       {{ partial "site-navigation.html" . }}

@@ -2,66 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NullSheen Shadowrun Tools</title>
-    <link>https://www.nullsheen.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on NullSheen Shadowrun Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 12:53:33 +0000</lastBuildDate>
-    <atom:link href="https://www.nullsheen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 May 2024 21:27:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archive</title>
-      <link>https://www.nullsheen.com/tags/archive/</link>
-      <pubDate>Mon, 01 Apr 2024 12:53:33 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/archive/</guid>
+      <title>Any Edition</title>
+      <link>http://localhost:1313/tags/any-edition/</link>
+      <pubDate>Sun, 19 May 2024 21:27:54 +0000</pubDate>
+      <guid>http://localhost:1313/tags/any-edition/</guid>
       <description></description>
     </item>
     <item>
       <title>GM Help</title>
-      <link>https://www.nullsheen.com/tags/gm-help/</link>
-      <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/gm-help/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tools</title>
-      <link>https://www.nullsheen.com/tags/tools/</link>
-      <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guide</title>
-      <link>https://www.nullsheen.com/tags/guide/</link>
-      <pubDate>Fri, 08 Mar 2024 18:14:50 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/guide/</guid>
+      <link>http://localhost:1313/tags/gm-help/</link>
+      <pubDate>Sun, 19 May 2024 21:27:54 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gm-help/</guid>
       <description></description>
     </item>
     <item>
       <title>GM Helper</title>
-      <link>https://www.nullsheen.com/tags/gm-helper/</link>
-      <pubDate>Sat, 06 Jan 2024 14:26:12 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/gm-helper/</guid>
+      <link>http://localhost:1313/tags/gm-helper/</link>
+      <pubDate>Sat, 18 May 2024 17:35:32 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gm-helper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real Talk</title>
+      <link>http://localhost:1313/tags/real-talk/</link>
+      <pubDate>Thu, 16 May 2024 11:52:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/real-talk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magical Traditions</title>
+      <link>http://localhost:1313/tags/magical-traditions/</link>
+      <pubDate>Sat, 11 May 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/magical-traditions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/tags/archive/</link>
+      <pubDate>Wed, 03 Apr 2024 17:27:07 +0000</pubDate>
+      <guid>http://localhost:1313/tags/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Edition</title>
+      <link>http://localhost:1313/tags/3rd-edition/</link>
+      <pubDate>Mon, 01 Apr 2024 12:53:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3rd-edition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tags/tools/</link>
+      <pubDate>Sun, 24 Mar 2024 11:12:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Fri, 08 Mar 2024 18:14:50 +0000</pubDate>
+      <guid>http://localhost:1313/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Decking</title>
-      <link>https://www.nullsheen.com/tags/decking/</link>
+      <link>http://localhost:1313/tags/decking/</link>
       <pubDate>Fri, 22 Dec 2023 19:58:36 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/decking/</guid>
+      <guid>http://localhost:1313/tags/decking/</guid>
       <description></description>
     </item>
     <item>
       <title>Guides</title>
-      <link>https://www.nullsheen.com/tags/guides/</link>
+      <link>http://localhost:1313/tags/guides/</link>
       <pubDate>Fri, 22 Dec 2023 19:58:36 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/guides/</guid>
+      <guid>http://localhost:1313/tags/guides/</guid>
       <description></description>
     </item>
     <item>
       <title>Adventure</title>
-      <link>https://www.nullsheen.com/tags/adventure/</link>
+      <link>http://localhost:1313/tags/adventure/</link>
       <pubDate>Sat, 18 Nov 2023 20:31:38 +0000</pubDate>
-      <guid>https://www.nullsheen.com/tags/adventure/</guid>
+      <guid>http://localhost:1313/tags/adventure/</guid>
       <description></description>
     </item>
   </channel>
