@@ -3,7 +3,7 @@ title: "Top Five Cyberpunk Movies"
 date: 2024-05-25T12:34:10Z
 draft: false
 featured_image: "/images/cyberpunkMovies.webp"
-tags: ['Cyberpunk', 'Movies']
+tags: ['Cyberpunk', 'Movies', 'Opinion']
 show_reading_time: true
 ---
 
