@@ -45,8 +45,12 @@ A legendary street samurai, Ghost has been involved in dozens of Shadowruns that
 #### [Harlequin](https://shadowrun.fandom.com/wiki/Harlequin)
 One of the heroes of legend, Harley has been fighting for (meta)humanity for literally thousands of years. Fate (and thus Karma really) has not only kept him alive but ensured he was placed in specific places at specific times to ensure he could pass on whatever knowledge or aid needed to keep humanity going. His magic and nearly mad insights have saved not only this world but hundreds of others when the call came. When he shows up, something massive is brewing.
 
+Want to learn more about Harlequin? He's in [Clockwork Souls](https://amzn.to/3R3Uixt). Check it out.
+
 ## Conclusion
 
 Both Cyberpunk and Shadowrun offer rich, immersive experiences within the cyberpunk genre, but they do so through different lenses. By understanding these thematic differences, we can appreciate the unique narratives each universe offers, enriching their experience of the cyberpunk game you’re running or playing in. Whether it's the neon-lit legacy left by Edgerunners or the enduring fight for survival in Shadowrun, both worlds offer compelling insights into what it means to make a difference in a dystopian future. 
 
 What are your thoughts on this? Do you believe that the only way to make a difference is in dying for what you believe in? Is living what you believe in just as meaningful? Why do the deaths of those who went down fighting hurt us so deeply but keep us coming back for more? Why does [Mike Pondsmith](https://en.wikipedia.org/wiki/Mike_Pondsmith) always introduce himself as [“The guy who killed your Cyberpunk character”](https://youtube.com/clip/UgkxllYuozHma5zVRJ7uUJxkDt_P6E9KfokQ?si=HYCY03WpRKRkD7Gt)?!
+
+Interested in more Cyberpunk discussions and thoughts? [Check out my post on Cyberpunk Movies!](https://www.nullsheen.com/posts/top-five-cyberpunk-movies/)
