@@ -9,6 +9,7 @@ show_reading_time: true
 
 Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon (And soon I hope Noble Knights for some rarer titles) to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
 
+For anything I dont have listed in the table below, you may be able to find on [Ebay](https://www.ebay.com/sch/i.html?_nkw=shadowrun&ssPageName=GSTL). Sometimes you get lucky! 
 
 | Edition        | Title           |     Physical Book |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
