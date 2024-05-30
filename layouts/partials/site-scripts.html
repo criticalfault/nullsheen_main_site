@@ -11,8 +11,7 @@
 <script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
 <script>
 $( document ).ready(function() {
-     const tables = userList.querySelectorAll("table");
-
+     const tables = document.querySelectorAll("table");
      let table = new DataTable('table',{
           pageLength:50,
           colReorder:true
