@@ -9,6 +9,7 @@ show_reading_time: true
 
 Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon (And soon I hope Noble Knights for some rarer titles) to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
 
+<div id='book_table'>
 
 | Edition        | Title           |     Physical Book |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
@@ -125,6 +126,13 @@ Looking for a specific Shadowrun Book? Wanting to add some books to your collect
 | 1st|One Stage Before| Still Looking |[PDF](https://www.drivethrurpg.com/en/product/63967/shadowrun-one-stage-before?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
+
+</div>
+
+## Shadowrun Novels
+| Title           |     Physical Book |     PDF         | Print On Demand  |
+|-----------------|-------------------|-----------------|------------------|
+|Shadowrun Legends: A Fistful of Data|Pending| [PDF](https://legacy.drivethrurpg.com/product/206829/Shadowrun-Legends-A-Fistful-of-Data?src=affiliate135005&affiliate_id=13500) | No |
 
 ## Shadowrun 3rd Edition
  - [Browse All 3rd Edition Books - DriveThruRPG](https://legacy.drivethrurpg.com/browse/pub/2216/Catalyst-Game-Labs/subcategory/4328_6359/Shadowrun-3rd-Edition?src=affiliate135005&affiliate_id=135005)
