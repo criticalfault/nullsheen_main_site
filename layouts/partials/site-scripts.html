@@ -10,7 +10,18 @@
   crossorigin="anonymous"></script>
 <script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
 <script>
-     let table = new DataTable('table');
+$( document ).ready(function() {
+     const tables = userList.querySelectorAll("table");
+
+     let table = new DataTable('table',{
+          pageLength:50,
+          colReorder:true
+     });
+
+     tables.forEach((tab) => {
+         tab.classList.add("stripe");
+     });
+});
 </script>
 <script>
   window.dataLayer = window.dataLayer || [];
