@@ -1,7 +1,7 @@
 {{ with partialCached "func/style/GetMainCSS" "style/GetMainCSS" }}
 <link rel="stylesheet" href="{{ .RelPermalink }}" >
 {{ end }}
-
+<link rel="stylesheet" href="//cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css" >
 {{ range site.Params.custom_css }}
   {{ with partialCached "func/style/GetResource" . . }}{{ else }}
     <link rel="stylesheet" href="{{ relURL (.) }}">
