@@ -4,6 +4,12 @@
 <!-- / Fathom -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
+<script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+<script>
+     if(document.getElementById('book_table')){
+          let table = new DataTable('#book_table table');
+     }
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
