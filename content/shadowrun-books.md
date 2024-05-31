@@ -18,12 +18,32 @@ For anything I dont have listed in the table below, you may be able to find on [
 | Edition        | Title           |     Physical Book |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
 | 6th            | Shadowrun Sixth Edition: City Book Berlin| [Amazon](https://amzn.to/3Vbi4tM) | [PDF](https://www.drivethrurpg.com/en/product/460386/shadowrun-sixth-world-core-rulebook-city-edition-berlin?src=affiliate135005&affiliate_id=135005)| No |
-| 6th            |  Hack and Slash |  [Amazon](https://amzn.to/3wQgwvS)  |No | No |
-| 6th|Body Shop|[Amazon](https://amzn.to/44PgFMK)|No|No|
-| 5th|ShadowRun Fifth Edition|[Amazon](https://amzn.to/4dOLNjK)|No|No|
-| 5th|Run and Gun|[Amazon](https://amzn.to/3wRnqRx)|No|No|
-| 5th|Street Grimoire|[Amazon](https://amzn.to/4auo85g)|[PDF](https://www.drivethrurpg.com/en/product/131832/shadowrun-street-grimoire?src=affiliate135005&affiliate_id=135005)|No|
+| 6th            | Shadowrun Sixth Edition: City Book Seattle | [Amazon](https://amzn.to/3R6YQmE) | [PDF](https://www.drivethrurpg.com/en/product/286850/shadowrun-sixth-world-core-rulebook-city-edition-seattle?src=affiliate135005&affiliate_id=135005)| No |
+| 6th   | Hack and Slash         | [Amazon](https://amzn.to/3wQgwvS)| [PDF](https://www.drivethrurpg.com/en/product/414478/shadowrun-hack-and-slash-core-matrix-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Body Shop              | [Amazon](https://amzn.to/44PgFMK)| [PDF](https://www.drivethrurpg.com/en/product/443283/shadowrun-body-shop?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Street Wyrd            | [Amazon](https://amzn.to/3wMy9wV)| [PDF](https://www.drivethrurpg.com/en/product/346364/shadowrun-street-wyrd-core-magic-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Double Clutch          | [Amazon](https://amzn.to/3X2JaVe)| [PDF](https://www.drivethrurpg.com/en/product/373104/shadowrun-double-clutch-core-rigger-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Wild Life              | [Amazon](https://amzn.to/4aH7krx)| [PDF](https://www.drivethrurpg.com/en/product/468510/shadowrun-wild-life-core-critter-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Firing Squad           | [Amazon](https://amzn.to/4bXefy0)| [PDF](https://www.drivethrurpg.com/en/product/315210/shadowrun-firing-squad-core-combat-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 6th   | Sixth World Companion  | [Amazon](https://amzn.to/3yDCnr3)| [PDF](https://www.drivethrurpg.com/en/product/396661/shadowrun-sixth-world-companion-core-character-rulebook?src=affiliate135005&affiliate_id=135005)    | No  |
+| 5th   | Shadowrun Fifth Edition| [Amazon](https://amzn.to/4dOLNjK)| [PDF](https://www.drivethrurpg.com/en/product/115985/shadowrun-fifth-edition-core-rulebook-master-index-edition?src=affiliate135005&affiliate_id=135005)    | No  |
+| 5th   | Run and Gun            | [Amazon](https://amzn.to/3wRnqRx)| [PDF](https://www.drivethrurpg.com/en/product/128355/shadowrun-run-gun?src=affiliate135005&affiliate_id=135005)    | No  |
+| 5th   | Street Grimoire        | [Amazon](https://amzn.to/4auo85g)| [PDF](https://www.drivethrurpg.com/en/product/131832/shadowrun-street-grimoire?src=affiliate135005&affiliate_id=135005)|No|
+| 5th             |Run Faster             |[Amazon](https://amzn.to/3yPaOek)| [PDF](https://www.drivethrurpg.com/en/product/141788/shadowrun-run-faster-second-printing?src=affiliate135005&affiliate_id=135005) |No  |
+| 5th             |Chrome Flesh           |[Amazon](https://amzn.to/4aH4PFQ)| [PDF](https://www.drivethrurpg.com/en/product/151893/shadowrun-chrome-flesh?src=affiliate135005&affiliate_id=135005) |No  |
+| 5th             |Data Trails            |[Amazon](https://amzn.to/3VntURG)| [PDF](https://www.drivethrurpg.com/en/product/150001/shadowrun-data-trails?src=affiliate135005&affiliate_id=135005) |No  |
+| 5th             |Rigger 5.0             |[Amazon](https://amzn.to/3wNrdj5)| [PDF](https://www.drivethrurpg.com/en/product/168944/shadowrun-rigger-5-0?src=affiliate135005&affiliate_id=135005) |No  |
+| 5th             |Kill Code              |[Amazon](https://amzn.to/3yK1V5V)| [PDF](https://www.drivethrurpg.com/en/product/244831/shadowrun-kill-code-advanced-matrix-rules?src=affiliate135005&affiliate_id=135005) | No  |
+| 5th             |Better Than Bad        |[Amazon](https://amzn.to/4bZsWR5)| [PDF](https://www.drivethrurpg.com/en/product/259492/shadowrun-better-than-bad-deep-shadows?src=affiliate135005&affiliate_id=135005) | No  |
+| 5th             |State Of The Art ADL   |[Amazon](https://amzn.to/4bWJLMw)| No |No  |
+| 5th             |Street Lethal          |[Amazon](https://amzn.to/4bUHh1P)| [PDF](https://www.drivethrurpg.com/en/product/244832/shadowrun-street-lethal-advanced-combat-rules) |No  |
 | 4th|ShadowRun Fourth Edition - Anniversary|[Amazon](https://amzn.to/4bFaBsg)|[PDF](https://legacy.drivethrurpg.com/product/60553/Shadowrun-4th-Ed-20th-Anniversary-Core-Rulebook?term=shadowrun+4th+ann?src=affiliate135005&affiliate_id=135005)|No|
+| 4th | Arsenal |[Amazon](https://amzn.to/3KoFLZn)| [PDF](https://www.drivethrurpg.com/en/product/57423/shadowrun-arsenal?src=affiliate135005&affiliate_id=135005) | No  |
+| 4th | Augmentation |[Amazon](https://amzn.to/4bGRgr8)| [PDF](https://www.drivethrurpg.com/en/product/57422/shadowrun-augmentation?src=affiliate135005&affiliate_id=135005) | No  |
+| 4th | Runner's Companion |[Amazon](https://amzn.to/456GR5I)| [PDF](https://www.drivethrurpg.com/en/product/57426/shadowrun-runner-s-companion?src=affiliate135005&affiliate_id=135005) | No  |
+| 4th | Unwired |[Amazon](https://amzn.to/456VV35)| [PDF](https://www.drivethrurpg.com/en/product/57425/shadowrun-unwired?src=affiliate135005&affiliate_id=135005) | No |
+| 4th | Street Magic | [Amazon](https://amzn.to/3yJn54c) | [PDF](https://www.drivethrurpg.com/en/product/12525/shadowrun-street-magic?src=affiliate135005&affiliate_id=135005)| No |
+| 4th | Artifacts Unbound |[Amazon](https://amzn.to/4e3BmJ1)| [PDF](https://www.drivethrurpg.com/en/product/95885/shadowrun-artifacts-unbound?src=affiliate135005&affiliate_id=135005) | No  |
 | 3rd|Shadowrun Quick Start Rules|[Amazon](https://amzn.to/3QU9rRU)|[PDF](https://legacy.drivethrurpg.com/product/1868/Shadowrun-Quick-Start-Rules-Third-Edition?src=affiliate135005&affiliate_id=135005)| Yes |
 | 3rd|Shadowrun Third Edition|[Amazon](https://amzn.to/3WFuueI)|[PDF](https://legacy.drivethrurpg.com/product/1893/Shadowrun-Third-Edition?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Shadowrun Gamemaster Screen|[Amazon](https://amzn.to/3wIPOp6)|[PDF](https://legacy.drivethrurpg.com/product/1880/Shadowrun-Gamemasters-Screen-SR3?src=affiliate135005&affiliate_id=135005)| No, but its a free PDF! |
@@ -144,6 +164,12 @@ For anything I dont have listed in the table below, you may be able to find on [
 ## Shadowrun 2nd Edition
  - [Browse All 2nd Edition Books - DriveThruRPG](https://legacy.drivethrurpg.com/browse/pub/2216/Catalyst-Game-Labs/subcategory/4328_6360/Shadowrun-2nd-Edition?src=affiliate135005&affiliate_id=135005)
 
+
+## Shadowrun Game Cartiages
+- [Shadowrun SNES](https://www.ebay.com/sch/i.html?_nkw=shadowrun+snes)
+  - This seems to be roughly $60 for an original cart, not terrible!
+- [Shadowrun Genesis](https://www.ebay.com/sch/i.html?_nkw=shadowrun+genesis)
+  - This one seems to be closer to $70
 
 ## General Items I recommend
  - [Dice Cubes](https://amzn.to/3WKnmO3)
