@@ -14,10 +14,12 @@ show_reading_time: true
 This post uses my Lonestar Campaign Setting found [here](https://www.nullsheen.com/posts/lonestar-game/).
 
 *Adventure Title:* Blood for Money
-*Adventure Type:* Kidnapping
-*Setting:* Seattle, 2075
-*Plot Overview*: 
 
+*Adventure Type:* Kidnapping
+
+*Setting:* Seattle, 2075
+
+*Plot Overview*: 
 Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).
 
 NPCs: 

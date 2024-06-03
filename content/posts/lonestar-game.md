@@ -7,6 +7,10 @@ tags: ['Adventure']
 show_reading_time: true
 ---
 
+## Adventures using this setting
+- [Blood For Money](https://www.nullsheen.com/posts/blood-for-money/)
+- [Coding](https://www.nullsheen.com/posts/adventure-coding/)
+
 ## Lone Star Campaign
 For a long time i've had a desire to run a Lone Star game. I've always been a huge fan of police procedural's on TV and I thought i'd take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.
 
