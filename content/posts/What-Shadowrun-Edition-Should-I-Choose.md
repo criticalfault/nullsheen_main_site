@@ -116,26 +116,28 @@ They introduce Technomancers (in previous editions known as Otaku) and basically
 
 They also added “Tags”, a new thing where you need to buy in order to tag stuff you own for AR use. Otherwise it's another level of obstruction. Also ICs are no longer your biggest problem. Instead GoD (Grid Overwatch Division) are looking for people hacking and when you hack you can gain a kind of heat that if they notice they will come down on you and kick your butt instead out.
 
-**Magic System:** Not much has changed between this and 4th. Which I think will be the same as things continue onward. Magic 6 is back to being the default for a “full fledged” mage.
+**Magic System:** The major change in magic is how draining spells are. The drain hits a bit harder due to how they changed the math. Otherwise still have mages having to buy magic points and such.
 
 **Metaplot Snippets:** Between 2075 and 2080. AIs are now taking over bodies and possessing the living. A kind of nanotechnology virus with sentience.
 
-**Notes:** Fifth edition is the 2nd edition of the new style. A lot of issues that came up with the changes made in 4th edition have been smoothed out and streamlined. When it comes down to it, if less crunch and more streamlining is what you are looking for, this really has done it. 
+**Notes:** Fifth edition is the 2nd edition of the new style. A lot of issues that came up with the changes made in 4th edition have been smoothed out and streamlined. When it comes down to it, if less crunch and more streamlining is what you are looking for, this really has done it. They also added "Limit" which caps the amount of successes you can achieve on a specific test. This was (I believe) an attempt to make ratings on gear and attributes make a bit more of an impact as Limit is adjusted by Gear Rating or Attribute ratings.
 
 ## 6th Edition Shadowrun
 VTT Support: [Foundry 6 Eden](https://foundryvtt.com/packages/shadowrun6-eden), [Foundry-LW](https://foundryvtt.com/packages/shadowrun6-lw), [Roll20](https://marketplace.roll20.net/browse/bundle/22505/shadowrun-sixth-world-city-edition-seattle-package)
 
-Dice System: Attribute + Skill as a dice pool against a static TN of 5 & 6. This dice pool is modified by situational and gear modifiers.
+**Dice System**: Attribute + Skill as a dice pool against a static TN of 5 & 6. This dice pool is modified by situational and gear modifiers.
 
-Character Creation: Priority Table.  Still expect it to take several hours to make a character by hand if you are brand new to the system. With a character builder you can do it very quickly! [Omae Character Builder](https://oma3.vercel.app/)
+**Character Creation**: Priority Table.  Still expect it to take several hours to make a character by hand if you are brand new to the system. With a character builder you can do it very quickly! [Omae Character Builder](https://oma3.vercel.app/)
 
-Matrix System: The introduction of Cyberjacks is in this edition. Commlinks are only part of the connection you need. Everyone needs these kinds of mega computers in their head to do what they used to be able to do naturally in order to keep up with the “Technomancers” which are essentially magical matrix people.
+**Matrix System**: The introduction of Cyberjacks is in this edition. Commlinks are only part of the connection you need. Everyone needs these kinds of mega computers in their head to do what they used to be able to do naturally in order to keep up with the “Technomancers” which are essentially magical matrix people.
 
-Magic System: Not much has changed again in this department.
+**Magic System**: Drain is tweaked again in this edition, now its a bit easier to soak drain than it was in 5th.
 
-Metaplot Snippets: 2080 and on.
+**Metaplot Snippets**: 2080 and on.
 
-Notes: This had a very rocky launch and it’s one of the few new editions I’ve played a few sessions of. It felt just like a rehashing for 5th edition from what others had said but with major changes in the matrix requirements. The major advantage of 6th edition is how many free adventures there are for it. With Missions being pretty much a biweekly release of new stuff to play. You can find the link here. 
+**Notes**: This had a very rocky launch and it’s one of the few new editions I’ve played a few sessions of. It felt just like a rehashing for 5th edition from what others had said but with major changes in the matrix requirements. An introduction of "Edge" for combat was entered here. You basically make successes and build up Edge to be spent on your turn for various combat things.
+
+The major advantage of 6th edition is how many free adventures there are for it. With Missions being pretty much a biweekly release of new stuff to play. You can find the [link here](https://www.shadowruntabletop.com/missions/). 
 
 
 ## Shadowrun Anarchy
