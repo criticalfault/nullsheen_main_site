@@ -1,6 +1,7 @@
 ---
 title: "Lonestar Adventure - Blood for Money"
 date: 2023-11-07T14:28:39Z
+featured_image: "/images/BloodForMoney.webp"
 draft: false
 tags: ['Adventure']
 show_reading_time: true
@@ -9,6 +10,8 @@ show_reading_time: true
 ## Books Useful for this article. 
  - [SR2 Core](https://amzn.to/3WFuueI)
  - [Lone Star](https://amzn.to/3ytS9ox)
+
+This post uses my Lonestar Campaign Setting found [here](https://www.nullsheen.com/posts/lonestar-game/).
 
 *Adventure Title:* Blood for Money
 *Adventure Type:* Kidnapping
