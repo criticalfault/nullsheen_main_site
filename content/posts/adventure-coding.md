@@ -11,7 +11,9 @@ show_reading_time: true
  - [SR2 Core](https://amzn.to/3WFuueI)
  - [Lone Star](https://amzn.to/3ytS9ox)
 
-# Coding
+This post uses my Lonestar Campaign Setting found [here](https://www.nullsheen.com/posts/lonestar-game/).
+
+**Adventure Title:** Coding
 
 **Adventure Type:** Cyber Crime
 
