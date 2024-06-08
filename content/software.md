@@ -35,6 +35,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |The Shop|[The Shop](/files/Shop142s.zip)|A vehicle builder for 2nd Edition. Doesn't run on 64 bit systems.|
 |SK Soft|[SK Soft](/files/sksoft.zip)|Skill Soft Generator for 2nd Edition. Doesn't run on 64 bit systems.|
 |NPC Sheets|[NPC Sheets](https://docs.google.com/spreadsheets/d/14E4SBoRZmQ7Imho7Z4iS-zeDbnyja9WS0GI2Ni6-E2g/edit#gid=0)| 5 NPC blocks ready to use. (Made by illogicaldolphin on Discord! Thanks for your work!)|
+|Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
 
 
 ## Shadowrun 3rd Edition
@@ -47,6 +48,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |NSRCG|[NSRCG](/files/nsrcg.zip)|Shadowrun Character Generator. This has been around for a long time, its worth while! Works on Windows 10 as well!|
 |Jackpoint|[Jackpoint](/files/Jackpoint_Beta2_Redux_Setup.zip)|The Mac daddy of all helper programs. This is a character generator AND DM helper. A lot of cool tools. Works in Windows 10!|
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
+|Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
 
 ## Shadowrun 4th Edition
 | Tool        | URL   | Description |
@@ -60,6 +62,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 | ----------- | ----- | ----------- |
 |Chummer5|https://github.com/chummer5a/chummer5a|Another of the Chummer series of character generators. Has to be installed|
 |Omae v.2|https://heyomae.github.io/|Web App Character Generator|
+|Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook)|A bunch of useful 5e info all jammed together|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
