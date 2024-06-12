@@ -18,8 +18,8 @@ This hasn't been truly play tested, so it will need some massaging in some parts
 
 ## Character Creation
 
-- [Character Sheet](/static/files/GhostBustersCharacterSheet.pdf)
-- [Firehouse Character Sheet](/static/files/FirehouseCharcterSheet.pdf)
+- [Character Sheet](/files/GhostBustersCharacterSheet.pdf)
+- [Firehouse Character Sheet](/files/FirehouseCharacterSheet.pdf)
 
 Here is the all important first step for players: deciding who your character is.  Is he the strong silent type who would rather break something to solve a problem than to talk it out over dinner?  Is he amazingly intelligent but worthless when it comes to pushing the junker the group drives when it breaks down?  Or is he a whiz at spotting psychokinetic energy (PKE) but struggles to find the Quik-e-Mart on the corner?
 
