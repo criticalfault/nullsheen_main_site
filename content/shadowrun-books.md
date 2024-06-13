@@ -7,7 +7,7 @@ type: page
 show_reading_time: true
 ---
 
-Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon (And soon I hope Noble Knights for some rarer titles) to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
+Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon and Noble Knight to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
 
 
 <div id='book_table'>
@@ -15,7 +15,7 @@ Looking for a specific Shadowrun Book? Wanting to add some books to your collect
 For anything I dont have listed in the table below, you may be able to find on [Ebay](https://www.ebay.com/sch/i.html?_nkw=shadowrun&ssPageName=GSTL). Sometimes you get lucky! 
 
 
-| Edition        | Title           |     Physical Book |     PDF         | Print On Demand  |
+| Edition        | Title           |   Physical Book   |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
 | 6th            | Shadowrun Sixth Edition: City Book Berlin| [Amazon](https://amzn.to/3Vbi4tM) | [PDF](https://www.drivethrurpg.com/en/product/460386/shadowrun-sixth-world-core-rulebook-city-edition-berlin?src=affiliate135005&affiliate_id=135005)| No |
 | 6th            | Shadowrun Sixth Edition: City Book Seattle | [Amazon](https://amzn.to/3R6YQmE) | [PDF](https://www.drivethrurpg.com/en/product/286850/shadowrun-sixth-world-core-rulebook-city-edition-seattle?src=affiliate135005&affiliate_id=135005)| No |
@@ -94,7 +94,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 2nd|Aztlán|[Amazon](https://amzn.to/4dNl0Eh)| No | No |
 | 2nd|Target: UCAS|[Amazon](https://amzn.to/3wOgWmD)|[PDF](https://legacy.drivethrurpg.com/product/64109/Shadowrun-Target-UCAS?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Target: Smuggler Havens|[Amazon](https://amzn.to/4dQZeiX)|[PDF](https://legacy.drivethrurpg.com/product/64017/Shadowrun-Target-Smuggler-Havens?src=affiliate135005&affiliate_id=135005)| No |
-| 2nd|Shadowrun Second Edition|[Amazon](https://amzn.to/3WOnlc3)| No | No |
+| 2nd|Shadowrun Second Edition|[Amazon](https://amzn.to/3WOnlc3) \| [Noble Knight](https://www.nobleknight.com/P/8856/Shadowrun-2nd-Edition?awid=1473)| No | No |
 | 2nd|Shadowrun GM Screen| No | No | No |
 | 2nd|Grimoire|[Amazon](https://amzn.to/4bMYpG3)| No | No |
 | 2nd|Virtual Realities 2.0|[Amazon](https://amzn.to/4anKTYh)|[PDF](https://www.drivethrurpg.com/en/product/64107/shadowrun-virtual-realities-2-0?src=affiliate135005&affiliate_id=135005)| No |
@@ -108,11 +108,11 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 2nd|Blood in the Boardroom|[Amazon](https://amzn.to/3yvly1w)|[PDF](https://www.drivethrurpg.com/en/product/81559/shadowrun-blood-in-the-boardroom?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Portolio of a dragon- Dunkelzahn's Secrets| No |[PDF](https://www.drivethrurpg.com/en/product/1878/shadowrun-portfolio-of-a-dragon-dunkelzahn-s-secrets?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Predator and Prey|[Amazon](https://amzn.to/3VaVNwo)|[PDF](https://www.drivethrurpg.com/en/product/63943/shadowrun-predator-and-prey?src=affiliate135005&affiliate_id=135005)| Yes |
-| 2nd|Prime Runners| Still Looking | No | No |
+| 2nd|Prime Runners| [Noble Knight](https://www.nobleknight.com/P/823894988/Prime-Runners?awid=1473) | No | No |
 | 2nd|Bug City|[Amazon](https://amzn.to/3WSRirA)|[PDF](https://www.drivethrurpg.com/en/product/2953/shadowrun-bug-city?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|Corporate Security Handbook|[Amazon](https://amzn.to/3UUlYpP)| No | No |
 | 2nd|Germany Sourcebook|[Amazon](https://amzn.to/3Kc69FT)|[PDF](https://www.drivethrurpg.com/en/product/81899/shadowrun-germany?src=affiliate135005&affiliate_id=135005)| No |
-| 2nd|California Free State| Still looking |[PDF](https://www.drivethrurpg.com/en/product/83473/shadowrun-california-free-state?src=affiliate135005&affiliate_id=135005)| Yes |
+| 2nd|California Free State| [Noble Knight](https://www.nobleknight.com/P/7940/California-Free-State?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/83473/shadowrun-california-free-state?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Tír na nÓg|[Amazon](https://amzn.to/4aAAbxI)|[PDF](https://www.drivethrurpg.com/en/product/2064/shadowrun-tir-na-nog?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|Shadowrun Second Edition|[Amazon](https://amzn.to/3WOnlc3)| No | No, [See Pink Fohawk's Youtube](https://www.youtube.com/@PinkFohawk) |
 | 2nd|Missions|[Amazon](https://amzn.to/4bE5Wae)|[PDF](https://legacy.drivethrurpg.com/product/84135/Shadowrun-Missions?src=affiliate135005&affiliate_id=135005)| Yes |
@@ -125,7 +125,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|Neo-Anarchists Guide to North America|[Amazon](https://amzn.to/3yvfqWW)|[PDF](https://www.drivethrurpg.com/en/product/112344/shadowrun-the-neo-anarchist-s-guide-to-north-america?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Native American Nations Volume Two|[Amazon](https://amzn.to/3Kflful)|[PDF](https://www.drivethrurpg.com/en/product/145976/shadowrun-native-american-nations-vol-2?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Universal Brotherhood|[Amazon](https://amzn.to/3Kag5Q2)|[PDF](https://www.drivethrurpg.com/en/product/2766/shadowrun-the-universal-brotherhood?src=affiliate135005&affiliate_id=135005)| No |
-| 1st|Mercurial|Still Looking|[PDF](https://www.drivethrurpg.com/en/product/87675/shadowrun-mercurial?src=affiliate135005&affiliate_id=135005)| No |
+| 1st|Mercurial| [Noble Knight](https://www.nobleknight.com/P/1721953938/Mercurial---In-Concert-At-Underworld?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/87675/shadowrun-mercurial?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Dreamchipper|[Amazon](https://amzn.to/3WMKfAA)|[PDF](https://www.drivethrurpg.com/en/product/91470/shadowrun-dreamchipper?src=affiliate135005&affiliate_id=135005)| |
 | 1st|Queen Euphoria|[Amazon](https://amzn.to/3WSavtb)|[PDF](https://www.drivethrurpg.com/en/product/64088/shadowrun-queen-euphoria?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Total Eclipse|[Amazon](https://amzn.to/3WMKwDC)| No | No |
@@ -133,7 +133,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|Shadowtech|[Amazon](https://amzn.to/3WQzIUQ)|[PDF](https://www.drivethrurpg.com/en/product/81558/shadowrun-shadowtech?src=affiliate135005&affiliate_id=135005)| Yes |
 | 1st|Bottled Demon|[Amazon](https://amzn.to/44V4Yo0)|[PDF](https://www.drivethrurpg.com/en/product/107818/shadowrun-bottled-demon?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Dragon Hunt|[Amazon](https://amzn.to/3VbYsGa)|[PDF](https://www.drivethrurpg.com/en/product/82447/shadowrun-dragon-hunt?src=affiliate135005&affiliate_id=135005)| No |
-| 1st|Harlequin|Still looking|[PDF](https://www.drivethrurpg.com/en/product/2063/shadowrun-harlequin?src=affiliate135005&affiliate_id=135005)| No |
+| 1st|Harlequin| [Noble Knight](https://www.nobleknight.com/P/1003389352/Harlequin?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/2063/shadowrun-harlequin?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Ivy & Chrome|[Amazon](https://amzn.to/3Kdw8g2)|[PDF](https://www.drivethrurpg.com/en/product/64091/shadowrun-ivy-chrome?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Sprawl Sites|[Amazon](https://amzn.to/3KcVkU4)|[PDF](https://legacy.drivethrurpg.com/product/2768/Shadowrun-Sprawl-Sites?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Native American Nations Volume One|[Amazon](https://amzn.to/4dU0UbF)|[PDF](https://www.drivethrurpg.com/en/product/145975/shadowrun-native-american-nations-vol-1?src=affiliate135005&affiliate_id=135005)| |
@@ -147,7 +147,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|Celtic Double Cross|[Amazon](https://amzn.to/3wCktEC)|[PDF](https://www.drivethrurpg.com/en/product/64104/shadowrun-celtic-double-cross?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Eye Witness|[Amazon](https://amzn.to/4bLAyGT)|[PDF](https://www.drivethrurpg.com/en/product/64117/shadowrun-eyewitness?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Double Exposure|[Amazon](https://amzn.to/3UQH4Fp)| No | No |
-| 1st|One Stage Before| Still Looking |[PDF](https://www.drivethrurpg.com/en/product/63967/shadowrun-one-stage-before?src=affiliate135005&affiliate_id=135005)| No |
+| 1st|One Stage Before| [Noble Knight](https://www.nobleknight.com/P/1282382376/One-Stage-Before?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/63967/shadowrun-one-stage-before?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
 

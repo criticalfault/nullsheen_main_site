@@ -43,12 +43,12 @@ I've decided to attempt to collect as much as I possibly can for various project
 | ----------- | ----- | ----------- |
 | Cyberdeck Custom Calculator|https://sourceforge.net/projects/ccoc/ - [CCOC](/files/ccoc-161.zip)| a cyberdeck calculator, which will be integrated into the great Shadowrun-computerizing-initiative, by communicating with other Shadowrun programs.|
 |Valkyrie Module|https://sourceforge.net/projects/valkyrie-module/|A dedicated implant management system for characters of the Shadowrun RPG; it currently implements all implants from SR3 and M&M.|
-|Matrix Generator|https://matrix.nullsheen.com/|Generates Sheafs on the fly.|
-|Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
+|Matrix Generator| [https://matrix.nullsheen.com/](https://matrix.nullsheen.com/) |Generates Sheafs on the fly.|
+|Initiative Tracker| [https://initiative-tracker.nullsheen.com/](https://initiative-tracker.nullsheen.com/) |Tracks initiative for PCs and NPCs with condition monitors|
 |NSRCG|[NSRCG](/files/nsrcg.zip)|Shadowrun Character Generator. This has been around for a long time, its worth while! Works on Windows 10 as well!|
 |Jackpoint|[Jackpoint](/files/Jackpoint_Beta2_Redux_Setup.zip)|The Mac daddy of all helper programs. This is a character generator AND DM helper. A lot of cool tools. Works in Windows 10!|
-|Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
-|Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
+|Character Generator| [https://character-generator.nullsheen.com/](https://character-generator.nullsheen.com/) |A Beta character generator for SR2 and 3.|
+|Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/) |This is a wild little tool for calculating ranged target numbers|
 
 ## Shadowrun 4th Edition
 | Tool        | URL   | Description |
@@ -60,11 +60,17 @@ I've decided to attempt to collect as much as I possibly can for various project
 ## Shadowrun 5th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-|Chummer5|https://github.com/chummer5a/chummer5a|Another of the Chummer series of character generators. Has to be installed|
-|Omae v.2|https://heyomae.github.io/|Web App Character Generator|
+|Chummer5|[https://github.com/chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Another of the Chummer series of character generators. Has to be installed|
+|Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
+|Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
 |Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook)|A bunch of useful 5e info all jammed together|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
-Omae|https://oma3.vercel.app/|Character Generator - Web / Phone app!|
+Omae|[https://oma3.vercel.app/](https://oma3.vercel.app/)|Character Generator - Web / Phone app!|
+
+## Generic Tools
+| Tool | URL | Description |
+| ------- | ----- | ---------- |
+|Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|
