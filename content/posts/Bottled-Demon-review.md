@@ -9,17 +9,19 @@ show_reading_time: true
 
 ### Overview:
 
+![Cover of Bottle Demon. A shadowrun adventure.](/images/bottled-demon/Bottled_Demon.webp)
+
 Bottled Demon is a Shadowrun adventure written for Shadowrun 1st Edition. The premise of the adventure revolved around a local fixer needing muscle to ensure a deal goes down nice and clean. What he has is worth some serious nuyen and he is willing to pay out a good deal of cred to make sure he is safe while finding a buyer.
 
 This is a very magic heavy adventure with room for almost nothing else. It takes place in Seattle and uses everything that the 6th world has to offer when it comes to magical events and adventures. The PCs will get to meet magical creatures, shamans, mages, etc. You will want to run this adventure if you are looking for a spotlight for any magical characters or want to explore the strangeness of how dragons can own real estate.
 
 How much of each system can you expect? Ratings out of 5!
 
-* Magic | 5 | Overwhelming. This is ALL about magic.
-* Matrix | 0 | You can definitely add it, but nothing in here is offered as a way into or out of something.
-* Combat | 3.5 | There are several times you will need to fight your way out of a bad situation or could use violence to solve a problem.
-* Rigging | 1 | As always, you can squeeze vehicle cases in, but it’s never something directly mentioned.
-* Face | 3 | A few scenes really
+* Magic   | 5   | Overwhelming. This is ALL about magic.
+* Matrix  | 0   | You can definitely add it, but nothing in here is offered as a way into or out of something.
+* Combat  | 3.5 | There are several times you will need to fight your way out of a bad situation or could use violence to solve a problem.
+* Rigging | 1   | As always, you can squeeze vehicle cases in, but it’s never something directly mentioned.
+* Face    | 3   | A few scenes really need some good negoitation or have a chance for talking. Worth while to have someone who is good at it.
 
 This adventure (in my opinion) does need a lot of massaging to make it a bit more believable and interesting, but it could be a lot of fun and as they say, it has good bones. I’ll give you my take on how to change it scene by scene and include some VTT maps I made to make this jump off the page a bit more. Everything else we need to talk about will wander into spoiler territory. Send your GM this way if you want to experience this magical adventure for yourself.
 
@@ -53,24 +55,26 @@ This of course then leads to the artifact itself.
 
 The artifact is a tad too punishing and WAY too swingy. I dislike the All power instantly that is offered. Instead, I’d make it (and I know your shocked) a much slower burn. Don’t allow the player full access to the power instantly. Let them have a single dice on all magic tests while in possession of the artifact. Over time give them 1 more. These first 2 are free and delicious with no down side (As far as they know).
 
-After using the artifact for awhile, let them begin to have some dreams on the deeper power. This should give them the choice to dive deeper. This should be played up as a “Free spirit” trying to make a deal. No self respecting demon is going to play its hand immediately. I would have a conversation like this:
+After using the artifact for awhile, let them begin to have some dreams on the deeper power. This should give them the choice to dive deeper. This should be played up as a "Free spirit" trying to make a deal. No self respecting demon is going to play its hand immediately. I would have a conversation like this:
 
-”Do you know what a free spirit is?” “If so, then know I need to feed. Feed me and I will grant you even more power. You cannot just take without giving.”
+"Do you know what a free spirit is?" "If so, then know I need to feed. Feed me and I will grant you even more power. You cannot just take without giving."
 
-Notice specifically that they don’t expressly say they are a free spirit, it’s just heavily implied. I personally enjoy my faustian spirits not able to lie, but always ready to deceive. This specifically should ALSO require some kind of agreement. You want both the player buy in from the spirit and them specifically giving up their karma for binding it. This permission is what will sell the last part. This should open up 2 or 3 more dice to be used on spell casting. At this point the spell caster should feel Godlike. 4 or 5 more dice on all spell casting rolls will allow them to do some really wild stuff. After the agreement, getting rid of the artifact is no longer easy. This is when the demon will latch itself to the magic power of the player. If they put it down or leave it behind, it will remove several of their magic points (2 to 3). They should also begin to show signs of this link. Becoming possessive of the artifact, not letting others near it, always having it near, etc.
+Notice specifically that they don’t expressly say they are a free spirit, it's just heavily implied. I personally enjoy my faustian spirits not able to lie, but always ready to deceive. This specifically should ALSO require some kind of agreement. You want both the player buy in from the spirit and them specifically giving up their karma for binding it. This permission is what will sell the last part. This should open up 2 or 3 more dice to be used on spell casting. At this point the spell caster should feel Godlike. 4 or 5 more dice on all spell casting rolls will allow them to do some really wild stuff. After the agreement, getting rid of the artifact is no longer easy. This is when the demon will latch itself to the magic power of the player. If they put it down or leave it behind, it will remove several of their magic points (2 to 3). They should also begin to show signs of this link. Becoming possessive of the artifact, not letting others near it, always having it near, etc.
 
 This is when the Dog shaman should begin having the dreams and trying to find the player characters. They won’t approach the player who HAS the demon because they know it may be too late, but they need to warn their friends. This part really depends on the group. If you think the players aren’t going to be good with an antagonistic feel between PCs, you may want to have the demon escape the bottle early. Otherwise, set it up for the genie to get out of the bottle.
 
-The final steps should be more of that same conversation. That the spirit wishes to be free of its prison and it’s helped them up to this point, its up to them to give the final bits of karma needed to help them “return home”. The unspoken trouble here is that the home they want to return with the soul of the mage. There should be some feeling that this final step will lead to danger, or something about it feels wrong. This should bring them back from the brink to realize their immortal soul is in danger.
+The final steps should be more of that same conversation. That the spirit wishes to be free of its prison and it’s helped them up to this point, its up to them to give the final bits of karma needed to help them "return home". The unspoken trouble here is that the home they want to return with the soul of the mage. There should be some feeling that this final step will lead to danger, or something about it feels wrong. This should bring them back from the brink to realize their immortal soul is in danger.
 
 This is when the offer of the dragon magic should be made and the rest of the plot should carry forward as written, now with a much more personal flair and player buy in. 
 
 #### Maps I Made For This Adventure
 
-![Ambush Site Map](/images/bottled-demon/AmbushSite.jpg)
+These were made with the Shadowrun Map Editor from Shadowrun returns.
+
+![Ambush Site Map](/images/bottled-demon/AmbushSite.jpg) - [Download](/images/bottled-demon/AmbushSite.jpg)
 
 
-![TheMeetup Map](/images/bottled-demon/TheMeetup.jpg)
+![TheMeetup Map](/images/bottled-demon/TheMeetup.jpg) -  [Download](/images/bottled-demon/TheMeetup.jpg)
 
 ### Final Thoughts
 
