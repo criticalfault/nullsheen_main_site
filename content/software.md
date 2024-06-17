@@ -64,6 +64,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
 |Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
 |Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook)|A bunch of useful 5e info all jammed together|
+|Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
@@ -74,3 +75,4 @@ Omae|[https://oma3.vercel.app/](https://oma3.vercel.app/)|Character Generator - 
 | Tool | URL | Description |
 | ------- | ----- | ---------- |
 |Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|
+|Run Generator|[https://shadowrun-run-generator.vercel.app/](https://shadowrun-run-generator.vercel.app/)|Get Ideas for different Shadowruns|
