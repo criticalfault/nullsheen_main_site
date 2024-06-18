@@ -6,6 +6,7 @@ Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
+recent_posts_number = 6
 
 [sitemap]
   changefreq = "monthly"
