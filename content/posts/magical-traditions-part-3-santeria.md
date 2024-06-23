@@ -39,7 +39,7 @@ Priests of the faith are responsible for helping their folk achieve this connect
 
 Receiving your necklaces is generally the first thing you do and is why you often see pictures of Santeria’ priests and priestess wearing so many colorful beaded necklaces. These are called “Elekes” and in Shadowrun would be considered fetishes for being able to cast spells pertaining to different Orishas. Some are also considered to be warders of evil (People found wearing Shango’s Elekes are sometimes passed over when random acts of theft and violence is considered as many don’t wish to bring harm to those being watched over by the Orisha and Fire and Steel.)
 
-![A necklace with black and red beads](/images/eleke.jpg)
+![A necklace with black and red beads](/images/eleke.jpeg)
 
 
 Undergoing the rite of the warriors is a much larger step into the world of the Orisha’s as it births a vessel for a spirit to live within. These warriors are often made from clay and stone with cowry shells for eyes and mouths. There are other more complicated statues including those with bells that have life breathed into them during the ceremony. These are placed at the home and once more are used to protect the home and the keepers. It is said that the bells will ring to bring warning to those whom possess the warriors. We will talk a bit more about these later in our special consideration chapter.
