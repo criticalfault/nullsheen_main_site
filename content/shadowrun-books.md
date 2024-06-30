@@ -57,8 +57,8 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 3rd|Magic in the Shadows|[Amazon](https://amzn.to/3K4XN2U)|[PDF](https://legacy.drivethrurpg.com/product/1881/Shadowrun-Magic-in-the-Shadows?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Cannon Companion|[Amazon](https://amzn.to/3K8PqTL)|[PDF](https://legacy.drivethrurpg.com/product/3028/Shadowrun-Cannon-Companion?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Matrix|[Amazon](https://amzn.to/4amN9z5)|[PDF](https://legacy.drivethrurpg.com/product/1869/Shadowrun-Matrix?src=affiliate135005&affiliate_id=135005)| Yes |
-| 3rd|Rigger 3| No |[PDF](https://legacy.drivethrurpg.com/product/64113/Shadowrun-Rigger-3?src=affiliate135005&affiliate_id=135005)| No |
-| 3rd|Rigger 3 - Revised|[Amazon](https://amzn.to/4bOnj8o)|[PDF](https://legacy.drivethrurpg.com/product/118467/Shadowrun-Rigger-3-Revised?src=affiliate135005&affiliate_id=135005)| No |
+| 3rd|Rigger 3| [Noble Knight](https://www.nobleknight.com/P/12486/Rigger-3?awid=1473) |[PDF](https://legacy.drivethrurpg.com/product/64113/Shadowrun-Rigger-3?src=affiliate135005&affiliate_id=135005)| No |
+| 3rd|Rigger 3 - Revised| [Noble Knight](https://www.nobleknight.com/P/106942583/Rigger-3-Revised?awid=1473)  [Amazon](https://amzn.to/4bOnj8o)|[PDF](https://legacy.drivethrurpg.com/product/118467/Shadowrun-Rigger-3-Revised?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Year of the Comet|[Amazon](https://amzn.to/4bILUeC)|[PDF](https://legacy.drivethrurpg.com/product/3512/Shadowrun-Year-of-the-Comet?src=affiliate135005&affiliate_id=135005)| |
 | 3rd|Target: Awakened Lands|[Amazon](https://amzn.to/4biTwEV)| No | No |
 | 3rd|Threats 2|[Amazon](https://amzn.to/3UNvtHf)| No | No |
@@ -71,7 +71,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 3rd|First Run|[Amazon](https://amzn.to/3UJhfqM)|[PDF](https://legacy.drivethrurpg.com/product/64087/Shadowrun-First-Run?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Corporate Punishment|[Amazon](https://amzn.to/4bqOc29)|[PDF](https://legacy.drivethrurpg.com/product/3641/Shadowrun-Corporate-Punishment?src=affiliate135005&affiliate_id=135005)| Yes |
 | 3rd|Brainscan|[Amazon](https://amzn.to/3ys6jqb)|[PDF](https://legacy.drivethrurpg.com/product/63965/Shadowrun-Brainscan?src=affiliate135005&affiliate_id=135005)| No |
-| 3rd|Survival of the Fittest||| I can't seem to find this anywhere!! |
+| 3rd|Survival of the Fittest| [Noble Knight](https://www.nobleknight.com/P/1645008778/Survival-of-the-Fittest?awid=1473) || No |
 | 3rd|Target: Wastelands|[Amazon](https://amzn.to/3ULAShU)| No | No |
 | 3rd|Loose Alliances|[Amazon](https://amzn.to/458Aor7)|[PDF](https://legacy.drivethrurpg.com/product/2348/Shadowrun-Loose-Alliances?src=affiliate135005&affiliate_id=135005)| |
 | 3rd|Shadows of Asia|[Amazon](https://amzn.to/3WXYWka)|[PDF](https://legacy.drivethrurpg.com/product/2703/Shadowrun-Shadows-of-Asia?src=affiliate135005&affiliate_id=135005)| No |
@@ -85,7 +85,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 2nd|Fields of Fire|[Amazon](https://amzn.to/3QTGkhw)|[PDF](https://legacy.drivethrurpg.com/product/79203/Shadowrun-Fields-of-Fire?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Lone Star|[Amazon](https://amzn.to/3ytS9ox)| No | No |
 | 2nd|Cybertechnology|[Amazon](https://amzn.to/3ytSdEN)|[PDF](https://legacy.drivethrurpg.com/product/64101/Shadowrun-Cybertechnology?src=affiliate135005&affiliate_id=135005)| No |
-| 2nd|Awakenings| Still Looking | Still Looking | Still looking for this one |
+| 2nd|Awakenings| [Noble Knight](https://www.nobleknight.com/P/13375/Awakenings---New-Magic-In-2057?awid=1473) | Still Looking | Still looking for this one |
 | 2nd|Threats| No |[PDF](https://legacy.drivethrurpg.com/product/3027/Shadowrun-Threats?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Underworld Sourcebook|[Amazon](https://amzn.to/3WNI53x)|[PDF](https://legacy.drivethrurpg.com/product/1882/Shadowrun-Underworld-Sourcebook?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Cyberpirates!|[Amazon](https://amzn.to/4bKddFq)|[PDF](https://legacy.drivethrurpg.com/product/64111/Shadowrun-Cyberpirates?src=affiliate135005&affiliate_id=135005)| No |
