@@ -74,5 +74,7 @@ Omae|[https://oma3.vercel.app/](https://oma3.vercel.app/)|Character Generator - 
 ## Generic Tools
 | Tool | URL | Description |
 | ------- | ----- | ---------- |
-|Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|
+|Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|Just a generic dice roller!|
 |Run Generator|[https://shadowrun-run-generator.vercel.app/](https://shadowrun-run-generator.vercel.app/)|Get Ideas for different Shadowruns|
+|FastJack's VTT Maps|[https://drive.google.com/drive/u/0/folders/1hgbjEtL5GXVdRaeGuV49mt-RY8pdHVAX](https://drive.google.com/drive/u/0/folders/1hgbjEtL5GXVdRaeGuV49mt-RY8pdHVAX)|Tons of VTT Resources|
+|Seattle Map|[https://www.google.com/maps/d/u/0/viewer?mid=1_1ES7tdzvO65eeErMFvEu_uedVM&hl=en_US&ll=47.59829722438376%2C-122.3312584238638&z=15](https://www.google.com/maps/d/u/0/viewer?mid=1_1ES7tdzvO65eeErMFvEu_uedVM&hl=en_US&ll=47.59829722438376%2C-122.3312584238638&z=15)|This has everything marked in real places. Its a super cool Google Maps Project!|
