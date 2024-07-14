@@ -34,7 +34,8 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
 |The Shop|[The Shop](/files/Shop142s.zip)|A vehicle builder for 2nd Edition. Doesn't run on 64 bit systems.|
 |SK Soft|[SK Soft](/files/sksoft.zip)|Skill Soft Generator for 2nd Edition. Doesn't run on 64 bit systems.|
-|NPC Sheets|[NPC Sheets](https://docs.google.com/spreadsheets/d/14E4SBoRZmQ7Imho7Z4iS-zeDbnyja9WS0GI2Ni6-E2g/edit#gid=0)| 5 NPC blocks ready to use. (Made by illogicaldolphin on Discord! Thanks for your work!)|
+|NPC Sheets|[NPC Sheets](https://docs.google.com/spreadsheets/d/14E4SBoRZmQ7Imho7Z4iS-zeDbnyja9WS0GI2Ni6-E2g/edit#gid=0)| 5 NPC blocks ready to use via Google Sheets. (Made by illogicaldolphin on Discord! Thanks for your work!)|
+|NPC Sheets|[NPC Sheets](/files/SR2_NPC_stat_blocks.pdf)| 10 NPC blocks ready to use as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
 
 
