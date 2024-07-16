@@ -15,7 +15,7 @@ So I wanted to put together a list of stuff we used to print out the mega city t
 
 I’ve broken these down sections for each thing. All of them are things we printed in FDM (PLA Plastics). I have a few shots for the city we are currently playing in with some “As we made it” photos as well.
 
-Here is the big list!
+Here is the big list! Everything on this list is free with the exception of those that are linked to DriveThruRPG. I'll mark the paid ones so you can skip them if you desire.
 
 ![Close up of the original Build](/images/cyberpunk_stl_files/close_ups.jpg)
 
@@ -75,12 +75,12 @@ When it comes to Terrain, the Modern Urban Streets and Sidewalks is where to sta
 The rest of these are scatter terrain for various environments. I can’t tell you how cool it feels to dive behind a dumpster and open up with your SMGs are some street toughs. It’s such a simple thing to print too but it REALLY goes a long way. Even unpainted it feels rad.
 
 - City Streets 
-    - [https://www.drivethrurpg.com/en/product/405382/aeurbn1-modern-urban-streets-and-sidewalks?affiliate_id=135005](https://www.drivethrurpg.com/en/product/405382/aeurbn1-modern-urban-streets-and-sidewalks?affiliate_id=135005) 
+    - [https://www.drivethrurpg.com/en/product/405382/aeurbn1-modern-urban-streets-and-sidewalks?affiliate_id=135005](https://www.drivethrurpg.com/en/product/405382/aeurbn1-modern-urban-streets-and-sidewalks?affiliate_id=135005)  &lt;- PAID
 - Uptown City Buildings
-    - [https://www.drivethrurpg.com/en/product/268918/tycho-city-uptown?affiliate_id=135005](https://www.drivethrurpg.com/en/product/268918/tycho-city-uptown?affiliate_id=135005) 
+    - [https://www.drivethrurpg.com/en/product/268918/tycho-city-uptown?affiliate_id=135005](https://www.drivethrurpg.com/en/product/268918/tycho-city-uptown?affiliate_id=135005)  &lt;- PAID
 - Simple SciFi/Cyberpunk Buildings
-    - [https://www.myminifactory.com/object/3d-print-aetych01-simple-buildings-179075](https://www.myminifactory.com/object/3d-print-aetych01-simple-buildings-179075)
-- Generic Building (Beat up)
+    - [https://www.myminifactory.com/object/3d-print-aetych01-simple-buildings-179075](https://www.myminifactory.com/object/3d-print-aetych01-simple-buildings-179075) &lt;- PAID
+- Generic Building (Beat up) 
     - [https://www.drivethrurpg.com/en/product/465753/aetych10-tycho-city-free-rent-district?affiliate_id=135005](https://www.drivethrurpg.com/en/product/465753/aetych10-tycho-city-free-rent-district?affiliate_id=135005) &lt;- FREE!
 - Dumpster
     - [https://www.thingiverse.com/thing:5178925](https://www.thingiverse.com/thing:5178925)
@@ -149,7 +149,7 @@ As with the token discussions, having something physical in hand makes the game 
     - [https://www.thingiverse.com/thing:6548818](https://www.thingiverse.com/thing:6548818)
 - Eurobuck for printing
     - Printing money?! Yeah someone posted this on the Cyberpunk Subreddit and I tracked down a good copy for printing. Have fun throwing this stuff around! I’d recommend buying some heavier paper for it though.
-    - [Printing Eddies](/images/cyberpunk_stl_files/EuroDollar.jpg)
+    - [Printing Eddies](/images/EuroDollar.jpg)
 - NetRunner Deck
     - We use this for every Cyberpunk Red Netrun. It does help a TON to be able to see what's going on. I highly recommend using [https://cybersmily.net/apps/rednet](https://cybersmily.net/apps/rednet) website for making Net Architecture on the fly. Cybersmily is the man!
     - [https://amzn.to/3VxUpnC](https://amzn.to/3VxUpnC) 
