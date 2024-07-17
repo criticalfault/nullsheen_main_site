@@ -42,7 +42,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |NPC Sheets|[NPC Sheets](/files/SR2_NPC_stat_blocks.pdf)| 10 NPC blocks ready to use as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Rigger PC Sheets|[Rigger PC Sheets](/files/Browens_2nd_ed_rigger_sheet.pdf)| Rigger Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Mage PC Sheet|[Mage PC Sheet](/files/SR2_Mage_Character_Sheet.pdf)|Mage/Shaman Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
-|Spell Design Form|[Spell Design Form](/files/SR2_Spell_Design_Form.pdf)|Spell Design sheet editable PDF|
+|Spell Design Form|[Spell Design Form](/files/SR2_Spell_Design_Form.pdf)|Spell Design sheet editable PDF (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
 
 
