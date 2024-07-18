@@ -83,3 +83,79 @@ If you want to read Dark Angel for yourself or run it for your group, you can fi
 * [Physical Book from Amazon](https://amzn.to/4bRStfb)
 * [Physical Book from Noble Knight](https://www.nobleknight.com/P/1625452553/Dark-Angel?awid=1473)
 
+## Bonus Info
+
+As you folks know I am a huge fan of 3rd edition Shadowrun. This is my attempt to recreate the hosts in Dark Angel for 3rd edition.
+
+### Dynamo Matrix Host
+```text
+ACSIF
+orange-7/13/11/14/14/13
+
+Step: Event
+4: Probe-6
+9: Trace-8
+13: Trace-8
+18: Passive Alert
+23: Tar Baby-8
+28: Tar Pit-10
+33: Blaster-6
+36: Active Alert
+41: Blaster-8
+46: Scout-8
+49: Crippler-8
+54: Crippler-10
+57: Ripper-6
+60: Shutdown
+```
+
+### Lonestar Matrix Host
+
+```text
+ACSIF
+red-7/15/14/13/11/12
+
+Scramble-8 protecting Files
+
+Step: Event
+3: Tar Pit-5
+7: Trace-9
+9: Trace-9
+11: Passive Alert
+13: Blaster-7
+17: Blaster-8
+20: Killer-9
+24: Active Alert
+28: Blaster-10
+31: Killer-10
+34: Shutdown
+```
+
+### Dreadnought Matrix Host
+
+```text
+red-7/12/12/14/13/12
+
+Scramble-8 protecting Files
+Scramble-6 protecting Slave
+
+Step: Event
+3: Trace-5
+6: Blaster-7
+8: Tar Pit-7
+10: Tar Pit-7
+14: Passive Alert
+18: Killer-7
+20: Trace-7
+24: Tar Pit-7
+26: Sparky-7
+29: Active Alert
+31: Sparky-8
+33: Psychotropic Black IC-7
+36: Psychotropic Black IC-9
+39: Killer-9
+41: Killer-5
+43: Lethal Black IC-7
+45: Lethal Black IC-9
+49: Shutdown
+```
