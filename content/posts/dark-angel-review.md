@@ -38,11 +38,15 @@ The PartyZone is kind of a hot zone of craziness. A lot of this adventure requir
 
 Finding out about Kat comes into the territory of learning that Edward is Yakuza. Once that's understood, a lot of different places can lead to Kat. This is nice but it's incredibly dangerous if the players don’t really understand the kind of gun that's pointed at their respected head. Given a lot of players may be smart about that but if they aren’t, it can end not only the run but the whole campaign. 
 
-
 ## Changes I would make
 
 This adventure is actually REALLY solid. I absolutely love that this adventure’s wide net for different roles. It really has everything which I think makes needing to make tweaks almost not needed. Still I do have a few nitpicks.
 
+## The Money Game is all over the place
+One of the strange things about this scenario as well is how little the players are paid and how CRAZY the side nuyen is. There is close to 1,000,000 nuyen that can be hacked out of some of these systems. Given you will need massive storage (an extra 1k storage) for the 700k payday but its on the table. Lilly pays them up to 1.5k each? Some of the bribes cost 5k+ in order to get information from sources. The money game is just all ove rthe place in this. I'd definitely have Lilly offter more up front and maybe tone down the extra cash found in some of these other systems. If your players are going to to geek Kat anyway, stealing the 500k extra feels like a gimmie. The 200k on the Dreadnought atleast is dangerous information that might get them in some hot water if its not sold very carefully. Here is a list of whats found where.
+ - 55k in Xanadu Systems
+ - 30k in Lone Star local System
+ - 200k and 500k in the Dreadnought's System (requires 1000 storage, 500 each).
 
 ### How the hell does Angel have a BTL problem without Datajack or Chipjack?!
 
