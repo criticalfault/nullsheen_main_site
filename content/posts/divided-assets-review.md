@@ -79,3 +79,212 @@ If you want to get your hands on this adventure, you can find it in the followin
 [DriveThruRPG PDF (No POD! Sorry)](https://www.drivethrurpg.com/en/product/64105/shadowrun-divided-assets?src=affiliate135005&affiliate_id=135005) - $5!
 
 [Noble Knights - Physical Copy](https://www.nobleknight.com/P/5410/Divided-Assets?awid=1473) - $12!
+
+
+### Bonus Data
+As always, here are the layered Matrix hosts converted to 3rd Edition
+
+#### Shining Bright Matrix
+
+```text
+Public Hosts LTG: NA/PUE 429-3329
+RTG -> Public Host -> Administrator Host -> Restricted Host
+```
+
+```text
+Public Host
+green-5/9/8/10/10/9
+
+Step: Event
+6: Probe-5
+11: Trace-6
+17: Scout-7
+23: Probe-5
+27: Scout-7
+33: Passive Alert
+38: Killer-7
+43: Scout-5
+47: Scout-9
+52: Tar Pit-9
+57: Tar Pit-9
+63: Ripper-7
+69: Active Alert
+74: Ripper-7
+78: Sparky-7
+82: Shutdown
+```
+
+```text
+Administration Host
+orange-8/13/13/14/13/15
+
+Step: Event
+5: Trace-8
+10: Probe-10
+14: Killer-6
+19: Tar Pit-12
+23: Passive Alert
+28: Killer-8
+33: Crippler-8
+36: Probe-8
+41: Ripper-8
+46: Active Alert
+49: Ripper-6
+53: Ripper-8
+56: Crippler-8
+60: Blaster-10
+64: Shutdown
+```
+
+```text
+Restricted Host
+red-7/12/14/13/13/12
+
+Security Deckers on staff to monitor Host
+
+Step: Event
+3: Trace-7
+7: Killer-9
+9: Probe-5
+13: Passive Alert
+17: Scout-7
+19: Tar Pit-7
+21: Killer-5
+24: Active Alert
+26: Blaster-9
+29: Blaster-7
+32: Ripper-9
+34: Blaster-5
+36: Blaster-7
+38: Shutdown
+```
+
+#### Brandis Development Matrix
+
+```text
+Primary Host's LTG: NA/SIO/877-29291
+RTG -> Primary Host -> Restricted Host
+```
+
+```text
+Primary Host
+orange-7/12/12/14/12/13
+
+Step: Event
+5: Tar Pit-7
+10: Probe-9
+13: Tar Pit-7
+17: Trace-7
+20: Passive Alert
+25: Tar Pit-7
+28: Killer-5
+33: Ripper-9
+36: Blaster-9
+41: Active Alert
+46: Blaster-9
+51: Ripper-7
+54: Blaster-9
+58: Shutdown
+```
+
+```text
+Restricted Host
+red-8/12/14/13/14/11
+
+Knight Errant security deckers arrive in 2d6 combat turns on passive and active alerts. They have a Threat rating of 6!
+
+Step: Event
+4: Trace-8
+8: Scout-6
+12: Probe-6
+15: Passive Alert
+17: Killer-8
+21: Blaster-8
+25: Crippler-10
+28: Construct-8
+31: Tar Pit-6
+33: Active Alert
+36: Blaster-6
+38: Ripper-8
+41: Crippler-6
+44: Shutdown
+```
+
+#### Fuchs-Auberlien Matrix
+```text
+Outer Hosts LTGs:
+NA/SIO 2928-1028 Publicly Listed
+NA/SIO 2918-2918 Unlisted 
+
+RTG -> Outer Host -> Secondary Host -> Core Host
+```
+
+```text
+Outer Host
+orange-9/15/13/13/13/14
+
+Step: Event
+5: Killer-6
+9: Trace-6
+14: Trace-6
+17: Passive Alert
+20: Blaster-6
+23: Sparky-8
+27: Tar Pit-6
+32: Active Alert
+37: Ripper-6
+40: Blaster-8
+44: Blaster-8
+49: Ripper-10
+52: Sparky-6
+55: Shutdown
+```
+
+```text
+Secondary Host
+
+red-9/14/14/12/15/14
+
+Step: Event
+4: Trace-8
+7: Probe-6
+9: Trace-10
+13: Passive Alert
+16: Scout-8
+20: Killer-8
+24: Tar Pit-8
+27: Trace-6
+29: Active Alert
+32: Blaster-8
+35: Scout-8
+38: Killer-10
+41: Lethal Black IC-10
+44: Crippler-8
+47: Shutdown
+```
+
+```text
+Core Host
+
+red-10/18/13/18/13/18
+
+Step: Event
+4: Killer-6
+8: Crippler-6
+11: Tar Pit-6
+15: Passive Alert
+19: Tar Pit-8
+23: Scout-6
+27: Trace-8
+31: Scout-8
+35: Sparky-10
+39: Sparky-8
+42: Blaster-6
+46: Active Alert
+49: Ripper-8
+52: Lethal Black IC-8
+56: Crippler-6
+58: Lethal Black IC-10
+61: Psychotropic Black IC-8
+63: Shutdown
+```
