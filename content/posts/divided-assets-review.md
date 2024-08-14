@@ -70,7 +70,7 @@ If you think this adventure doesn’t have a sharp enough twist, i’d consider 
 
 ### Final Thoughts
 
-This is a great adventure but requires buy in from your players. If you think your PCs aren’t up for an emotional story, this may be one you want to skip (or turn into a nightmare factory with the "Good Son"esque setup). If you want to see the heart of your players and give them a chance to break the abuse cycle of a kid in a bad situation. This is a pretty cool way to do it.
+This is a great adventure but requires buy in from your players. If you think your PCs aren’t up for an emotional story, this may be one you want to skip (or turn into a nightmare factory with the "Good Son"-esque setup). If you want to see the heart of your players and give them a chance to break the abuse cycle of a kid in a bad situation. This is a pretty cool way to do it.
 
 If you want to get your hands on this adventure, you can find it in the following places (Prices may change! This is as of 8/13/24):
 
@@ -78,7 +78,7 @@ If you want to get your hands on this adventure, you can find it in the followin
 
 [DriveThruRPG PDF (No POD! Sorry)](https://www.drivethrurpg.com/en/product/64105/shadowrun-divided-assets?src=affiliate135005&affiliate_id=135005) - $5!
 
-[Noble Knights - Physical Copy](https://www.nobleknight.com/P/5410/Divided-Assets?awid=1473) - $12!
+[Noble Knight - Physical Copy](https://www.nobleknight.com/P/5410/Divided-Assets?awid=1473) - $12!
 
 
 ### Bonus Data
