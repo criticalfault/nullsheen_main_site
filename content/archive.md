@@ -1,6 +1,6 @@
 ---
 title: "Archive"
-date: 2024-08-18T17:32:27Z
+date: 2023-07-02T23:55:11Z
 draft: false
 featured_image: "/images/BookSeller.webp"
 tags: ['Archive']
@@ -9,3 +9,52 @@ show_reading_time: true
 
 As I continue on with this site, I stumble across all kinds of things I want archived. I hope that this archive out survives me and that we can preserve things that would once be just a figment in someones memory for those who have yet to pick up a Shadowrun book. This is all done in that effort, to make a preserved snap shot of the world as we knew it when we first began our own journeys. If you have anything that you think is worth preserving, send it my way. I'll be more than happy to host it as I am able.
 
+
+## Character Sheets
+- [1st Edition Character Sheet](/files/Shadowrun_Character_Sheet_1e.pdf) - Printable character sheet
+
+- [2nd Edition Character Sheet - Form Fillable](/files/SR_2ed_Charsheet_Theograth%20v3.pdf)
+    - Elly l33t 0wnij originally laid this out, but [Pink Fohawk](https://pinkfohawk.podbean.com/) made it form fillable. 
+- [2nd Edition Character Sheet](/files/Shadowrun_Character_Sheet_2e.pdf) - Printable character sheet 
+- [2nd Edition Google Sheet](https://docs.google.com/spreadsheets/d/1v-PTnZMyKucRSmI980YY0VqFypoArVxVO5lG4iKJIEo/edit#gid=0) - illogicaldolphin from the SR Discords has made an awesome character sheet for 2nd Edition. This great for online games!
+
+
+- [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
+- [3rd Edition Matrix Sheet](/files/SR3-Printable-Matrix-Sheet.pdf)
+- [3rd Edition Vehicle Sheet](/files/SR3-Printable-Vehicle-Sheet.pdf)
+
+- [3rd Edition Character Sheets](https://rpg.divnull.com/srun/srunsheets.html) [My Mirror For 3rd Edition Sheets](/files/SRSheets31.pdf)
+    - This is a sheet collection I've sworn by my whole Shadowrun career. Made by [Wordman](https://rpg.divnull.com/srun/). A legend in the Shadows. I'm linking his site for the moment (though it appears to be untouched since its golden age). If he gives me direct permission. I'll host his files here as well.
+
+- [4th Edition Character Sheets](https://www.gamingverse.com/shadowrun/sheets.html) [My Mirror for 4th Edition Sheets](/files/sr4sheets18.pdf)
+    - Following Wordman's path. Jhaiisiin created the 4th edition version. Same thing with Wordman's files. Once I hear from Jhaiisiin, then I'll host their files on this site as well.
+
+- [5th Edition Character Sheet](/files/SR5-Character-Sheet-Fillable.pdf)
+
+- [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
+
+
+## Neo Anarchist's Guide to Everything Else
+- [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
+- [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE_02.pdf)
+- [The Third Annual Neo-Anarchists Guide To Everything Else™, 5 September 1992](/files/NAGEE_03.pdf)
+- [The Fourth Annual Neo-Anarchists Guide To Everything Else™, 23 February 1993](/files/NAGEE_04.pdf)
+- [NAGEE: The Neo-Anarchists Guide to Everything Else 5, 1 April 1994](/files/NAGEE_05.pdf)
+- [NAGEE: The Neo-Anarchists Guide to Everything Else 6, 1 December 1994](/files/NAGEE_06.pdf)
+
+## Virtual Seattle Advenures
+- [BloodStone](/files/virtual-seattle/Bloodstone.pdf)
+- [By the Light of the Silvery Moon](/files/virtual-seattle/By-the-Light-of-the-Silvery-Moon.pdf)
+- [Carpe Tirgris](/files/virtual-seattle/Carpe-Tigris.pdf)
+- [Gangbusters](/files/virtual-seattle/Gangbusters.pdf)
+- [Helter Skelter](/files/virtual-seattle/Helter-Skelter.pdf)
+- [Once Upon A Time](/files/virtual-seattle/Once-Upon-A-Time.pdf)
+- [Out for Blood](/files/virtual-seattle/Out-for-Blood.pdf)
+- [Star Fire](/files/virtual-seattle/Star-Fire.pdf)
+- [The Body Farm](/files/virtual-seattle/The-Body-Farm.pdf)
+- [The Passenger](/files/virtual-seattle/The-Passenger.pdf)
+- [VS01-SA02-Call-of-the-Wild](/files/virtual-seattle/VS01-SA02-Call-of-the-Wild.pdf)
+- [VS02 PL06 I Only Want Whats Mine.pdf](/files/virtual-seattle/VS02-PL06-I-Only-Want-Whats-Mine.pdf)
+- [VS02 SA02 What If They Get Off The isle Certs](/files/virtual-seattle/VS02-SA02-What-If-They-Get-Off-The-isle-Certs.pdf)
+- [VS02 SA02 What If They Get Off The Isle](/files/virtual-seattle/VS02-SA02-What-If-They-Get-Off-The-Isle.pdf)
+- [Willing To a Sell Soul](/files/virtual-seattle/Willing-To-a-Sell-Soul.pdf)
