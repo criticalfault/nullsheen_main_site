@@ -10,8 +10,6 @@ show_reading_time: true
 Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon and Noble Knight to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
 
 
-<div id='book_table'>
-
 For anything I dont have listed in the table below, you may be able to find on [Ebay](https://www.ebay.com/sch/i.html?_nkw=shadowrun&ssPageName=GSTL). Sometimes you get lucky! 
 
 
@@ -150,8 +148,6 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|One Stage Before| [Noble Knight](https://www.nobleknight.com/P/1282382376/One-Stage-Before?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/63967/shadowrun-one-stage-before?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
-
-</div>
 
 ## Shadowrun Novels
 | Title           |     Physical Book |     PDF         | Print On Demand  |
