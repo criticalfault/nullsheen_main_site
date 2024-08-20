@@ -33,7 +33,6 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
 
-
 ## Neo Anarchist's Guide to Everything Else
 - [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
 - [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE_02.pdf)
@@ -41,6 +40,28 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [The Fourth Annual Neo-Anarchists Guide To Everything Else™, 23 February 1993](/files/NAGEE_04.pdf)
 - [NAGEE: The Neo-Anarchists Guide to Everything Else 5, 1 April 1994](/files/NAGEE_05.pdf)
 - [NAGEE: The Neo-Anarchists Guide to Everything Else 6, 1 December 1994](/files/NAGEE_06.pdf)
+
+## Shadowrun Supplementals
+- [Shadowrun Supplemental Link 1](/files/The-Shadowrun-Supplemental-Issue-1.pdf)
+- [Shadowrun Supplemental Link 2](/files/The-Shadowrun-Supplemental-Issue-2.pdf)
+- [Shadowrun Supplemental Link 3](/files/The-Shadowrun-Supplemental-Issue-3.pdf)
+- [Shadowrun Supplemental Link 4](/files/The-Shadowrun-Supplemental-Issue-4.pdf)
+- [Shadowrun Supplemental Link 5](/files/The-Shadowrun-Supplemental-Issue-5.pdf)
+- [Shadowrun Supplemental Link 6](/files/The-Shadowrun-Supplemental-Issue-6.pdf)
+- [Shadowrun Supplemental Link 6b](/files/The-Shadowrun-Supplemental-Issue-6b-More-Vehicles.pdf)
+- [Shadowrun Supplemental Link 7](/files/The-Shadowrun-Supplemental-Issue-7.pdf)
+- [Shadowrun Supplemental Link 8](/files/The-Shadowrun-Supplemental-Issue-8.pdf)
+- [Shadowrun Supplemental Link 9](/files/The-Shadowrun-Supplemental-Issue-9.pdf)
+- [Shadowrun Supplemental Link 10](/files/The-Shadowrun-Supplemental-Issue-10.pdf)
+- [Shadowrun Supplemental Link 11](/files/The-Shadowrun-Supplemental-Issue-11.pdf)
+- [Shadowrun Supplemental Link 12](/files/The-Shadowrun-Supplemental-Issue-12.pdf)
+- [Shadowrun Supplemental Link 13](/files/The-Shadowrun-Supplemental-Issue-13.pdf)
+- [Shadowrun Supplemental Link 14](/files/The-Shadowrun-Supplemental-Issue-14.pdf)
+- [Shadowrun Supplemental Link 15](/files/The-Shadowrun-Supplemental-Issue-15.pdf)
+- [Shadowrun Supplemental Link 16](/files/The-Shadowrun-Supplemental-Issue-16.pdf)
+- [Shadowrun Supplemental Link 17](/files/The-Shadowrun-Supplemental-Issue-17.pdf)
+- [Shadowrun Supplemental Link 18](/files/The-Shadowrun-Supplemental-Issue-18.pdf)
+- [Shadowrun Supplemental Link 19](/files/The-Shadowrun-Supplemental-Issue-19.pdf)
 
 ## Virtual Seattle Advenures
 - [BloodStone](/files/virtual-seattle/Bloodstone.pdf)
