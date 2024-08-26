@@ -40,6 +40,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [The Fourth Annual Neo-Anarchists Guide To Everything Else™, 23 February 1993](/files/NAGEE_04.pdf)
 - [NAGEE: The Neo-Anarchists Guide to Everything Else 5, 1 April 1994](/files/NAGEE_05.pdf)
 - [NAGEE: The Neo-Anarchists Guide to Everything Else 6, 1 December 1994](/files/NAGEE_06.pdf)
+- [NAGEE 7](/files/NAGEE_07.pdf)
+- [NAGEE 8](/files/NAGEE_08.pdf)
+- [NAGEE 9](/files/NAGEE_09.pdf)
 
 ## Shadowrun Supplementals
 - [Shadowrun Supplemental Link 1](/files/The-Shadowrun-Supplemental-Issue-1.pdf)
