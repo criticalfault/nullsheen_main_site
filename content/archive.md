@@ -14,9 +14,17 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [1st Edition Character Sheet](/files/Shadowrun_Character_Sheet_1e.pdf) - Printable character sheet
 
 - [2nd Edition Character Sheet - Form Fillable](/files/SR_2ed_Charsheet_Theograth%20v3.pdf)
-    - Elly l33t 0wnij originally laid this out, but [Pink Fohawk](https://pinkfohawk.podbean.com/) made it form fillable. 
+    - Elly l33t 0wnij originally laid this out, but [Pink Fohawk](https://pinkfohawk.podbean.com/) made it form fillable.  
 - [2nd Edition Character Sheet](/files/Shadowrun_Character_Sheet_2e.pdf) - Printable character sheet 
 - [2nd Edition Google Sheet](https://docs.google.com/spreadsheets/d/1v-PTnZMyKucRSmI980YY0VqFypoArVxVO5lG4iKJIEo/edit#gid=0) - illogicaldolphin from the SR Discords has made an awesome character sheet for 2nd Edition. This great for online games!
+- [NPC Sheets](https://docs.google.com/spreadsheets/d/14E4SBoRZmQ7Imho7Z4iS-zeDbnyja9WS0GI2Ni6-E2g/edit#gid=0)
+  - 5 NPC blocks ready to use via Google Sheets. (Made by illogicaldolphin on Discord! Thanks for your work!)
+- [NPC Sheets](/files/SR2_NPC_stat_blocks.pdf)
+  -  10 NPC blocks ready to use as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)
+- [Rigger PC Sheets](/files/Browens_2nd_ed_rigger_sheet.pdf)
+  - Rigger Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)
+- [Mage PC Sheet](/files/SR2_Mage_Character_Sheet.pdf)
+  - Mage/Shaman Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)
 
 
 - [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
@@ -34,7 +42,8 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
 
 ## Cheat Sheets and Helpful Print Outs
-- [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin!
+- [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin on Discord!
+- [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
 
 ## Neo Anarchist's Guide to Everything Else
 - [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
