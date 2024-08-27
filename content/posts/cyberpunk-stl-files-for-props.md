@@ -149,7 +149,7 @@ As with the token discussions, having something physical in hand makes the game 
     - [https://www.thingiverse.com/thing:6548818](https://www.thingiverse.com/thing:6548818)
 - Eurobuck for printing
     - Printing money?! Yeah someone posted this on the Cyberpunk Subreddit and I tracked down a good copy for printing. Have fun throwing this stuff around! I’d recommend buying some heavier paper for it though.
-    - [Printing Eddies](/images/EuroDollar.jpg)
+    - [Printing Eddies](/images/Eurodollar.jpg)
 - NetRunner Deck
     - We use this for every Cyberpunk Red Netrun. It does help a TON to be able to see what's going on. I highly recommend using [https://cybersmily.net/apps/rednet](https://cybersmily.net/apps/rednet) website for making Net Architecture on the fly. Cybersmily is the man!
     - [https://amzn.to/3VxUpnC](https://amzn.to/3VxUpnC) 
