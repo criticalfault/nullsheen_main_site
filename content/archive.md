@@ -33,6 +33,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
 
+## Cheat Sheets and Helpful Print Outs
+- [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin!
+
 ## Neo Anarchist's Guide to Everything Else
 - [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
 - [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE_02.pdf)
@@ -123,6 +126,6 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [VS03 PL10 Shadow War X Handouts](/files/virtual-seattle/VS03-PL10-X-handouts.pdf)
 - [VS03 PL10 Shadow War X Log](/files/virtual-seattle/VS03-PL10-Shadow-War-X-log.pdf)
 - [VS03 SA03 Become The Hunted](/files/virtual-seattle/VS03-SA03-Become-the-Hunted.pdf)
-- [VS03 A Month of Sundays](/files/virtual-seattle/VS03-SA06-A-month-of-Sundays.pdf)
-- [VS03 A Month of Sundays Log](/files/virtual-seattle/VS03-SA06-A-Month-of-Sundays-log.pdf)
+- [VS03 SA06 A Month of Sundays](/files/virtual-seattle/VS03-SA06-A-month-of-Sundays.pdf)
+- [VS03 SA06 A Month of Sundays Log](/files/virtual-seattle/VS03-SA06-A-Month-of-Sundays-log.pdf)
 
