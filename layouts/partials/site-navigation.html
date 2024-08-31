@@ -11,13 +11,6 @@
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
           <li class="list f5 f4-ns fw4 dib">
             <div class="dropdown dropdown2 flex-l justify-between items-center center">
               <a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools &#9660;</a>
@@ -29,6 +22,13 @@
               </div>
             </div>
           </li>
+          {{ range .Site.Menus.main }}
+          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
         </ul>
       {{ end }}
       {{ partialCached "social-follow.html" . }}
