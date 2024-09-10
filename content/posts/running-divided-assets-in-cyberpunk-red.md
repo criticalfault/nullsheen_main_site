@@ -2,14 +2,14 @@
 title: "Running Divided Assets in Cyberpunk Red"
 date: 2024-09-10T14:27:19Z
 draft: false
-featured_image: "/images/"
-tags: ['']
+featured_image: "/images/CPRED.jpg"
+tags: ['GM Help', 'Adventure Reviews', 'Cyberpunk RED']
 show_reading_time: true
 ---
 
 Most of you know me as someone who writes things for Shadowrun and Cyberpunk concepts in general. I currently am playing Cyberpunk Red just as often as playing Shadowrun 3rd edition. So I begin to see the tying threads between concepts and stories. A lot of stories in Shadowrun cannot be ported to Cyberpunk. The fantasy element is played pretty often in these stories, but every once in a while it's left almost entirely out. This gives us the rare opportunity to tell the story in both universes almost entirely unchanged. Divided Assets is one of those adventures.
 
-You can get the full run down on the adventure from my [detailed review](https://www.nullsheen.com/posts/divided-assets-review/). I’ll be giving you some converted stats/arch types you can use for direct replacements that they use in the book. I think this story in general is even more powerful in Cyberpunk Red because it's a tad more grounded and it's easier for the players to identify with the kid in question. There is only one mention of magic in the entire adventure, which can be easily replaced with a subdermal tracking chip that the players don’t know about. This conversion is not designed to replace the need for the PDF. It’s an attempt to get more use out of an adventure some may have already and perhaps get people interested in reading Shadowrun adventures! With that, let's go on with the replacements!
+You can get the full run down on the adventure from my [detailed review](https://www.nullsheen.com/posts/divided-assets-review/). I’ll be giving you some stats blocks/arch types you can use for direct replacements that they use in the book. I think this story in general is even more powerful in Cyberpunk Red because it's a tad more grounded and it's easier for the players to identify with the kid in question. There is only one mention of magic in the entire adventure, which can be easily replaced with a subdermal tracking chip that the players don’t know about. This conversion is not designed to replace the need for the PDF. It’s an attempt to get more use out of an adventure some may have already and perhaps get people interested in reading Shadowrun adventures! With that, let's go on with the replacements!
 
 **Corporation Swapping**
 
