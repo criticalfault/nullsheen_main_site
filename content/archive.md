@@ -94,7 +94,6 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [FamilyTiesR3](/files/virtual-seattle/FamilyTiesR3.pdf)
 - [Gangbusters](/files/virtual-seattle/Gangbusters.pdf)
 - [Helter Skelter](/files/virtual-seattle/Helter-Skelter.pdf)
-- [Missing Pieces](/files/virtual-seattle/Missing-Pieces.pdf)
 - [Once Upon A Time](/files/virtual-seattle/Once-Upon-A-Time.pdf)
 - [Out for Blood](/files/virtual-seattle/Out-for-Blood.pdf)
 - [Redemption](/files/virtual-seattle/Redemption.pdf)
@@ -107,7 +106,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [The Body Farm](/files/virtual-seattle/The-Body-Farm.pdf)
 - [The Passenger](/files/virtual-seattle/The-Passenger.pdf)
 - [Willing To a Sell Soul](/files/virtual-seattle/Willing-To-a-Sell-Soul.pdf)
-- [VS01-SA02-Call-of-the-Wild](/files/virtual-seattle/VS01-SA02-Call-of-the-Wild.pdf)
+- [VS01-SA02 Call of the Wild](/files/virtual-seattle/VS01-SA02-Call-of-the-Wild.pdf)
+- [VS01-SA2 Good Intentions](/files/virtual-seattle/VS01-SA2-Good-Intentions.pdf)
+- [VS01-SA3 Missing Pieces](/files/virtual-seattle/Missing-Pieces.pdf)
 - [VS02 Intro Welcome to Virtual Seattle](/files/virtual-seattle/VS02-Intro-Welcome-to-Virtual-Seattle.pdf)
 - [VS02 Intro Welcome to Virtual Seattle log](/files/virtual-seattle/VS02-Intro-Welcome-to-Virtual-Seattle-log.pdf)
 - [VS02 Log Sheet](/files/virtual-seattle/VS2-Log-Sheet.pdf)
@@ -137,4 +138,3 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [VS03 SA03 Become The Hunted](/files/virtual-seattle/VS03-SA03-Become-the-Hunted.pdf)
 - [VS03 SA06 A Month of Sundays](/files/virtual-seattle/VS03-SA06-A-month-of-Sundays.pdf)
 - [VS03 SA06 A Month of Sundays Log](/files/virtual-seattle/VS03-SA06-A-Month-of-Sundays-log.pdf)
-
