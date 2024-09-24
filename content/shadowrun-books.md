@@ -155,44 +155,44 @@ For anything I dont have listed in the table below, you may be able to find on [
 |1|Never Deal with a Dragon (Secrets of Power #1)| [Amazon](https://amzn.to/3BgLsHI)|[DriveThruRPG](https://www.drivethrurpg.com/en/product/81882/shadowrun-legends-never-deal-with-a-dragon-the-secrets-of-power-trilogy-book-one?affiliate_id=135005)|[DriveThruRPG]()|
 |2|Choose Your Enemies Carefully (Secrets of Power #2)|[Amazon](https://amzn.to/3MXZyjO)|[DriveThruRPG]()|
 |3|Find Your Own Truth (Secrets of Power #3)|[Amazon](https://amzn.to/4di03Qk)|[DriveThruRPG]()|
-|4|2XS||[DriveThruRPG]()|
-|5|Changeling||[DriveThruRPG]()|
-|6|Never Trust an Elf||[DriveThruRPG]()|
-|7|Into the Shadows||[DriveThruRPG]()|
-|8|Streets of Blood||[DriveThruRPG]()|
-|9|Shadowplay||[DriveThruRPG]()|
-|10|Night's Pawn ||[DriveThruRPG]()|
-|11|Striper Assassin||[DriveThruRPG]()|
-|12|Lone Wolf||[DriveThruRPG]()|
-|13|Fade to Black||[DriveThruRPG]()|
-|14|Nosferatu||[DriveThruRPG]()|
-|15|Burning Bright||[DriveThruRPG]()|
-|16|Who Hunts the Hunter||[DriveThruRPG]()|
-|17|House of the Sun||[DriveThruRPG]()|
-|18|Worlds Without End||[DriveThruRPG]()|
-|19|Just Compensation||[DriveThruRPG]()|
-|20|Black Madonna||[DriveThruRPG]()|
-|21|Preying for Keeps||[DriveThruRPG]()|
-|22|Dead Air||[DriveThruRPG]()|
-|23|The Lucifer Deck||[DriveThruRPG]()|
-|24|Steel Rain||[DriveThruRPG]()|
-|25|Shadowboxer||[DriveThruRPG]()|
-|26|Stranger Souls (Dragon Heart Saga #1)||[DriveThruRPG]()|
-|27|Headhunters||[DriveThruRPG]()|
-|28|Clockwork Asylum (Dragon Heart Saga #2)||[DriveThruRPG]()|
-|29|Blood Sport||[DriveThruRPG]()|
-|30|Beyond the Pale (Dragon Heart Saga #3)||[DriveThruRPG]()|
-|31|Technobabel||[DriveThruRPG]()|
-|32|Wolf and Raven||[DriveThruRPG]()|
-|33|Psychotrope||[DriveThruRPG]()|
-|34|The Terminus Experiment||[DriveThruRPG]()|
-|35|Run Hard, Die Fast||[DriveThruRPG]()|
-|36|Crossroads||[DriveThruRPG]()|
-|37|The Forever Drug||[DriveThruRPG]()|
-|38|Ragnarock||[DriveThruRPG]()|
-|39|Tails You Lose||[DriveThruRPG]()|
-|40|The Burning Time||[DriveThruRPG]()|
-|41|Private Agenda||[DriveThruRPG]()|
+|4|2XS|[Amazon](https://amzn.to/4gywnBp)|[DriveThruRPG]()|
+|5|Changeling|[Amazon](https://amzn.to/3XE31ZH)|[DriveThruRPG]()|
+|6|Never Trust an Elf|[Amazon](https://amzn.to/3XFB8jM)|[DriveThruRPG]()|
+|7|Into the Shadows|[Amazon](https://amzn.to/4eDDgQh)|[DriveThruRPG]()|
+|8|Streets of Blood|[Amazon](https://amzn.to/47Llf08)|[DriveThruRPG]()|
+|9|Shadowplay|[Amazon](https://amzn.to/3TFiAiw)|[DriveThruRPG]()|
+|10|Night's Pawn |[Amazon](https://amzn.to/3ZzXh5I) - [Amazon Kindle](https://amzn.to/4gDtPlG)|[DriveThruRPG]()|
+|11|Striper Assassin|[Amazon](https://amzn.to/47CtcVk)|[DriveThruRPG]()|
+|12|Lone Wolf|[Amazon Original](https://amzn.to/3XTXNu4) - [Amazon Reprint](https://amzn.to/3XBdDsg)|[DriveThruRPG]()|
+|13|Fade to Black|[Amazon](https://amzn.to/3Bfk1y5)|[DriveThruRPG]()|
+|14|Nosferatu|[Amazon](https://amzn.to/47CHAg8)|[DriveThruRPG]()|
+|15|Burning Bright|[Amazon](https://amzn.to/3ZxD68J)|[DriveThruRPG]()|
+|16|Who Hunts the Hunter|[Amazon](https://amzn.to/3ZvNdLb)|[DriveThruRPG]()|
+|17|House of the Sun|[Amazon](https://amzn.to/4dkRUe6)|[DriveThruRPG]()|
+|18|Worlds Without End|[Amazon](https://amzn.to/3BfjNqJ)|[DriveThruRPG]()|
+|19|Just Compensation|[Amazon](https://amzn.to/4gywRYf)|[DriveThruRPG]()|
+|20|Black Madonna|[Amazon](https://amzn.to/3BhobW0)|[DriveThruRPG]()|
+|21|Preying for Keeps|[Amazon](https://amzn.to/3BiwPni)|[DriveThruRPG]()|
+|22|Dead Air|[Amazon](https://amzn.to/3ZCEebg)|[DriveThruRPG]()|
+|23|The Lucifer Deck|[Amazon](https://amzn.to/3ZBBmLv)|[DriveThruRPG]()|
+|24|Steel Rain|[Amazon Original](https://amzn.to/4dcW3k8) - [Amazon Reprint](https://amzn.to/47Ij1OT) |[DriveThruRPG]()|
+|25|Shadowboxer|[Amazon Reprint](https://amzn.to/3MWqRuJ)|[DriveThruRPG]()|
+|26|Stranger Souls (Dragon Heart Saga #1)|[Amazon](https://amzn.to/4eev6Of)|[DriveThruRPG]()|
+|27|Headhunters|[Amazon](https://amzn.to/3MWog3X)|[DriveThruRPG]()|
+|28|Clockwork Asylum (Dragon Heart Saga #2)|[Amazon](https://amzn.to/47Gc54I)|[DriveThruRPG]()|
+|29|Blood Sport|[Amazon](https://amzn.to/3U41taD)|[DriveThruRPG]()|
+|30|Beyond the Pale (Dragon Heart Saga #3)|[Amazon]()|[DriveThruRPG]()|
+|31|Technobabel|[Amazon](https://amzn.to/4dhtuCi)|[DriveThruRPG]()|
+|32|Wolf and Raven|[Amazon](https://amzn.to/3TH5h1c)|[DriveThruRPG]()|
+|33|Psychotrope|[Amazon](https://amzn.to/3TBMqEL)|[DriveThruRPG]()|
+|34|The Terminus Experiment|[Amazon](https://amzn.to/3XVS8nx)|[DriveThruRPG]()|
+|35|Run Hard, Die Fast|[Amazon](https://amzn.to/4gDpoY0)|[DriveThruRPG]()|
+|36|Crossroads|[Amazon](https://amzn.to/3MVS8xq)|[DriveThruRPG]()|
+|37|The Forever Drug|[Amazon](https://amzn.to/3XE3jjf)|[DriveThruRPG]()|
+|38|Ragnarock|[Amazon](https://amzn.to/3MXRC1Z)|[DriveThruRPG]()|
+|39|Tails You Lose|[Amazon](https://amzn.to/3XAmE4N)|[DriveThruRPG]()|
+|40|The Burning Time|[Amazon](https://amzn.to/3BsvTwo)|[DriveThruRPG]()|
+|41|Private Agenda|[Amazon Kindle](https://amzn.to/3TJVp6L)|[DriveThruRPG]()|
 
 ## Other Shadowrun Novels
 |Order | Title           |     Physical Book |     PDF         | Print On Demand  |
