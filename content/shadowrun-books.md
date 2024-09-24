@@ -149,10 +149,56 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
 
-## Shadowrun Novels
-| Title           |     Physical Book |     PDF         | Print On Demand  |
-|-----------------|-------------------|-----------------|------------------|
-|Shadowrun Legends: A Fistful of Data|Pending| [PDF](https://legacy.drivethrurpg.com/product/206829/Shadowrun-Legends-A-Fistful-of-Data?src=affiliate135005&affiliate_id=13500) | No |
+## Original Shadowrun Novels
+|Order | Title           |     Physical Book |     PDF         |
+|------|-----------|-------------------|-----------------|
+|1|Never Deal with a Dragon (Secrets of Power #1)| [Amazon](https://amzn.to/3BgLsHI)|[DriveThruRPG](https://www.drivethrurpg.com/en/product/81882/shadowrun-legends-never-deal-with-a-dragon-the-secrets-of-power-trilogy-book-one?affiliate_id=135005)|[DriveThruRPG]()|
+|2|Choose Your Enemies Carefully (Secrets of Power #2)|[Amazon](https://amzn.to/3MXZyjO)|[DriveThruRPG]()|
+|3|Find Your Own Truth (Secrets of Power #3)|[Amazon](https://amzn.to/4di03Qk)|[DriveThruRPG]()|
+|4|2XS||[DriveThruRPG]()|
+|5|Changeling||[DriveThruRPG]()|
+|6|Never Trust an Elf||[DriveThruRPG]()|
+|7|Into the Shadows||[DriveThruRPG]()|
+|8|Streets of Blood||[DriveThruRPG]()|
+|9|Shadowplay||[DriveThruRPG]()|
+|10|Night's Pawn ||[DriveThruRPG]()|
+|11|Striper Assassin||[DriveThruRPG]()|
+|12|Lone Wolf||[DriveThruRPG]()|
+|13|Fade to Black||[DriveThruRPG]()|
+|14|Nosferatu||[DriveThruRPG]()|
+|15|Burning Bright||[DriveThruRPG]()|
+|16|Who Hunts the Hunter||[DriveThruRPG]()|
+|17|House of the Sun||[DriveThruRPG]()|
+|18|Worlds Without End||[DriveThruRPG]()|
+|19|Just Compensation||[DriveThruRPG]()|
+|20|Black Madonna||[DriveThruRPG]()|
+|21|Preying for Keeps||[DriveThruRPG]()|
+|22|Dead Air||[DriveThruRPG]()|
+|23|The Lucifer Deck||[DriveThruRPG]()|
+|24|Steel Rain||[DriveThruRPG]()|
+|25|Shadowboxer||[DriveThruRPG]()|
+|26|Stranger Souls (Dragon Heart Saga #1)||[DriveThruRPG]()|
+|27|Headhunters||[DriveThruRPG]()|
+|28|Clockwork Asylum (Dragon Heart Saga #2)||[DriveThruRPG]()|
+|29|Blood Sport||[DriveThruRPG]()|
+|30|Beyond the Pale (Dragon Heart Saga #3)||[DriveThruRPG]()|
+|31|Technobabel||[DriveThruRPG]()|
+|32|Wolf and Raven||[DriveThruRPG]()|
+|33|Psychotrope||[DriveThruRPG]()|
+|34|The Terminus Experiment||[DriveThruRPG]()|
+|35|Run Hard, Die Fast||[DriveThruRPG]()|
+|36|Crossroads||[DriveThruRPG]()|
+|37|The Forever Drug||[DriveThruRPG]()|
+|38|Ragnarock||[DriveThruRPG]()|
+|39|Tails You Lose||[DriveThruRPG]()|
+|40|The Burning Time||[DriveThruRPG]()|
+|41|Private Agenda||[DriveThruRPG]()|
+
+## Other Shadowrun Novels
+|Order | Title           |     Physical Book |     PDF         | Print On Demand  |
+|------|-----------|-------------------|-----------------|------------------|
+|*|Shadowrun Legends: A Fistful of Data|Pending| [PDF](https://legacy.drivethrurpg.com/product/206829/Shadowrun-Legends-A-Fistful-of-Data?src=affiliate135005&affiliate_id=13500) | No |
+
 
 ## Shadowrun 3rd Edition
  - [Browse All 3rd Edition Books - DriveThruRPG](https://legacy.drivethrurpg.com/browse/pub/2216/Catalyst-Game-Labs/subcategory/4328_6359/Shadowrun-3rd-Edition?src=affiliate135005&affiliate_id=135005)
