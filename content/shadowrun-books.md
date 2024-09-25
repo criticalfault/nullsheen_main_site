@@ -149,10 +149,56 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
 
-## Shadowrun Novels
-| Title           |     Physical Book |     PDF         | Print On Demand  |
-|-----------------|-------------------|-----------------|------------------|
-|Shadowrun Legends: A Fistful of Data|Pending| [PDF](https://legacy.drivethrurpg.com/product/206829/Shadowrun-Legends-A-Fistful-of-Data?src=affiliate135005&affiliate_id=13500) | No |
+## Original Shadowrun Novels
+|Novel # | Title           |     Physical Book |     PDF         |
+|------|-----------|-------------------|-----------------|
+|1|Never Deal with a Dragon (Secrets of Power #1)| [Amazon](https://amzn.to/3BgLsHI)|[DriveThruRPG](https://www.drivethrurpg.com/en/product/81882/shadowrun-legends-never-deal-with-a-dragon-the-secrets-of-power-trilogy-book-one?affiliate_id=135005)|Coming Soon|
+|2|Choose Your Enemies Carefully (Secrets of Power #2)|[Amazon](https://amzn.to/3MXZyjO)|Coming Soon|
+|3|Find Your Own Truth (Secrets of Power #3)|[Amazon](https://amzn.to/4di03Qk)|Coming Soon|
+|4|2XS|[Amazon](https://amzn.to/4gywnBp)|Coming Soon|
+|5|Changeling|[Amazon](https://amzn.to/3XE31ZH)|Coming Soon|
+|6|Never Trust an Elf|[Amazon](https://amzn.to/3XFB8jM)|Coming Soon|
+|7|Into the Shadows|[Amazon](https://amzn.to/4eDDgQh)|Coming Soon|
+|8|Streets of Blood|[Amazon](https://amzn.to/47Llf08)|Coming Soon|
+|9|Shadowplay|[Amazon](https://amzn.to/3TFiAiw)|Coming Soon|
+|10|Night's Pawn |[Amazon](https://amzn.to/3ZzXh5I) - [Amazon Kindle](https://amzn.to/4gDtPlG)|Coming Soon|
+|11|Striper Assassin|[Amazon](https://amzn.to/47CtcVk)|Coming Soon|
+|12|Lone Wolf|[Amazon Original](https://amzn.to/3XTXNu4) - [Amazon Reprint](https://amzn.to/3XBdDsg)|Coming Soon|
+|13|Fade to Black|[Amazon](https://amzn.to/3Bfk1y5)|Coming Soon|
+|14|Nosferatu|[Amazon](https://amzn.to/47CHAg8)|Coming Soon|
+|15|Burning Bright|[Amazon](https://amzn.to/3ZxD68J)|Coming Soon|
+|16|Who Hunts the Hunter|[Amazon](https://amzn.to/3ZvNdLb)|Coming Soon|
+|17|House of the Sun|[Amazon](https://amzn.to/4dkRUe6)|Coming Soon|
+|18|Worlds Without End|[Amazon](https://amzn.to/3BfjNqJ)|Coming Soon|
+|19|Just Compensation|[Amazon](https://amzn.to/4gywRYf)|Coming Soon|
+|20|Black Madonna|[Amazon](https://amzn.to/3BhobW0)|Coming Soon|
+|21|Preying for Keeps|[Amazon](https://amzn.to/3BiwPni)|Coming Soon|
+|22|Dead Air|[Amazon](https://amzn.to/3ZCEebg)|Coming Soon|
+|23|The Lucifer Deck|[Amazon](https://amzn.to/3ZBBmLv)|Coming Soon|
+|24|Steel Rain|[Amazon Original](https://amzn.to/4dcW3k8) - [Amazon Reprint](https://amzn.to/47Ij1OT) |Coming Soon|
+|25|Shadowboxer|[Amazon Reprint](https://amzn.to/3MWqRuJ)|Coming Soon|
+|26|Stranger Souls (Dragon Heart Saga #1)|[Amazon](https://amzn.to/4eev6Of)|Coming Soon|
+|27|Headhunters|[Amazon](https://amzn.to/3MWog3X)|Coming Soon|
+|28|Clockwork Asylum (Dragon Heart Saga #2)|[Amazon](https://amzn.to/47Gc54I)|Coming Soon|
+|29|Blood Sport|[Amazon](https://amzn.to/3U41taD)|Coming Soon|
+|30|Beyond the Pale (Dragon Heart Saga #3)|[Amazon]()|Coming Soon|
+|31|Technobabel|[Amazon](https://amzn.to/4dhtuCi)|Coming Soon|
+|32|Wolf and Raven|[Amazon](https://amzn.to/3TH5h1c)|Coming Soon|
+|33|Psychotrope|[Amazon](https://amzn.to/3TBMqEL)|Coming Soon|
+|34|The Terminus Experiment|[Amazon](https://amzn.to/3XVS8nx)|Coming Soon|
+|35|Run Hard, Die Fast|[Amazon](https://amzn.to/4gDpoY0)|Coming Soon|
+|36|Crossroads|[Amazon](https://amzn.to/3MVS8xq)|Coming Soon|
+|37|The Forever Drug|[Amazon](https://amzn.to/3XE3jjf)|Coming Soon|
+|38|Ragnarock|[Amazon](https://amzn.to/3MXRC1Z)|Coming Soon|
+|39|Tails You Lose|[Amazon](https://amzn.to/3XAmE4N)|Coming Soon|
+|40|The Burning Time|[Amazon](https://amzn.to/3BsvTwo)|Coming Soon|
+|41|Private Agenda|[Amazon Kindle](https://amzn.to/3TJVp6L)|Coming Soon|
+
+## Other Shadowrun Novels
+|Order | Title           |     Physical Book |     PDF         | Print On Demand  |
+|------|-----------|-------------------|-----------------|------------------|
+|*|Shadowrun Legends: A Fistful of Data|Pending| [PDF](https://legacy.drivethrurpg.com/product/206829/Shadowrun-Legends-A-Fistful-of-Data?src=affiliate135005&affiliate_id=13500) | No |
+
 
 ## Shadowrun 3rd Edition
  - [Browse All 3rd Edition Books - DriveThruRPG](https://legacy.drivethrurpg.com/browse/pub/2216/Catalyst-Game-Labs/subcategory/4328_6359/Shadowrun-3rd-Edition?src=affiliate135005&affiliate_id=135005)
