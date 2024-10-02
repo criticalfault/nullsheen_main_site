@@ -25,8 +25,10 @@ As I continue on with this site, I stumble across all kinds of things I want arc
   - Rigger Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)
 - [Mage PC Sheet](/files/SR2_Mage_Character_Sheet.pdf)
   - Mage/Shaman Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)
-- [Beautiful Form Fillable Sheet](https://drive.google.com/file/d/1H3trpUhVPWdMJySP2ldqcyuM4aGB-oRQ/view?usp=drivesdk)
-  - ConflictStar's (on Discord and Reddit!) remastered sheet from scratch. It's a sight to behold.
+
+- [Beautiful Form Fillable 2nd Edition Sheet](https://drive.google.com/file/d/1H3trpUhVPWdMJySP2ldqcyuM4aGB-oRQ/view?usp=drivesdk)
+- [Remastered SR2 Street Samurai Character Sheet](https://drive.google.com/file/d/1it3h6gEEeg5Bbf2jFU4PTXcMPIRH1puo/view?usp=drivesdk)
+  - ConflictStar's remastered sheet from scratch. It's a sight to behold. He appears to be redoing all of them from original source material!
 
 - [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
 - [3rd Edition Matrix Sheet](/files/SR3-Printable-Matrix-Sheet.pdf)
