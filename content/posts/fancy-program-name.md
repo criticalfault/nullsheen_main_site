@@ -13,709 +13,133 @@ I've always wanted to sit down and write down some fun program names for decking
 This is an attempt to make something more interesting for folks. Let me know if this is something folks enjoy and if they would want more of them!
 
 ### Analyze Program Suite
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>Preliminary Scan Mk1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>Insight Probe V2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>DataSight Recon 3.0
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>NeuraVision Quest IV
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>EchoLocator Sigma
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>Quantum Observer VI
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>Mystic Decoder VII 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>Renraku Scanner Octa 8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>Transys Apex Viewer IX 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>Fuchi Red Eye X
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>Omniscan XI
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Mitsuhama Transcendence Viewer XII
-   </td>
-  </tr>
-</table>
-
-
+|Rating|Name|
+|----------|-----------|
+|Rating 1|Preliminary Scan Mk1|
+|Rating 2|Insight Probe V2|
+|Rating 3|DataSight Recon 3.0|
+|Rating 4|NeuraVision Quest IV|
+|Rating 5|EchoLocator Sigma|
+|Rating 6|Quantum Observer VI|
+|Rating 7|Mystic Decoder VII |
+|Rating 8|Renraku Scanner Octa 8|
+|Rating 9|Transys Apex Viewer IX |
+|Rating 10|Fuchi Red Eye X|
+|Rating 11|Omniscan XI|
+|Rating 12|Mitsuhama Transcendence Viewer XII|
 
 ### Browse Program Suite
-
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>SearchLite Starter Mk1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>IndexSweeper Core Mk2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>QueryVortex 3.0
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>EchoSeeker Pro IV
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>QuantumFilter Elite mk.5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>CyberSift 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>MetaScan Ultra VII 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>Transys NexusProbe 8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>Ares InfiniSearch 9 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>OmniQuery mk 10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>Golden Data Retriever v11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Renraku DataRipper XII
-   </td>
-  </tr>
-</table>
+|Rating|Name|
+|----------|-----------|
+|Rating 1|SearchLite Starter Mk1|
+|Rating 2|IndexSweeper Core Mk2|
+|Rating 3|QueryVortex 3.0|
+|Rating 4|EchoSeeker Pro IV|
+|Rating 5|QuantumFilter Elite mk.5|
+|Rating 6|CyberSift 6|
+|Rating 7|MetaScan Ultra VII |
+|Rating 8|Transys NexusProbe 8|
+|Rating 9|Ares InfiniSearch 9 |
+|Rating 10|OmniQuery mk 10|
+|Rating 11|Golden Data Retriever v11|
+|Rating 12|Renraku DataRipper XII|
 
 ### Commlink Program Suite
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>SignalStarter Basic Mk1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>ISignalStarter Pro Mk2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>EchoTap 3.0
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>StealthLink Pro IV
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>PhantomCall v5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>GhostWave Elite 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>ShadowComm Master VII 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>SilentNode 8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>VaporSignal 9 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>InvisiLink v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>AetherNet v11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Renraku QuantumConnect XII
-   </td>
-  </tr>
-</table>
-
-
-
-### Crash Program Suite
-
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
+|Rating|Name|
+|----------|-----------|
+|Rating 1|SignalStarter Basic Mk1|
+|Rating 2|ISignalStarter Pro Mk2|
+|Rating 3|EchoTap 3.0|
+|Rating 4|StealthLink Pro IV|
+|Rating 5|PhantomCall v5|
+|Rating 6|GhostWave Elite 6|
+|Rating 7|ShadowComm Master VII| 
+|Rating 8|SilentNode 8|
+|Rating 9|VaporSignal 9 |
+|Rating 10|InvisiLink v10|
+|Rating 11|AetherNet v11|
+|Rating 12|Renraku QuantumConnect XII|
 
 
 ### Deception Program Suite
-
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>ImpostorCode Basic Mk1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>The Masquerade Mk2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>PhantomKey  v3.1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>CryptoMimic Pro  IV
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>ShadowPass v5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>FauxGate 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>Master VII 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>“I Shall Pass” v8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>CipherClone 9 
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>MimeSlicer v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>InfiniteFacade v11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Transys Ethereal Key Forge XII
-   </td>
-  </tr>
-</table>
+|Rating|Name|
+|----------|-----------|
+|Rating 1|ImpostorCode Basic Mk1|
+|Rating 2|The Masquerade Mk2|
+|Rating 3|PhantomKey  v3.1|
+|Rating 4|CryptoMimic Pro  IV|
+|Rating 5|ShadowPass v5|
+|Rating 6|FauxGate 6|
+|Rating 7|Master VII |
+|Rating 8|“I Shall Pass” v8|
+|Rating 9|CipherClone 9 |
+|Rating 10|MimeSlicer v10|
+|Rating 11|InfiniteFacade v11|
+|Rating 12|Transys Ethereal Key Forge XII|
 
 
 
 ### Decrypt Program Suite
-
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>LockSmasher v1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>KeyCruncher v2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>CodeShatter mk 3
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>DataBreach Elite mk 4
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>HashQuake v5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>InfiniteKey Solver mk 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>Mitsuhama Omnihack 7
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>CipherNihilist 8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>Gate Dissolver Edge v9
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>CryptoFracture v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>NullCipher v11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>QuantumDecipher 12
-   </td>
-  </tr>
-</table>
+|Rating|Name|
+|----------|-----------|
+|Rating 1|LockSmasher v1|
+|Rating 2|KeyCruncher v2|
+|Rating 3|CodeShatter mk 3|
+|Rating 4|DataBreach Elite mk 4|
+|Rating 5|HashQuake v5|
+|Rating 6|InfiniteKey Solver mk 6|
+|Rating 7|Mitsuhama Omnihack 7|
+|Rating 8|CipherNihilist 8|
+|Rating 9|Gate Dissolver Edge v9|
+|Rating 10|CryptoFracture v10|
+|Rating 11|NullCipher v11|
+|Rating 12|QuantumDecipher 12|
 
 ### Read/Write
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>ByteForge Basic 1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>FluxEncoder 2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>ScriptWelder v3
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>NexusRewriter 4
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>FileMorpher mk5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>StreamWeaver mk6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>FileFusion 7
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>QuantumScribe 7
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>CyberLoom 9
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>ByteComposer v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>BinaryAlchemist 11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>EtherTranscriber mk 12
-   </td>
-  </tr>
-</table>
+|Rating|Name|
+|----------|-----------|
+|Rating 1|ByteForge Basic 1|
+|Rating 2|FluxEncoder 2|
+|Rating 3|ScriptWelder v3|
+|Rating 4|NexusRewriter 4|
+|Rating 5|FileMorpher mk5|
+|Rating 6|StreamWeaver mk6|
+|Rating 7|FileFusion 7|
+|Rating 8|QuantumScribe 7|
+|Rating 9|CyberLoom 9|
+|Rating 10|ByteComposer v10|
+|Rating 11|BinaryAlchemist 11|
+|Rating 12|EtherTranscriber mk 12|
 
 
 ### Spoof Program Suite
-
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>GhostCommander v1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>PhantomTrigger Pro mk2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>SignalMasque v3
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>EtherWave Rider mk4
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>John the Imposter 5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>Omnisend Omega 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>MirageSender mk7
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>Saeder-Krupp QuantumFacade mk8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>HoloFlux v9
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>NebulaConduit v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>Shiawase InfiniSynth Command mk 11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Renraku Decree v12
-   </td>
-  </tr>
-</table>
+|Rating|Name|
+|----------|-----------|
+|Rating 1|GhostCommander v1|
+|Rating 2|PhantomTrigger Pro mk2|
+|Rating 3|SignalMasque v3|
+|Rating 4|EtherWave Rider mk4|
+|Rating 5|John the Imposter 5|
+|Rating 6|Omnisend Omega 6|
+|Rating 7|MirageSender mk7|
+|Rating 8|Saeder-Krupp QuantumFacade mk8|
+|Rating 9|HoloFlux v9|
+|Rating 10|NebulaConduit v10|
+|Rating 11|Shiawase InfiniSynth Command mk 11|
+|Rating 12|Renraku Decree v12|
 
 ### Sleaze
-
-<table>
-  <tr>
-   <td>Rating 1
-   </td>
-   <td>Ghost mk1
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 2
-   </td>
-   <td>Fade 2
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 3
-   </td>
-   <td>InvisaTrace mk3
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 4
-   </td>
-   <td>Phantom v4
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 5
-   </td>
-   <td>Virtual Obscura 5
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 6
-   </td>
-   <td>PhantomShroud 6
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 7
-   </td>
-   <td>WhisperWeave 7
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 8
-   </td>
-   <td>Null Aura 8
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 9
-   </td>
-   <td>ShadowVeil 9
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 10
-   </td>
-   <td>SilentSmoke v10
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 11
-   </td>
-   <td>Ares Silent Stride mk11
-   </td>
-  </tr>
-  <tr>
-   <td>Rating 12
-   </td>
-   <td>Shiawase GhostNet 12
-   </td>
-  </tr>
-</table>
-
-
-
+|Rating|Name|
+|----------|-----------|
+|Rating 1|Ghost mk1|
+|Rating 2|Fade 2|
+|Rating 3|InvisaTrace mk3|
+|Rating 4|Phantom v4|
+|Rating 5|Virtual Obscura 5|
+|Rating 6|PhantomShroud 6|
+|Rating 7 |WhisperWeave 7|
+|Rating 8|Null Aura 8|
+|Rating 9|ShadowVeil 9|
+|Rating 10|SilentSmoke v10|
+|Rating 11|Ares Silent Stride mk11|
+|Rating 12|Shiawase GhostNet 12|
