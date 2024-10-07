@@ -28,7 +28,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [Beautiful Form Fillable 2nd Edition Sheet](https://drive.google.com/file/d/1H3trpUhVPWdMJySP2ldqcyuM4aGB-oRQ/view?usp=drivesdk)
 - [Remastered SR2 Street Samurai Character Sheet](https://drive.google.com/file/d/1it3h6gEEeg5Bbf2jFU4PTXcMPIRH1puo/view?usp=drivesdk)
-  - ConflictStar's remastered sheet from scratch. It's a sight to behold. He appears to be redoing all of them from original source material!
+- [Remastered SR2 Magician Character Sheet](https://drive.google.com/file/d/1G7MdnaPNgCYL-abhFpo91dDvztsKc_q2/view?usp=drivesdk)
+  - ConflictStar's remastered sheets from scratch. It's a sight to behold. He appears to be redoing all of them from original source material!
+
 
 - [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
 - [3rd Edition Matrix Sheet](/files/SR3-Printable-Matrix-Sheet.pdf)
