@@ -30,7 +30,8 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Remastered SR2 Street Samurai Character Sheet](https://drive.google.com/file/d/1it3h6gEEeg5Bbf2jFU4PTXcMPIRH1puo/view?usp=drivesdk)
 - [Remastered SR2 Magician Character Sheet](https://drive.google.com/file/d/1G7MdnaPNgCYL-abhFpo91dDvztsKc_q2/view?usp=drivesdk)
 - [Remastered SR2 Character Sheet - Shadowrun Companion](https://drive.google.com/file/d/1BXvzfSecV4kX6IMzmMfbdS8LK7QXh4J8/view?usp=drivesdk)
-  - [ConflictStar](https://www.reddit.com/user/ConflictStar/)'s remastered sheets from scratch. It's a sight to behold. He appears to be redoing all of them from original source material!
+- [Remastered SR2 Magician Sheet - Shadowrun Companion](https://drive.google.com/file/d/1okxbPk6DAYvxZNRHJJEDt8RyG_rA3KGW/view?usp=drivesdk)
+  - [ConflictStar](https://www.reddit.com/user/ConflictStar/)'s remastered sheets from scratch and form fillable. It's a sight to behold. He appears to be redoing all of them from original source material!
 
 
 - [3rd Edition Character Sheet](/files/SR3-Printable-Sheet.pdf)
