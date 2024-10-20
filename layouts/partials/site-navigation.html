@@ -22,6 +22,10 @@
               </div>
             </div>
           </li>
+          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="ml-onclick-form over-white no-underline white-90" href="javascript:void(0)" onclick="ml('show', 'wHbKBq', true)">Newsletter Signup</a>
+          </li>
+
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
