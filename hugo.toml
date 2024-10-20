@@ -26,11 +26,6 @@ show_reading_time = true
   url = "https://www.nullsheen.com/contact/"
 
 [[menu.main]]
-  name = "About Me"
-  weight = 3
-  url = "https://www.nullsheen.com/about-me/"
-
-[[menu.main]]
   name = "Shadowrun Books"
-  weight = 4
+  weight = 3
   url = "https://www.nullsheen.com/shadowrun-books/" 
