@@ -1,7 +1,7 @@
 ---
 title: "How to Make Better Characters"
 date: 2024-10-26T21:25:12Z
-draft: truegit
+draft: true
 featured_image: "/images/betterCharacters.webp"
 tags: ['Guides']
 show_reading_time: true
