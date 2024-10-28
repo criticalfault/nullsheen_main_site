@@ -7,15 +7,15 @@ DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
 
-
-[[services.rss]]
-  limit = 42
-
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']
+
+[services]
+  [[services.rss]]
+    limit = 42
 
 [params]
   recent_posts_number = 6
