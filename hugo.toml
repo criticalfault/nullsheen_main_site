@@ -7,8 +7,21 @@ DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
 
+[services]
+  [services.rss]
+    limit = 42
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
 [params]
   recent_posts_number = 6
+  [params.author]
+    email = 'dean@nullsheen.com'
+    name = 'dean'
 
 [sitemap]
   changefreq = "monthly"
