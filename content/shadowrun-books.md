@@ -12,6 +12,15 @@ Looking for a specific Shadowrun Book? Wanting to add some books to your collect
 
 For anything I dont have listed in the table below, you may be able to find on [Ebay](https://www.ebay.com/sch/i.html?_nkw=shadowrun&ssPageName=GSTL). Sometimes you get lucky! 
 
+Noble Knight often has rotating stock and you can get alerted when stock comes in. Below are the links to each Shadowrun Line:
+
+- [Shadowrun 1st Edition](https://www.nobleknight.com/Products/Shadowrun-1st-Edition?awid=1473)
+- [Shadowrun 2nd Edition](https://www.nobleknight.com/Products/Shadowrun-2nd-Edition?awid=1473)
+- [Shadowrun 3rd Edition](https://www.nobleknight.com/Products/Shadowrun-3rd-Editions-FASA?awid=1473)
+- [Shadowrun 4th Edition - Fanpro](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Fanpro?awid=1473) - [Shadowrun 4th Edition - Catalyst Games](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Catalyst-Game-Labs?awid=1473)
+- [Shadowrun 5th Edition](https://www.nobleknight.com/Products/Shadowrun-5th-Edition?awid=1473)
+- [Shadowrun 6th Edition](https://www.nobleknight.com/Products/Shadowrun-6th-Edition?awid=1473)
+
 
 | Edition        | Title           |   Physical Book   |     PDF         | Print On Demand  |
 |----------------|-----------------|-------------------|-----------------|------------------|
@@ -49,7 +58,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 3rd|Renraku Arcology: Shutdown|[Amazon](https://amzn.to/3WS5Mb4)|[PDF](https://legacy.drivethrurpg.com/product/1870/Shadowrun-Renraku-Arcology-Shutdown?src=affiliate135005&affiliate_id=135005)| Yes |
 | 3rd|Corporate Download|[Amazon](https://amzn.to/44R4Dm0)|[PDF](https://legacy.drivethrurpg.com/product/64083/Shadowrun-Corporate-Download?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|New Seattle|[Amazon](https://amzn.to/3KwzOdf)|[PDF](https://legacy.drivethrurpg.com/product/1866/Shadowrun-New-Seattle?src=affiliate135005&affiliate_id=135005)| No |
-| 3rd|Target: Matrix|[Amazon](https://amzn.to/3wu01Wp)| No | No :( |
+| 3rd|Target: Matrix|[Amazon](https://amzn.to/3wu01Wp) - [NobleKnight](https://www.nobleknight.com/P/11736/Target---Matrix?awid=1473)| No | No :( |
 | 3rd|Man & Machine|[Amazon](https://amzn.to/4awBnm0)|[PDF](https://legacy.drivethrurpg.com/product/3514/Shadowrun-Man--Machine?src=affiliate135005&affiliate_id=135005)| No |
 | 3rd|Shadowrun Companion ('revised)|[Amazon](https://amzn.to/3V9GBzj)|[PDF](https://legacy.drivethrurpg.com/product/3405/Shadowrun-Shadowrun-Companion?src=affiliate135005&affiliate_id=135005)| Yes |
 | 3rd|Magic in the Shadows|[Amazon](https://amzn.to/3K4XN2U)|[PDF](https://legacy.drivethrurpg.com/product/1881/Shadowrun-Magic-in-the-Shadows?src=affiliate135005&affiliate_id=135005)| No |
@@ -107,7 +116,7 @@ For anything I dont have listed in the table below, you may be able to find on [
 | 2nd|Portolio of a dragon- Dunkelzahn's Secrets| No |[PDF](https://www.drivethrurpg.com/en/product/1878/shadowrun-portfolio-of-a-dragon-dunkelzahn-s-secrets?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Predator and Prey|[Amazon](https://amzn.to/3VaVNwo)|[PDF](https://www.drivethrurpg.com/en/product/63943/shadowrun-predator-and-prey?src=affiliate135005&affiliate_id=135005)| Yes |
 | 2nd|Prime Runners| [Noble Knight](https://www.nobleknight.com/P/823894988/Prime-Runners?awid=1473) | No | No |
-| 2nd|Bug City|[Amazon](https://amzn.to/3WSRirA)|[PDF](https://www.drivethrurpg.com/en/product/2953/shadowrun-bug-city?src=affiliate135005&affiliate_id=135005)| No |
+| 2nd|Bug City|[Amazon](https://amzn.to/3WSRirA) [NobleKnight](https://www.nobleknight.com/P/7939/Bug-City?awid=1473)|[PDF](https://www.drivethrurpg.com/en/product/2953/shadowrun-bug-city?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|Corporate Security Handbook|[Amazon](https://amzn.to/3UUlYpP)| No | No |
 | 2nd|Germany Sourcebook|[Amazon](https://amzn.to/3Kc69FT)|[PDF](https://www.drivethrurpg.com/en/product/81899/shadowrun-germany?src=affiliate135005&affiliate_id=135005)| No |
 | 2nd|California Free State| [Noble Knight](https://www.nobleknight.com/P/7940/California-Free-State?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/83473/shadowrun-california-free-state?src=affiliate135005&affiliate_id=135005)| Yes |
