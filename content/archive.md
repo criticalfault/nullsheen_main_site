@@ -52,6 +52,21 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin on Discord!
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
 
+## KA-GE Magazine
+- [Ka-Ge Volume 1, Issue 0](/files/KAGE/Ka-Ge_Volume_1_Issue_0.pdf)
+- [Ka-Ge Volume 1, Issue 1 (October 1991)](/files/KAGE/Ka-Ge_Volume_1_Issue_1_(October_1991).pdf)
+- [Ka-Ge Volume 1, Issue 2 (Winter 1991)](/files/KAGE/Ka-Ge_Volume_1_Issue_2_(Winter_1991).pdf)
+- [Ka-Ge Volume 1, Issue 3 (First Quarter 1992)](/files/KAGE/Ka-Ge_Volume_1_Issue_3_(First_Quarter_1992).pdf)
+- [Ka-Ge Volume 1, Issue 4 (Second Quarter 1992)](/files/KAGE/Ka-Ge_Volume_1_Issue_4_(Second_Quarter_1992).pdf)
+- [Ka-Ge Volume 1, Issue 5 (Third Quarter 1992)](/files/KAGE/Ka-Ge_Volume_1_Issue_5_(Third_Quarter_1992).pdf)
+- [Ka-Ge Volume 1, Issue 6 (Fourth Quarter 1992)](/files/KAGE/Ka-Ge_Volume_1_Issue_6_(Fourth_Quarter_1992).pdf)
+- [Ka-Ge Volume 1, Issue 7 (First Quarter 1993)](/files/KAGE/Ka-Ge_Volume_1_Issue_7_(First_Quarter_1993).pdf)
+- [Ka-Ge Volume 1, Issue 8 (Second Quarter 1993)](/files/KAGE/Ka-Ge_Volume_1_Issue_8_(Second_Quarter_1993).pdf)
+- [Ka-Ge Volume 1, Issue 9 (Third Quarter 1993)](/files/KAGE/Ka-Ge_Volume_1_Issue_9_(Third_Quarter_1993).pdf)
+- [Ka-Ge Volume 1, Issue 10 (Fourth Quarter 1993)](/files/KAGE/Ka-Ge_Volume_1_Issue_10_(Fourth_Quarter_1993).pdf)
+- [Ka-Ge Volume 1, Issue 11 (First Quarter 1994)](/files/KAGE/Ka-Ge_Volume_1_Issue_11_(First_Quarter_1994).pdf)
+- [Ka-Ge Volume 1, Issue 12 (2nd Quarter 1994)](/files/KAGE/Ka-Ge_Volume_1_Issue_12_(2nd_Quarter_1994).pdf)
+
 ## Neo Anarchist's Guide to Everything Else
 - [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
 - [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE_02.pdf)
