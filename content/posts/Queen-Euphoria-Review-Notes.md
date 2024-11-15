@@ -88,7 +88,7 @@ Queen Euphoria is a classic adventure that dips its toes into some true horror. 
 
 If you want to get your hands on this adventure, you can find it in the following places (Prices may change! This is as of 11/14/24):
 
-[Amazon - Physical Copy](https://amzn.to/3wyZcvy) - $10
+[Amazon - Physical Copy](https://amzn.to/3WSavtb) - $6
 
 [DriveThruRPG PDF (No POD! Sorry)](https://www.drivethrurpg.com/en/product/64088/shadowrun-queen-euphoria?src=affiliate135005&affiliate_id=135005) - $4!
 
