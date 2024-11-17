@@ -7,7 +7,8 @@
         {{ .Site.Title }}
       {{ end }}
     </a>
-    <div class="flex-l items-center">
+    <!-- Desktop Navs -->
+    <div class="flex-l items-center" id="desktopHeader">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
@@ -36,6 +37,29 @@
         </ul>
       {{ end }}
       {{ partialCached "social-follow.html" . }}
+    </div>
+    <!-- Smaller Navs -->
+    <div class="flex-l items-center" id="smallerHeader">
+      <div class="stickyBar hide-for-medium-down accentBack">
+        <a href="#" class="menu-trigger" aria-label="Click to open menu">
+          <img src="/images/menu-icon.svg" alt="Menu Icon" width="50" class="marginBottom5" draggable="false">
+          <div class="uppercase">Menu</div>
+        </a>
+      </div>
+      <div id="mobileMenuContainer" style="display: none;">
+        <ul>
+          <li><a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools</a></li>
+          <li><a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a></li>
+          <li><a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a></li>
+          <li><a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a></li>
+          <li><a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a></li>
+          <li><a href="javascript:void(0)" onclick='ml("show","wHbKBq",!0)'>Newsletter Signup</a></li>
+          <li><a href="https://www.nullsheen.com/archive/" title="The Archive page">The Archive</a></li>
+          <li><a href="https://www.nullsheen.com/contact/" title="Contact page">Contact</a></li>
+          <li><a href="https://www.nullsheen.com/about-me/" title="About Me page">About Me</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-books/" title="Shadowrun Books page">Shadowrun Books</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
