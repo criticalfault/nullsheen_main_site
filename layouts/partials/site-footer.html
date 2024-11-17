@@ -3,11 +3,19 @@
   <img border="0" src="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Get" width="728" height="90" alt="Noble Knight Games" style="margin: 0 auto;">
 </a>
 <!-- End Affiliate Code -->
+<ins class="adsbygoogle"
+  style="display:block; text-align:center;"
+  data-ad-layout="in-article"
+  data-ad-format="fluid"
+  data-ad-client="ca-pub-2802312263939980"
+  data-ad-slot="1510230396"></ins>
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+    <div>
+      <a class="f4 fw4 hover-white no-underline white-70" href="https://www.nullsheen.com/privacy-policy/">Privacy Policy</a>
+    </div>
   </div>
 </footer>
