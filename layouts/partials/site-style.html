@@ -34,8 +34,30 @@
     display: block;
 }
 
+#mobileMenuContainer{
+  padding:20px;
+  background-color: white;
+}
 
+#mobileMenuContainer ul{
+  list-style: none;
+  padding-left: 0;
+}
 
+#mobileMenuContainer li a{
+  margin-top:5px;
+  display: inline-block;
+  padding:5px;
+}
+
+#smallerHeader > div.stickyBar.hide-for-medium-down.accentBack > a > div{
+  color:white;
+  margin-top:5px;
+}
+
+.toolPadding{
+  padding-left:10px;
+}
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -72,16 +94,8 @@
   #desktopHeader{
     display:block;
   }
-
   #smallerHeader{
     display:none;
   }
-
 }
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  
-}
-
 </style>
