@@ -92,6 +92,8 @@ If you want to get your hands on this adventure, you can find it in the followin
 
 [DriveThruRPG PDF (No POD! Sorry)](https://www.drivethrurpg.com/en/product/64088/shadowrun-queen-euphoria?src=affiliate135005&affiliate_id=135005) - $4!
 
+[DriveThruRPG 6th Edition Update](https://legacy.drivethrurpg.com/product/444504/Queen-Euphoria-6E-Update?src=affiliate135005&affiliate_id=135005) - $2
+
 [Noble Knight - Physical Copy](https://www.nobleknight.com/P/7942/Queen-Euphoria?awid=1473) - $9!
 
 
