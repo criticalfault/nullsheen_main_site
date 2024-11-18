@@ -7,7 +7,7 @@ tags: ['Guides']
 show_reading_time: true
 ---
 
-I’ve always had an easy time coming up with different characters I wanted to play across the several dozen different systems my friends and I play. With it, I use the same system in my head to make them regardless of system, world, or requirements. I believe these 3 rules will help you make better, more compelling characters and give your GM enough fuel to craft better stories for you and ultimately your table.
+I've always had an easy time coming up with different characters I wanted to play across the several dozen different systems my friends and I play. With it, I use the same system in my head to make them regardless of system, world, or requirements. I believe these 3 rules will help you make better, more compelling characters and give your GM enough fuel to craft better stories for you and ultimately your table.
 
 1) Give your character a weakness.
 2) Give your character a direct goal they are pursuing.
@@ -28,7 +28,7 @@ Some of my favorites are:
 - “Is always in a disguise”
 - ”Lies about his social standing”
 - ”Is always hungry”
-- ”Has some trinket they can’t be without”
+- ”Has some trinket they can't be without”
 - “Is the eternal tourist of the land they now reside in”
 - ”Is an adrenaline junkie”
 - ”Loves animals”
