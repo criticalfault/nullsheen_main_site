@@ -13,7 +13,7 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Title  |    URL    | Description Tags |
 |-------|-----------|------------------|
 |Pink Fohawk| [Spotify](https://open.spotify.com/show/5fKd0STUvxIlaqOdPu7ejE?si=c4KpSHdiQOWv_BzbhiHbOw&nd=1&dlsi=25377d69d23e4700) | 2nd Edition, Pink M(F)ohawk, SFX Added, Raunchy|
-|Paydata|[Spotify](https://open.spotify.com/show/1ov7zkHT5Du3jAafEGvEbw?si=256b78e507b54d2c)|BG Music, 6th Edition|
+|Paydata|[Spotify](https://open.spotify.com/show/1ov7zkHT5Du3jAafEGvEbw?si=256b78e507b54d2c)|BG Music, 5th Edition|
 |SINless|[Spotify](https://open.spotify.com/show/7A1SkBE7i56Wj8WA32HtaM?si=aa0f2120c69f484a)|4th Edition|
 |NeoScum|[Spotify](https://open.spotify.com/show/79CetiQXqJu6qw06SwUzzs)|4th Edition, SFX Added, Comedy, Crude Humour|
 |City of Thorns|[Spotify](https://open.spotify.com/show/0lXcWyK67V4nij4Hr20bBV)|Needs Description|
