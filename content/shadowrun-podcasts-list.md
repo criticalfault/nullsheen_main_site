@@ -13,9 +13,9 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Title  |    URL    | Description Tags |
 |-------|-----------|------------------|
 |Pink Fohawk| [Spotify](https://open.spotify.com/show/5fKd0STUvxIlaqOdPu7ejE?si=c4KpSHdiQOWv_BzbhiHbOw&nd=1&dlsi=25377d69d23e4700) | 2nd Edition, Pink M(F)ohawk, SFX Added, Raunchy|
-|Paydata|[Spotify](https://open.spotify.com/show/1ov7zkHT5Du3jAafEGvEbw?si=256b78e507b54d2c)| Needs Description |
+|Paydata|[Spotify](https://open.spotify.com/show/1ov7zkHT5Du3jAafEGvEbw?si=256b78e507b54d2c)|BG Music, 5th Edition|
 |SINless|[Spotify](https://open.spotify.com/show/7A1SkBE7i56Wj8WA32HtaM?si=aa0f2120c69f484a)|4th Edition|
-|NeoScum|[Spotify](https://open.spotify.com/show/79CetiQXqJu6qw06SwUzzs)|Needs Description|
+|NeoScum|[Spotify](https://open.spotify.com/show/79CetiQXqJu6qw06SwUzzs)|4th Edition, SFX Added, Comedy, Crude Humour|
 |City of Thorns|[Spotify](https://open.spotify.com/show/0lXcWyK67V4nij4Hr20bBV)|Needs Description|
 |Resting Glitch Face|[Spotify](https://open.spotify.com/show/1ijwk9DT8ulqO8RVyrawhN)|6th Edition, Comedy|
 |Shadowrun Origins|[Libsyn](https://shadowrunorigins.libsyn.com)|Classic Runs from Shadowrun, 5th Edition (but using classic Matrix setups) |
@@ -27,6 +27,7 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Bug City blues|[Spotify](https://open.spotify.com/show/1x23ClaSIoKIPz19TXtMF2)|6th Edition|
 |Tales from the Stuffer Shack|[Podchaser](https://www.podchaser.com/podcasts/tales-from-the-stuffer-shack-122560)|Needs Description|
 |Critical Glitch|[Libsyn](https://criticalglitch.libsyn.com)|Inactive, but still downloadable|
+|Shadowrunnin' On Empty|[Spotify](https://open.spotify.com/show/3DOh5tNDjfsYj64D59o5oo)||
 
 ## Lore / Drama Podcasts
 |Title  |    URL    | Description Tags |
