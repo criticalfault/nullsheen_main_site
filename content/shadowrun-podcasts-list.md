@@ -27,7 +27,6 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Bug City blues|[Spotify](https://open.spotify.com/show/1x23ClaSIoKIPz19TXtMF2)|6th Edition|
 |Tales from the Stuffer Shack|[Podchaser](https://www.podchaser.com/podcasts/tales-from-the-stuffer-shack-122560)|Needs Description|
 |Critical Glitch|[Libsyn](https://criticalglitch.libsyn.com)|Inactive, but still downloadable|
-|Shadowrunnin' On Empty|[Spotify](https://open.spotify.com/show/3DOh5tNDjfsYj64D59o5oo)||
 
 ## Lore / Drama Podcasts
 |Title  |    URL    | Description Tags |
