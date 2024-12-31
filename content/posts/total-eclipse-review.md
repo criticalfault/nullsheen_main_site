@@ -8,6 +8,8 @@ tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---
 
+Before we dive in! I wrote another section of my adventure: [Protect and Serve](https://legacy.drivethrurpg.com/product/507031/Lone-Star-Stories-Protect-and-Serve?src=affiliate135005&affiliate_id=135005).
+
 Music in the 80s was a bit more defining than today (Though Taylor Swift has definitely revived some of the old feelings of hardcore allegiance to a band or musician). Who you listened to and who you repped told you a lot about someone and in general I feel it had a lot more of a cultural impact than it does today. Clothing brands, commercials and like really strove to grab up bands for their products and in some ways it felt like they were larger and more important than even actors in their given time. Often whole movies would be scored by a single band to lend their kind of flavor to a piece. It really held serious weight. Movies like The Crow (The Cure) and Donnie Darko (which is a 00s movie, but was set in the 1980s and had the same done for it as other 80s movies by the Tears for Fears). Music from these movies and their scores really hit home.
 
 I think this is why music and bands were such a center piece for Shadowrun (And Cyberpunk2020 for that matter). At the time, it felt like these characters were larger than life and more important people followed, respected and even cared for them (sometimes more than their own family). This obsession with musicians carried some people and allowed for a near cult-like following. Music to some, is life. This brings us back to our adventure, featuring a new band in the Shadowrun Universe known as The Elementals. 
@@ -83,5 +85,6 @@ I recommend having the players stumble onto some of the other songs that the Ele
 
 
 ## Where to get a copy of Total Eclipse for youself?
-- [Total Eclipse 6E - DriveThruRPG](https://legacy.drivethrurpg.com/product/453107/Total-Eclipse-6E-Update)
+- [Total Eclipse 6E - DriveThruRPG](https://legacy.drivethrurpg.com/product/453107/Total-Eclipse-6E-Update?src=affiliate135005&affiliate_id=135005)
 - [Total Eclipse - Amazon](https://amzn.to/3ZZavaH)
+- [Total Eclipse - NobleKnight](https://www.nobleknight.com/P/5426/Total-Eclipse?awid=1473)
