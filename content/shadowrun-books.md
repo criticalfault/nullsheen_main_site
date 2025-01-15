@@ -9,7 +9,7 @@ show_reading_time: true
 
 Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I've put together as many books as I can scouring Amazon and Noble Knight to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I'll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
 
-My Books
+My Books!
 |Book # | Title | Buy Link |
 |-------|-------|----------|
 |1      | Lone Star Stories: Blood For Money| [DriveThruRPG](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money?src=affiliate135005&affiliate_id=135005) |
