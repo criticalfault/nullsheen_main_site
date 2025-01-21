@@ -48,6 +48,8 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
 
+- [Anarchy Character Sheet - Google Sheet](https://docs.google.com/spreadsheets/d/12-YN0UWI9N8mRf9gta6wHLtmAvLaTu9DVJxLSrPZf7E/edit)
+
 ## Cheat Sheets and Helpful Print Outs
 - [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin on Discord!
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
