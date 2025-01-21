@@ -2,6 +2,7 @@
 title: "What Shadowrun Edition Should I Choose"
 date: 2024-06-02T16:26:24Z
 draft: false
+author: Dean
 featured_image: "/images/WhichEdition.webp"
 tags: ['Opinion','GM Help']
 show_reading_time: true
