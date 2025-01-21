@@ -2,6 +2,7 @@
 title: "Vtt Maps and Shadowrun Info"
 date: 2024-06-30T16:27:06Z
 draft: false
+author: Dean
 featured_image: "/images/vtt-icons.webp"
 tags: ['GM Help']
 show_reading_time: true
