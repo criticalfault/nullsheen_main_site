@@ -53,6 +53,8 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 ## Cheat Sheets and Helpful Print Outs
 - [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin on Discord!
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
+- [2e Express Core Matrix Rules](/files/2e_Express_Core_Matrix_Rules.pdf) - Made by Ben from PinkFohawk
+- [2e Matrix Cheat Sheet](/files/Matrix_Cheat_Sheet.pdf) - Made by Ben from PinkFohawk
 
 ## KA-GE Magazine
 - [Ka-Ge Volume 1, Issue 0](/files/KAGE/Ka-Ge_Volume_1_Issue_0.pdf)
