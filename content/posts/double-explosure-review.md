@@ -33,7 +33,7 @@ This is kind of a unique adventure in that the entire adventure is supposed to s
 
 The adventure begins with two milk runs (one stealing from Aztechnology cybernetics parts, another one is stealing DNA samples from Doc Wagon). Both are minor hits, easy cash with minimum security. The Doc Wagon one requires a mini car chase against a Nissan Jackrabbit. This is of course all a setup to get your players in over their head with the Feds. Each of the adventures has a secret drone recording the whole thing to be used as blackmail to force the players to investigate a new cult that has formed called “Project Hope”. 
 
-From here, Agent Simon Juarez corners the players, showing them what he has and pitches the job. The players are pretty shoehorned in at that point (not to mention the backup, snipers, etc they have just in case the players decide to get rowdy.) Assuming that they play ball (and it REALLY will be bad if they don’t Juarez explains the situation. This new “Camp Hope” is gathering street people, getting them jobs, and more. This is all well and good except that Renraku is pouring money like crazy. So until they know why, they can’t rest easy. 30k on the barrel, 15k up front per person for the run. So a great payout.
+From here, Agent Simon Juarez corners the players, showing them what he has and pitches the job. The players are pretty shoehorned in at that point (not to mention the backup, snipers, etc they have just in case the players decide to get rowdy.) Assuming that they play ball (and it REALLY will be bad if they don’t) Juarez explains the situation. This new “Camp Hope” is gathering street people, getting them jobs, and more. This is all well and good except that Renraku is pouring money like crazy. So until they know why, they can’t rest easy. 30k on the barrel, 15k up front per person for the run. So a great payout.
 
 This leads the players to have to join the “cult”. This has them go to an office, fill out some paperwork (which was very fun when we ran it) as well as have them hauled through the Z on a bus with no AC or windows that go down on the hottest day of the year. Once they arrive, its search time and they are THOROUGH. They peace bond anything they can and ensure everything is safe and peaceful like.
 
@@ -113,7 +113,7 @@ One of the things I did to make this cult danger more direct was to gamify the r
 
 ### Final Thoughts
 
-This was one of the best adventures i’ve run for my group. All in all, it took us around 5 sessions to complete and it helped round out a lot of our characters. It also helped forge deeper allegiances between everyone as they got to see what true evil looked like. Ant Spirits are still the boogie man to a lot of my players. A threat they don’t know when they will see again. I wish you all of the luck if you decide to run this. It was fantastic for us.
+This was one of the best adventures I’ve run for my group. All in all, it took us around 5 sessions to complete and it helped round out a lot of our characters. It also helped forge deeper allegiances between everyone as they got to see what true evil looked like. Ant Spirits are still the boogie man to a lot of my players. A threat they don’t know when they will see again. I wish you all of the luck if you decide to run this. It was fantastic for us.
 
 Want your own copy of Double Exposure?
 
