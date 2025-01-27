@@ -5,6 +5,7 @@ draft: false
 featured_image: "/images/DoubleExposure.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+author: Dean
 ---
 
 > "Is this the path to Eden?" - Johnathan Tang
