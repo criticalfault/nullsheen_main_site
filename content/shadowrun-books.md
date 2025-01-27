@@ -159,7 +159,7 @@ Noble Knight often has rotating stock and you can get alerted when stock comes i
 | 1st|A Killing Glare|[Amazon](https://amzn.to/3K9TnYD)|[PDF](https://www.drivethrurpg.com/en/product/64089/shadowrun-a-killing-glare?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Celtic Double Cross|[Amazon](https://amzn.to/3wCktEC)|[PDF](https://www.drivethrurpg.com/en/product/64104/shadowrun-celtic-double-cross?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Eye Witness|[Amazon](https://amzn.to/4bLAyGT)|[PDF](https://www.drivethrurpg.com/en/product/64117/shadowrun-eyewitness?src=affiliate135005&affiliate_id=135005)| No |
-| 1st|Double Exposure|[Amazon](https://amzn.to/3UQH4Fp)| No | No |
+| 1st|Double Exposure|[Amazon](https://amzn.to/3UQH4Fp) [Noble Knight](https://www.nobleknight.com/P/5412/Double-Exposure?awid=1473)| No | No |
 | 1st|One Stage Before| [Noble Knight](https://www.nobleknight.com/P/1282382376/One-Stage-Before?awid=1473) |[PDF](https://www.drivethrurpg.com/en/product/63967/shadowrun-one-stage-before?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Neo-Anarchists Guide to Real Life|[Amazon](https://amzn.to/44SC7R2)|[PDF](https://www.drivethrurpg.com/en/product/2767/shadowrun-neo-anarchist-s-guide-to-real-life?src=affiliate135005&affiliate_id=135005)| No |
 | 1st|Corporate Shadowfiles|[Amazon](https://amzn.to/44QBQ12)|[PDF](https://www.drivethrurpg.com/en/product/145973/shadowrun-corporate-shadowfiles?src=affiliate135005&affiliate_id=135005)| No |
