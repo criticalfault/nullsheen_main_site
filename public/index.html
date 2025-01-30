@@ -6,7 +6,7 @@
     
     <title>NullSheen - Tools for Shadowrun (And more) | NullSheen Shadowrun Tools</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="A space dedicated to online tools to make games more fun!">
+    <meta name="description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.">
     <meta name="generator" content="Hugo 0.123.7">
     
     
@@ -15,16 +15,140 @@
       <meta name="robots" content="noindex, nofollow">
     
     
-
+      <meta name="author" content = "">
     
 
+    
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" >
 
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 335px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#mobileMenuContainer{
+  padding:20px;
+  background-color: white;
+}
+
+#mobileMenuContainer ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+#mobileMenuContainer li a{
+  margin-top:5px;
+  display: inline-block;
+  padding:5px;
+}
+
+#smallerHeader > div.stickyBar.hide-for-medium-down.accentBack > a > div{
+  color:white;
+  margin-top:5px;
+}
+
+#smallerHeader {
+  margin-top: 10px;
+}
+
+.toolPadding{
+  padding-left:10px;
+}
+
+.pb7{
+  padding-bottom: 6rem;
+}
+
+ 
+@media only screen and (max-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 768px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 992px) {
+  #desktopHeader{
+    display:block;
+  }
+  #smallerHeader{
+    display:none;
+  }
+}
+</style>
     
 
 <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="YOACWQSB" defer></script>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
+<script
+  src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
+<script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+<script>
+$( document ).ready(function() {
+     const tables = document.querySelectorAll("table");
+     let table = new DataTable('table',{
+          pageLength:50,
+          colReorder:true
+     });
+
+     tables.forEach((tab) => {
+         tab.classList.add("stripe");
+     });
+
+     $('.menu-trigger').on('click',function(event){
+          $('#mobileMenuContainer').slideToggle();
+     })
+});
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -32,19 +156,23 @@
 
   gtag('config', 'G-FC158GDTHC');
 </script>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-<script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'F2F1S4D3R');kofiwidget2.draw();</script> 
-<style>
-     body .btn-container {
-       display: inline-block !important;
-       white-space: nowrap;
-       min-width: 160px;
-       float: right;
-       position: sticky;
-       right: 15px;
-       top: 10px;
-   }
-   </style> 
+<script>window._epn = {campaign: 5339061858, smartPopover:false};</script>
+<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+
+<script>
+     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+     n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+     (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+     ml('account', '1152748');
+ </script>
+ 
+  
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2802312263939980"
+     crossorigin="anonymous"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
     
@@ -64,13 +192,13 @@
     
 
     <meta property="og:title" content="NullSheen - Tools for Shadowrun (And more)" />
-<meta property="og:description" content="A space dedicated to online tools to make games more fun!" />
+<meta property="og:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/" />
 
 <meta itemprop="name" content="NullSheen - Tools for Shadowrun (And more)">
-<meta itemprop="description" content="A space dedicated to online tools to make games more fun!"><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="NullSheen - Tools for Shadowrun (And more)"/>
-<meta name="twitter:description" content="A space dedicated to online tools to make games more fun!"/>
+<meta itemprop="description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking."><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="NullSheen - Tools for Shadowrun (And more)"/>
+<meta name="twitter:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking."/>
 
 	
   </head>
@@ -89,33 +217,33 @@
         NullSheen Shadowrun Tools
       
     </a>
-    <div class="flex-l items-center">
+    
+    <div class="flex-l items-center" id="desktopHeader">
       
 
       
         <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix.nullsheen.com" title="">
-              Matrix Gen (3rd)
-            </a>
+          <li class="list f5 f4-ns fw4 dib">
+            <div class="dropdown dropdown2 flex-l justify-between items-center center">
+              <a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools &#9660;</a>
+              <div class="dropdown-content">
+                <a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a>
+                <a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a>
+                <a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a>
+                <a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a>
+                <a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a>
+                <a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a>
+              </div>
+            </div>
           </li>
-          
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix2.nullsheen.com" title="">
-              Matrix Builder (2nd)
-            </a>
+            <a class="ml-onclick-form over-white no-underline white-90" href="javascript:void(0)" onclick="ml('show', 'wHbKBq', true)">Newsletter Signup</a>
           </li>
+
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://initiative-tracker.nullsheen.com/" title="">
-              Init Tracker
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/software/" title="">
-              Tools
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/archive/" title="">
+              The Archive
             </a>
           </li>
           
@@ -137,6 +265,12 @@
             </a>
           </li>
           
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/shadowrun-podcasts-list/" title="">
+              Shadowrun Podcasts
+            </a>
+          </li>
+          
         </ul>
       
       
@@ -144,6 +278,32 @@
   
 </div>
 
+    </div>
+    
+    <div class="flex-l items-center" id="smallerHeader">
+      <div class="stickyBar hide-for-medium-down accentBack">
+        <a href="#" class="menu-trigger" aria-label="Click to open menu">
+          <img src="/images/menu-icon.svg" alt="Menu Icon" width="50" class="marginBottom5" draggable="false">
+          <div class="uppercase">Menu</div>
+        </a>
+      </div>
+      <div id="mobileMenuContainer" style="display: none;">
+        <ul>
+          <li><a href="https://www.nullsheen.com/software">Shadowrun Tools</a></li>
+          <li class="toolPadding"><a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a></li>
+          <li class="toolPadding"><a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a></li>
+          <li class="toolPadding"><a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a></li>
+          <li class="toolPadding"><a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a></li>
+          <li><a href="javascript:void(0)" onclick='ml("show","wHbKBq",!0)'>Newsletter Signup</a></li>
+          <li><a href="https://www.nullsheen.com/archive/" title="The Archive page">The Archive</a></li>
+          <li><a href="https://www.nullsheen.com/contact/" title="Contact page">Contact</a></li>
+          <li><a href="https://www.nullsheen.com/about-me/" title="About Me page">About Me</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-books/" title="Shadowrun Books page">Shadowrun Books</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-podcasts-list" title="Shadowrun Podcasts page">Shadowrun Podcasts</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -154,7 +314,7 @@
         </h1>
         
           <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            A space dedicated to online tools to make games more fun!
+            RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.
           </h2>
         
       </div>
@@ -199,21 +359,21 @@
       
           
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/shadowrun-books/" class="db grow">
-            <img src="http://localhost:1313/images/BookSeller.webp" class="img" alt="image from Shadowrun Books">
+          <a href="/vtt-map-library/" class="db grow">
+            <img src="http://localhost:1313/images/BookSeller.webp" class="img" alt="image from Vtt Map Library">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/shadowrun-books/" class="color-inherit dim link">
-            Shadowrun Books
+          <a href="/vtt-map-library/" class="color-inherit dim link">
+            Vtt Map Library
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Looking for a specific Shadowrun Book? Wanting to add some books to your collection? I&rsquo;ve put together as many books as I can scouring Amazon (And soon I hope Noble Knights for some rarer titles) to help you get what you are looking for. These are affiliate links, so buying items through this page does help me. So I thank you in advanced if you do end up finding something. I&rsquo;ll be continuing to add to this page as I find new stuff I think is interesting and worth your time.
+           Name Link Tags Author Info 1 1 1 1 2 2 2 2 
         </div>
-          <a href="/shadowrun-books/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+          <a href="/vtt-map-library/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
         
       </div>
     </div>
@@ -230,21 +390,22 @@
       
           
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/unusual-rewards/" class="db grow">
-            <img src="http://localhost:1313/images/unusual_items_header.webp" class="img" alt="image from Unusual Rewards for Shadowruns">
+          <a href="/posts/double-explosure-review/" class="db grow">
+            <img src="http://localhost:1313/images/DoubleExposure.jpg" class="img" alt="image from Double Explosure Review">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/unusual-rewards/" class="color-inherit dim link">
-            Unusual Rewards for Shadowruns
+          <a href="/posts/double-explosure-review/" class="color-inherit dim link">
+            Double Explosure Review
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Books Used in this article. SR3 Core Mr. Johnson&rsquo;s Little Black Book Shadowrun is a game about high risk and high rewards. Too often we however only see rewards of nuyen. Some Gamemasters stretch their legs and add in things like extra contacts or some exotic ammos, but when was the last time you had something like a program, spell or exotic material for resale? Each of those rewards can lead to more stories and more stories is ALWAYS better!
+          &ldquo;Is this the path to Eden?&rdquo; - Johnathan Tang
+Double Exposure is an adventure for 2nd Edition Shadowrun. It is a very story heavy adventure that brings characters in a really unique situation that I haven’t seen in many other adventures. This adventure will put the player characters right in the middle of a new sprung up commune in the barons. What’s even wilder? This organization even seems to be actually growing sustainable food crops.
         </div>
-          <a href="/posts/unusual-rewards/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+          <a href="/posts/double-explosure-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
         
       </div>
     </div>
@@ -261,21 +422,117 @@
       
           
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="db grow">
-            <img src="http://localhost:1313/images/spells_in_shadowrun.webp" class="img" alt="image from Spells - Buying, Learning and Forms">
+          <a href="/posts/new-years-goals-2025/" class="db grow">
+            <img src="http://localhost:1313/images/NewYearsFixed.jpg" class="img" alt="image from New Years Goals 2025">
           </a>
         </div>
       
       <div class="blah w-100 w-60-ns pl3-ns">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="color-inherit dim link">
-            Spells - Buying, Learning and Forms
+          <a href="/posts/new-years-goals-2025/" class="color-inherit dim link">
+            New Years Goals 2025
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Books Useful for this article. Magic In The Shadows SR3 Core Street Wyld One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it&rsquo;s very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof!
+          Greetings Shadowpunks!
+With last year behind us, I look forward to what will come in the future. This year I hope to finish two new tools for the site: Weapon Designer and Vehicle Designer. These will more than likely take at least 3 or 4 months each (Though the vehicle one will take something really special to finish in that time). My hope is always to allow players more control over their characters and to give GMs the tools to be able to create custom things quickly and easily.
         </div>
-          <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+          <a href="/posts/new-years-goals-2025/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+          
+            <div class="relative w-100 mb4">
+              
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
+          
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <a href="/posts/total-eclipse-review/" class="db grow">
+            <img src="http://localhost:1313/images/totalEclipseReview.jpg" class="img" alt="image from Total Eclipse Review">
+          </a>
+        </div>
+      
+      <div class="blah w-100 w-60-ns pl3-ns">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/total-eclipse-review/" class="color-inherit dim link">
+            Total Eclipse Review
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          Before we dive in! I wrote another section of my adventure: Protect and Serve.
+Music in the 80s was a bit more defining than today (Though Taylor Swift has definitely revived some of the old feelings of hardcore allegiance to a band or musician). Who you listened to and who you repped told you a lot about someone and in general I feel it had a lot more of a cultural impact than it does today.
+        </div>
+          <a href="/posts/total-eclipse-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+          
+            <div class="relative w-100 mb4">
+              
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
+          
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <a href="/posts/decker-problems-and-how-to-solve-them/" class="db grow">
+            <img src="http://localhost:1313/images/binary.png" class="img" alt="image from Decker Problems and How to Solve Them">
+          </a>
+        </div>
+      
+      <div class="blah w-100 w-60-ns pl3-ns">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/decker-problems-and-how-to-solve-them/" class="color-inherit dim link">
+            Decker Problems and How to Solve Them
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          One of the most common problems new GMs (And old for that matter) is running the Matrix for their players. In every edition of Shadowrun, the matrix has been a pivotal part of the game. It makes sense in the larger picture, Gibson&rsquo;s Neuromancer (Which you absolutely NEED to read if your running Shadowrun or Cyberpunk! [Hardcover or Sprawl Trilogy (Plus Burning Chrome) - Good Christmas Gifts!] gives us the first console cowboy and we have been seeking that experience every since.
+        </div>
+          <a href="/posts/decker-problems-and-how-to-solve-them/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+          
+            <div class="relative w-100 mb4">
+              
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
+          
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <a href="/posts/silver-angel-review/" class="db grow">
+            <img src="http://localhost:1313/images/SilverAngel.jpg" class="img" alt="image from Silver Angel Review">
+          </a>
+        </div>
+      
+      <div class="blah w-100 w-60-ns pl3-ns">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/silver-angel-review/" class="color-inherit dim link">
+            Silver Angel Review
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          Silver Angel was the first published Adventure for Shadowrun. It was paired with the original Game Master&rsquo;s screen for 1st Edition Shadowrun. What’s interesting is that it also came with standees (cardboard cutouts that you could use to show placement of characters and NPCs) which we wouldn’t see again until DMZ was released. These paired excellently with the Sprawl Maps.
+This adventure is pretty short, but you can see the gritty bones of what would become the Shadowrun we all know and love.
+        </div>
+          <a href="/posts/silver-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
         
       </div>
     </div>
@@ -292,26 +549,26 @@
           
           
             <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/ads-and-moving-forward/" class="link black dim">
-                Affliation and Moving Forward
+              <a href="/posts/queen-euphoria-review-notes/" class="link black dim">
+                Queen Euphoria Review Notes
               </a>
             </h2>
           
             <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/magical-traditions-part-2/" class="link black dim">
-                Magical Traditions in Your Game: Part 2
+              <a href="/posts/borrowing-rules-for-better-games/" class="link black dim">
+                Borrowing Rules for Better Games
               </a>
             </h2>
           
             <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/privacy-policy/" class="link black dim">
-                Privacy Policy
+              <a href="/posts/gamehole-con-review/" class="link black dim">
+                Gamehole Con Review
               </a>
             </h2>
           
             <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/about-me/" class="link black dim">
-                About Me
+              <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="link black dim">
+                Anchoring Foci and Spells and Why You Should Be Using Them More Often
               </a>
             </h2>
           
@@ -328,16 +585,20 @@
   
 
     </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+    
+<a href="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Click" style="display: flex;margin-bottom: 10px;">
+  <img border="0" src="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Get" width="728" height="90" alt="Noble Knight Games" style="margin: 0 auto;">
+</a>
+
+
+<footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
-    &copy;  NullSheen Shadowrun Tools 2024 
+    &copy;  NullSheen Shadowrun Tools 2025 
   </a>
     <div>
-<div class="ananke-socials">
-  
-</div>
-</div>
+      <a class="f4 fw4 hover-white no-underline white-70" href="https://www.nullsheen.com/privacy-policy/">Privacy Policy</a>
+    </div>
   </div>
 </footer>
 
