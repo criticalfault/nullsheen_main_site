@@ -3,12 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2027-05-20T17:34:10+00:00</lastmod>
+    <lastmod>2025-01-30T01:12:37+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/vtt-map-library/</loc>
+    <lastmod>2025-01-30T01:12:37+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/adventure-reviews/</loc>
+    <lastmod>2025-01-27T01:20:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/double-explosure-review/</loc>
+    <lastmod>2025-01-27T01:20:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gm-helper/</loc>
+    <lastmod>2025-01-27T01:20:01+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2027-05-20T17:34:10+00:00</lastmod>
+    <lastmod>2025-01-27T01:20:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-27T01:20:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/new-years-goals-2025/</loc>
+    <lastmod>2025-01-21T15:38:39+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/real-talk/</loc>
+    <lastmod>2025-01-21T15:38:39+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/total-eclipse-review/</loc>
+    <lastmod>2024-12-31T03:35:04+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/decker-problems-and-how-to-solve-them/</loc>
+    <lastmod>2024-12-15T16:28:37+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/silver-angel-review/</loc>
+    <lastmod>2024-11-23T05:38:31+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/queen-euphoria-review-notes/</loc>
+    <lastmod>2024-11-15T01:11:29+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/borrowing-rules-for-better-games/</loc>
+    <lastmod>2024-10-27T19:22:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gm-help/</loc>
+    <lastmod>2024-10-27T19:22:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/gamehole-con-review/</loc>
+    <lastmod>2024-10-22T02:07:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/3rd-edition/</loc>
+    <lastmod>2024-10-04T21:22:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-get-milage-out-of-anchoring-foci/</loc>
+    <lastmod>2024-10-04T21:22:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/fancy-program-name/</loc>
+    <lastmod>2024-10-04T20:44:02+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyberpunk-red/</loc>
+    <lastmod>2024-09-10T14:27:19+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/running-divided-assets-in-cyberpunk-red/</loc>
+    <lastmod>2024-09-10T14:27:19+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/divided-assets-review/</loc>
+    <lastmod>2024-08-13T23:12:18+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/dark-angel-review/</loc>
+    <lastmod>2024-07-17T19:01:09+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyberpunk/</loc>
+    <lastmod>2024-07-14T16:32:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/movies/</loc>
+    <lastmod>2024-07-14T16:32:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/older-cyberpunk-tech-movies/</loc>
+    <lastmod>2024-07-14T16:32:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/opinion/</loc>
+    <lastmod>2024-07-14T16:32:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/vtt-maps-and-shadowrun-info/</loc>
+    <lastmod>2024-06-30T16:27:06+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/magical-traditions/</loc>
+    <lastmod>2024-06-23T00:34:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/magical-traditions-part-3-santeria/</loc>
+    <lastmod>2024-06-23T00:34:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/bottled-demon-review/</loc>
+    <lastmod>2024-06-15T19:08:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/cyberpunk-stl-files-for-props/</loc>
+    <lastmod>2024-06-06T15:00:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-shadowrun-edition-should-i-choose/</loc>
+    <lastmod>2024-06-02T16:26:24+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/review-enhance-adventurers-bag/</loc>
+    <lastmod>2024-05-30T19:47:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/product_reviews/</loc>
+    <lastmod>2024-05-30T19:47:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-differences-between-cyberpunk-and-shadowrun/</loc>
+    <lastmod>2024-05-28T11:43:09+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/top-five-cyberpunk-movies/</loc>
+    <lastmod>2024-05-25T12:34:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/any-edition/</loc>
+    <lastmod>2024-05-24T14:53:05+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/player-help/</loc>
+    <lastmod>2024-05-24T14:53:05+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-should-i-play-in-shadowrun/</loc>
+    <lastmod>2024-05-24T14:53:05+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,28 +207,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/any-edition/</loc>
-    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/gm-help/</loc>
-    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-19T21:27:54+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/unusual-rewards/</loc>
     <lastmod>2024-05-19T21:27:54+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/gm-helper/</loc>
-    <lastmod>2024-05-18T17:35:32+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -49,16 +219,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/ads-and-moving-forward/</loc>
     <lastmod>2024-05-16T11:52:21+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/real-talk/</loc>
-    <lastmod>2024-05-16T11:52:21+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/magical-traditions/</loc>
-    <lastmod>2024-05-11T13:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -94,11 +254,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/custom-sr2e-sheets-for-roll20/</loc>
     <lastmod>2024-04-03T17:27:07+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/3rd-edition/</loc>
-    <lastmod>2024-04-01T12:53:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -187,6 +342,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/shadowrun-podcasts-list/</loc>
+    <lastmod>2023-11-18T00:52:06+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/decker_game/</loc>
     <lastmod>2023-11-16T17:29:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -229,6 +389,11 @@
   </url><url>
     <loc>http://localhost:1313/posts/pink-fohawk/</loc>
     <lastmod>2023-07-03T02:55:25+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
+    <lastmod>2023-07-02T23:55:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

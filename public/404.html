@@ -15,16 +15,140 @@
       <meta name="robots" content="noindex, nofollow">
     
     
-
+      <meta name="author" content = "">
     
 
+    
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" >
 
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 335px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#mobileMenuContainer{
+  padding:20px;
+  background-color: white;
+}
+
+#mobileMenuContainer ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+#mobileMenuContainer li a{
+  margin-top:5px;
+  display: inline-block;
+  padding:5px;
+}
+
+#smallerHeader > div.stickyBar.hide-for-medium-down.accentBack > a > div{
+  color:white;
+  margin-top:5px;
+}
+
+#smallerHeader {
+  margin-top: 10px;
+}
+
+.toolPadding{
+  padding-left:10px;
+}
+
+.pb7{
+  padding-bottom: 6rem;
+}
+
+ 
+@media only screen and (max-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 768px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 992px) {
+  #desktopHeader{
+    display:block;
+  }
+  #smallerHeader{
+    display:none;
+  }
+}
+</style>
     
 
 <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="YOACWQSB" defer></script>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
+<script
+  src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
+<script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+<script>
+$( document ).ready(function() {
+     const tables = document.querySelectorAll("table");
+     let table = new DataTable('table',{
+          pageLength:50,
+          colReorder:true
+     });
+
+     tables.forEach((tab) => {
+         tab.classList.add("stripe");
+     });
+
+     $('.menu-trigger').on('click',function(event){
+          $('#mobileMenuContainer').slideToggle();
+     })
+});
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -32,19 +156,23 @@
 
   gtag('config', 'G-FC158GDTHC');
 </script>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-<script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'F2F1S4D3R');kofiwidget2.draw();</script> 
-<style>
-     body .btn-container {
-       display: inline-block !important;
-       white-space: nowrap;
-       min-width: 160px;
-       float: right;
-       position: sticky;
-       right: 15px;
-       top: 10px;
-   }
-   </style> 
+<script>window._epn = {campaign: 5339061858, smartPopover:false};</script>
+<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+
+<script>
+     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+     n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+     (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+     ml('account', '1152748');
+ </script>
+ 
+  
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2802312263939980"
+     crossorigin="anonymous"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
     
@@ -84,33 +212,33 @@
         NullSheen Shadowrun Tools
       
     </a>
-    <div class="flex-l items-center">
+    
+    <div class="flex-l items-center" id="desktopHeader">
       
 
       
         <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix.nullsheen.com" title="">
-              Matrix Gen (3rd)
-            </a>
+          <li class="list f5 f4-ns fw4 dib">
+            <div class="dropdown dropdown2 flex-l justify-between items-center center">
+              <a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools &#9660;</a>
+              <div class="dropdown-content">
+                <a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a>
+                <a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a>
+                <a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a>
+                <a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a>
+                <a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a>
+                <a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a>
+              </div>
+            </div>
           </li>
-          
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix2.nullsheen.com" title="">
-              Matrix Builder (2nd)
-            </a>
+            <a class="ml-onclick-form over-white no-underline white-90" href="javascript:void(0)" onclick="ml('show', 'wHbKBq', true)">Newsletter Signup</a>
           </li>
+
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://initiative-tracker.nullsheen.com/" title="">
-              Init Tracker
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/software/" title="">
-              Tools
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/archive/" title="">
+              The Archive
             </a>
           </li>
           
@@ -132,6 +260,12 @@
             </a>
           </li>
           
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/shadowrun-podcasts-list/" title="">
+              Shadowrun Podcasts
+            </a>
+          </li>
+          
         </ul>
       
       
@@ -139,6 +273,32 @@
   
 </div>
 
+    </div>
+    
+    <div class="flex-l items-center" id="smallerHeader">
+      <div class="stickyBar hide-for-medium-down accentBack">
+        <a href="#" class="menu-trigger" aria-label="Click to open menu">
+          <img src="/images/menu-icon.svg" alt="Menu Icon" width="50" class="marginBottom5" draggable="false">
+          <div class="uppercase">Menu</div>
+        </a>
+      </div>
+      <div id="mobileMenuContainer" style="display: none;">
+        <ul>
+          <li><a href="https://www.nullsheen.com/software">Shadowrun Tools</a></li>
+          <li class="toolPadding"><a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a></li>
+          <li class="toolPadding"><a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a></li>
+          <li class="toolPadding"><a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a></li>
+          <li class="toolPadding"><a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a></li>
+          <li><a href="javascript:void(0)" onclick='ml("show","wHbKBq",!0)'>Newsletter Signup</a></li>
+          <li><a href="https://www.nullsheen.com/archive/" title="The Archive page">The Archive</a></li>
+          <li><a href="https://www.nullsheen.com/contact/" title="Contact page">Contact</a></li>
+          <li><a href="https://www.nullsheen.com/about-me/" title="About Me page">About Me</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-books/" title="Shadowrun Books page">Shadowrun Books</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-podcasts-list" title="Shadowrun Podcasts page">Shadowrun Podcasts</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -161,16 +321,20 @@
     </article>
 
     </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+    
+<a href="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Click" style="display: flex;margin-bottom: 10px;">
+  <img border="0" src="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Get" width="728" height="90" alt="Noble Knight Games" style="margin: 0 auto;">
+</a>
+
+
+<footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
-    &copy;  NullSheen Shadowrun Tools 2024 
+    &copy;  NullSheen Shadowrun Tools 2025 
   </a>
     <div>
-<div class="ananke-socials">
-  
-</div>
-</div>
+      <a class="f4 fw4 hover-white no-underline white-70" href="https://www.nullsheen.com/privacy-policy/">Privacy Policy</a>
+    </div>
   </div>
 </footer>
 
