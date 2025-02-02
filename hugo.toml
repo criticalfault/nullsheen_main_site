@@ -2,13 +2,17 @@ baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
-Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
 
 [params]
   recent_posts_number = 6
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
 
 [[params.author]]
   email = 'dean@nullsheen.com'
