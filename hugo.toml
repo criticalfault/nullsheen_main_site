@@ -8,8 +8,6 @@ show_reading_time = true
 
 [params]
   recent_posts_number = 6
-  mainSections = ["post"]
-  social = true
 
 [pagination]
   disableAliases = false
