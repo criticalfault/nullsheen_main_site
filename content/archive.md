@@ -55,6 +55,7 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
 - [2e Express Core Matrix Rules](/files/2e_Express_Core_Matrix_Rules.pdf) - Made by Ben from PinkFohawk
 - [2e Matrix Cheat Sheet](/files/Matrix_Cheat_Sheet.pdf) - Made by Ben from PinkFohawk
+- [2e Modifier Web](/files/SR2_Modifier_Web.pdf) - Made by LeeFellows from PinkFohawk Discord, it uses some homebrew for recoil but otherwise is CRAZY helpful for quick combat TNs.
 
 ## KA-GE Magazine
 - [Ka-Ge Volume 1, Issue 0](/files/KAGE/Ka-Ge_Volume_1_Issue_0.pdf)
