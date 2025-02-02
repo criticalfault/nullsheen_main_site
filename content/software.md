@@ -78,6 +78,10 @@ I've decided to attempt to collect as much as I possibly can for various project
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 |Omae|[https://oma3.vercel.app/](https://oma3.vercel.app/)|Character Generator - Web / Phone app!|
+|Commlink|[https://commlink.rocks/](https://commlink.rocks/)|Character Management Desktop Program|
+|Genesis RPG Framework - SR6|[https://www.rpgframework.de/en/roleplaying/shadowrun-6/](https://www.rpgframework.de/en/roleplaying/shadowrun-6/)|Character Manager and creator for SR6|
+|Foundry Framework for SR6|[https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/](https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/)|Foundry landing page, git repo linked on page|
+|Google Sheet Character Generator|[https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727](https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727)||
 
 ## Generic Tools
 | Tool | URL | Description |
