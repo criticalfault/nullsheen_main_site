@@ -47,3 +47,8 @@ show_reading_time = true
   name = "Shadowrun Podcasts"
   weight = 4
   url = "https://www.nullsheen.com/shadowrun-podcasts-list/" 
+  
+[[menu.main]]
+  name = "Shadowrun Software"
+  weight = 5
+  url = "https://www.nullsheen.com/software/" 
