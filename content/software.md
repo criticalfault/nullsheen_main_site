@@ -71,7 +71,6 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Chummer5|[https://github.com/chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Another of the Chummer series of character generators. Has to be installed|
 |Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
 |Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
-|Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook.pdf)|A bunch of useful 5e info all jammed together|
 |SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
 |Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
