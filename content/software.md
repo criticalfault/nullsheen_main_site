@@ -72,6 +72,8 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
 |Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
 |Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook.pdf)|A bunch of useful 5e info all jammed together|
+|SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
+|Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
 
 ## Shadowrun 6th Edition
@@ -87,3 +89,4 @@ I've decided to attempt to collect as much as I possibly can for various project
 | Tool | URL | Description |
 | ------- | ----- | ---------- |
 |Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|Just a generic dice roller!|
+|iOS Dice Roller App for SR4-6|[https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219](https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219)||
