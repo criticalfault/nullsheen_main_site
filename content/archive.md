@@ -47,6 +47,7 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [5th Edition Character Sheet](/files/SR5-Character-Sheet-Fillable.pdf)
 
 - [6th Edition Character Sheet](/files/SR6-Character-Sheet-Fillable.pdf)
+- [6th Edition Character Sheet - Upgraded](/files/SR6e_Actually_passably_fillable_sheet-2.pdf)
 
 - [Anarchy Character Sheet - Google Sheet](https://docs.google.com/spreadsheets/d/12-YN0UWI9N8mRf9gta6wHLtmAvLaTu9DVJxLSrPZf7E/edit)
 
@@ -55,6 +56,7 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
 - [2e Express Core Matrix Rules](/files/2e_Express_Core_Matrix_Rules.pdf) - Made by Ben from PinkFohawk
 - [2e Matrix Cheat Sheet](/files/Matrix_Cheat_Sheet.pdf) - Made by Ben from PinkFohawk
+- [2e Modifier Web](/files/SR2_Modifier_Web.pdf) - Made by LeeFellows from PinkFohawk Discord, it uses some homebrew for recoil but otherwise is CRAZY helpful for quick combat TNs.
 
 ## KA-GE Magazine
 - [Ka-Ge Volume 1, Issue 0](/files/KAGE/Ka-Ge_Volume_1_Issue_0.pdf)
