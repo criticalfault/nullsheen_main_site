@@ -15,16 +15,140 @@
       <meta name="robots" content="noindex, nofollow">
     
     
-
+      <meta name="author" content = "">
     
 
+    
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" >
 
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 335px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#mobileMenuContainer{
+  padding:20px;
+  background-color: white;
+}
+
+#mobileMenuContainer ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+#mobileMenuContainer li a{
+  margin-top:5px;
+  display: inline-block;
+  padding:5px;
+}
+
+#smallerHeader > div.stickyBar.hide-for-medium-down.accentBack > a > div{
+  color:white;
+  margin-top:5px;
+}
+
+#smallerHeader {
+  margin-top: 10px;
+}
+
+.toolPadding{
+  padding-left:10px;
+}
+
+.pb7{
+  padding-bottom: 6rem;
+}
+
+ 
+@media only screen and (max-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 600px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 768px) {
+  #desktopHeader{
+    display:none;
+  }
+  #smallerHeader{
+    display:block;
+  }
+}
+
+ 
+@media only screen and (min-width: 992px) {
+  #desktopHeader{
+    display:block;
+  }
+  #smallerHeader{
+    display:none;
+  }
+}
+</style>
     
 
 <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="YOACWQSB" defer></script>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
+<script
+  src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
+<script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+<script>
+$( document ).ready(function() {
+     const tables = document.querySelectorAll("table");
+     let table = new DataTable('table',{
+          pageLength:50,
+          colReorder:true
+     });
+
+     tables.forEach((tab) => {
+         tab.classList.add("stripe");
+     });
+
+     $('.menu-trigger').on('click',function(event){
+          $('#mobileMenuContainer').slideToggle();
+     })
+});
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -32,19 +156,23 @@
 
   gtag('config', 'G-FC158GDTHC');
 </script>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-<script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'F2F1S4D3R');kofiwidget2.draw();</script> 
-<style>
-     body .btn-container {
-       display: inline-block !important;
-       white-space: nowrap;
-       min-width: 160px;
-       float: right;
-       position: sticky;
-       right: 15px;
-       top: 10px;
-   }
-   </style> 
+<script>window._epn = {campaign: 5339061858, smartPopover:false};</script>
+<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+
+<script>
+     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+     n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+     (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+     ml('account', '1152748');
+ </script>
+ 
+  
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2802312263939980"
+     crossorigin="anonymous"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
     
@@ -89,33 +217,33 @@
         NullSheen Shadowrun Tools
       
     </a>
-    <div class="flex-l items-center">
+    
+    <div class="flex-l items-center" id="desktopHeader">
       
 
       
         <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix.nullsheen.com" title="">
-              Matrix Gen (3rd)
-            </a>
+          <li class="list f5 f4-ns fw4 dib">
+            <div class="dropdown dropdown2 flex-l justify-between items-center center">
+              <a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools &#9660;</a>
+              <div class="dropdown-content">
+                <a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a>
+                <a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a>
+                <a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a>
+                <a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a>
+                <a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a>
+                <a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a>
+              </div>
+            </div>
           </li>
-          
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://matrix2.nullsheen.com" title="">
-              Matrix Builder (2nd)
-            </a>
+            <a class="ml-onclick-form over-white no-underline white-90" href="javascript:void(0)" onclick="ml('show', 'wHbKBq', true)">Newsletter Signup</a>
           </li>
+
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://initiative-tracker.nullsheen.com/" title="">
-              Init Tracker
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/software/" title="">
-              Tools
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/archive/" title="">
+              The Archive
             </a>
           </li>
           
@@ -137,6 +265,12 @@
             </a>
           </li>
           
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/shadowrun-podcasts-list/" title="">
+              Shadowrun Podcasts
+            </a>
+          </li>
+          
         </ul>
       
       
@@ -144,6 +278,32 @@
   
 </div>
 
+    </div>
+    
+    <div class="flex-l items-center" id="smallerHeader">
+      <div class="stickyBar hide-for-medium-down accentBack">
+        <a href="#" class="menu-trigger" aria-label="Click to open menu">
+          <img src="/images/menu-icon.svg" alt="Menu Icon" width="50" class="marginBottom5" draggable="false">
+          <div class="uppercase">Menu</div>
+        </a>
+      </div>
+      <div id="mobileMenuContainer" style="display: none;">
+        <ul>
+          <li><a href="https://www.nullsheen.com/software">Shadowrun Tools</a></li>
+          <li class="toolPadding"><a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a></li>
+          <li class="toolPadding"><a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a></li>
+          <li class="toolPadding"><a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a></li>
+          <li class="toolPadding"><a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a></li>
+          <li class="toolPadding"><a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a></li>
+          <li><a href="javascript:void(0)" onclick='ml("show","wHbKBq",!0)'>Newsletter Signup</a></li>
+          <li><a href="https://www.nullsheen.com/archive/" title="The Archive page">The Archive</a></li>
+          <li><a href="https://www.nullsheen.com/contact/" title="Contact page">Contact</a></li>
+          <li><a href="https://www.nullsheen.com/about-me/" title="About Me page">About Me</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-books/" title="Shadowrun Books page">Shadowrun Books</a></li>
+          <li><a href="https://www.nullsheen.com/shadowrun-podcasts-list" title="Shadowrun Podcasts page">Shadowrun Podcasts</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -170,10 +330,497 @@
     <section class="ph4">
       
         <h2 class="f1">
-          <a href="/tags/any-edition/" class="link blue hover-black">
-            Tag: Any Edition
+          <a href="/tags/adventure-reviews/" class="link blue hover-black">
+            Tag: Adventure Reviews
           </a>
         </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/double-explosure-review/" class="link black dim">
+        Double Explosure Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      &ldquo;Is this the path to Eden?&rdquo; - Johnathan Tang
+Double Exposure is an adventure for 2nd Edition Shadowrun. It is a very story heavy adventure that brings characters in a really unique situation that I haven’t seen in many other adventures. This adventure will put the player characters right in the middle of a new sprung up commune in the barons. What’s even wilder? This organization even seems to be actually growing sustainable food crops.
+    </div>
+    <a href="/posts/double-explosure-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/total-eclipse-review/" class="link black dim">
+        Total Eclipse Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Before we dive in! I wrote another section of my adventure: Protect and Serve.
+Music in the 80s was a bit more defining than today (Though Taylor Swift has definitely revived some of the old feelings of hardcore allegiance to a band or musician). Who you listened to and who you repped told you a lot about someone and in general I feel it had a lot more of a cultural impact than it does today.
+    </div>
+    <a href="/posts/total-eclipse-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/silver-angel-review/" class="link black dim">
+        Silver Angel Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Silver Angel was the first published Adventure for Shadowrun. It was paired with the original Game Master&rsquo;s screen for 1st Edition Shadowrun. What’s interesting is that it also came with standees (cardboard cutouts that you could use to show placement of characters and NPCs) which we wouldn’t see again until DMZ was released. These paired excellently with the Sprawl Maps.
+This adventure is pretty short, but you can see the gritty bones of what would become the Shadowrun we all know and love.
+    </div>
+    <a href="/posts/silver-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/queen-euphoria-review-notes/" class="link black dim">
+        Queen Euphoria Review Notes
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      It seems I am often drawn to Shadowrun adventures with famous characters in the fiction of the world. Starting with Dark Angel and now moving onto Queen Euphoria, there is something special about the world that was written in those first few adventures of Shadowrun.
+Queen Euphoria is one of the classic adventures that in general is one of the few truly horror based adventures in Shadowrun. Given there are always horror elements in all adventures in Shadowrun.
+    </div>
+    <a href="/posts/queen-euphoria-review-notes/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="link black dim">
+        Running Divided Assets in Cyberpunk Red
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Most of you know me as someone who writes things for Shadowrun and Cyberpunk concepts in general. I currently am playing Cyberpunk Red just as often as playing Shadowrun 3rd edition. So I begin to see the tying threads between concepts and stories. A lot of stories in Shadowrun cannot be ported to Cyberpunk. The fantasy element is played pretty often in these stories, but every once in a while it&rsquo;s left almost entirely out.
+    </div>
+    <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/divided-assets-review/" class="link black dim">
+        Divided Assets Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      I know it&rsquo;s been awhile folks! I&rsquo;ve been busy writing Holostreets! Blood For Money and Blood on the Pavement. I am looking for people to review these in any capacity so if you are interested please reach out to me! Otherwise, lets get into Divided Assets!
+Divided Assets is a Shadowrun adventure for 2nd Edition. The plot revolves around kidnapping and the ramifications of extractions on the family of those being extracted.
+    </div>
+    <a href="/posts/divided-assets-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/dark-angel-review/" class="link black dim">
+        Dark Angel Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Dark Angel is a Shadowrun adventure for 2nd Edition. The plot revolves around recovering the original recordings from the Legendary Rocker, Dark Angel. Seems he killed himself (though it’s murky that anyone would set himself on fire as a way of going out) and some new kid suddenly showed up with recordings and signed contracts. This of course seems like the HOTTEST of Bull Drek that could be, because Angel swore he would never record them and sell out.
+    </div>
+    <a href="/posts/dark-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/bottled-demon-review/" class="link black dim">
+        Bottle Demon - Review and Tweaks
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Overview: Bottled Demon is a Shadowrun adventure written for Shadowrun 1st Edition. The premise of the adventure revolved around a local fixer needing muscle to ensure a deal goes down nice and clean. What he has is worth some serious nuyen and he is willing to pay out a good deal of cred to make sure he is safe while finding a buyer.
+This is a very magic heavy adventure with room for almost nothing else.
+    </div>
+    <a href="/posts/bottled-demon-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/gm-helper/" class="link blue hover-black">
+            Tag: GM Helper
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/double-explosure-review/" class="link black dim">
+        Double Explosure Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      &ldquo;Is this the path to Eden?&rdquo; - Johnathan Tang
+Double Exposure is an adventure for 2nd Edition Shadowrun. It is a very story heavy adventure that brings characters in a really unique situation that I haven’t seen in many other adventures. This adventure will put the player characters right in the middle of a new sprung up commune in the barons. What’s even wilder? This organization even seems to be actually growing sustainable food crops.
+    </div>
+    <a href="/posts/double-explosure-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/total-eclipse-review/" class="link black dim">
+        Total Eclipse Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Before we dive in! I wrote another section of my adventure: Protect and Serve.
+Music in the 80s was a bit more defining than today (Though Taylor Swift has definitely revived some of the old feelings of hardcore allegiance to a band or musician). Who you listened to and who you repped told you a lot about someone and in general I feel it had a lot more of a cultural impact than it does today.
+    </div>
+    <a href="/posts/total-eclipse-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/decker-problems-and-how-to-solve-them/" class="link black dim">
+        Decker Problems and How to Solve Them
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      One of the most common problems new GMs (And old for that matter) is running the Matrix for their players. In every edition of Shadowrun, the matrix has been a pivotal part of the game. It makes sense in the larger picture, Gibson&rsquo;s Neuromancer (Which you absolutely NEED to read if your running Shadowrun or Cyberpunk! [Hardcover or Sprawl Trilogy (Plus Burning Chrome) - Good Christmas Gifts!] gives us the first console cowboy and we have been seeking that experience every since.
+    </div>
+    <a href="/posts/decker-problems-and-how-to-solve-them/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/silver-angel-review/" class="link black dim">
+        Silver Angel Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Silver Angel was the first published Adventure for Shadowrun. It was paired with the original Game Master&rsquo;s screen for 1st Edition Shadowrun. What’s interesting is that it also came with standees (cardboard cutouts that you could use to show placement of characters and NPCs) which we wouldn’t see again until DMZ was released. These paired excellently with the Sprawl Maps.
+This adventure is pretty short, but you can see the gritty bones of what would become the Shadowrun we all know and love.
+    </div>
+    <a href="/posts/silver-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/queen-euphoria-review-notes/" class="link black dim">
+        Queen Euphoria Review Notes
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      It seems I am often drawn to Shadowrun adventures with famous characters in the fiction of the world. Starting with Dark Angel and now moving onto Queen Euphoria, there is something special about the world that was written in those first few adventures of Shadowrun.
+Queen Euphoria is one of the classic adventures that in general is one of the few truly horror based adventures in Shadowrun. Given there are always horror elements in all adventures in Shadowrun.
+    </div>
+    <a href="/posts/queen-euphoria-review-notes/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="link black dim">
+        Anchoring Foci and Spells and Why You Should Be Using Them More Often
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      When we play games with magic often we look at it in the lens of our understanding most of us learned from games like Dungeons and Dragons. That is to say that magical people always go into combat with magical shields and energy blasts. Fireballs and Counterspells to keep yourself from getting fried. Shadowrun has a lot of this too, but there is more insidious magic that exists and it’s as old as the human race.
+    </div>
+    <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/fancy-program-name/" class="link black dim">
+        Fancy Program Name
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Program Names for more immersion I&rsquo;ve always wanted to sit down and write down some fun program names for decking programs. Having programs with ratings is one of the things that made older editions of Shadowrun infinitely more fun.
+This is an attempt to make something more interesting for folks. Let me know if this is something folks enjoy and if they would want more of them!
+Analyze Program Suite Rating Name Rating 1 Preliminary Scan Mk1 Rating 2 Insight Probe V2 Rating 3 DataSight Recon 3.
+    </div>
+    <a href="/posts/fancy-program-name/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/divided-assets-review/" class="link black dim">
+        Divided Assets Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      I know it&rsquo;s been awhile folks! I&rsquo;ve been busy writing Holostreets! Blood For Money and Blood on the Pavement. I am looking for people to review these in any capacity so if you are interested please reach out to me! Otherwise, lets get into Divided Assets!
+Divided Assets is a Shadowrun adventure for 2nd Edition. The plot revolves around kidnapping and the ramifications of extractions on the family of those being extracted.
+    </div>
+    <a href="/posts/divided-assets-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/dark-angel-review/" class="link black dim">
+        Dark Angel Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Dark Angel is a Shadowrun adventure for 2nd Edition. The plot revolves around recovering the original recordings from the Legendary Rocker, Dark Angel. Seems he killed himself (though it’s murky that anyone would set himself on fire as a way of going out) and some new kid suddenly showed up with recordings and signed contracts. This of course seems like the HOTTEST of Bull Drek that could be, because Angel swore he would never record them and sell out.
+    </div>
+    <a href="/posts/dark-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/bottled-demon-review/" class="link black dim">
+        Bottle Demon - Review and Tweaks
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Overview: Bottled Demon is a Shadowrun adventure written for Shadowrun 1st Edition. The premise of the adventure revolved around a local fixer needing muscle to ensure a deal goes down nice and clean. What he has is worth some serious nuyen and he is willing to pay out a good deal of cred to make sure he is safe while finding a buyer.
+This is a very magic heavy adventure with room for almost nothing else.
+    </div>
+    <a href="/posts/bottled-demon-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/custom-sr2e-sheets-for-roll20/" class="link black dim">
+        Custom Shadowrun 2nd Edition Sheets for Roll20
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      As we continue to march forward in reclaiming our past a few people stepped up and created tools for our future. One such person is Lord Nago. He has created several pieces for a 2nd Edition Shadowrun Roll20 setup. With his permission i am making this post and hosting these files for him. Feel free to reach out to him on Reddit if you have questions or requests!
+Here is his original post on Reddit: https://www.
+    </div>
+    <a href="/posts/custom-sr2e-sheets-for-roll20/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/real-talk/" class="link blue hover-black">
+            Tag: Real Talk
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/new-years-goals-2025/" class="link black dim">
+        New Years Goals 2025
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Greetings Shadowpunks!
+With last year behind us, I look forward to what will come in the future. This year I hope to finish two new tools for the site: Weapon Designer and Vehicle Designer. These will more than likely take at least 3 or 4 months each (Though the vehicle one will take something really special to finish in that time). My hope is always to allow players more control over their characters and to give GMs the tools to be able to create custom things quickly and easily.
+    </div>
+    <a href="/posts/new-years-goals-2025/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/gamehole-con-review/" class="link black dim">
+        Gamehole Con Review
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Cons and I have a kind of strange relationship. In general, I absolutely love meeting people but I get very concerned with large crowds. So Gamehole turned out to be just about the perfect size for me. Plenty of people but easy enough to walk around without having to struggle through a crowd. One of the main concerns with a “smaller con” is that its harder to get big names to show up to the cons.
+    </div>
+    <a href="/posts/gamehole-con-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/ads-and-moving-forward/" class="link black dim">
+        Affliation and Moving Forward
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      After doing a lot of thinking about this little side project of mine, I had decided I perhaps needed to begin to supplement the cost of this website/hosting for tools/investment of time. I hate to make any kind of clutter or cause anyone any strife when it comes to reading my articles, using my tools, or just generally enjoying the spirit of the reason my site exists. However, seeing the cost continue to rise, I will need to come up with something.
+    </div>
+    <a href="/posts/ads-and-moving-forward/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/gm-help/" class="link blue hover-black">
+            Tag: GM Help
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/borrowing-rules-for-better-games/" class="link black dim">
+        Borrowing Rules for Better Games
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      A lot of tabletops have attempts to make the perfect system. This of course has lent to tons of iterations of different ways of rolling dice, creating statistics and skill tests. This however has the amazing byproduct of creating some mechanics that are system agnostic that you can use to make your games more exciting and more interesting regardless of the game you are running. Here are 6 examples from games that are near and dear to my heart.
+    </div>
+    <a href="/posts/borrowing-rules-for-better-games/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="link black dim">
+        Running Divided Assets in Cyberpunk Red
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Most of you know me as someone who writes things for Shadowrun and Cyberpunk concepts in general. I currently am playing Cyberpunk Red just as often as playing Shadowrun 3rd edition. So I begin to see the tying threads between concepts and stories. A lot of stories in Shadowrun cannot be ported to Cyberpunk. The fantasy element is played pretty often in these stories, but every once in a while it&rsquo;s left almost entirely out.
+    </div>
+    <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/vtt-maps-and-shadowrun-info/" class="link black dim">
+        Vtt Maps and Shadowrun Info
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      After doing some digging and trying to find some good resources for VTT maps (A question that I see gets posted all over the place). I also needed a bit of a lighter post as I finish up the final touches on “Blood On the Pavement”, my next release for the Lonestar Stories first season. This should be available soon! Please take a look at my first releases: Blood For Money!
+    </div>
+    <a href="/posts/vtt-maps-and-shadowrun-info/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/magical-traditions-part-3-santeria/" class="link black dim">
+        Magical Traditions Part 3 Santeria
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books/Sites Used in this article. Magic In The Shadows SR3 Core aboutsanteria.com - Vocab For Santeria Images are used from Creative Common Licenses. As we forge ahead in new paths of magic in the world we come to another tradition that fall outside of the UCAS and CAS control for the majority of their practitioners. Yoruba in this cases. This faith has similar bone structures of Voodoo and Palo Mayombe. With powerful spirits being called to in order to effect change and offerings to be left and honor to be given.
+    </div>
+    <a href="/posts/magical-traditions-part-3-santeria/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/cyberpunk-stl-files-for-props/" class="link black dim">
+        Cyberpunk Stl Files for Props
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      STL Files for Shadowrun and Cyberpunk (Red or otherwise)
+So my table is pretty extreme when it comes to making props and cityscapes. We just love being drawn in by massive 3d print builds and honestly, once you know where to look, it mostly comes down to time. The cost of these things is pretty tiny in the long run. $100 of filament can go a LONG freaking way.
+So I wanted to put together a list of stuff we used to print out the mega city that we play in.
+    </div>
+    <a href="/posts/cyberpunk-stl-files-for-props/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/what-shadowrun-edition-should-i-choose/" class="link black dim">
+        What Shadowrun Edition Should I Choose
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      One of the most common questions we get on the various Shadowrun Subreddits is what edition is right for me and my group? Think is unfortunately always answered with the obvious “It depends”. I’m going to hopefully lay out all the information to make the choice for you and your group. Each edition has a lot to offer and gives a completely different feel to your game. Let’s see where your group falls.
+    </div>
+    <a href="/posts/what-shadowrun-edition-should-i-choose/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
         
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
@@ -203,29 +850,6 @@
       Books Useful for this article. Magic In The Shadows SR3 Core Street Wyld One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it&rsquo;s very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof!
     </div>
     <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/gm-help/" class="link blue hover-black">
-            Tag: GM Help
-          </a>
-        </h2>
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/unusual-rewards/" class="link black dim">
-        Unusual Rewards for Shadowruns
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Books Used in this article. SR3 Core Mr. Johnson&rsquo;s Little Black Book Shadowrun is a game about high risk and high rewards. Too often we however only see rewards of nuyen. Some Gamemasters stretch their legs and add in things like extra contacts or some exotic ammos, but when was the last time you had something like a program, spell or exotic material for resale? Each of those rewards can lead to more stories and more stories is ALWAYS better!
-    </div>
-    <a href="/posts/unusual-rewards/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -348,6 +972,22 @@ As these are free to distribute I wanted to ensure it had a place among the arch
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
+      <a href="/posts/character-sheets/" class="link black dim">
+        Character Sheets
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      After doing some digging into character sheets for an up and coming game. I suddenly realize the crap shoot that was finding character sheets for Shadowrun. On one hand, it makes sense. The IP has been shared and scattered to the winds across half a dozen companies all keeping their own digital presence. On the other, we used to have things like dumpshock.org to keep us with what we needed. Nowadays, well it&rsquo;s a whole different ball game.
+    </div>
+    <a href="/posts/character-sheets/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
       <a href="/posts/digital-tools-for-a-better-game/" class="link black dim">
         Digital Tools for a Better Game
       </a>
@@ -394,8 +1034,8 @@ As these are free to distribute I wanted to ensure it had a place among the arch
         
       
         <h2 class="f1">
-          <a href="/tags/gm-helper/" class="link blue hover-black">
-            Tag: GM Helper
+          <a href="/tags/3rd-edition/" class="link blue hover-black">
+            Tag: 3rd Edition
           </a>
         </h2>
         
@@ -403,14 +1043,14 @@ As these are free to distribute I wanted to ensure it had a place among the arch
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="link black dim">
-        Spells - Buying, Learning and Forms
+      <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="link black dim">
+        Anchoring Foci and Spells and Why You Should Be Using Them More Often
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Books Useful for this article. Magic In The Shadows SR3 Core Street Wyld One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it&rsquo;s very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof!
+      When we play games with magic often we look at it in the lens of our understanding most of us learned from games like Dungeons and Dragons. That is to say that magical people always go into combat with magical shields and energy blasts. Fireballs and Counterspells to keep yourself from getting fried. Shadowrun has a lot of this too, but there is more insidious magic that exists and it’s as old as the human race.
     </div>
-    <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -419,15 +1059,16 @@ As these are free to distribute I wanted to ensure it had a place among the arch
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/custom-sr2e-sheets-for-roll20/" class="link black dim">
-        Custom Shadowrun 2nd Edition Sheets for Roll20
+      <a href="/posts/fancy-program-name/" class="link black dim">
+        Fancy Program Name
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      As we continue to march forward in reclaiming our past a few people stepped up and created tools for our future. One such person is Lord Nago. He has created several pieces for a 2nd Edition Shadowrun Roll20 setup. With his permission i am making this post and hosting these files for him. Feel free to reach out to him on Reddit if you have questions or requests!
-Here is his original post on Reddit: https://www.
+      Program Names for more immersion I&rsquo;ve always wanted to sit down and write down some fun program names for decking programs. Having programs with ratings is one of the things that made older editions of Shadowrun infinitely more fun.
+This is an attempt to make something more interesting for folks. Let me know if this is something folks enjoy and if they would want more of them!
+Analyze Program Suite Rating Name Rating 1 Preliminary Scan Mk1 Rating 2 Insight Probe V2 Rating 3 DataSight Recon 3.
     </div>
-    <a href="/posts/custom-sr2e-sheets-for-roll20/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/posts/fancy-program-name/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -436,22 +1077,72 @@ Here is his original post on Reddit: https://www.
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/character-sheets/" class="link black dim">
-        Character Sheets
+      <a href="/posts/erratasr3/" class="link black dim">
+        Shadowrun 3rd Edition - Errata
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      After doing some digging into character sheets for an up and coming game. I suddenly realize the crap shoot that was finding character sheets for Shadowrun. On one hand, it makes sense. The IP has been shared and scattered to the winds across half a dozen companies all keeping their own digital presence. On the other, we used to have things like dumpshock.org to keep us with what we needed. Nowadays, well it&rsquo;s a whole different ball game.
+      This is a scrape from the https://www.shadowrunrpg.com site for ALL of their Erratas. They seem to have kind of let this go to seed and I know a TON of people are looking for this. I take no claim for any of this, I just want to preserve it for future generations to have the corrections they might be looking for.
+Shadowrun 3rd Edition Errata Version 4.1 Date: 02/28/2004
+All changes are reflected in the corrected thirteenth printing of Shadowrun, Third Edition (the fourth printing by FanPro).
     </div>
-    <a href="/posts/character-sheets/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/posts/erratasr3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/matrix-example-doc-wagon/" class="link black dim">
+        Matrix Example - Doc Wagon
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Used in this article. Matrix Target: Matrix SR3 Core As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems.
+    </div>
+    <a href="/posts/matrix-example-doc-wagon/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/matrix-system-examples/" class="link black dim">
+        Matrix System Examples - Grid Guide
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Used in this article. Matrix Target: Matrix SR3 Core A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obsessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitalism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.
+    </div>
+    <a href="/posts/matrix-system-examples/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/sr3-matrix-sheaf-generator/" class="link black dim">
+        Shadowrun 3rd Edition - Matrix Security Sheaf Generator
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Used in this article. Matrix Target: Matrix SR3 Core Awhile ago we had need for a good security generator. I know there have been quite a few, and I checked on an old one that I used to use, and the hosting was going out on it. I took a lot of the concepts and rolled them into a new React project. It goes a bit above and beyond for it most of what was there.
+    </div>
+    <a href="/posts/sr3-matrix-sheaf-generator/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/real-talk/" class="link blue hover-black">
-            Tag: Real Talk
+          <a href="/tags/cyberpunk-red/" class="link blue hover-black">
+            Tag: Cyberpunk RED
           </a>
         </h2>
         
@@ -459,14 +1150,182 @@ Here is his original post on Reddit: https://www.
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/ads-and-moving-forward/" class="link black dim">
-        Affliation and Moving Forward
+      <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="link black dim">
+        Running Divided Assets in Cyberpunk Red
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      After doing a lot of thinking about this little side project of mine, I had decided I perhaps needed to begin to supplement the cost of this website/hosting for tools/investment of time. I hate to make any kind of clutter or cause anyone any strife when it comes to reading my articles, using my tools, or just generally enjoying the spirit of the reason my site exists. However, seeing the cost continue to rise, I will need to come up with something.
+      Most of you know me as someone who writes things for Shadowrun and Cyberpunk concepts in general. I currently am playing Cyberpunk Red just as often as playing Shadowrun 3rd edition. So I begin to see the tying threads between concepts and stories. A lot of stories in Shadowrun cannot be ported to Cyberpunk. The fantasy element is played pretty often in these stories, but every once in a while it&rsquo;s left almost entirely out.
     </div>
-    <a href="/posts/ads-and-moving-forward/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/posts/running-divided-assets-in-cyberpunk-red/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/cyberpunk/" class="link blue hover-black">
+            Tag: Cyberpunk
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/older-cyberpunk-tech-movies/" class="link black dim">
+        Older Cyberpunk Tech Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      I’ve always found it so interesting that so many movies out there feel like the framework for what became Shadowrun and Cyberpunk. I know the zeitgeist of the time was that technology was going to give us a world that would allow for infinite convenience and automation. That would have allowed tech to come into every aspect of our lives, from micro foods that give us all of the nutrients needed to cars that could beat traffic by flying into the sky.
+    </div>
+    <a href="/posts/older-cyberpunk-tech-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/the-differences-between-cyberpunk-and-shadowrun/" class="link black dim">
+        The Differences Between Cyberpunk and Shadowrun
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      In the vast and complex landscape of cyberpunk fiction, two prominent universes have captured the imaginations of fans worldwide: Cyberpunk and Shadowrun. While both exist within the gritty, neon-lit framework of cyberpunk, they diverge significantly in their themes, with Cyberpunk focusing on legacy, and Shadowrun focusing on the living. I hope to highlight how each universe uniquely defines the essence of its characters and the worlds they inhabit and why this matters to you and your game.
+    </div>
+    <a href="/posts/the-differences-between-cyberpunk-and-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/top-five-cyberpunk-movies/" class="link black dim">
+        Top Five Cyberpunk Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Sometimes you just need a movie to get your Cyberpunk on. What better way than to catch some of the best Cyberpunk movies out there. Anyone running Shadowrun should have at least seen these movies mentioned in order to get some insight into the minds and feelings surrounding the game as its inception. Some of these are newer movies but based on much older properties.
+What is Cyberpunk? This is a question that is often asked when it comes to trying to wrap your head around the Cyberpunk Genre.
+    </div>
+    <a href="/posts/top-five-cyberpunk-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/movies/" class="link blue hover-black">
+            Tag: Movies
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/older-cyberpunk-tech-movies/" class="link black dim">
+        Older Cyberpunk Tech Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      I’ve always found it so interesting that so many movies out there feel like the framework for what became Shadowrun and Cyberpunk. I know the zeitgeist of the time was that technology was going to give us a world that would allow for infinite convenience and automation. That would have allowed tech to come into every aspect of our lives, from micro foods that give us all of the nutrients needed to cars that could beat traffic by flying into the sky.
+    </div>
+    <a href="/posts/older-cyberpunk-tech-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/top-five-cyberpunk-movies/" class="link black dim">
+        Top Five Cyberpunk Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Sometimes you just need a movie to get your Cyberpunk on. What better way than to catch some of the best Cyberpunk movies out there. Anyone running Shadowrun should have at least seen these movies mentioned in order to get some insight into the minds and feelings surrounding the game as its inception. Some of these are newer movies but based on much older properties.
+What is Cyberpunk? This is a question that is often asked when it comes to trying to wrap your head around the Cyberpunk Genre.
+    </div>
+    <a href="/posts/top-five-cyberpunk-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/opinion/" class="link blue hover-black">
+            Tag: Opinion
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/older-cyberpunk-tech-movies/" class="link black dim">
+        Older Cyberpunk Tech Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      I’ve always found it so interesting that so many movies out there feel like the framework for what became Shadowrun and Cyberpunk. I know the zeitgeist of the time was that technology was going to give us a world that would allow for infinite convenience and automation. That would have allowed tech to come into every aspect of our lives, from micro foods that give us all of the nutrients needed to cars that could beat traffic by flying into the sky.
+    </div>
+    <a href="/posts/older-cyberpunk-tech-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/what-shadowrun-edition-should-i-choose/" class="link black dim">
+        What Shadowrun Edition Should I Choose
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      One of the most common questions we get on the various Shadowrun Subreddits is what edition is right for me and my group? Think is unfortunately always answered with the obvious “It depends”. I’m going to hopefully lay out all the information to make the choice for you and your group. Each edition has a lot to offer and gives a completely different feel to your game. Let’s see where your group falls.
+    </div>
+    <a href="/posts/what-shadowrun-edition-should-i-choose/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/the-differences-between-cyberpunk-and-shadowrun/" class="link black dim">
+        The Differences Between Cyberpunk and Shadowrun
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      In the vast and complex landscape of cyberpunk fiction, two prominent universes have captured the imaginations of fans worldwide: Cyberpunk and Shadowrun. While both exist within the gritty, neon-lit framework of cyberpunk, they diverge significantly in their themes, with Cyberpunk focusing on legacy, and Shadowrun focusing on the living. I hope to highlight how each universe uniquely defines the essence of its characters and the worlds they inhabit and why this matters to you and your game.
+    </div>
+    <a href="/posts/the-differences-between-cyberpunk-and-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/top-five-cyberpunk-movies/" class="link black dim">
+        Top Five Cyberpunk Movies
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Sometimes you just need a movie to get your Cyberpunk on. What better way than to catch some of the best Cyberpunk movies out there. Anyone running Shadowrun should have at least seen these movies mentioned in order to get some insight into the minds and feelings surrounding the game as its inception. Some of these are newer movies but based on much older properties.
+What is Cyberpunk? This is a question that is often asked when it comes to trying to wrap your head around the Cyberpunk Genre.
+    </div>
+    <a href="/posts/top-five-cyberpunk-movies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -477,6 +1336,22 @@ Here is his original post on Reddit: https://www.
             Tag: Magical Traditions
           </a>
         </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/magical-traditions-part-3-santeria/" class="link black dim">
+        Magical Traditions Part 3 Santeria
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books/Sites Used in this article. Magic In The Shadows SR3 Core aboutsanteria.com - Vocab For Santeria Images are used from Creative Common Licenses. As we forge ahead in new paths of magic in the world we come to another tradition that fall outside of the UCAS and CAS control for the majority of their practitioners. Yoruba in this cases. This faith has similar bone structures of Voodoo and Palo Mayombe. With powerful spirits being called to in order to effect change and offerings to be left and honor to be given.
+    </div>
+    <a href="/posts/magical-traditions-part-3-santeria/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
         
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
@@ -506,6 +1381,109 @@ Here is his original post on Reddit: https://www.
       Books Used in this article. Magic In The Shadows SR3 Core I&rsquo;ve always been drawn to various faiths as I grew up. What people believed and why was always so interesting to me. Being able to walk into a new church, temple or holy place and seeing the customs, hearing the music and enjoying lessons the faiths had. I tend to gravitate towards character concepts that have faith as their foundation.
     </div>
     <a href="/posts/magical-traditions-in-your-game/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/product_reviews/" class="link blue hover-black">
+            Tag: Product_reviews
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/review-enhance-adventurers-bag/" class="link black dim">
+        Product Review - Enhance Travel Bag &#39;Adventurer&#39;
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Enhance Travel Bag Adventurer
+I have never written one of these product reviews, but as I understand it, this is how you make a successful blog: finding the best of the items for those who would actually use them. I thought perhaps I would start with something I use pretty often. So let&rsquo;s talk about the “ENHANCE Travel Bag”
+I’m one of those people who have to own the books. I get that people love PDFs, but for me there is nothing better than a new gaming book for something I am running.
+    </div>
+    <a href="/posts/review-enhance-adventurers-bag/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/any-edition/" class="link blue hover-black">
+            Tag: Any Edition
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/what-should-i-play-in-shadowrun/" class="link black dim">
+        What Should I Play in Shadowrun?
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Useful for this article. SR1 Core - PDF SR2 Core SR3 Core - PDF SR4 Core - PDF SR5 Core SR6 Core - PDF This question is more common for new players than most GMs realize. Without classes and sets of specific dynamics to choose from, some players (especially those from games like Dungeons and Dragons) have a hard time understanding what kind of character to put together and that makes character creation overall much more difficult.
+    </div>
+    <a href="/posts/what-should-i-play-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/unusual-rewards/" class="link black dim">
+        Unusual Rewards for Shadowruns
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Used in this article. SR3 Core Mr. Johnson&rsquo;s Little Black Book Shadowrun is a game about high risk and high rewards. Too often we however only see rewards of nuyen. Some Gamemasters stretch their legs and add in things like extra contacts or some exotic ammos, but when was the last time you had something like a program, spell or exotic material for resale? Each of those rewards can lead to more stories and more stories is ALWAYS better!
+    </div>
+    <a href="/posts/unusual-rewards/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="link black dim">
+        Spells - Buying, Learning and Forms
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Useful for this article. Magic In The Shadows SR3 Core Street Wyld One of the things a lot of people may overlook in Shadowrun is how spells are purchased/learned in game. I think it&rsquo;s very important to understand that mages and shamans need to get access to either teachers or buying formulas. This can also be an excellent opportunity to bring in new NPCs and teachers. In most games I see a lot of people just spend the karma and poof!
+    </div>
+    <a href="/posts/spells-buying-and-learning-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/player-help/" class="link blue hover-black">
+            Tag: Player Help
+          </a>
+        </h2>
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/what-should-i-play-in-shadowrun/" class="link black dim">
+        What Should I Play in Shadowrun?
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Books Useful for this article. SR1 Core - PDF SR2 Core SR3 Core - PDF SR4 Core - PDF SR5 Core SR6 Core - PDF This question is more common for new players than most GMs realize. Without classes and sets of specific dynamics to choose from, some players (especially those from games like Dungeons and Dragons) have a hard time understanding what kind of character to put together and that makes character creation overall much more difficult.
+    </div>
+    <a href="/posts/what-should-i-play-in-shadowrun/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -665,75 +1643,18 @@ As these are free to distribute I wanted to ensure it had a place among the arch
 </div>
 
         
-      
-        <h2 class="f1">
-          <a href="/tags/3rd-edition/" class="link blue hover-black">
-            Tag: 3rd Edition
-          </a>
-        </h2>
-        
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
+    <span class="f6 db">NullSheen - Tools for Shadowrun (And more)</span>
     <h1 class="f3 near-black">
-      <a href="/posts/erratasr3/" class="link black dim">
-        Shadowrun 3rd Edition - Errata
+      <a href="/archive/" class="link black dim">
+        Archive
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      This is a scrape from the https://www.shadowrunrpg.com site for ALL of their Erratas. They seem to have kind of let this go to seed and I know a TON of people are looking for this. I take no claim for any of this, I just want to preserve it for future generations to have the corrections they might be looking for.
-Shadowrun 3rd Edition Errata Version 4.1 Date: 02/28/2004
-All changes are reflected in the corrected thirteenth printing of Shadowrun, Third Edition (the fourth printing by FanPro).
+      As I continue on with this site, I stumble across all kinds of things I want archived. I hope that this archive out survives me and that we can preserve things that would once be just a figment in someones memory for those who have yet to pick up a Shadowrun book. This is all done in that effort, to make a preserved snap shot of the world as we knew it when we first began our own journeys.
     </div>
-    <a href="/posts/erratasr3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/matrix-example-doc-wagon/" class="link black dim">
-        Matrix Example - Doc Wagon
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Books Used in this article. Matrix Target: Matrix SR3 Core As we continue with these examples we are going to continue to add more complexities to these systems. In this system we are going to introduce multiple nodes. Each node itself will have its own security sheaf. Each system will be marked with a letter and its Sheaf will be added in a table next to its letter. A new rule you will need to pick up as well is that security tally carries as the decker moves between different subsystems.
-    </div>
-    <a href="/posts/matrix-example-doc-wagon/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/matrix-system-examples/" class="link black dim">
-        Matrix System Examples - Grid Guide
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Books Used in this article. Matrix Target: Matrix SR3 Core A lot of cyberpunk revolves around crazy new technology. In almost every system imaginable, this includes some kind of virtual reality system that people have become obsessed with. Part of this is due to the escape it offers. A paradise outside of the nightmare society has wrought with shifting laws to allow for hyper capitalism. Regardless of why, it leads to characters who want to enter this world and most importantly, take on the counter cultural heroes known as Hackers, Deckers, Phreakers or the likes.
-    </div>
-    <a href="/posts/matrix-system-examples/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/sr3-matrix-sheaf-generator/" class="link black dim">
-        Shadowrun 3rd Edition - Matrix Security Sheaf Generator
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Books Used in this article. Matrix Target: Matrix SR3 Core Awhile ago we had need for a good security generator. I know there have been quite a few, and I checked on an old one that I used to use, and the hosting was going out on it. I took a lot of the concepts and rolled them into a new React project. It goes a bit above and beyond for it most of what was there.
-    </div>
-    <a href="/posts/sr3-matrix-sheaf-generator/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/archive/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
@@ -912,7 +1833,9 @@ So this is my attempt to fix it so you can make chase TNs and Scenes that will m
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Coding Adventure Type: Cyber Crime
+      Books Useful for this article. SR2 Core Lone Star This post uses my Lonestar Campaign Setting found here.
+Adventure Title: Coding
+Adventure Type: Cyber Crime
 Setting: Seattle, 2075
 Plot Overview:
 The group of officers arrive on scene of a catastrophic traffic accident (Go Gang related attack with civilians caught in the crossfire). The EMTs arrive after the officers give what aid they can. One of the victims has an incredibly rare blood type and is an organ donor (this rare type is resistant to organ growth, so vat grown organs are off the table) and needs to be rushed to the nearest hospital (with police escort).
@@ -931,10 +1854,11 @@ The group of officers arrive on scene of a catastrophic traffic accident (Go Gan
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Adventure Title: Blood for Money Adventure Type: Kidnapping Setting: Seattle, 2075 Plot Overview:
-Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).
-NPCs:
-Brendon Evers - Rich Kid Jacob Evers - Rich Kid&rsquo;s Father Elizabeth Evers - Rich Kid&rsquo;s Mother Eddy Bibbee - Idiot Kidnapper Simon Smith - Idiot Kidnapper Kyle Reiner - Lead Idiot Locations:
+      Books Useful for this article. SR2 Core Lone Star This post uses my Lonestar Campaign Setting found here.
+Adventure Title: Blood for Money
+Adventure Type: Kidnapping
+Setting: Seattle, 2075
+Plot Overview: Brendon Evers thinks he has a perfect plan to finally get out from under his parents thumb. However his two friends (Eddy and Simon) let slip to their more dangerous street friend Kyle, who has an idea to make everyone rich (except Brendon of course, he will be dead).
     </div>
     <a href="/posts/blood-for-money/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
@@ -950,8 +1874,7 @@ Brendon Evers - Rich Kid Jacob Evers - Rich Kid&rsquo;s Father Elizabeth Evers -
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Lone Star Campaign For a long time i&rsquo;ve had a desire to run a Lone Star game. I&rsquo;ve always been a huge fan of police procedural&rsquo;s on TV and I thought i&rsquo;d take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.
-That makes this first post a setup post with a few special rules.
+      Adventures using this setting Blood For Money Coding Lone Star Campaign For a long time i&rsquo;ve had a desire to run a Lone Star game. I&rsquo;ve always been a huge fan of police procedural&rsquo;s on TV and I thought i&rsquo;d take a stab a writing a small campaign for it. I then had the idea of releasing these as episodic posts someone might be able to use for their own campaign.
     </div>
     <a href="/posts/lonestar-game/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
@@ -963,16 +1886,20 @@ That makes this first post a setup post with a few special rules.
   </div>
 
     </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+    
+<a href="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Click" style="display: flex;margin-bottom: 10px;">
+  <img border="0" src="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Get" width="728" height="90" alt="Noble Knight Games" style="margin: 0 auto;">
+</a>
+
+
+<footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
-    &copy;  NullSheen Shadowrun Tools 2024 
+    &copy;  NullSheen Shadowrun Tools 2025 
   </a>
     <div>
-<div class="ananke-socials">
-  
-</div>
-</div>
+      <a class="f4 fw4 hover-white no-underline white-70" href="https://www.nullsheen.com/privacy-policy/">Privacy Policy</a>
+    </div>
   </div>
 </footer>
 
