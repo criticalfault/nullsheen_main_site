@@ -52,3 +52,8 @@ show_reading_time = true
   name = "Shadowrun Software"
   weight = 5
   url = "https://www.nullsheen.com/software/" 
+
+[[menu.main]]
+  name = "VTT Map Library"
+  weight = 6
+  url = "https://www.nullsheen.com/vtt-map-library/" 
