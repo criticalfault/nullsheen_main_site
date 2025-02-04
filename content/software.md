@@ -71,15 +71,21 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Chummer5|[https://github.com/chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Another of the Chummer series of character generators. Has to be installed|
 |Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
 |Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
-|Super Book|[SR5 SuperBook](/files/Shadowrun_5e_Superbook.pdf)|A bunch of useful 5e info all jammed together|
+|SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
+|Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 |Omae|[https://oma3.vercel.app/](https://oma3.vercel.app/)|Character Generator - Web / Phone app!|
+|Commlink|[https://commlink.rocks/](https://commlink.rocks/)|Character Management Desktop Program|
+|Genesis RPG Framework - SR6|[https://www.rpgframework.de/en/roleplaying/shadowrun-6/](https://www.rpgframework.de/en/roleplaying/shadowrun-6/)|Character Manager and creator for SR6|
+|Foundry Framework for SR6|[https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/](https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/)|Foundry landing page, git repo linked on page|
+|Google Sheet Character Generator|[https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727](https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727)||
 
 ## Generic Tools
 | Tool | URL | Description |
 | ------- | ----- | ---------- |
 |Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|Just a generic dice roller!|
+|iOS Dice Roller App for SR4-6|[https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219](https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219)||
