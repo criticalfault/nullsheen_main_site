@@ -2,13 +2,17 @@ baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen Shadowrun Tools'
 theme = 'ananke'
-Paginate = 10
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
 
 [params]
   recent_posts_number = 6
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
 
 [[params.author]]
   email = 'dean@nullsheen.com'
@@ -43,3 +47,13 @@ show_reading_time = true
   name = "Shadowrun Podcasts"
   weight = 4
   url = "https://www.nullsheen.com/shadowrun-podcasts-list/" 
+  
+[[menu.main]]
+  name = "Shadowrun Software"
+  weight = 5
+  url = "https://www.nullsheen.com/software/" 
+
+[[menu.main]]
+  name = "VTT Map Library"
+  weight = 6
+  url = "https://www.nullsheen.com/vtt-map-library/" 
