@@ -36,7 +36,8 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Matrix Builder|https://matrix2.nullsheen.com/| Allows for detailed matrix creation|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com/|Tracks initiative for PCs and NPCs with condition monitors|
 |Character Generator|https://character-generator.nullsheen.com/|A Beta character generator for SR2 and 3.|
-|The Shop|[The Shop](/files/Shop142s.zip)|A vehicle builder for 2nd Edition. Doesn't run on 64 bit systems.|
+|The Shop (Original)|[The Shop (Original)](/files/Shop142s.zip)|A vehicle builder for 2nd Edition. Doesn't run on 64 bit systems.|
+|The Shop (Windows 10/11 update)|[The Shop (Windows 10/11 update)](/files/ShopWindows10.zip)|I updated to VB6 so it will run on 64 bit systems!|
 |SK Soft|[SK Soft](/files/sksoft.zip)|Skill Soft Generator for 2nd Edition. Doesn't run on 64 bit systems.|
 |NPC Sheets|[NPC Sheets](https://docs.google.com/spreadsheets/d/14E4SBoRZmQ7Imho7Z4iS-zeDbnyja9WS0GI2Ni6-E2g/edit#gid=0)| 5 NPC blocks ready to use via Google Sheets. (Made by illogicaldolphin on Discord! Thanks for your work!)|
 |NPC Sheets|[NPC Sheets](/files/SR2_NPC_stat_blocks.pdf)| 10 NPC blocks ready to use as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
