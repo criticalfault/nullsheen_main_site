@@ -1,5 +1,5 @@
 ---
-title: "Double Explosure Review"
+title: "Double Exposure Review"
 date: 2025-01-27T01:20:01Z
 draft: false
 featured_image: "/images/DoubleExposure.jpg"
