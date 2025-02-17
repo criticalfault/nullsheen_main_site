@@ -6,6 +6,11 @@ DefaultContentLanguage = "en"
 enableRobotsTXT = true
 show_reading_time = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   recent_posts_number = 6
 
