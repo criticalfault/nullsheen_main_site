@@ -83,6 +83,9 @@ Angel’s Dead, but Angel Lives in us all. Fight the Power. Stay true to yoursel
 
 If you want to read Dark Angel for yourself or run it for your group, you can find it here: 
 
+
+[Get Dark Angel on DriveThruRPG](https://www.drivethrurpg.com/product/108116?affiliate_id=135005){.cta-button}
+
 * [PDF from DriveThruRPG](https://www.drivethrurpg.com/en/product/108116/shadowrun-dark-angel?src=affiliate135005&affiliate_id=135005)
 * [Physical Book from Amazon](https://amzn.to/4bRStfb)
 * [Physical Book from Noble Knight](https://www.nobleknight.com/P/1625452553/Dark-Angel?awid=1473)
