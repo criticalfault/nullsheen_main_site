@@ -27,7 +27,7 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Bug City Blues|[Spotify](https://open.spotify.com/show/1x23ClaSIoKIPz19TXtMF2)|6th Edition|
 |Tales from the Stuffer Shack|[Podchaser](https://www.podchaser.com/podcasts/tales-from-the-stuffer-shack-122560)|Needs Description|
 |Critical Glitch|[Libsyn](https://criticalglitch.libsyn.com)|Inactive, but still downloadable|
-|Berlin - It's a Bug not a ferature|[Spotify](https://open.spotify.com/show/3VwoiQRPpYknlBwyF8jpFv?si=9f9c4f9c2f514016)|In German,6th Edition |
+|Berlin - It's a Bug not a ferature|[Spotify](https://open.spotify.com/show/3VwoiQRPpYknlBwyF8jpFv?si=9f9c4f9c2f514016)|In German, 6th Edition |
 |Burning Edge|[Spotify](https://open.spotify.com/show/3Ot0otxSrBDj3h1tu3sRPE?si=cc0f301c0ce64577)||
 |What the Dice|[Spotify](https://open.spotify.com/show/34HiliBLUATm9rY8UXoC3d?si=0a33a5b4c121483e)||
 |Without a Net|[Spotify](https://open.spotify.com/show/5Ecqmt00CgkKnMNd0uKojc?si=0dfe8055be5847f5)||
@@ -35,6 +35,7 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Crit Squad|[Spotify](https://open.spotify.com/show/0Z8beedmxgzgPHJca7fbsQ?si=1b29c54fa3384b5e)||
 |Deniable Assets|[Spotify](https://open.spotify.com/show/034Wy0JQZK0jbTPzziRzQF)|In-Character, Audio Drama|
 |Relative Dimension|[Podbean](https://relativedimension.podbean.com/page/2/)|Shadowrun, Earthdawn and more!|
+|Shadowrun. South Will Rise.|[YouTube](https://youtube.com/playlist?list=PLJuKhUNs-3-QUfjXXpj9jInbdq2X-au9q)|In Russian, 4th edition, drama, action, horror (and horrors) and ED crossover.|
 
 
 ## Lore / Drama Podcasts
