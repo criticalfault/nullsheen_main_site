@@ -15,6 +15,7 @@ My Books!
 |1      | Lone Star Stories: Blood For Money| [DriveThruRPG](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money?src=affiliate135005&affiliate_id=135005) |
 |2      |Lone Star Stories: Blood On The Pavement| [DriveThruRPG](https://legacy.drivethrurpg.com/product/490882/Lone-Star-Stories-Blood-On-The-Pavement?src=affiliate135005&affiliate_id=135005) |
 |3      |Lone Star Stories: Protect and Serve |  [DriveThruRPG](https://legacy.drivethrurpg.com/product/507031/Lone-Star-Stories-Protect-and-Serve?src=affiliate135005&affiliate_id=135005) |
+|4|Lone Star Stories: Blood Of The Lamb| [DriveThruRPG](https://legacy.drivethrurpg.com/m/product/514075?src=affiliate135005&affiliate_id=135005)|
 
 
 For anything I dont have listed in the table below, you may be able to find on [Ebay](https://www.ebay.com/sch/i.html?_nkw=shadowrun&ssPageName=GSTL). Sometimes you get lucky! 
