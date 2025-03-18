@@ -52,6 +52,11 @@ All Props listed here are downloadable for free from Thingiverse!
 * Complex Data Storage [https://www.thingiverse.com/thing:4946693](https://www.thingiverse.com/thing:4946693)
 * Scanner	[https://www.thingiverse.com/thing:3203711](https://www.thingiverse.com/thing:3203711)
 * Secure Storage [https://www.thingiverse.com/thing:4358506](https://www.thingiverse.com/thing:4358506)
+* Security Cards [https://www.thingiverse.com/thing:3268077](https://www.thingiverse.com/thing:3268077)
+    * I printed these one grey and then filled in the little circle with the colors I wanted each keycard to be. Worked great!
+* Security Card/ MultiPass! [https://www.thingiverse.com/thing:2317320](https://www.thingiverse.com/thing:2317320)
+* Security Pass Fallout Style [https://www.thingiverse.com/thing:2094532](https://www.thingiverse.com/thing:2094532)
+* Security Badge Holder [https://www.thingiverse.com/thing:867049](https://www.thingiverse.com/thing:867049)
 * MacGuffins
     * Battery [https://www.thingiverse.com/thing:6842713](https://www.thingiverse.com/thing:6842713#google_vignette)
     * Reactor Core [https://www.thingiverse.com/thing:2036876](https://www.thingiverse.com/thing:2036876)
