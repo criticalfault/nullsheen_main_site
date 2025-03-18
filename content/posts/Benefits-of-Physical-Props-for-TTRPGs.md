@@ -21,7 +21,7 @@ A prop in the hand, tells a story. Though, it can be very difficult to get it to
 
 ### Tangible Connection
 
-Physical props act as tangible reminders of key adventure elements, improving player recall and engagement. Some adventures revolve around a very specific item. Something like Eye Witness (Which revolves around a Cybereye) makes such a pivotal piece of lore and world building that physically handing your players the item really impresses upon them what is most importance of that one item. Handing your players that cybereye (Which i’d recommend this one if you want to do it! https://www.thingiverse.com/thing:2772496), they know instantly that the item is crucial enough to your story that you went out of your way to make one. 
+Physical props act as tangible reminders of key adventure elements, improving player recall and engagement. Some adventures revolve around a very specific item. Something like Eye Witness (Which revolves around a Cybereye) makes such a pivotal piece of lore and world building that physically handing your players the item really impresses upon them what is most importance of that one item. Handing your players that cybereye (Which i’d recommend this one if you want to do it! [https://www.thingiverse.com/thing:2772496](https://www.thingiverse.com/thing:2772496) ), they know instantly that the item is crucial enough to your story that you went out of your way to make one. 
 
 
 ### Memory Anchors
