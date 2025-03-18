@@ -40,6 +40,7 @@ Being handed something from a world that is just words on the paper flips a swit
 All Props listed here are downloadable for free from Thingiverse!
 
 * Braindance Wreath / TrodNet [https://www.thingiverse.com/thing:4789917](https://www.thingiverse.com/thing:4789917)
+* Cyber Eye [https://www.thingiverse.com/thing:2772496](https://www.thingiverse.com/thing:2772496)
 * Data Chips
     * Data Shard / Data Chip [https://www.thingiverse.com/thing:4713294](https://www.thingiverse.com/thing:4713294)
     * Fancier Shard / Data Chip [https://www.thingiverse.com/thing:6313928](https://www.thingiverse.com/thing:6313928)
