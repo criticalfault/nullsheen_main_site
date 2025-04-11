@@ -4,6 +4,7 @@ date: 2024-05-10T00:44:31Z
 draft: false
 featured_image: "/images/"
 tags: ['']
+type: page
 ---
 
 Are you passionate about digital preservation? Do you possess software tools that once played a pivotal role at your table or other creative endeavors you want preserved? If so, I’m eager to connect with you. My mission is to archive essential tools before they vanish into history. Along this journey, I’ve met several individuals who share this vision. They are the custodians of software that, though no longer available, once laid the groundwork for innovation and eased the burdens of GMs.
