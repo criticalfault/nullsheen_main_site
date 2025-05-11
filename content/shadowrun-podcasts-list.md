@@ -36,6 +36,7 @@ I've been looking to begin cataloging even more Shadowrun resources for folks so
 |Deniable Assets|[Spotify](https://open.spotify.com/show/034Wy0JQZK0jbTPzziRzQF)|In-Character, Audio Drama|
 |Relative Dimension|[Podbean](https://relativedimension.podbean.com/page/2/)|Shadowrun, Earthdawn and more!|
 |Shadowrun. South Will Rise.|[YouTube](https://youtube.com/playlist?list=PLJuKhUNs-3-QUfjXXpj9jInbdq2X-au9q)|In Russian, 4th edition, drama, action, horror (and horrors) and ED crossover.|
+|Fun City|[Website](https://funcity.ventures/)|BG Music, Full SFX, dripping with narrative goodness|
 
 
 ## Lore / Drama Podcasts
