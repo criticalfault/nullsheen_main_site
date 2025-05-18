@@ -269,7 +269,7 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 ### Season 4 [4th Edition]
 - [Shadowrun_Mission_Season_Four_Files](/files/Missions/SRM4/Shadowrun_Mission_Season_Four_Files.pdf)
 - [SRM 04-00 Back In Business](</files/Missions/SRM4/SRM 04-00 Back In Business.pdf>)
-- [SRM 04-01 Missions - Hiding in the Dark (Buried Underground, Part 1](</files/Missions/SRM4/SRM 04-01 Missions - Hiding in the Dark (Buried Underground, Part 1).pdf>)
+- [SRM 04-01 Missions - Hiding in the Dark (Buried Underground, Part 1)](</files/Missions/SRM4/SRM 04-01 Missions - Hiding in the Dark (Buried Underground, Part 1).pdf>)
 - [SRM 04-02 Extraction (Artifact Rush, Part 1)](</files/Missions/SRM4/SRM 04-02 Extraction (Artifact Rush, Part 1).pdf>)
 - [SRM 04-03 Rally Cry (Buried Underground, Part 2)](</files/Missions/SRM4/SRM 04-03 Rally Cry (Buried Underground, Part 2).pdf>)
 - [SRM 04-04 - Smugglers Blues (Artifact Rush, Part 2)](</files/Missions/SRM4/SRM 04-04 - Smugglers Blues (Artifact Rush, Part 2).pdf>)
