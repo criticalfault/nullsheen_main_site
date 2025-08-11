@@ -66,7 +66,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Chummer4 Repo|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
 |Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)
 |Shadowrun Mob Master|https://toktic.github.io/sr_gmt/|NPC and Group creator for those combats you know are coming|
-|SR4 Current Version: v18|[SR4 Current Version: v18](/files/SR4_Framework18.cmpgn)|VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
+|SR4 Current Version: v18|[SR4 Current Version: v18](/files/SR4_Framework18.cmpgn)|[https://forums.rptools.net/viewtopic.php?t=9002](Read Me) VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
 
 ## Shadowrun 5th Edition
 | Tool        | URL   | Description |
@@ -77,7 +77,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
 |Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
-SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02_01.cmpgn)|VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
+SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02_01.cmpgn)|[https://forums.rptools.net/viewtopic.php?t=9002](Read Me) VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
