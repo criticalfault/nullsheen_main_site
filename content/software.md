@@ -27,6 +27,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Shadowrun Primer|[Shadowrun Primer](/files/shadowrun_primer.pdf)|This was something written by Hair Brained Schemes when they released Shadowrun Returns.|
 |FastJack's VTT Maps|[https://drive.google.com/drive/u/0/folders/1hgbjEtL5GXVdRaeGuV49mt-RY8pdHVAX](https://drive.google.com/drive/u/0/folders/1hgbjEtL5GXVdRaeGuV49mt-RY8pdHVAX)|Tons of VTT Resources|
 |Seattle Map|[https://www.google.com/maps/d/u/0/viewer?mid=1_1ES7tdzvO65eeErMFvEu_uedVM&hl=en_US&ll=47.59829722438376%2C-122.3312584238638&z=15](https://www.google.com/maps/d/u/0/viewer?mid=1_1ES7tdzvO65eeErMFvEu_uedVM&hl=en_US&ll=47.59829722438376%2C-122.3312584238638&z=15)|This has everything marked in real places. Its a super cool Google Maps Project!|
+|Map Tools (Required for some VTT files)|[https://github.com/RPTools/maptool](https://github.com/RPTools/maptool)|This is a custom VTT program. I haven't tested it, but it comes recommended from readers|
 
 ## Shadowrun 1st and 2nd Edition
 
@@ -65,6 +66,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Chummer4 Repo|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
 |Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)
 |Shadowrun Mob Master|https://toktic.github.io/sr_gmt/|NPC and Group creator for those combats you know are coming|
+|SR4 Current Version: v18|[SR4 Current Version: v18](/files/SR4_Framework18.cmpgn)|VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
 
 ## Shadowrun 5th Edition
 | Tool        | URL   | Description |
@@ -75,6 +77,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
 |Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
+SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02_01.cmpgn)|VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
