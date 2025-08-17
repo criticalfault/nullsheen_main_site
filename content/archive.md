@@ -52,6 +52,10 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [Anarchy Character Sheet - Google Sheet](https://docs.google.com/spreadsheets/d/12-YN0UWI9N8mRf9gta6wHLtmAvLaTu9DVJxLSrPZf7E/edit)
 
+## Extra Guides or the Likes
+- [Slang](/files/slang.doc)
+- [Slang2](/files/Cyberpunk_and_Shadowrun_slang_II.docx)
+
 ## Cheat Sheets and Helpful Print Outs
 - [Skill Web - Expanded](/files/Skill_Web.jpg) - By Illogical Dolphin on Discord!
 - [Spell Design Form for 2nd Edition](/files/SR2_Spell_Design_Form.pdf) - Made by browenwhitefire on Discord!
