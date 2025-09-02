@@ -13,7 +13,7 @@ It's been a little while since my last blog post, but that's only because life h
 As with all things 2e, it is lacking a lot of great tools and platforms to make life easier for player and GMs a like due to when it came out and where software was at the time. I've made it one of my life goals to ensure that barrier is removed. To this end I have been working with some folks to create a foundry module for Shadowrun 2e. This is still VERY early in its dev cycle. It needs some dedicated player testers to continue to hammer on it and ensure it has everything one would need to call it a functioning module. 
 
 👉 [Shadowrun 2e Foundry Prototype](https://github.com/criticalfault/foundry-sr2)  
-👉 [Manifest file (for quick updates)](https://github.com/criticalfault/foundry-sr2/releases/latest/download/system.json)  
+👉 [Manifest file (for quick updates)](https://raw.githubusercontent.com/criticalfault/foundry-sr2/main/system.json)  
 
 If this is something you would be interested in play testing or experimenting with to get closer to completion or at least more usable, please reach out to me at dean@nullsheen.com and we can get you setup to do some tickets on github as we all make this the best tool we possibly can.
 
