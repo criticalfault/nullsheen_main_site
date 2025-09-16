@@ -66,7 +66,6 @@ show_reading_time: false
 |Cyberpunk style street car 2|[https://www.thingiverse.com/thing:4761385](https://www.thingiverse.com/thing:4761385)||Free|
 |Go Gangers on Huge bike|[https://www.thingiverse.com/thing:3414426](https://www.thingiverse.com/thing:3414426)||Free|
 |Cyberpunk Police Hover Car|[https://www.thingiverse.com/thing:4077559](https://www.thingiverse.com/thing:4077559)||Free|
-|
 
 
 ## Props
@@ -83,3 +82,4 @@ show_reading_time: false
 |Trauma Team Helmet|[https://www.thingiverse.com/thing:4897526](https://www.thingiverse.com/thing:4897526)|| Free |
 |Night City Police Badge|[https://www.thingiverse.com/thing:4141933](https://www.thingiverse.com/thing:4141933)|| Free |
 |Credstick|[https://www.thingiverse.com/thing:6548818](https://www.thingiverse.com/thing:6548818)|| Free |
+|Bottled Demon Artifact|[/files/BottledDemonFigure.stl](/files/BottledDemonFigure.stl)|| Free |
