@@ -87,18 +87,20 @@ Most scenes in this book end with police, security, gangers, etc rolling in and 
 
 
 ### Props I Made For This Adventure
-I tried to make this as full as an experience as possible. This meant doing some custom modeling and changes for some models I did find in order to make some memoriable props for this adventure. All of these props 
+I tried to make this as full as an experience as possible. This meant doing some custom modeling and changes for some models I did find in order to make some memoriable props for this adventure. All of these props are linked on my (STLs page)[https://www.nullsheen.com/shadowrun-stls/]. If you decide to run this adventure, I highly recommend printing them out. I feel like there is so few times you get to print something like this to hand over to your players. This was really worth it! 
 
 ![image](/images/EyeWitness/CybereyeFront.jpg)
 ![image](/images/EyeWitness/CybereyeBack.jpg)
 ![image](/images/EyeWitness/CybereyeStorage.jpg)
 
 ### Final Thoughts
-This adventure is pretty complicated for what ends up being a pretty straightforward plot. I do like the set dressing you get to put into play as it really helps you sells the cyberpunk world and examine death in a way that most of the players' may never truly think about. How many bodies have your players left on the street never to think about what it means to have that persons loved one have to pick them out in a morgue and put them to rest? 
+This adventure has a pretty complicated back story for what ends up being a pretty straightforward plot to run. Don't worry too much about how to bring most of it to your players. The main core run is simple enough and I haven't seen another run that puts your players in a situation where they are helping a runner who drops all pretenses. That alone is worth the chance on it.
+
+You can find my [GM Notes here](https://docs.google.com/document/d/16C_dX6r9rcgA_Ge7CAPw1caIgBiMBUJ7MGrAx1-dCd4/edit?usp=sharing) where I keep all of the names inline along with a quick plot guide. It helped me keep everything on track.
+
+I will also shout out the set dressing for this one. You get show your players the uncaring and commericalization of death in a cyberpunk world and it really helps set the setting and examine death in a way that most of the players' may never truly think about. How many bodies have your players left on the street never to think about what it means to have that persons loved one have to pick them out in a morgue and put them to rest? What might they have in store for their own loved ones once they dance off that razors edge?
 
 Death, Taxes and Corporate corruption chummers, all you can ever count on.
-
-
 
 Want your own copy of Eye Witness?
 
