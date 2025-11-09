@@ -1,6 +1,6 @@
 baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
-title = 'NullSheen Shadowrun Tools'
+title = 'NullSheen - TTRPG Gaming Tools and Reviews'
 theme = 'ananke'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
