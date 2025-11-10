@@ -116,13 +116,18 @@ summaryLength = 70
   parent = "menu.other"
 
 [[menu.main]]
+  name = "Blog"
+  weight = 4
+  url = "/posts/"
+
+[[menu.main]]
   name = "Contact"
-  weight = 6
+  weight = 5
   url = "/contact/"
 
 [[menu.main]]
   name = "About Me"
-  weight = 5
+  weight = 6
   url = "/about-me/"
 
 
