@@ -1,0 +1,14 @@
+{{ if .Site.Params.googleAdsenseId }}
+<!-- Inline AdSense Ad -->
+<div class="inline-ad" style="margin: 30px 0; padding: 20px; background: #f9f9f9; border-radius: 5px;">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-client="{{ .Site.Params.googleAdsenseId }}"
+       data-ad-slot="{{ .Get "slot" }}"
+       data-ad-format="{{ .Get "format" | default "auto" }}"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{ end }}

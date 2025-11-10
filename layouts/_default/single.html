@@ -61,6 +61,13 @@
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->
+                        
+                        <!-- AdSense after content -->
+                        {{ partial "adsense.html" . }}
+                        
+                        <!-- Newsletter signup -->
+                        {{ partial "newsletter.html" . }}
+                        
                         {{ if .Site.Config.Services.Disqus.Shortname }}
                         <div id="comments">
                             {{ template "_internal/disqus.html" . }}

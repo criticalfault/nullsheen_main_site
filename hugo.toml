@@ -140,6 +140,14 @@ summaryLength = 70
   defaultKeywords = ["shadowrun", "ttrpg", "gaming", "tools"]
   mainSections = ["posts"]
   defaultDescription = "TTRPG Gaming Tools and Reviews for Shadowrun 2nd and 3rd Edition"
+  
+  # Analytics and Ads
+  fathomSiteId = "yoacwqsb"  # Replace with your Fathom site ID
+  googleAdsenseId = "ca-pub-2802312263939980"    # Replace with your AdSense ID (ca-pub-XXXXXXXX)
+  
+  # Newsletter - MailerLite
+  mailerliteAccount = "1152748"  # Your MailerLite account ID
+  mailerliteFormId = "wHbKBq"    # Your MailerLite form ID
 
   # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
   style = "default"
