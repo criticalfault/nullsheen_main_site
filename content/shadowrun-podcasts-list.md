@@ -5,6 +5,7 @@ draft: false
 banner: "/images/podcasts.jpg"
 type: page
 show_reading_time: true
+datatables: true
 ---
 
 I've been looking to begin cataloging even more Shadowrun resources for folks so this site becomes a one stop shop. If you have a podcast you want added to the list, just reach out to me with the details and i'll be sure to add you!

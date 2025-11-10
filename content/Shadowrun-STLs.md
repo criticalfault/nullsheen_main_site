@@ -6,6 +6,7 @@ banner: "/images/BookSeller.webp"
 type: page
 author: Dean
 show_reading_time: false
+datatables: true
 ---
 
 

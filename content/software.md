@@ -5,6 +5,7 @@ banner: "/images/AltPostArt.jpg"
 draft: false
 type: page
 tags: ['Tools']
+datatables: true
 ---
 
 I've decided to attempt to collect as much as I possibly can for various projects. I'll keep updating this as I find more tools. Some of these may not work anymore (As most were made for Windows 3.x and 95). If anyone knows of any others, please reach out to me at Dean@ this domain! I can't wait to hear from you. 
