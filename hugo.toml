@@ -116,6 +116,12 @@ summaryLength = 70
   parent = "menu.other"
 
 [[menu.main]]
+  name = "Rifts"
+  weight = 3
+  url = "/rifts/"
+  parent = "menu.other"
+
+[[menu.main]]
   name = "Blog"
   weight = 4
   url = "/posts/"
