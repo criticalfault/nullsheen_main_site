@@ -1,0 +1,31 @@
+{{ if .Params.datatables }}
+<!-- DataTables JS (loads after jQuery from theme) -->
+<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+
+<script>
+$(document).ready(function() {
+    // Initialize DataTables on all tables in the content
+    $('#post-content table, #blog-post table, .post-content table').each(function() {
+        $(this).DataTable({
+            responsive: true,
+            pageLength: 25,
+            order: [], // Don't sort by default
+            language: {
+                search: "Search:",
+                lengthMenu: "Show _MENU_ entries",
+                info: "Showing _START_ to _END_ of _TOTAL_ entries",
+                infoEmpty: "Showing 0 to 0 of 0 entries",
+                infoFiltered: "(filtered from _MAX_ total entries)",
+                paginate: {
+                    first: "First",
+                    last: "Last",
+                    next: "Next",
+                    previous: "Previous"
+                }
+            }
+        });
+    });
+});
+</script>
+{{ end }}
