@@ -2,7 +2,8 @@
 title: "Fancy Program Name"
 date: 2024-10-04T20:44:02Z
 draft: false
-featured_image: "/images/programs.webp"
+authors: ["Dean"]
+banner: "/images/programs.webp"
 tags: ['3rd Edition','GM Helper']
 show_reading_time: true
 ---

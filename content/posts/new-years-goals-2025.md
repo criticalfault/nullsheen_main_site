@@ -2,10 +2,10 @@
 title: "New Years Goals 2025"
 date: 2025-01-21T15:38:39Z
 draft: false
-featured_image: "/images/NewYearsFixed.jpg"
+banner: "/images/NewYearsFixed.jpg"
 tags: ['Real Talk']
 show_reading_time: true
-author: "Dean"
+authors: ["Dean"]
 ---
 
 Greetings Shadowpunks!

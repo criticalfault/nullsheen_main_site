@@ -2,7 +2,8 @@
 title: "Gamehole Con Review"
 date: 2024-10-22T02:07:44Z
 draft: false
-featured_image: "/images/gameholecon/GameHoleCon.jpg"
+authors: ["Dean"]
+banner: "/images/gameholecon/GameHoleCon.jpg"
 tags: ['Real Talk']
 show_reading_time: true
 ---

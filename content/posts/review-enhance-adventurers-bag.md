@@ -2,7 +2,8 @@
 title: "Product Review - Enhance Travel Bag 'Adventurer'"
 date: 2024-05-30T19:47:10Z
 draft: false
-featured_image: "/images/review_pages/FullPackImage.jpg"
+authors: ["Dean"]
+banner: "/images/review_pages/FullPackImage.jpg"
 tags: ['product_reviews']
 show_reading_time: true
 ---

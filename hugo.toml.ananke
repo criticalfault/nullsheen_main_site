@@ -1,0 +1,64 @@
+baseURL = 'https://www.nullsheen.com/'
+languageCode = 'en-us'
+title = 'NullSheen - TTRPG Gaming Tools and Reviews'
+theme = 'ananke'
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+show_reading_time = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  recent_posts_number = 6
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
+
+[[params.author]]
+  email = 'dean@nullsheen.com'
+  name = 'dean'
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+  name = "The Archive"
+  weight = 1
+  url = "https://www.nullsheen.com/archive/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 2
+  url = "https://www.nullsheen.com/contact/"
+
+[[menu.main]]
+  name = "About Me"
+  weight = 3
+  url = "https://www.nullsheen.com/about-me/"
+
+[[menu.main]]
+  name = "Shadowrun Books"
+  weight = 4
+  url = "https://www.nullsheen.com/shadowrun-books/" 
+
+[[menu.main]]
+  name = "Shadowrun Podcasts"
+  weight = 4
+  url = "https://www.nullsheen.com/shadowrun-podcasts-list/" 
+  
+[[menu.main]]
+  name = "Shadowrun Software"
+  weight = 5
+  url = "https://www.nullsheen.com/software/" 
+
+[[menu.main]]
+  name = "Shadowrun STLs"
+  weight = 6
+  url = "https://www.nullsheen.com/shadowrun-stls/" 

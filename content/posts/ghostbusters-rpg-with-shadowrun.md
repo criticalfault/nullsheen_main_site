@@ -1,8 +1,9 @@
 ---
 title: "Ghostbusters RPG With Shadowrun 3rd Edition"
 date: 2024-03-24T11:12:27Z
-featured_image: "/images/Ghostbusters.webp"
+banner: "/images/Ghostbusters.webp"
 draft: false
+authors: ["Dean"]
 tags: ['Tools','GM Help']
 show_reading_time: true
 ---

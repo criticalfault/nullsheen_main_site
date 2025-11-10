@@ -2,7 +2,8 @@
 title: "The Differences Between Cyberpunk and Shadowrun"
 date: 2024-05-28T11:43:09Z
 draft: false
-featured_image: "/images/ComparingShadowrunAndCyberpunk.webp"
+authors: ["Dean"]
+banner: "/images/ComparingShadowrunAndCyberpunk.webp"
 tags: ['Opinion','Cyberpunk']
 show_reading_time: true
 ---

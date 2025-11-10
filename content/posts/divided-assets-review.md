@@ -2,7 +2,8 @@
 title: "Divided Assets Review"
 date: 2024-08-13T23:12:18Z
 draft: false
-featured_image: "/images/dividedassets.webp"
+authors: ["Dean"]
+banner: "/images/dividedassets.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Lonestar Adventure - Blood for Money"
 date: 2023-11-07T14:28:39Z
-featured_image: "/images/BloodForMoney.webp"
+banner: "/images/BloodForMoney.webp"
 draft: false
+authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
 ---

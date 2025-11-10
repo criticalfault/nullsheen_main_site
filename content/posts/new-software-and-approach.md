@@ -2,9 +2,9 @@
 title: "New Software and Approach"
 date: 2025-09-02T14:38:00Z
 draft: false
-featured_image: "/images/nullsheen.png"
+banner: "/images/nullsheen.png"
 tags: ['foundry', 'other rpgs']
-author: Dean
+authors: ["Dean"]
 show_reading_time: true
 ---
 It's been a little while since my last blog post, but that's only because life has been full of exciting changes. While writing had to wait, I've been busy building tools and exploring new RPG projects. Today, I'm excited to share what I've been working on, give you some links to try them out, and even talk a bit about a possible rebrand for Null Sheen. Let's dive in.

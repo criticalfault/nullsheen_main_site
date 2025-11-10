@@ -2,7 +2,8 @@
 title: "Dark Angel Review"
 date: 2024-07-17T19:01:09Z
 draft: false
-featured_image: "/images/DarkAngelCover.jpg"
+authors: ["Dean"]
+banner: "/images/DarkAngelCover.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

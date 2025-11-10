@@ -2,7 +2,7 @@
 title: "Shadowrun Podcasts"
 date: 2023-11-18T00:52:06Z
 draft: false
-featured_image: "/images/podcasts.jpg"
+banner: "/images/podcasts.jpg"
 type: page
 show_reading_time: true
 ---

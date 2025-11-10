@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2024-05-10T00:49:26Z
 draft: false
-featured_image: "/images/DeanWebphoto.jpg"
+banner: "/images/DeanWebphoto.jpg"
 tags: ['']
 ---
 

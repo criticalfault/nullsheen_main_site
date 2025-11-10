@@ -1,8 +1,9 @@
 ---
 title: "Lonestar Adventure - Coding"
 date: 2023-11-18T20:31:38Z
-featured_image: "/images/CodingAdventure.webp"
+banner: "/images/CodingAdventure.webp"
 draft: false
+authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
 ---

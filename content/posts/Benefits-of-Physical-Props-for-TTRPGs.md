@@ -2,9 +2,9 @@
 title: "Benefits of Physical Props for TTRPGs"
 date: 2025-03-17T21:33:24Z
 draft: false
-featured_image: "/images/3dPrinting.webp"
+banner: "/images/3dPrinting.webp"
 tags: ['GM Help', 'Guide']
-author: Dean
+authors: ["Dean"]
 show_reading_time: true
 ---
 

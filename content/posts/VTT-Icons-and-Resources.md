@@ -2,8 +2,8 @@
 title: "VTT Icons and Resources"
 date: 2024-03-04T13:44:48Z
 draft: false
-author: Dean
-featured_image: "/images/vtt-icons.webp"
+authors: ["Dean"]
+banner: "/images/vtt-icons.webp"
 tags: ['GM Help']
 show_reading_time: true
 ---

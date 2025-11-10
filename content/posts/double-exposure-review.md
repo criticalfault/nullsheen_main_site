@@ -2,10 +2,10 @@
 title: "Double Exposure Review"
 date: 2025-01-27T01:20:01Z
 draft: false
-featured_image: "/images/DoubleExposure.jpg"
+banner: "/images/DoubleExposure.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
-author: Dean
+authors: ["Dean"]
 ---
 
 > "Is this the path to Eden?" - Johnathan Tang

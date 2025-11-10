@@ -2,7 +2,8 @@
 title: "The Shadowrun Supplementals"
 date: 2024-02-18T00:23:58Z
 draft: false
-featured_image: "/images/TheShadowrunSupplemental.webp"
+authors: ["Dean"]
+banner: "/images/TheShadowrunSupplemental.webp"
 tags: ['Archive','GM Help']
 show_reading_time: true
 ---

@@ -2,7 +2,8 @@
 title: "Running Divided Assets in Cyberpunk Red"
 date: 2024-09-10T14:27:19Z
 draft: false
-featured_image: "/images/CPRED.jpg"
+authors: ["Dean"]
+banner: "/images/CPRED.jpg"
 tags: ['GM Help', 'Adventure Reviews', 'Cyberpunk RED']
 show_reading_time: true
 ---

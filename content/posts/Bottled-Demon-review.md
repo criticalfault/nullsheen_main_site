@@ -2,7 +2,8 @@
 title: "Bottle Demon - Review and Tweaks"
 date: 2024-06-15T19:08:43Z
 draft: false
-featured_image: "/images/bottled-demon/Bottled_Demon.webp"
+authors: ["Dean"]
+banner: "/images/bottled-demon/Bottled_Demon.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

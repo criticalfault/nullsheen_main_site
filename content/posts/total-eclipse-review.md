@@ -2,8 +2,8 @@
 title: "Total Eclipse Review"
 date: 2024-12-31T03:35:04Z
 draft: false
-author: Dean
-featured_image: "/images/totalEclipseReview.jpg"
+authors: ["Dean"]
+banner: "/images/totalEclipseReview.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

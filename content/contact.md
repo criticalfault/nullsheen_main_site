@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2024-05-10T00:44:31Z
 draft: false
-featured_image: "/images/"
+banner: "/images/"
 tags: ['']
 type: page
 ---

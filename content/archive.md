@@ -2,7 +2,7 @@
 title: "Archive"
 date: 2023-07-02T23:55:11Z
 draft: false
-featured_image: "/images/BookSeller.webp"
+banner: "/images/BookSeller.webp"
 tags: ['Archive']
 show_reading_time: true
 type: page
