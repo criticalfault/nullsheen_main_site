@@ -2,7 +2,8 @@
 title: "Decker Problems and How to Solve Them"
 date: 2024-12-15T16:28:37Z
 draft: false
-featured_image: "/images/binary.png"
+authors: ["Dean"]
+banner: "/images/binary.png"
 tags: ['GM Helper']
 show_reading_time: true
 ---

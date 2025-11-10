@@ -2,7 +2,8 @@
 title: "Character Sheets"
 date: 2024-01-06T14:26:12Z
 draft: false
-featured_image: "/images/character-sheets-bg.png"
+authors: ["Dean"]
+banner: "/images/character-sheets-bg.png"
 tags: ['GM Help', 'Archive']
 show_reading_time: true
 ---

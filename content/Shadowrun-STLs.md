@@ -2,7 +2,7 @@
 title: "Shadowrun STLs"
 date: 2023-03-19T13:51:34Z
 draft: false
-featured_image: "/images/BookSeller.webp"
+banner: "/images/BookSeller.webp"
 type: page
 author: Dean
 show_reading_time: false

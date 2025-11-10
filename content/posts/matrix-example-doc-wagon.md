@@ -1,8 +1,9 @@
 ---
 title: "Matrix Example - Doc Wagon"
 date: 2023-12-03T21:28:33Z
-featured_image: "/images/DocWagonCommandCenter.png"
+banner: "/images/DocWagonCommandCenter.png"
 draft: false
+authors: ["Dean"]
 tags: ['GM Help','3rd Edition']
 show_reading_time: true
 ---

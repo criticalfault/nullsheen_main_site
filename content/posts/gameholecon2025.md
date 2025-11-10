@@ -2,9 +2,9 @@
 title: "Gameholecon2025"
 date: 2025-10-24T02:17:57Z
 draft: false
-featured_image: "/images/gameholecon2025/20251019_191656.jpg"
+banner: "/images/gameholecon2025/20251019_191656.jpg"
 tags: ['Real Talk']
-author: Dean
+authors: ["Dean"]
 show_reading_time: true
 ---
 

@@ -2,6 +2,7 @@
 title: "Affliation and Moving Forward"
 date: 2024-05-16T11:52:21Z
 draft: false
+authors: ["Dean"]
 tags: ['Real Talk']
 show_reading_time: true
 ---

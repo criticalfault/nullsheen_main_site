@@ -2,7 +2,8 @@
 title: "Silver Angel Review"
 date: 2024-11-23T05:38:31Z
 draft: false
-featured_image: "/images/SilverAngel.jpg"
+authors: ["Dean"]
+banner: "/images/SilverAngel.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

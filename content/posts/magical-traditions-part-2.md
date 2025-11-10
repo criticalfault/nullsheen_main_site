@@ -2,7 +2,8 @@
 title: "Magical Traditions in Your Game: Part 2"
 date: 2024-05-11T13:00:00Z
 draft: false
-featured_image: "/images/MagicalTraditions2.webp"
+authors: ["Dean"]
+banner: "/images/MagicalTraditions2.webp"
 tags: ['GM Help','Magical Traditions']
 show_reading_time: true
 ---

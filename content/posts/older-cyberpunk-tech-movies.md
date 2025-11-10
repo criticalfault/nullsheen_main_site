@@ -2,7 +2,8 @@
 title: "Older Cyberpunk Tech Movies"
 date: 2024-07-14T16:32:28Z
 draft: false
-featured_image: "/images/older-cyberpunk-tech-movies.webp"
+authors: ["Dean"]
+banner: "/images/older-cyberpunk-tech-movies.webp"
 tags: ['Cyberpunk', 'Movies', 'Opinion']
 show_reading_time: true
 ---

@@ -2,7 +2,8 @@
 title: "Custom Shadowrun 2nd Edition Sheets for Roll20"
 date: 2024-04-03T17:27:07Z
 draft: false
-featured_image: "/images/digital_tools.png"
+authors: ["Dean"]
+banner: "/images/digital_tools.png"
 tags: ['Archive','GM Helper']
 show_reading_time: true
 ---

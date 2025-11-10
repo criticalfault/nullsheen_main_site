@@ -1,8 +1,9 @@
 ---
 title: "Decker Game"
 date: 2023-11-16T17:29:35Z
-featured_image: "/images/decker_game.png"
+banner: "/images/decker_game.png"
 draft: false
+authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
 ---

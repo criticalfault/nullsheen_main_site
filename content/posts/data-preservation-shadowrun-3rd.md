@@ -2,6 +2,7 @@
 title: "Data Preservation Shadowrun 3rd"
 date: 2023-07-09T02:29:29Z
 draft: false
+authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
 ---

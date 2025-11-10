@@ -2,7 +2,8 @@
 title: "Magical Traditions Part 3 Santeria"
 date: 2024-06-23T00:34:41Z
 draft: false
-featured_image: "/images/santeria-priest.webp"
+authors: ["Dean"]
+banner: "/images/santeria-priest.webp"
 tags: ['GM Help','Magical Traditions']
 show_reading_time: true
 ---

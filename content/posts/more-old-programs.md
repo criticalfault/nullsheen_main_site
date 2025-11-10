@@ -2,6 +2,7 @@
 title: "More Old Programs"
 date: 2023-09-01T12:53:33Z
 draft: true
+authors: ["Dean"]
 tags: ['Tools']
 show_reading_time: true
 ---

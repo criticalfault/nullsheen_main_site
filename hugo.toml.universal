@@ -1,0 +1,158 @@
+baseURL = 'https://www.nullsheen.com/'
+languageCode = 'en-us'
+title = 'NullSheen - TTRPG Gaming Tools and Reviews'
+theme = 'hugo-universal-theme'
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+
+# number of words of summarized post content
+summaryLength = 70
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Main menu - adapted from your existing menu
+[[menu.main]]
+  name = "Home"
+  weight = 0
+  url = "/"
+
+[[menu.main]]
+  name = "The Archive"
+  weight = 1
+  url = "/archive/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 2
+  url = "/contact/"
+
+[[menu.main]]
+  name = "About Me"
+  weight = 3
+  url = "/about-me/"
+
+[[menu.main]]
+  name = "Shadowrun Books"
+  weight = 4
+  url = "/shadowrun-books/" 
+
+[[menu.main]]
+  name = "Shadowrun Podcasts"
+  weight = 5
+  url = "/shadowrun-podcasts-list/" 
+  
+[[menu.main]]
+  name = "Shadowrun Software"
+  weight = 6
+  url = "/software/" 
+
+[[menu.main]]
+  name = "Shadowrun STLs"
+  weight = 7
+  url = "/shadowrun-stls/" 
+
+# Top bar social links (optional - customize or remove)
+[[menu.topbar]]
+  weight = 1
+  name = "Email"
+  url = "mailto:dean@nullsheen.com"
+  pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[params]
+  viewMorePostLink = "/archive/"
+  author = "dean"
+  defaultKeywords = ["shadowrun", "ttrpg", "gaming", "tools"]
+  mainSections = ["posts"]
+  defaultDescription = "TTRPG Gaming Tools and Reviews for Shadowrun 2nd and 3rd Edition"
+
+  # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+  style = "default"
+
+  # Disable features you don't need
+  enableGoogleMaps = false
+  
+  # Contact form (optional - set up formspree if needed)
+  formspree_action = ""
+  contact_form_ajax = false
+  enableRecaptchaInContactForm = false
+
+  about_us = "<p>A website for the creation of Shadowrun tools for 2nd and 3rd Edition.</p>"
+  copyright = "Copyright (c) 2025, NullSheen; all rights reserved."
+
+  date_format = "January 2, 2006"
+  dropdown_mouse_over = false
+
+  disabled_logo = false
+  logo_text = "NullSheen"
+  
+  # Add your logo images to static/img/ if you have them
+  # logo = "img/logo.png"
+  # logo_small = "img/logo-small.png"
+  
+  contact_url = "/contact"
+
+[permalinks]
+  posts = "/blog/:year/:month/:day/:contentbasename/"
+
+# Top bar with contact info
+[params.topbar]
+  enable = true
+  text = """<p class="hidden-sm hidden-xs">TTRPG Gaming Tools and Reviews</p>"""
+
+# Sidebar widgets
+[params.widgets]
+  categories = true
+  tags = true
+  search = true
+
+# Homepage carousel - disable if you don't want it
+[params.carouselHomepage]
+  enable = false
+  auto_play = true
+  slide_speed = 2000
+  pagination_speed = 1000
+
+# Features section - disable if you don't want it
+[params.features]
+  enable = false
+  cols = 3
+
+# Testimonials - disable for your use case
+[params.testimonials]
+  enable = false
+
+# See more section - disable
+[params.see_more]
+  enable = false
+
+# Clients section - disable
+[params.clients]
+  enable = false
+
+# Recent posts on homepage
+[params.recent_posts]
+  enable = true
+  title = "Recent Posts"
+  subtitle = "Latest updates and content from NullSheen"
+  hide_summary = false
+
+[params.footer.recent_posts]
+  enable = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"

@@ -2,7 +2,7 @@
 title: "Shadowrun Books"
 date: 2024-05-20T03:19:44Z
 draft: false
-featured_image: "/images/BookSeller.webp"
+banner: "/images/BookSeller.webp"
 type: page
 show_reading_time: true
 ---

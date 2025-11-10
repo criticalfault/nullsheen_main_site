@@ -2,7 +2,8 @@
 title: "Borrowing Rules for Better Games"
 date: 2024-10-27T19:22:27Z
 draft: false
-featured_image: "/images/borrowingRules.webp"
+authors: ["Dean"]
+banner: "/images/borrowingRules.webp"
 tags: ['GM Help']
 show_reading_time: true
 ---

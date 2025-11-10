@@ -1,8 +1,9 @@
 ---
 title: "Pink Fohawk - Shadowrun Podcast"
 date: 2023-07-03T02:55:25Z
-featured_image: "/images/Pink_Fohawk.jpeg"
+banner: "/images/Pink_Fohawk.jpeg"
 draft: false
+authors: ["Dean"]
 show_reading_time: true
 ---
 

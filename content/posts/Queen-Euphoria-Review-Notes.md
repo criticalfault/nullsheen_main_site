@@ -2,7 +2,8 @@
 title: "Queen Euphoria Review Notes"
 date: 2024-11-15T01:11:29Z
 draft: false
-featured_image: "/images/Euphoria.webp"
+authors: ["Dean"]
+banner: "/images/Euphoria.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 ---

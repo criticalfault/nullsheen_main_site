@@ -1,8 +1,9 @@
 ---
 title: "Shadowrun 3rd Edition - Matrix Security Sheaf Generator"
 date: 2023-07-02T23:55:11Z
-featured_image: "/images/MatrixGenerator3.jpg"
+banner: "/images/MatrixGenerator3.jpg"
 draft: false
+authors: ["Dean"]
 tags: ['Tools', '3rd Edition']
 show_reading_time: true
 ---

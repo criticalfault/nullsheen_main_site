@@ -2,7 +2,8 @@
 title: "Neo Anarchist's Guide to Everything Else"
 date: 2024-02-29T19:28:53Z
 draft: false
-featured_image: "/images/nagee.webp"
+authors: ["Dean"]
+banner: "/images/nagee.webp"
 tags: ['Archive','GM Help']
 show_reading_time: true
 ---

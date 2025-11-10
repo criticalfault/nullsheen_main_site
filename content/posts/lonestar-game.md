@@ -1,8 +1,9 @@
 ---
 title: "Lonestar Game"
 date: 2023-09-15T16:59:55Z
-featured_image: "/images/Lonestar_Image.png"
+banner: "/images/Lonestar_Image.png"
 draft: false
+authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
 ---

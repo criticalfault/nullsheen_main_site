@@ -2,7 +2,8 @@
 title: "Anchoring Foci and Spells and Why You Should Be Using Them More Often"
 date: 2024-10-04T21:22:28Z
 draft: false
-featured_image: "/images/Anchors.webp"
+authors: ["Dean"]
+banner: "/images/Anchors.webp"
 tags: ['3rd Edition','GM Helper']
 show_reading_time: true
 ---

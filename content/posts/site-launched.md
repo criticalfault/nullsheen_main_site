@@ -2,6 +2,7 @@
 title: "Site Launched"
 date: 2023-07-02T23:55:11Z
 draft: false
+authors: ["Dean"]
 show_reading_time: true
 ---
 # Starting Fresh

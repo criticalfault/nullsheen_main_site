@@ -2,9 +2,9 @@
 title: "Eye Witness Review"
 date: 2025-09-15T02:48:50Z
 draft: false
-featured_image: "/images/EyeWitness/EyeWitnessCover.jpg"
+banner: "/images/EyeWitness/EyeWitnessCover.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
-author: Dean
+authors: ["Dean"]
 show_reading_time: true
 ---
 

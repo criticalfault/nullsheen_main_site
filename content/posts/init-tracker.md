@@ -1,8 +1,9 @@
 ---
 title: "Initiative Tracker"
 date: 2023-07-15T18:56:56Z
-featured_image: "/images/InitTracker.jpg"
+banner: "/images/InitTracker.jpg"
 draft: false
+authors: ["Dean"]
 tags: ['Tools']
 show_reading_time: true
 ---

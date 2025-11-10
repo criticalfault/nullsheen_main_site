@@ -2,7 +2,8 @@
 title: "Cyberpunk Stl Files for Props"
 date: 2024-06-06T15:00:27Z
 draft: false
-featured_image: "/images/cyberpunk_stl_files/PrintingSTLs.webp"
+authors: ["Dean"]
+banner: "/images/cyberpunk_stl_files/PrintingSTLs.webp"
 tags: ['GM Help']
 show_reading_time: true
 ---

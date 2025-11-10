@@ -1,64 +1,234 @@
 baseURL = 'https://www.nullsheen.com/'
 languageCode = 'en-us'
 title = 'NullSheen - TTRPG Gaming Tools and Reviews'
-theme = 'ananke'
+theme = 'hugo-universal-theme'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
-show_reading_time = true
+
+# number of words of summarized post content
+summaryLength = 70
+
+[services]
+    # Enable Google Analytics by entering your tracking code
+    [services.googleAnalytics]
+        id = "G-FC158GDTHC"
+
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-[params]
-  recent_posts_number = 6
-
 [pagination]
   disableAliases = false
   pagerSize = 10
   path = 'page'
-
-[[params.author]]
-  email = 'dean@nullsheen.com'
-  name = 'dean'
 
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
+# Main menu
+[menu]
 [[menu.main]]
-  name = "The Archive"
+  name = "Home"
   weight = 1
-  url = "https://www.nullsheen.com/archive/"
+  url = "/"
 
 [[menu.main]]
-  name = "Contact"
+  name = "Shadowrun"
+  weight = 1
+  identifier = "menu.shadowrun"
+  url = "/images/mainBG.jpg"
+
+[[menu.main]]
+  name = "Shadowrun Hub"
+  weight = 1
+  url = "/shadowrun/"
+  parent = "menu.shadowrun"
+
+[[menu.main]]
+  name = "Shadowrun Archive"
   weight = 2
-  url = "https://www.nullsheen.com/contact/"
-
-[[menu.main]]
-  name = "About Me"
-  weight = 3
-  url = "https://www.nullsheen.com/about-me/"
+  url = "/archive/"
+  parent = "menu.shadowrun"
 
 [[menu.main]]
   name = "Shadowrun Books"
   weight = 4
-  url = "https://www.nullsheen.com/shadowrun-books/" 
+  url = "/shadowrun-books/" 
+  parent     = "menu.shadowrun"
 
 [[menu.main]]
   name = "Shadowrun Podcasts"
-  weight = 4
-  url = "https://www.nullsheen.com/shadowrun-podcasts-list/" 
+  weight = 5
+  url = "/shadowrun-podcasts-list/" 
+  parent     = "menu.shadowrun"
   
 [[menu.main]]
   name = "Shadowrun Software"
-  weight = 5
-  url = "https://www.nullsheen.com/software/" 
+  weight = 6
+  url = "/software/"
+  parent = "menu.shadowrun" 
 
 [[menu.main]]
   name = "Shadowrun STLs"
+  weight = 7
+  url = "/shadowrun-stls/"
+  parent = "menu.shadowrun"
+
+[[menu.main]]
+  name = "Cypher System"
+  weight = 2
+  identifier = "menu.cypher"
+  url = "#"
+
+[[menu.main]]
+  name = "Old Gods of Appalachia"
+  weight = 1
+  url = "/old-gods/"
+  parent = "menu.cypher"
+
+[[menu.main]]
+  name = "The Magnus Archives"
+  weight = 2
+  url = "/magnus-archives/"
+  parent = "menu.cypher"
+
+
+[[menu.main]]
+  name = "Other Systems"
+  weight = 3
+  identifier = "menu.other"
+  url = "#"
+
+[[menu.main]]
+  name = "Traveller"
+  weight = 1
+  url = "/traveller/"
+  parent = "menu.other"
+
+[[menu.main]]
+  name = "Heart RPG"
+  weight = 2
+  url = "/heart/"
+  parent = "menu.other"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 4
+  url = "/posts/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "/contact/"
+
+[[menu.main]]
+  name = "About Me"
   weight = 6
-  url = "https://www.nullsheen.com/shadowrun-stls/" 
+  url = "/about-me/"
+
+
+
+# Top bar social links (optional - customize or remove)
+[[menu.topbar]]
+  weight = 1
+  name = "Email"
+  url = "mailto:dean@nullsheen.com"
+  pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[params]
+  viewMorePostLink = "/archive/"
+  author = "Dean"
+  defaultKeywords = ["shadowrun", "ttrpg", "gaming", "tools"]
+  mainSections = ["posts"]
+  defaultDescription = "TTRPG Gaming Tools and Reviews for Shadowrun 2nd and 3rd Edition"
+  
+  # Analytics and Ads
+  fathomSiteId = "yoacwqsb"  # Replace with your Fathom site ID
+  googleAdsenseId = "ca-pub-2802312263939980"    # Replace with your AdSense ID (ca-pub-XXXXXXXX)
+  
+  # Newsletter - MailerLite
+  mailerliteAccount = "1152748"  # Your MailerLite account ID
+  mailerliteFormId = "wHbKBq"    # Your MailerLite form ID
+
+  # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+  style = "marsala"  # Darker purple theme for cyberpunk feel
+
+  # Disable features you don't need
+  enableGoogleMaps = false
+  
+  # Contact form (optional - set up formspree if needed)
+  formspree_action = ""
+  contact_form_ajax = false
+  enableRecaptchaInContactForm = false
+
+  about_us = "<p></p>"
+  copyright = "Copyright (c) 2025, NullSheen; all rights reserved."
+
+  date_format = "January 2, 2006"
+  dropdown_mouse_over = false
+
+  disabled_logo = false
+  logo_text = "NullSheen"
+  
+  # Add your logo images to static/img/ if you have them
+  logo = "images/logos/nullsheen-logo.png"
+  logo_small = "images/logos/nullsheen-logo.png"
+  
+  contact_url = "/contact"
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename/"
+
+# Top bar with contact info
+[params.topbar]
+  enable = true
+  text = """<p class="hidden-sm hidden-xs">TTRPG Gaming Tools and Reviews</p>"""
+
+# Sidebar widgets
+[params.widgets]
+  categories = true
+  tags = true
+  search = true
+
+# Homepage carousel - disable if you don't want it
+[params.carouselHomepage]
+  enable = true
+  auto_play = true
+  slide_speed = 2000
+  pagination_speed = 1000
+
+# Features section - disable if you don't want it
+[params.features]
+  enable = false
+  cols = 3
+
+# Testimonials - disable for your use case
+[params.testimonials]
+  enable = false
+
+# See more section - disable
+[params.see_more]
+  enable = false
+
+# Clients section - disable
+[params.clients]
+  enable = false
+
+# Recent posts on homepage
+[params.recent_posts]
+  enable = true
+  title = "Recent Posts"
+  subtitle = "Latest updates and content from NullSheen"
+  hide_summary = false
+
+[params.footer.recent_posts]
+  enable = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"

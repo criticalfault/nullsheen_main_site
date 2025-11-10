@@ -1,0 +1,44 @@
+{{ if .Site.Params.mailerliteFormId }}
+<div class="newsletter-signup">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="box same-height">
+        <h3>📬 Stay Updated</h3>
+        <p>Get the latest tools, reviews, and Shadowrun content delivered to your inbox.</p>
+        <a class="btn btn-primary btn-lg ml-onclick-form" 
+            href="javascript:void(0)" 
+            onclick="ml('show', '{{ .Site.Params.mailerliteFormId }}', true)">
+          Subscribe to Newsletter
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.newsletter-signup {
+  background-color: #f7f7f7;
+  padding: 40px 0;
+  margin: 40px 0;
+}
+.newsletter-signup .box {
+  margin: 35px;
+  background: white;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.newsletter-signup h3 {
+  margin-top: 0;
+  color: #555;
+}
+.newsletter-signup p {
+  margin-bottom: 20px;
+  color: #777;
+}
+.newsletter-signup .btn {
+  margin-top: 10px;
+}
+</style>
+{{ end }}

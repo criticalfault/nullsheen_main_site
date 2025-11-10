@@ -1,8 +1,9 @@
 ---
 title: "Old Sr2 Character Generator"
 date: 2023-07-24T01:29:34Z
-featured_image: "/images/reporter.jpg"
+banner: "/images/reporter.jpg"
 draft: false
+authors: ["Dean"]
 tags: ['Tools','Archive']
 show_reading_time: true
 ---

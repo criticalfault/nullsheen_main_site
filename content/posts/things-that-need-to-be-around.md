@@ -2,6 +2,7 @@
 title: "Things That Need to Be Around"
 date: 2023-07-03T12:19:49Z
 draft: false
+authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
 ---
