@@ -1,0 +1,17 @@
+/* Remove photogrid background from carousel */
+.home-carousel {
+  background: none !important;
+  background-color: #2a2a2a !important; /* Solid dark background instead */
+}
+
+/* Optional: Make carousel darker overall */
+.home-carousel .dark-mask {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Ensure carousel text is readable */
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}

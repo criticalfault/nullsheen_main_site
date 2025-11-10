@@ -155,7 +155,7 @@ summaryLength = 70
   mailerliteFormId = "wHbKBq"    # Your MailerLite form ID
 
   # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-  style = "default"
+  style = "marsala"  # Darker purple theme for cyberpunk feel
 
   # Disable features you don't need
   enableGoogleMaps = false
