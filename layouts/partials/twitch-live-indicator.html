@@ -1,0 +1,51 @@
+{{ if .Site.Params.twitchChannel }}
+<div id="twitch-live-indicator" style="display: none; background: linear-gradient(135deg, #9146FF 0%, #6441a5 100%); color: white; padding: 15px; border-radius: 5px; margin: 20px 0; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <span style="display: inline-block; width: 12px; height: 12px; background: #ff0000; border-radius: 50%; animation: pulse 2s infinite;"></span>
+    <strong style="font-size: 1.1em;">LIVE NOW</strong>
+  </div>
+  <p style="margin: 10px 0 0 0; font-size: 0.9em;">Streaming on Twitch!</p>
+  <a href="https://www.twitch.tv/{{ .Site.Params.twitchChannel }}" target="_blank" rel="noopener" class="btn btn-sm" style="background: white; color: #9146FF; margin-top: 10px; border: none; padding: 8px 20px; font-weight: bold;">
+    Watch Now
+  </a>
+</div>
+
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.1); }
+}
+</style>
+
+<script>
+// Check if channel is live using Twitch API
+// Note: This requires a Twitch Client ID - for now it's a placeholder
+// You can get a Client ID from https://dev.twitch.tv/console/apps
+async function checkTwitchLive() {
+  try {
+    // This is a simplified version - you'll need to set up Twitch API credentials
+    const channel = '{{ .Site.Params.twitchChannel }}';
+    
+    // For now, we'll just show the indicator on the /twitch page
+    // To make it work everywhere, you need to:
+    // 1. Get a Twitch Client ID
+    // 2. Set up a backend endpoint to check stream status
+    // 3. Or use a service like https://decapi.me/twitch/uptime/{{ .Site.Params.twitchChannel }}
+    
+    if (window.location.pathname === '/twitch/') {
+      // Always show on the twitch page
+      document.getElementById('twitch-live-indicator').style.display = 'block';
+    }
+  } catch (error) {
+    console.log('Could not check Twitch status');
+  }
+}
+
+// Check on page load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', checkTwitchLive);
+} else {
+  checkTwitchLive();
+}
+</script>
+{{ end }}
