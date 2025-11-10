@@ -181,7 +181,7 @@ summaryLength = 70
   contact_url = "/contact"
 
 [permalinks]
-  posts = "/:year/:month/:day/:filename/"
+  posts = "posts/:filename/"
 
 # Top bar with contact info
 [params.topbar]
