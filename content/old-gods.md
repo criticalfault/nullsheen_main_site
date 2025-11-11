@@ -18,14 +18,14 @@ Welcome to the dark hollers and haunted hills of Appalachia. Based on the hit po
 *Coming soon! I'm working on tools and resources for Old Gods. Check back soon for character sheets, GM tools, and more.*
 
 ## 📚 Useful Links
-
+- **[Old Gods of Appalachia PDF (DriveThruRPG)](https://www.drivethrurpg.com/en/product/447290/old-gods-of-appalachia-roleplaying-game?affiliate_id=135005)**
 - **[Official Old Gods RPG](https://www.montecookgames.com/store/product/old-gods-of-appalachia-roleplaying-game/)** - Purchase the core rulebook
 - **[Old Gods Podcast](https://oldgodsofappalachia.com/)** - Listen to the original podcast that inspired the game
 - **[Monte Cook Games](https://www.montecookgames.com/)** - Publisher's website
-
+- **[Monte Cook Games - Character Sheets](https://www.montecookgames.com/store/product/old-gods-of-appalachia-character-portfolios-and-character-sheets/)** - Character Sheets
 ## 🎧 Related Content
 
-- [Old Gods of Appalachia - Youtube](/https://www.youtube.com/@OldGodsofAppalachia/)
+- [Old Gods of Appalachia - Youtube](https://www.youtube.com/@OldGodsofAppalachia/)
 ---
 
 *Have suggestions for Old Gods tools or resources? [Contact me](/contact/)!*
