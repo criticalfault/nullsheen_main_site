@@ -18,26 +18,19 @@
 </style>
 
 <script>
-// Check if channel is live using Twitch API
-// Note: This requires a Twitch Client ID - for now it's a placeholder
-// You can get a Client ID from https://dev.twitch.tv/console/apps
+// Check if channel is live using DecAPI (no auth needed!)
 async function checkTwitchLive() {
   try {
-    // This is a simplified version - you'll need to set up Twitch API credentials
     const channel = '{{ .Site.Params.twitchChannel }}';
+    const response = await fetch(`https://decapi.me/twitch/uptime/${channel}`);
+    const text = await response.text();
     
-    // For now, we'll just show the indicator on the /twitch page
-    // To make it work everywhere, you need to:
-    // 1. Get a Twitch Client ID
-    // 2. Set up a backend endpoint to check stream status
-    // 3. Or use a service like https://decapi.me/twitch/uptime/{{ .Site.Params.twitchChannel }}
-    
-    if (window.location.pathname === '/twitch/') {
-      // Always show on the twitch page
+    // If the response doesn't contain "offline" or error, the stream is live
+    if (!text.includes('offline') && !text.includes('is not') && text.trim() !== '') {
       document.getElementById('twitch-live-indicator').style.display = 'block';
     }
   } catch (error) {
-    console.log('Could not check Twitch status');
+    console.log('Could not check Twitch status:', error);
   }
 }
 
@@ -47,5 +40,8 @@ if (document.readyState === 'loading') {
 } else {
   checkTwitchLive();
 }
+
+// Check every 2 minutes for status updates
+setInterval(checkTwitchLive, 120000);
 </script>
 {{ end }}
