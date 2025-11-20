@@ -3,7 +3,7 @@ title: "Old Gods of Appalachia Review"
 date: 2025-11-09T03:32:15Z
 draft: false
 banner: "/images/oldGods.webp"
-tags: ["Game Reviews"]
+tags: ["Game Reviews", "Old Gods of Appalachia"]
 authors: ["Dean"]
 show_reading_time: true
 ---
