@@ -1,5 +1,5 @@
 ---
-title: "Archive"
+title: "Shadowrun Archive"
 date: 2023-07-02T23:55:11Z
 draft: false
 featured_image: "/images/BookSeller.webp"
@@ -110,6 +110,10 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Shadowrun Supplemental Link 17](/files/The-Shadowrun-Supplemental-Issue-17.pdf)
 - [Shadowrun Supplemental Link 18](/files/The-Shadowrun-Supplemental-Issue-18.pdf)
 - [Shadowrun Supplemental Link 19](/files/The-Shadowrun-Supplemental-Issue-19.pdf)
+
+## Shadowland
+Thanks AstroMacGuffin for getting permissions on this for the community! [Reddit](https://www.reddit.com/user/AstroMacGuffin/)
+- [Shadowland 1-7](/files/SR2_Shadowland_1-7_Sword-of-the-Knight.zip)
 
 ## Virtual Seattle Advenures
 - [A Death in the Family](/files/virtual-seattle/A-Death-in-the-Family.pdf)
