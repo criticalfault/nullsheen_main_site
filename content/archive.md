@@ -113,7 +113,18 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 ## Shadowland
 Thanks AstroMacGuffin for getting permissions on this for the community! [Reddit](https://www.reddit.com/user/AstroMacGuffin/)
-- [Shadowland 1-7](/files/SR2_Shadowland_1-7_Sword-of-the-Knight.zip)
+
+Great thanks to Kevin D. Knight, from Sword of the Knight publications, who gave us his gracious permission to host and distribute these files.
+
+Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Main Street in Henderson, Kentucky, or at [www.knightscomicsandgames.com](www.knightscomicsandgames.com) !
+
+- [Shadowland 1](/files/shadowlands/Shadowland_Vol_1.pdf)
+- [Shadowland 2](/files/shadowlands/Shadowland_Vol_2.pdf)
+- [Shadowland 3](/files/shadowlands/Shadowland_Vol_3.pdf)
+- [Shadowland 4](/files/shadowlands/Shadowland_Vol_4.pdf)
+- [Shadowland 5](/files/shadowlands/Shadowland_Vol_5.pdf)
+- [Shadowland 6](/files/shadowlands/Shadowland_Vol_6.pdf)
+- [Shadowland 7](/files/shadowlands/Shadowland_Vol_7.pdf)
 
 ## Virtual Seattle Advenures
 - [A Death in the Family](/files/virtual-seattle/A-Death-in-the-Family.pdf)
