@@ -119,6 +119,21 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [Shadowrun Supplemental Link 18](/files/The-Shadowrun-Supplemental-Issue-18.pdf)
 - [Shadowrun Supplemental Link 19](/files/The-Shadowrun-Supplemental-Issue-19.pdf)
 
+## Shadowland
+Thanks AstroMacGuffin for getting permissions on this for the community! [Reddit](https://www.reddit.com/user/AstroMacGuffin/)
+
+Great thanks to Kevin D. Knight, from Sword of the Knight publications, who gave us his gracious permission to host and distribute these files.
+
+Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Main Street in Henderson, Kentucky, or at [www.knightscomicsandgames.com](www.knightscomicsandgames.com) !
+
+- [Shadowland Vol. 1](/files/shadowlands/Shadowland%20Vol.%201.pdf)
+- [Shadowland Vol. 2](/files/shadowlands/Shadowland%20Vol.%202.pdf)
+- [Shadowland Vol. 3](/files/shadowlands/Shadowland%20Vol.%203.pdf)
+- [Shadowland Vol. 4](/files/shadowlands/Shadowland%20Vol.%204.pdf)
+- [Shadowland Vol. 5](/files/shadowlands/Shadowland%20Vol.%205.pdf)
+- [Shadowland Vol. 6](/files/shadowlands/Shadowland%20Vol.%206.pdf)
+- [Shadowland Vol. 7](/files/shadowlands/Shadowland%20Vol.%207.pdf)
+
 ## Virtual Seattle Advenures
 
 - [A Death in the Family](/files/virtual-seattle/A-Death-in-the-Family.pdf)
