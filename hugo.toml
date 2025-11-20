@@ -160,7 +160,7 @@ summaryLength = 70
   author = "Dean"
   defaultKeywords = ["shadowrun", "ttrpg", "gaming", "tools"]
   mainSections = ["posts"]
-  defaultDescription = "TTRPG Gaming Tools and Reviews for Shadowrun 2nd and 3rd Edition"
+  defaultDescription = "TTRPG Gaming Tools and Reviews - Shadowrun, Old Gods of Appalachia, Traveller and more!"
   
   # Analytics and Ads
   fathomSiteId = "yoacwqsb"  # Replace with your Fathom site ID
