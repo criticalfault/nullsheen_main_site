@@ -13,11 +13,13 @@ I've decided to attempt to collect as much as I possibly can for various project
 ## My Tools
 | Tool        | URL   | Edition | Description |
 | ----------- | ----- |  -----  | ----------- |
-|Character Generator|https://character-generator.nullsheen.com/|2nd & 3rd|A Beta character generator for SR2 and 3.|
-|Matrix Builder|https://matrix2.nullsheen.com/|2nd| Allows for detailed matrix creation|
-|Matrix Generator|https://matrix.nullsheen.com/|3rd|Generates Sheafs on the fly.|
-|Initiative Tracker|https://initiative-tracker.nullsheen.com/|2nd & 3rd|Tracks initiative for PCs and NPCs with condition monitors|
-|Run Generator|[https://shadowrun-run-generator.nullsheen.com/](https://shadowrun-run-generator.nullsheen.com/)|Get Ideas for different Shadowruns|
+|Character Generator|https://character-generator.nullsheen.com|2nd & 3rd|A Beta character generator for SR2 and 3.|
+|Matrix Builder|https://matrix2.nullsheen.com|2nd| Allows for detailed matrix creation|
+|Matrix Generator|https://matrix.nullsheen.com|3rd|Generates Sheafs on the fly.|
+|Initiative Tracker|https://initiative-tracker.nullsheen.com|2nd & 3rd|Tracks initiative for PCs and NPCs with condition monitors|
+|Run Generator|[https://shadowrun-run-generator.nullsheen.com](https://shadowrun-run-generator.nullsheen.com/)|Get Ideas for different Shadowruns|
+|Loot Generator|[https://shadowrun-loot-generator.nullsheen.com](https://shadowrun-loot-generator.nullsheen.com/)|1st - 3rd|Generate generic various cyberpunk style loot|
+
 
 
 ## Edition Agnostic
