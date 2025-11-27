@@ -11,6 +11,7 @@ Heart is a dark fantasy RPGs from Rowan, Rook and Decard set in a cursed undergr
 ## 🎲 Tools & Resources
 
 - **[Heart Delve Planner](https://heart-rpg-planner.nullsheen.com/)** - Plan out your delves and links them together to make an easy to follow map!
+- **[Heart RPG FoundryVTT Package](https://github.com/hitcherland/FoundryVTT-Heart/)** - Exactly what it says on the tin, hopefully useful for folks who need it!
 
 ## 📚 Useful Links
 
@@ -19,4 +20,4 @@ Heart is a dark fantasy RPGs from Rowan, Rook and Decard set in a cursed undergr
 - **[Rowan, Rook and Decard](https://rowanrookanddecard.com/)** - Publisher's website
 ---
 
-*Want Heart content? [Contact me](/contact/)!*
+*Want more Heart content? Send me an email!*
