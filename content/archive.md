@@ -55,6 +55,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 
 - [Anarchy Character Sheet - Google Sheet](https://docs.google.com/spreadsheets/d/12-YN0UWI9N8mRf9gta6wHLtmAvLaTu9DVJxLSrPZf7E/edit)
 
+- [form fillable Anarchy 2e character sheet (gofile.io link)](https://gofile.io/d/xQS9rM) - Made by [https://www.reddit.com/user/mindgamer/](u\mindgamer)
+- [form fillable Anarchy 2e character sheet (Direct Download)](/files/Anarchy_2e_Character_Sheet_Form_Fillable.pdf) - Made by [https://www.reddit.com/user/mindgamer/](u\mindgamer)
+
 ## Extra Guides or the Likes
 
 - [Slang](/files/slang.doc)
