@@ -18,7 +18,7 @@ Dive into reviews of classic and modern adventures, from the golden age of AD&D 
 
 ### D&D 5th Edition
 
-*Modern adventures and campaigns - coming soon!*
+*Modern adventures and campaign reviews - coming soon!*
 
 ## 🎲 Tools & Resources
 
