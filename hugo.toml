@@ -122,6 +122,12 @@ summaryLength = 70
   parent = "menu.other"
 
 [[menu.main]]
+  name = "Dungeons & Dragons"
+  weight = 4
+  url = "/dnd/"
+  parent = "menu.other"
+
+[[menu.main]]
   name = "Web Tools"
   weight = 4
   url = "/tools/"
