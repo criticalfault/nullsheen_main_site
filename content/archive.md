@@ -137,7 +137,7 @@ Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Ma
 - [Shadowland Vol. 6](/files/shadowlands/Shadowland%20Vol.%206.pdf)
 - [Shadowland Vol. 7](/files/shadowlands/Shadowland%20Vol.%207.pdf)
 
-## Virtual Seattle Advenures
+## Virtual Seattle Adventures
 
 - [A Death in the Family](/files/virtual-seattle/A-Death-in-the-Family.pdf)
 - [A Leg of Hope](/files/virtual-seattle/A-Leg-of-Hope.pdf)
@@ -164,7 +164,6 @@ Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Ma
 - [The Hunter](/files/virtual-seattle/The-Hunter.pdf)
 - [The Passenger](/files/virtual-seattle/The-Passenger.pdf)
 - [The Body Farm](/files/virtual-seattle/The-Body-Farm.pdf)
-- [The Passenger](/files/virtual-seattle/The-Passenger.pdf)
 - [Willing To a Sell Soul](/files/virtual-seattle/Willing-To-a-Sell-Soul.pdf)
 - [VS01-SA02 Call of the Wild](/files/virtual-seattle/VS01-SA02-Call-of-the-Wild.pdf)
 - [VS01-SA2 Good Intentions](/files/virtual-seattle/VS01-SA2-Good-Intentions.pdf)
@@ -251,6 +250,7 @@ Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Ma
 - [SRM02-07A An Ounce Of Prevention](/files/Missions/SRM2/SRM02-07A_An_Ounce_Of_Prevention.pdf)
 - [SRM02-07B](/files/Missions/SRM2/SRM02-07B.pdf)
 - [SRM02-08A Chasing the Dragon](/files/Missions/SRM2/SRM02-08A_Chasing_the_Dragon.pdf)
+- [SRM02-08B](/files/Missions/SRM2/SRM02-08B.pdf)
 - [SRM02-09A Tunnel Vision](/files/Missions/SRM2/SRM02-09A_Tunnel_Vision.pdf)
 - [SRM02-09B](/files/Missions/SRM2/SRM02-09B.pdf)
 - [SRM02-10A Twist and Insult](/files/Missions/SRM2/SRM02-10A_Twist_and_Insult.pdf)
@@ -280,6 +280,7 @@ Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Ma
 - [SRM02-22A Backlash](/files/Missions/SRM2/SRM02-22A_Backlash.pdf)
 - [SRM02-22B](/files/Missions/SRM2/SRM02-22B.pdf)
 - [SRM02-23A Prodigal Son](/files/Missions/SRM2/SRM02-23A_Prodigal_Son.pdf)
+- [SRM02-23B](/files/Missions/SRM2/SRM02-23B.pdf)
 - [SRM02-24A Hubris and Humility](/files/Missions/SRM2/SRM02-24A_Hubris_and_Humility.pdf)
 - [SRM02-24B](/files/Missions/SRM2/SRM02-24B.pdf)
 - [SRM02-25A Done Deal](/files/Missions/SRM2/SRM02-25A_Done_Deal.pdf)
