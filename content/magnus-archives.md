@@ -16,7 +16,6 @@ The Magnus Archives RPG brings the hit horror podcast to life using the Cypher S
 
 - **[Official Magnus Archives RPG](https://www.montecookgames.com/store/product/the-magnus-archives-roleplaying-game/)** - Purchase the game
 - **[The Magnus Archives Podcast](https://rustyquill.com/the-magnus-archives/)** - Listen to the original podcast
-
 ---
 
 *Interested in Magnus Archives content? [Let me know](/contact/) what you'd like to see!*
