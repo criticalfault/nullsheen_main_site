@@ -49,6 +49,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Mage PC Sheet|[Mage PC Sheet](/files/SR2_Mage_Character_Sheet.pdf)|Mage/Shaman Sheet as an editable PDF  (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Spell Design Form|[Spell Design Form](/files/SR2_Spell_Design_Form.pdf)|Spell Design sheet editable PDF (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
+|Foundry SR2e|[https://github.com/criticalfault/foundry-sr2](https://github.com/criticalfault/foundry-sr2)|This is still a work in progress but should be fairly functional|
 
 
 ## Shadowrun 3rd Edition

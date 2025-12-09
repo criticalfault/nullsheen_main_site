@@ -156,7 +156,7 @@ Kevin's friendly local gaming store, Knight's Comics & Games, can be found on Ma
 - [Helter Skelter](/files/virtual-seattle/Helter-Skelter.pdf)
 - [Once Upon A Time](/files/virtual-seattle/Once-Upon-A-Time.pdf)
 - [Out for Blood](/files/virtual-seattle/Out-for-Blood.pdf)
-- [Redemption](/files/virtual-seattle/Redemption.pdf)
+- [Redemption](/files/virtual-seattle/Redemption.pdf) <- Password protected. Don't have password. Looking for one that is open.
 - [Some Kids Parents](/files/virtual-seattle/Some-Kids-Parents.pdf)
 - [Some Peoples Kids](/files/virtual-seattle/Some-Peoples-Kids.pdf)
 - [Some Runs Just Drag On](/files/virtual-seattle/Some-Runs-Just-Drag-On.pdf)
