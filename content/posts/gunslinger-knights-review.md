@@ -62,9 +62,9 @@ I cannot recommend this game setting enough, it has quickly become one of my fav
 
 ## Where to Purchase
 
-[Preview Game (Free) - PDF - DriveThruRPG](https://www.drivethrurpg.com/en/product/526025/gunslinger-knights-free-preview?affiliate_id=135005)
-[Full Game - PDF - DriveThruRPG](https://www.drivethrurpg.com/en/product/532441/gunslinger-knights?affiliate_id=135005)
-[Physical Book - Monte Cook Games](https://www.montecookgames.com/store/product/gunslinger-knights/)
+- [Preview Game (Free) - PDF - DriveThruRPG](https://www.drivethrurpg.com/en/product/526025/gunslinger-knights-free-preview?affiliate_id=135005)
+- [Full Game - PDF - DriveThruRPG](https://www.drivethrurpg.com/en/product/532441/gunslinger-knights?affiliate_id=135005)
+- [Physical Book - Monte Cook Games](https://www.montecookgames.com/store/product/gunslinger-knights/)
 
 ## Final Words
 
