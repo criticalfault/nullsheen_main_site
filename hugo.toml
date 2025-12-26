@@ -96,6 +96,12 @@ summaryLength = 70
   url = "/magnus-archives/"
   parent = "menu.cypher"
 
+[[menu.main]]
+  name = "Gunslinger Knights"
+  weight = 3
+  url = "/gunslinger-knights/"
+  parent = "menu.cypher"
+
 
 [[menu.main]]
   name = "Other Systems"
