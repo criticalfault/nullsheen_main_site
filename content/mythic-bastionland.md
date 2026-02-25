@@ -9,6 +9,10 @@ show_reading_time: false
 
 Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you play as Knights protecting Bastionland from mythic threats while building your own legends.
 
+## 🎬 Trailer
+
+{{< youtube oI9hdkaB7xA >}}
+
 ## 🎲 Tools & Resources
 
 *Mythic Bastionland tools and resources are in development.*

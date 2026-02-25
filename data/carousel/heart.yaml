@@ -1,0 +1,10 @@
+weight: 3
+title: "Heart RPG"
+description: >
+  <ul class="list-style-none">
+     <li>Delve Planner for mapping your descent</li>
+     <li>FoundryVTT integration package</li>
+     <li>Resources for the City Beneath</li>
+   </ul>
+image: "images/carousel/heartRPG.jpg"
+href: "heart"
