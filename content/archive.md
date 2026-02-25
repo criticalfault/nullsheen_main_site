@@ -70,6 +70,9 @@ As I continue on with this site, I stumble across all kinds of things I want arc
 - [2e Express Core Matrix Rules](/files/2e_Express_Core_Matrix_Rules.pdf) - Made by Ben from PinkFohawk
 - [2e Matrix Cheat Sheet](/files/Matrix_Cheat_Sheet.pdf) - Made by Ben from PinkFohawk
 - [2e Modifier Web](/files/SR2_Modifier_Web.pdf) - Made by LeeFellows from PinkFohawk Discord, it uses some homebrew for recoil but otherwise is CRAZY helpful for quick combat TNs.
+- [2e Combat Modifiers Sheet](/files/Combat_Modifiers.pdf) - From Ol' Ray on the Pink Fohawk Discord
+- [2e Quick References](/files/QUICK_REFERENCES.pdf) - From Stitched on the PinkFohawk Discord
+
 
 ## KA-GE Magazine
 
