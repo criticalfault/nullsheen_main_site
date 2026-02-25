@@ -134,6 +134,18 @@ summaryLength = 70
   parent = "menu.other"
 
 [[menu.main]]
+  name = "Mythic Bastionland"
+  weight = 5
+  url = "/mythic-bastionland/"
+  parent = "menu.other"
+
+[[menu.main]]
+  name = "Public Access"
+  weight = 6
+  url = "/public-access/"
+  parent = "menu.other"
+
+[[menu.main]]
   name = "Web Tools"
   weight = 4
   url = "/tools/"
