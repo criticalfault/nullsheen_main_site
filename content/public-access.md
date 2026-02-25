@@ -16,7 +16,7 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 ## 📚 Useful Links
 
 - **[Public Access DriveThru](https://www.drivethrurpg.com/en/product/429340/public-access?affiliate_id=135005)** - Get the game!
-- **[The Gauntlet](https://www.gauntlet-rpg.com/)** - Publisher's website
+- **[The Gauntlet](https://www.gauntlet-rpg.com/)** - Publisher's website.
 
 ---
 

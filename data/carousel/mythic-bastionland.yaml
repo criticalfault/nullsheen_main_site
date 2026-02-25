@@ -1,0 +1,10 @@
+weight: 4
+title: "Mythic Bastionland"
+description: >
+  <ul class="list-style-none">
+     <li>Build your Knight's legend</li>
+     <li>Track mythic threats and quests</li>
+     <li>Tools for myth-building adventures</li>
+   </ul>
+image: "images/carousel/mythicBastionlands.png"
+href: "mythic-bastionland"
