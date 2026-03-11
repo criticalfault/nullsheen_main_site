@@ -15,7 +15,9 @@ Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you 
 
 ## 🎲 Tools & Resources
 
-*Mythic Bastionland tools and resources are in development.*
+## Tokens
+- [MBTokens_EmbeddedIcons.3mf](/files/MBTokens_EmbeddedIcons.3mf)
+- [KnightToken.3mf](/files/KnightToken.3mf)
 
 ## 📚 Useful Links
 

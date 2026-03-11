@@ -1,18 +1,36 @@
 ---
-title: "Mythic Bastionlands"
+title: "Mythic Bastionlands Review"
 date: 2026-03-09T19:41:10-05:00
 draft: false
-banner: "/images/"
+banner: "/images/mythicBastionlands.png"
 tags: ["Game Reviews","Mythic Bastionlands"]
 author: Dean
 show_reading_time: true
 ---
+
+&nbsp;
 
 It's been awhile my friends! For me its been quite a few busy months of adjusting to a new job and seeing where things fall for a lot of different things in my life. One thing that of course has stayed the same is my ravenous appetite for new and interesting games. I have quite a banger for you this time too.
 
 ## A Fantasy Game Unlike Any Other
 
 Mythic Bastionlands is like nothing I have ever played or run before. It's a fantasy game with the eerie backdrop of a kingdom beset by myths (and those myths are WILD). You are one of 72 knights who were knighted by one of the 72 seers, given strange and fantastical powers in order to help keep the realm safe and together. Within this framework you work together with your fellow players across a sprawling map to find what is plaguing the kingdom and through the seers wisdom, how to stop it.
+
+The knights that the players are assigned range from the obsurd to the most heavy metal you can imagine. Here are two instances of knights the player characters might roll up. In play players would randomly recieve a knight by rolling a d6+d12.
+
+### Knight Examples
+
+#### Gilded Knight
+![Knight ](/images/mythicBastionlands/GildedKnight.jpg)
+
+
+The gilded knight draws thier power from their coming Martyrdom. Whenever they recieve a mortal wound, all allies gain 6 guard and get +d12 against the opponent who downed them. They also possess a mask which give them an additional point of armor, as well anyone who desires or knows the value of the gold are _impaired_ on their first attack.
+
+#### Barbed Knight
+![Knight holding a spear with twisting barbed wire entwinging their arm](/images/mythicBastionlands/BarbedKnight.jpg)
+
+
+The barbed knight draws them power from the blood of their enemy. Should they possess a victims blood, they can apply it to an arrow and roll +d12 with the normal dice for the bow. As well should they taste it, it will show their location to the knight. Their spear also does an additional +d8 against a target you have wounded or scarred.
 
 ## The Hex Crawl That Doesn't Slow You Down
 
@@ -41,3 +59,15 @@ As with any system however there are some flaws with the approach taken with Myt
 ## Final Thoughts: Lean Into the Weird
 
 My final word on this is really lean into the myths. Let them seem strange and fantastical and definitely give your players reasons to seek the Seers. One of the best parts of being a GM of Mythic Bastionlands is being able to drop the insanity that is the Seers on your players. Wither they are are speaking to a seer inside of a giant jar of soil that blooms flowers of different colors to tell them yes or no, or acolytes divine exactly how the pig demon seer ate an oyster dish to explain the coming daught. Keep them weird and give the players reasons to understand why they don't live with normal folks.
+
+Should you desire a copy of Mythic Bastionlands of your very own (and I highly recommend you do!) you can get it here. 
+
+[DriveThru RPG - Mythic Bastionlands](https://www.drivethrurpg.com/en/product/514996/mythic-bastionland?affiliate_id=135005)
+
+## Bonus Extras
+
+I ran this game at a convention (which I will do a write up on, because I had a lot of fun and have some good pictures from it!) and I came up with a fun way of doing this. Using the map generator: [mythic.bastionland.tools](https://mythic.bastionland.tools). I was able to make a player map, then sent it off to Office Depot's print department to turn it into a poster. I had them lamenate it and honestly, it turned out awesome. From there, I made some icons for the special features found on the various maps. I'll include those files in case you want to give it a try. They are a Bambu Studio 2 color print using an AMS. I know not a ton of people have those, but it really did turn out nice! As always you can just use paper tokens, just need to add some weight to them so a sneeze doesn't clear your board!
+
+### Tokens
+- [MBTokens_EmbeddedIcons.3mf](/files/MBTokens_EmbeddedIcons.3mf)
+- [KnightToken.3mf](/files/KnightToken.3mf)
