@@ -23,6 +23,10 @@ Heart: The City Beneath is a dark fantasy RPGs from Rowan, Rook and Decard set i
 - **[Heart: The City Beneath](https://rowanrookanddecard.com/product/heart-the-city-beneath-rpg/)** - Delve into the nightmare dungeon
 - **[Spire: The City Must Fall](https://rowanrookanddecard.com/product/spire-rpg/)** - Lead the revolution
 - **[Rowan, Rook and Decard](https://rowanrookanddecard.com/)** - Publisher's website
+
+## 🎧 Related Content
+- **[Rowan, Rook and Decard](https://www.youtube.com/watch?v=1xgq9s85mO0)** 
+
 ---
 
 *Want more Heart content? Send me an email!*

@@ -25,6 +25,10 @@ Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you 
 - **[Bastionland](https://www.bastionland.com/)** - Chris McDowall's blog
 - **[mythic.bastionland.tools - Map Maker](https://mythic.bastionland.tools/map)** - This is by far the best map maker.
 
+## 🎧 Related Content
+- **[Quinns Quest Reviews: Mythic Bastionland!](https://www.youtube.com/watch?v=P4-uUJ8iLTE&t=5s&pp=ygUfcXVpbm5zIHF1ZXN0IG15dGhpYyBiYXN0aW9ubGFuZA%3D%3D)**
+- **[Bastionland Broadcasting - How to Play Mythic Bastionland TTRPG](https://www.youtube.com/watch?v=VqR6DbUiQSo)**
+- **[Mythic Bastionland Actual Play: Knight Crawlers](https://www.youtube.com/watch?v=jHkjWNcd3uE&t=4675s&pp=ygUSbXl0aGljIGJhc3Rpb25sYW5k)**
 ---
 
 *Want more Mythic Bastionland content? [Let me know](/contact/)!*
