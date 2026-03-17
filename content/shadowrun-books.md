@@ -26,7 +26,8 @@ Noble Knight often has rotating stock and you can get alerted when stock comes i
 - [Shadowrun 1st Edition](https://www.nobleknight.com/Products/Shadowrun-1st-Edition?awid=1473)
 - [Shadowrun 2nd Edition](https://www.nobleknight.com/Products/Shadowrun-2nd-Edition?awid=1473)
 - [Shadowrun 3rd Edition](https://www.nobleknight.com/Products/Shadowrun-3rd-Editions-FASA?awid=1473)
-- [Shadowrun 4th Edition - Fanpro](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Fanpro?awid=1473) - [Shadowrun 4th Edition - Catalyst Games](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Catalyst-Game-Labs?awid=1473)
+- [Shadowrun 4th Edition - Fanpro](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Fanpro?awid=1473) 
+- [Shadowrun 4th Edition - Catalyst Games](https://www.nobleknight.com/Products/Shadowrun-4th-Edition-Catalyst-Game-Labs?awid=1473)
 - [Shadowrun 5th Edition](https://www.nobleknight.com/Products/Shadowrun-5th-Edition?awid=1473)
 - [Shadowrun 6th Edition](https://www.nobleknight.com/Products/Shadowrun-6th-Edition?awid=1473)
 
