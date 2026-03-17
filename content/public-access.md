@@ -14,6 +14,8 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 *Public Access tools and resources are in development.*
 - **[Kickstarter](https://www.kickstarter.com/projects/gauntlet/public-access-analog-horror-mystery-ttrpg)**
 
+{{< iframe src="https://www.kickstarter.com/projects/gauntlet/public-access-analog-horror-mystery-ttrpg/widget/card.html?v=2" width="220" height="420" >}}
+
 ## 📚 Useful Links
 
 - **[Public Access DriveThru](https://www.drivethrurpg.com/en/product/429340/public-access?affiliate_id=135005)** - Get the game!
@@ -22,6 +24,8 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 
 ## 🎧 Related Content
 - **[The Bad Spot - Public Access Actual Play](https://www.youtube.com/playlist?list=PLNBRIp_2-EWme0UhqryBIPlNQnhWAyyQa)**
+- **[Red Moon Roleplaying - Public Access Actual Play](https://www.youtube.com/watch?v=VWR8hJf4Ejk)**
+
 - **[Jason Cordova's YouTube Channel](https://www.youtube.com/@jasoncordova9195)**
 - **[Quinns Quest Reviews: Public Access!](https://www.youtube.com/watch?v=DI8fUgSdgZg&t=1489s&pp=ygURcHVibGljIGFjY2VzcyBycGc%3D)**
 
