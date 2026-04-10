@@ -1,614 +1,937 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+  <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="yandex-verification" content="6deb2554d9614dc0" />
-    <title>NullSheen - Tools for Shadowrun (And more) | NullSheen Shadowrun Tools</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.">
-    <meta name="generator" content="Hugo 0.123.7">
-    <meta name="author" content = "Dean Petty">
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" >
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 335px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
-  z-index: 1;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-#mobileMenuContainer{
-  padding:20px;
-  background-color: white;
-}
-
-#mobileMenuContainer ul{
-  list-style: none;
-  padding-left: 0;
-}
-
-#mobileMenuContainer li a{
-  margin-top:5px;
-  display: inline-block;
-  padding:5px;
-}
-
-#smallerHeader > div.stickyBar.hide-for-medium-down.accentBack > a > div{
-  color:white;
-  margin-top:5px;
-}
-
-#smallerHeader {
-  margin-top: 10px;
-}
-
-.toolPadding{
-  padding-left:10px;
-}
-
-.pb7{
-  padding-bottom: 6rem;
-}
-
-.cta-button {
-  display: inline-block;
-  background-color: #ff6600; /* Primary color */
-  color: #ffffff; /* Text color */
-  font-size: 18px;
-  font-weight: bold;
-  padding: 12px 20px;
-  text-align: center;
-  border-radius: 5px;
-  text-decoration: none;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
-  transition: background-color 0.3s ease-in-out;
-}
-
-.cta-button:hover {
-  background-color: #cc5500; /* Hover color */
-}
- 
-@media only screen and (max-width: 600px) {
-  #desktopHeader{
-    display:none;
-  }
-  #smallerHeader{
-    display:block;
-  }
-}
-
- 
-@media only screen and (min-width: 600px) {
-  #desktopHeader{
-    display:none;
-  }
-  #smallerHeader{
-    display:block;
-  }
-}
-
- 
-@media only screen and (min-width: 768px) {
-  #desktopHeader{
-    display:none;
-  }
-  #smallerHeader{
-    display:block;
-  }
-}
-
- 
-@media only screen and (min-width: 992px) {
-  #desktopHeader{
-    display:block;
-  }
-  #smallerHeader{
-    display:none;
-  }
-}
-</style>
-    
-
-<script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="YOACWQSB" defer></script>
+<title>NullSheen - Tools for Shadowrun (And more)</title>
+<meta name="author" content="Dean" />
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
-<script
-  src="https://code.jquery.com/jquery-3.7.1.min.js"
-  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
-  crossorigin="anonymous"></script>
-<script src="//cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
-<script>
-$( document ).ready(function() {
-     const tables = document.querySelectorAll("table");
-     let table = new DataTable('table',{
-          pageLength:50,
-          colReorder:true
-     });
 
-     tables.forEach((tab) => {
-         tab.classList.add("stripe");
-     });
 
-     $('.menu-trigger').on('click',function(event){
-          $('#mobileMenuContainer').slideToggle();
-     })
-});
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<meta name="keywords" content="shadowrun, ttrpg, gaming, tools">
 
-  gtag('config', 'G-FC158GDTHC');
-</script>
-<script>window._epn = {campaign: 5339061858, smartPopover:false};</script>
-<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
 
-<script>
-     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-     n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-     (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-     ml('account', '1152748');
- </script>
- 
+<meta name="description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.">
+
+<meta name="generator" content="Hugo 0.115.0">
+
+
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v6.7.2/css/all.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+
+<link href="/css/animate.css" rel="stylesheet">
+
+
+
+  <link href="/css/style.marsala.css" rel="stylesheet" id="theme-stylesheet">
+
+
+
+<link href="/css/custom.css?1773104781" rel="stylesheet">
+
+
+
+  <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/images/logos/nullsheen-logo.png" />
+
+
+<link href="/css/owl.carousel.css" rel="stylesheet">
+<link href="/css/owl.theme.css" rel="stylesheet">
+
+
+<link rel="alternate" href="https://www.nullsheen.com/index.xml" type="application/rss+xml" title="NullSheen - TTRPG Gaming Tools and Reviews">
+
+
+
+
+
+
   
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2802312263939980"
+
+
+
+
+<meta property="og:locale" content="en_us">
+<meta property="og:site_name" content="NullSheen - TTRPG Gaming Tools and Reviews">
+<meta property="og:title" content="NullSheen - Tools for Shadowrun (And more)">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.nullsheen.com/" />
+<meta property="og:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.">
+<meta property="og:image" content="https://www.nullsheen.com/images/mainBG.jpg">
+<meta property="og:image:type" content="image/jpg">
+
+
+
+<meta property="og:updated_time" content="2026-03-09T19:41:10-0500">
+
+
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:title" content="NullSheen - Tools for Shadowrun (And more)">
+
+<meta name="twitter:image" content="https://www.nullsheen.com/images/mainBG.jpg">
+
+<meta name="twitter:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.">
+
+
+    
+
+<script src="https://cdn.usefathom.com/script.js" data-site="yoacwqsb" defer></script>
+
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2802312263939980"
      crossorigin="anonymous"></script>
+
+
+
+
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script> -->
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1152748');
+</script>
 
 
-    
-      
-
-    
-
-    
-    
-      <link href="/index.xml" rel="alternate" type="application/rss+xml" title="NullSheen Shadowrun Tools" />
-      <link href="/index.xml" rel="feed" type="application/rss+xml" title="NullSheen Shadowrun Tools" />
-      
-    
-
-    
-      <link rel="canonical" href="http://localhost:1313/">
-    
-
-    <meta property="og:title" content="NullSheen - Tools for Shadowrun (And more)" />
-<meta property="og:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/" />
-
-<meta itemprop="name" content="NullSheen - Tools for Shadowrun (And more)">
-<meta itemprop="description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking."><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="NullSheen - Tools for Shadowrun (And more)"/>
-<meta name="twitter:description" content="RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking."/>
-
-	
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body>
 
-    
+    <div id="all">
 
-  
-  <header class="cover bg-top" style="background-image: url('http://localhost:1313/images/mainBG.jpg');">
-    <div class="bg-black-60">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
-      
-        NullSheen Shadowrun Tools
-      
-    </a>
-    
-    <div class="flex-l items-center" id="desktopHeader">
-      
+        
+<header>
+  <div id="top">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-5">
+          <p class="hidden-sm hidden-xs">TTRPG Gaming Tools and Reviews</p>
+        </div>
+        <div class="col-xs-7">
+          <div class="social">
+            
+            <a href="mailto:dean@nullsheen.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
-      
-        <ul class="pl0 mr3">
-          <li class="list f5 f4-ns fw4 dib">
-            <div class="dropdown dropdown2 flex-l justify-between items-center center">
-              <a class="dropbtn dropbtn2 hover-white no-underline white-90" href="https://www.nullsheen.com/software">Shadowrun Tools &#9660;</a>
-              <div class="dropdown-content">
-                <a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a>
-                <a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a>
-                <a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a>
-                <a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a>
-                <a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a>
-                <a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a>
-              </div>
+
+
+        <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+    <div class="navbar navbar-default yamm " role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    
+                      <img src="/images/logos/nullsheen-logo.png" alt="NullSheen - Tools for Shadowrun (And more) logo" class="hidden-xs hidden-sm" />
+                      <img src="/images/logos/nullsheen-logo.png" alt="NullSheen - Tools for Shadowrun (And more) logo" class="visible-xs visible-sm" />
+                    
+                    <span class="sr-only">NullSheen - Tools for Shadowrun (And more) - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
             </div>
-          </li>
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="ml-onclick-form over-white no-underline white-90" href="javascript:void(0)" onclick="ml('show', 'wHbKBq', true)">Newsletter Signup</a>
-          </li>
+            
 
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/archive/" title="">
-              The Archive
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/contact/" title="">
-              Contact
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/about-me/" title="">
-              About Me
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/shadowrun-books/" title="">
-              Shadowrun Books
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://www.nullsheen.com/shadowrun-podcasts-list/" title="">
-              Shadowrun Podcasts
-            </a>
-          </li>
-          
-        </ul>
-      
-      
-<div class="ananke-socials">
-  
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+
+                  
+                  
+                  
+
+                  
+                    
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown active">
+                    <a href="/">Home</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shadowrun <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/shadowrun/">Shadowrun Hub</a></li>
+                            
+                            <li><a href="/archive/">Shadowrun Archive</a></li>
+                            
+                            <li><a href="/shadowrun-books/">Shadowrun Books</a></li>
+                            
+                            <li><a href="/shadowrun-podcasts-list/">Shadowrun Podcasts</a></li>
+                            
+                            <li><a href="/software/">Shadowrun Software</a></li>
+                            
+                            <li><a href="/shadowrun-stls/">Shadowrun STLs</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cypher System <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/old-gods/">Old Gods of Appalachia</a></li>
+                            
+                            <li><a href="/magnus-archives/">The Magnus Archives</a></li>
+                            
+                            <li><a href="/gunslinger-knights/">Gunslinger Knights</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other Systems <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/traveller/">Traveller</a></li>
+                            
+                            <li><a href="/heart/">Heart RPG</a></li>
+                            
+                            <li><a href="/rifts/">Rifts</a></li>
+                            
+                            <li><a href="/dnd/">Dungeons &amp; Dragons</a></li>
+                            
+                            <li><a href="/mythic-bastionland/">Mythic Bastionland</a></li>
+                            
+                            <li><a href="/public-access/">Public Access</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/tools/">Web Tools</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/posts/">Blog</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/twitch/">Live Streams</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/contact/">Contact</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/about-me/">About Me</a>
+                  </li>
+                  
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+        
+
+
+<section>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel"
+                data-autoplay="true"
+                data-slide-speed="2000"
+                data-pagination-speed="1000">
+                
+                <div class="item">
+                    
+                    <a href="shadowrun" target="_blank" title="Shadowrun">
+                    
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>Shadowrun</h1>
+                                <ul class="list-style-none">
+   <li>Character Builders (2nd and 3rd Edition)</li>
+   <li>Initative Tracker (2nd and 3rd Edition)</li>
+   <li>Software from across time and space</li>
+ </ul>
+
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="images/carousel/LarryElmore.jpg" alt="">
+                            </div>
+                        </div>
+                    
+                    </a>
+                    
+                </div>
+                
+                <div class="item">
+                    
+                    <a href="old-gods" target="_blank" title="Old Gods of Appalachia">
+                    
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>Old Gods of Appalachia</h1>
+                                <ul class="list-style-none">
+  <li>Game Review</li>
+  <li>Character Sheets</li>
+  <li>And more!</li>
+ </ul>
+
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="images/carousel/oldGods.webp" alt="">
+                            </div>
+                        </div>
+                    
+                    </a>
+                    
+                </div>
+                
+                <div class="item">
+                    
+                    <a href="heart" target="_blank" title="Heart RPG">
+                    
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>Heart RPG</h1>
+                                <ul class="list-style-none">
+   <li>Delve Planner for mapping your descent</li>
+   <li>FoundryVTT integration package</li>
+   <li>Resources for the City Beneath</li>
+ </ul>
+
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="images/carousel/heartRPG.jpg" alt="">
+                            </div>
+                        </div>
+                    
+                    </a>
+                    
+                </div>
+                
+                <div class="item">
+                    
+                    <a href="mythic-bastionland" target="_blank" title="Mythic Bastionland">
+                    
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>Mythic Bastionland</h1>
+                                <ul class="list-style-none">
+   <li>Build your Knight's legend</li>
+   <li>Track mythic threats and quests</li>
+   <li>Tools for myth-building adventures</li>
+ </ul>
+
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="images/carousel/mythicBastionlands.png" alt="">
+                            </div>
+                        </div>
+                    
+                    </a>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+        
+
+
+
+
+        
+
+
+
+
+        
+
+
+
+
+        
+
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>Recent Posts</h2>
+            </div>
+
+            <p class="lead">
+              Latest updates and content from NullSheen
+            </p>
+
+            
+
+            <div class="row">
+                
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                
+                                <img src="/images/" class="img-responsive" alt="" />
+                                
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="https://www.nullsheen.com/posts/mythic-bastionlands/" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> Read more</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="https://www.nullsheen.com/posts/mythic-bastionlands/">Mythic Bastionlands</a></h4>
+                            <p class="author-category">
+			    
+                            
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                on March 9, 2026
+                            
+                            </p>
+                            
+                            <p class="intro">It&rsquo;s been awhile my friends! For me its been quite a few busy months of adjusting to a new job and seeing where things fall for a lot of different things in my life. One thing that of course has stayed the same is my ravenous appetite for new and interesting games. I have quite a banger for you this time too.
+A Fantasy Game Unlike Any Other Mythic Bastionlands is like nothing I have ever played or run before.</p>
+                            <p class="read-more">
+                              <a href="https://www.nullsheen.com/posts/mythic-bastionlands/" class="btn btn-template-main">Continue reading</a>
+                            </p>
+                            
+                        </div>
+                    </div>
+                    
+
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                
+                                <img src="/images/Gunslinger_Knights_01_Roberto_Pitturru.jpg" class="img-responsive" alt="" />
+                                
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="https://www.nullsheen.com/posts/gunslinger-knights-review/" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> Read more</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="https://www.nullsheen.com/posts/gunslinger-knights-review/">Gunslinger Knights Review</a></h4>
+                            <p class="author-category">
+			    
+			      By <a href="/authors/dean">Dean</a>
+                            
+                            
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                on December 26, 2025
+                            
+                            </p>
+                            
+                            <p class="intro">Im a big fan of a lot of games (Which is why I have this website honestly), that goes double for games with unique settings and very few are as unique as Gunslinger Knights. It&rsquo;s a game that is a bit weird but wholly wonderful. Part post-apocalypse, part 1980s cartoon, part Arthurian legend, it holds something for everyone who has even the slightest inclination for high octane fun.
+The Elevator Pitch Gunslinger Knights is a game about dimension hopping Arthurian Knights traveling across a medieval world on magical motorcycles fighting for a pacifist people against necromantic agents of chaos who have started to invade a world destroyed by a magical apocalypse.</p>
+                            <p class="read-more">
+                              <a href="https://www.nullsheen.com/posts/gunslinger-knights-review/" class="btn btn-template-main">Continue reading</a>
+                            </p>
+                            
+                        </div>
+                    </div>
+                    
+
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                
+                                <img src="/images/OGoA_RPG_items.jpg" class="img-responsive" alt="" />
+                                
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-folk-magic/" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> Read more</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-folk-magic/">Old Gods of Appalachia - Folk Magic Overview</a></h4>
+                            <p class="author-category">
+			    
+                            
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                on November 20, 2025
+                            
+                            </p>
+                            
+                            <p class="intro">This is my attempt to make a kind of unified folk magic primer for new people coming to the game that want to play wise witch and cunning folk. This is definitely a work in progress and doesn&rsquo;t cover everything thats possible out there, but its a good place to start perhaps. If you guys have any input, please send it my way!
+-D
+Nailing it Down / Protection Magic Description: People want to keep what’s theirs: their house, their land, their people.</p>
+                            <p class="read-more">
+                              <a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-folk-magic/" class="btn btn-template-main">Continue reading</a>
+                            </p>
+                            
+                        </div>
+                    </div>
+                    
+
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                
+                                <img src="/images/oldGods.webp" class="img-responsive" alt="" />
+                                
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-review/" class="btn btn-template-transparent-primary"><i class="fas fa-link"></i> Read more</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-review/">Old Gods of Appalachia Review</a></h4>
+                            <p class="author-category">
+			    
+			      By <a href="/authors/dean">Dean</a>
+                            
+                            
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                on November 9, 2025
+                            
+                            </p>
+                            
+                            <p class="intro">This is my first ever game review, I hope it is something you good folks enjoy. If so, let me know. I&rsquo;d love to do a lot more of it!
+I have a fondness for folk magic. It’s something I end up making rules for or introducing into just about every horror game I run. Some systems have some kind of magic already. This was the case with Shadowrun and with that I’ve added what I could in new magical traditions to match other folks traditions I know about it.</p>
+                            <p class="read-more">
+                              <a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-review/" class="btn btn-template-main">Continue reading</a>
+                            </p>
+                            
+                        </div>
+                    </div>
+                    
+
+                </div>
+                
+
+            </div>
+            
+
+            
+
+        </div>
+    </div>
+    
+</section>
+
+
+
+
+
+        
+
+
+
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            <p></p>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+            
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://www.nullsheen.com/posts/mythic-bastionlands/">
+                          
+                            <img src="/images/" class="img-responsive" alt="Mythic Bastionlands" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://www.nullsheen.com/posts/mythic-bastionlands/">Mythic Bastionlands</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://www.nullsheen.com/posts/gunslinger-knights-review/">
+                          
+                            <img src="/images/Gunslinger_Knights_01_Roberto_Pitturru.jpg" class="img-responsive" alt="Gunslinger Knights Review" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://www.nullsheen.com/posts/gunslinger-knights-review/">Gunslinger Knights Review</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-folk-magic/">
+                          
+                            <img src="/images/OGoA_RPG_items.jpg" class="img-responsive" alt="Old Gods of Appalachia - Folk Magic Overview" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://www.nullsheen.com/posts/old-gods-of-appalachia-folk-magic/">Old Gods of Appalachia - Folk Magic Overview</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+            
+
+        </div>
+        
+
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2025, NullSheen; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Template by <a href="https://bootstrapious.com/universal-business-e-commerce-template">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
 </div>
 
+
+
+
+
     </div>
     
-    <div class="flex-l items-center" id="smallerHeader">
-      <div class="stickyBar hide-for-medium-down accentBack">
-        <a href="#" class="menu-trigger" aria-label="Click to open menu">
-          <img src="/images/menu-icon.svg" alt="Menu Icon" width="50" class="marginBottom5" draggable="false">
-          <div class="uppercase">Menu</div>
-        </a>
-      </div>
-      <div id="mobileMenuContainer" style="display: none;">
-        <ul>
-          <li><a href="https://www.nullsheen.com/software">Shadowrun Tools</a></li>
-          <li class="toolPadding"><a href="https://character-generator.nullsheen.com/" target="_blank">Character Generator (2nd/3rd)</a></li>
-          <li class="toolPadding"><a href="https://matrix2.nullsheen.com/" target="_blank">Matrix Builder (2nd)</a></li>
-          <li class="toolPadding"><a href="https://matrix.nullsheen.com/" target="_blank">Matrix Generator (3rd)</a></li>
-          <li class="toolPadding"><a href="https://initiative-tracker.nullsheen.com/" target="_blank">Initative Tracker (2nd/3rd)</a></li>
-          <li class="toolPadding"><a href="https://shadowrun-run-generator.nullsheen.com/" target="_blank">Run Generator</a></li>
-          <li class="toolPadding"><a href="https://weapon-designer.nullsheen.com/" target="_blank">Weapon Designer (3rd)</a></li>
-          <li><a href="javascript:void(0)" onclick='ml("show","wHbKBq",!0)'>Newsletter Signup</a></li>
-          <li><a href="https://www.nullsheen.com/archive/" title="The Archive page">The Archive</a></li>
-          <li><a href="https://www.nullsheen.com/contact/" title="Contact page">Contact</a></li>
-          <li><a href="https://www.nullsheen.com/about-me/" title="About Me page">About Me</a></li>
-          <li><a href="https://www.nullsheen.com/shadowrun-books/" title="Shadowrun Books page">Shadowrun Books</a></li>
-          <li><a href="https://www.nullsheen.com/shadowrun-podcasts-list" title="Shadowrun Podcasts page">Shadowrun Podcasts</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
 
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          NullSheen - Tools for Shadowrun (And more)
-        </h1>
-        
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            RPG web tools, reviews, and discussions about Shadowrun including Character Generators, Matrix builders, Initative tracking.
-          </h2>
-        
-      </div>
-    </div>
-  </header>
-
-
-    <main class="pb7" role="main">
-      
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-      
-    </article>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      <div class="pa3 pa4-ns w-100 w-70-ns center">
-        
-        
-            <h1 class="flex-none">
-              
-            </h1>
-          
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FC158GDTHC"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-FC158GDTHC', { 'anonymize_ip': false });
+}
+</script>
 
-        
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 
-        <section class="w-100 mw8">
-          
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/vtt-map-library/" class="db grow">
-            <img src="http://localhost:1313/images/BookSeller.webp" class="img" alt="image from Vtt Map Library">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/vtt-map-library/" class="color-inherit dim link">
-            Vtt Map Library
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-           Example Map Table Name Map Size Link Thumbnail Tags Author Info Cyberpunk Apartment 30x40 Map Pack Apartment, Interior, Furnished SilverStarMaps 2 2 2 2 2 2 
-        </div>
-          <a href="/vtt-map-library/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/double-explosure-review/" class="db grow">
-            <img src="http://localhost:1313/images/DoubleExposure.jpg" class="img" alt="image from Double Explosure Review">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/double-explosure-review/" class="color-inherit dim link">
-            Double Explosure Review
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          &ldquo;Is this the path to Eden?&rdquo; - Johnathan Tang
-Double Exposure is an adventure for 2nd Edition Shadowrun. It is a very story heavy adventure that brings characters in a really unique situation that I haven’t seen in many other adventures. This adventure will put the player characters right in the middle of a new sprung up commune in the barons. What’s even wilder? This organization even seems to be actually growing sustainable food crops.
-        </div>
-          <a href="/posts/double-explosure-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/new-years-goals-2025/" class="db grow">
-            <img src="http://localhost:1313/images/NewYearsFixed.jpg" class="img" alt="image from New Years Goals 2025">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/new-years-goals-2025/" class="color-inherit dim link">
-            New Years Goals 2025
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Greetings Shadowpunks!
-With last year behind us, I look forward to what will come in the future. This year I hope to finish two new tools for the site: Weapon Designer and Vehicle Designer. These will more than likely take at least 3 or 4 months each (Though the vehicle one will take something really special to finish in that time). My hope is always to allow players more control over their characters and to give GMs the tools to be able to create custom things quickly and easily.
-        </div>
-          <a href="/posts/new-years-goals-2025/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/total-eclipse-review/" class="db grow">
-            <img src="http://localhost:1313/images/totalEclipseReview.jpg" class="img" alt="image from Total Eclipse Review">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/total-eclipse-review/" class="color-inherit dim link">
-            Total Eclipse Review
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Before we dive in! I wrote another section of my adventure: Protect and Serve.
-Music in the 80s was a bit more defining than today (Though Taylor Swift has definitely revived some of the old feelings of hardcore allegiance to a band or musician). Who you listened to and who you repped told you a lot about someone and in general I feel it had a lot more of a cultural impact than it does today.
-        </div>
-          <a href="/posts/total-eclipse-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/decker-problems-and-how-to-solve-them/" class="db grow">
-            <img src="http://localhost:1313/images/binary.png" class="img" alt="image from Decker Problems and How to Solve Them">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/decker-problems-and-how-to-solve-them/" class="color-inherit dim link">
-            Decker Problems and How to Solve Them
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          One of the most common problems new GMs (And old for that matter) is running the Matrix for their players. In every edition of Shadowrun, the matrix has been a pivotal part of the game. It makes sense in the larger picture, Gibson&rsquo;s Neuromancer (Which you absolutely NEED to read if your running Shadowrun or Cyberpunk! [Hardcover or Sprawl Trilogy (Plus Burning Chrome) - Good Christmas Gifts!] gives us the first console cowboy and we have been seeking that experience every since.
-        </div>
-          <a href="/posts/decker-problems-and-how-to-solve-them/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-            <div class="relative w-100 mb4">
-              
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="/posts/silver-angel-review/" class="db grow">
-            <img src="http://localhost:1313/images/SilverAngel.jpg" class="img" alt="image from Silver Angel Review">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/silver-angel-review/" class="color-inherit dim link">
-            Silver Angel Review
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Silver Angel was the first published Adventure for Shadowrun. It was paired with the original Game Master&rsquo;s screen for 1st Edition Shadowrun. What’s interesting is that it also came with standees (cardboard cutouts that you could use to show placement of characters and NPCs) which we wouldn’t see again until DMZ was released. These paired excellently with the Sprawl Maps.
-This adventure is pretty short, but you can see the gritty bones of what would become the Shadowrun we all know and love.
-        </div>
-          <a href="/posts/silver-angel-review/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-            </div>
-          
-        </section>
-
-        
-        <section class="w-100">
-          <h1 class="f3"></h1>
-          
-          
-            <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/queen-euphoria-review-notes/" class="link black dim">
-                Queen Euphoria Review Notes
-              </a>
-            </h2>
-          
-            <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/borrowing-rules-for-better-games/" class="link black dim">
-                Borrowing Rules for Better Games
-              </a>
-            </h2>
-          
-            <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/gamehole-con-review/" class="link black dim">
-                Gamehole Con Review
-              </a>
-            </h2>
-          
-            <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/posts/how-to-get-milage-out-of-anchoring-foci/" class="link black dim">
-                Anchoring Foci and Spells and Why You Should Be Using Them More Often
-              </a>
-            </h2>
-          
-
-          
-          
-            <a href="/posts/" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc"></a>
-          
-          </section>
-        
-
-        </div>
-    
-  
-
-    </main>
-    
-<a href="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Click" style="display: flex;margin-bottom: 10px;">
-  <img border="0" src="https://www.nobleknight.com/affiliate/aw.asp?B=1&A=1473&Task=Get" width="728" height="90" alt="Noble Knight Games" style="margin: 0 auto;">
-</a>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 
 
-<footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
-    &copy;  NullSheen Shadowrun Tools 2025 
-  </a>
-    <div>
-      <a class="f4 fw4 hover-white no-underline white-70" href="https://www.nullsheen.com/privacy-policy/">Privacy Policy</a>
-    </div>
-  </div>
-</footer>
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
 
   </body>
 </html>
