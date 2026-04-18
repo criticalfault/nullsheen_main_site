@@ -9,10 +9,6 @@ show_reading_time: false
 
 Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you play as Knights protecting Bastionland from mythic threats while building your own legends.
 
-## 🎬 Trailer
-
-{{< youtube oI9hdkaB7xA >}}
-
 ## 🎲 Tools & Resources
 
 ## Tokens
@@ -29,6 +25,11 @@ Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you 
 - **[Quinns Quest Reviews: Mythic Bastionland!](https://www.youtube.com/watch?v=P4-uUJ8iLTE&t=5s&pp=ygUfcXVpbm5zIHF1ZXN0IG15dGhpYyBiYXN0aW9ubGFuZA%3D%3D)**
 - **[Bastionland Broadcasting - How to Play Mythic Bastionland TTRPG](https://www.youtube.com/watch?v=VqR6DbUiQSo)**
 - **[Mythic Bastionland Actual Play: Knight Crawlers](https://www.youtube.com/watch?v=jHkjWNcd3uE&t=4675s&pp=ygUSbXl0aGljIGJhc3Rpb25sYW5k)**
+
+## 🎬 Trailer
+
+{{< youtube oI9hdkaB7xA >}}
+
 ---
 
 *Want more Mythic Bastionland content? [Let me know](/contact/)!*
