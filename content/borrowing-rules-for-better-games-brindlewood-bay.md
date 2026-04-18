@@ -3,6 +3,7 @@ title: "Borrowing Rules for Better Games - Carved from the Brindlewood Bay Syste
 date: 2026-04-18T08:36:13-05:00
 author: Dean
 tags: ["gm help", "guides", "other rpgs", "opinion"]
+banner: "/images/book-and-pen.jpg"
 show_reading_time: true
 draft: false
 ---
@@ -82,5 +83,3 @@ Brindlewood Bay doesn't just offer a fun mystery game — it offers a genuinely 
 Give them a try at your next session. I think you'll be surprised at how quickly your players start leaning in.
 
 -D
-
----
