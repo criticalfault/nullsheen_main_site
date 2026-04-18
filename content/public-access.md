@@ -5,6 +5,7 @@ banner: "/images/PublicAccess.png"
 draft: false
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 Public Access is a post modern horror game about a group of people (The Latchkeys) returning to their home town to investigate an old TV Station called "TV Odyssey". Rules are based on Powered by the Powered by the Apocalypse, but heavily modified in how those rules are applied. This is a game you don't want to miss. 
@@ -17,7 +18,7 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 {{< iframe src="https://www.kickstarter.com/projects/gauntlet/public-access-analog-horror-mystery-ttrpg/widget/card.html?v=2" width="220" height="420" >}}
 
 
-## Free Adventures and Assets
+## 🗺️ Free Adventures and Assets
 
 | Type | Name | Author | Notes |
 |------|------|--------|-------|

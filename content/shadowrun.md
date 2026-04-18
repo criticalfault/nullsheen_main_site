@@ -42,7 +42,6 @@ Visit the **[Shadowrun Books](/shadowrun-books/)** page for:
 
 - My published Lone Star Stories adventures
 - Links to buy books from all editions (1st through 6th)
-- Amazon and Noble Knight affiliate links
 - eBay search for hard-to-find books
 
 ### Archives & Downloads
