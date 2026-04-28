@@ -64,6 +64,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Jackpoint|[Jackpoint](/files/Jackpoint_Beta2_Redux_Setup.zip)|The Mac daddy of all helper programs. This is a character generator AND DM helper. A lot of cool tools. Works in Windows 10!|
 |Character Generator| [https://character-generator.nullsheen.com/](https://character-generator.nullsheen.com/) |A Beta character generator for SR2 and 3.|
 |Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/) |This is a wild little tool for calculating ranged target numbers|
+|Shadowrun Foundry VTT Package|[https://github.com/williamdiffey/The2ndChumming3e](https://github.com/williamdiffey/The2ndChumming3e)|A Foundry package maintained by Skunkworx from the PinkFohawk Discord!|
 
 ## Shadowrun 4th Edition
 | Tool        | URL   | Description |
