@@ -51,7 +51,9 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Spell Design Form|[Spell Design Form](/files/SR2_Spell_Design_Form.pdf)|Spell Design sheet editable PDF (Made by browenwhitefire on Discord! Thanks for your work!)|
 |Shadowrun Target Computer|[https://nerdislandstudios.com/ShadowrunTargetComputer1/](https://nerdislandstudios.com/ShadowrunTargetComputer1/)|This is a wild little tool for calculating ranged target numbers|
 |Foundry SR2e|[https://github.com/criticalfault/foundry-sr2](https://github.com/criticalfault/foundry-sr2)|This is still a work in progress but should be fairly functional|
+|Matrix Program Package|[SourceForge](https://cyberspace.sourceforge.io/)|Matrix Program Package for Shadowrun (TM) is a simulator for Matrix actions of the pen&paper roleplaying game system Shadowrun. It allows a decker running through a Matrix including ICE and all other aspects of the RPG version v1.0 and SR2.01. See note below. - From SourceForge Page . This is written by a legendary decker "icetoaster" - I'll make a backup on my site once I hear back from IceToaster! |
 
+> **Windows 11 Note:** To run this on Windows 11, you will need [winevdm](https://github.com/otya128/winevdm) installed, which adds support for legacy 16-bit Windows applications.
 
 ## Shadowrun 3rd Edition
 | Tool        | URL   | Description |
