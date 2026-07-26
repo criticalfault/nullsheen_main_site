@@ -8,7 +8,7 @@ author: Dean
 show_reading_time: true
 ---
 
-Ivy and Chrome is a Shadowrun adventure from the dawn of Shadowrun (1st edition). This adventure has a great balance of things to have players do (Magic, Decking, Rigging, Combat, Social) but is also one of the single most unbalanced adventures I have ever personally seen. I think the story has great heart, but it needs a WILD amount of tweaks to keep your players from accidentally wandering into what I can only describe as 2 absolutely apocalyptic battles.
+[Ivy and Chrome](https://www.drivethrurpg.com/product/64091/shadowrun-ivy-chrome?affiliate_id=135005) is a Shadowrun adventure from the dawn of Shadowrun (1st edition). This adventure has a great balance of things to have players do (Magic, Decking, Rigging, Combat, Social) but is also one of the single most unbalanced adventures I have ever personally seen. I think the story has great heart, but it needs a WILD amount of tweaks to keep your players from accidentally wandering into what I can only describe as 2 absolutely apocalyptic battles.
 
 The players are sent on a journey from a strange Decker to find a missing woman before something terrible happens to her. Track her down as time ticks down and be faced with a final choice that has what I believe to be the true heart of Shadowrun. Corporations loom to threaten a way of life that could bring hope back, are you willing to stand by?
 
@@ -97,3 +97,5 @@ Ivy and Chrome has real heart. Strip away the encounter math and it's a story ab
 Run it as written, though, and you're gambling with a TPK. The power level is wildly out of step with what should be a street-level investigation: rating 6 power foci, multi-initiated mages, and a corporate strike force with attack helicopters, all aimed at starting characters. Budget real prep time to rebalance the antagonists, fix the timeline so Fay and Nick are still findable in the city, and warn your players that a wrong word in the wrong bar can turn lethal fast.
 
 Put in that work and this is one of the better emotional stories 1st edition Shadowrun has to offer. Run it out of the book with no changes, and you're likely ending the campaign early.
+
+You can grab Ivy and Chrome on [DriveThruRPG](https://www.drivethrurpg.com/product/64091/shadowrun-ivy-chrome?affiliate_id=135005).
