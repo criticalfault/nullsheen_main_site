@@ -156,9 +156,28 @@ summaryLength = 70
   url = "/posts/"
 
 [[menu.main]]
-  name = "Live Streams"
+  name = "Cosmere RPG"
   weight = 6
-  url = "/twitch/"
+  identifier = "menu.cosmere"
+  url = "#"
+
+[[menu.main]]
+  name = "Stormlight Archive"
+  weight = 1
+  url = "/stormlight-archive/"
+  parent = "menu.cosmere"
+
+[[menu.main]]
+  name = "Mistborn"
+  weight = 2
+  url = "/mistborn/"
+  parent = "menu.cosmere"
+
+[[menu.main]]
+  name = "Cosmere Books"
+  weight = 3
+  url = "/cosmere/"
+  parent = "menu.cosmere"
 
 [[menu.main]]
   name = "Contact"
