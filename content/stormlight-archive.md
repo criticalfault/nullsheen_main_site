@@ -35,6 +35,7 @@ A few STL tokens for the table. These are useful for tracking resources during p
 - **[Brotherwise Games - Stormlight Archive RPG](https://brotherwisegames.com/)** - Official publisher
 - **[The Coppermind](https://coppermind.net/)** - Comprehensive Cosmere wiki
 - **[17th Shard](https://www.17thshard.com/)** - Premier Cosmere fan community
+- **[Cosmere Timeline](https://docs.google.com/spreadsheets/d/1zq5bJoKE83ggDCjH43i1hZi0CIpB2iAx7v37zQPVFK0/edit?gid=856252766#gid=856252766)** - Community-built timeline spreadsheet covering events across the Cosmere
 
 ## 🛒 Support the Site
 
