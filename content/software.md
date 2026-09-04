@@ -17,7 +17,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Matrix Builder|https://matrix2.nullsheen.com|2nd| Allows for detailed matrix creation|
 |Matrix Generator|https://matrix.nullsheen.com|3rd|Generates Sheafs on the fly.|
 |Initiative Tracker|https://initiative-tracker.nullsheen.com|2nd & 3rd|Tracks initiative for PCs and NPCs with condition monitors|
-|Run Generator|[https://shadowrun-run-generator.nullsheen.com](https://shadowrun-run-generator.nullsheen.com/)|Get Ideas for different Shadowruns|
+|Run Generator|[https://shadowrun-run-generator.nullsheen.com](https://shadowrun-run-generator.nullsheen.com/)|All|Get ideas for different Shadowruns|
 |Loot Generator|[https://shadowrun-loot-generator.nullsheen.com](https://shadowrun-loot-generator.nullsheen.com/)|1st - 3rd|Generate generic various cyberpunk style loot|
 
 
@@ -72,7 +72,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 | Tool        | URL   | Description |
 | ----------- | ----- | ----------- |
 |Chummer4 Repo|https://code.google.com/archive/p/chummer/ and https://github.com/Arkeas/chummer | Character Creator, has to be installed however!|
-|Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)
+|Chummer4e|[Chummer4e Download](/files/Chummer4e.zip)|Standalone download of Chummer4e if the repo link is unavailable|
 |Shadowrun Mob Master|https://toktic.github.io/sr_gmt/|NPC and Group creator for those combats you know are coming|
 |SR4 Current Version: v18|[SR4 Current Version: v18](/files/SR4_Framework18.cmpgn)|[https://forums.rptools.net/viewtopic.php?t=9002](Read Me) VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
 |Shadowrun 4th, Anniversary Edition Quick-Reference|[SR Screen](/files/SRScreen.7z)|This is the ultimate 4th edition helper. Runs right in chrome as a simple local webpage|
@@ -82,11 +82,11 @@ I've decided to attempt to collect as much as I possibly can for various project
 | ----------- | ----- | ----------- |
 |Chummer5|[https://github.com/chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Another of the Chummer series of character generators. Has to be installed|
 |Omae v.2|[https://heyomae.github.io/](https://heyomae.github.io/)|Web App Character Generator|
-|Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)||
-|SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)||
-|Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)||
+|Shadowrun 5th Sheet|[https://shadowrun-5th-sheet.vercel.app/](https://shadowrun-5th-sheet.vercel.app/)|Online character sheet for SR5|
+|SR5 Foundry VTT|[https://github.com/SR5-FoundryVTT/SR5-FoundryVTT](https://github.com/SR5-FoundryVTT/SR5-FoundryVTT)|Foundry VTT game system for Shadowrun 5th Edition|
+|Fatman's Cyberdeck, Init Tracker, etc|[https://monad5.fatman.dev/](https://monad5.fatman.dev/)|A collection of SR5 tools including a cyberdeck builder and initiative tracker|
 |Shadowrun Fansite|[https://www.shadowrunfans.net/](https://www.shadowrunfans.net/)|A fan site and some Matrix tools for 5e|
-SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02_01.cmpgn)|[https://forums.rptools.net/viewtopic.php?t=9002](Read Me) VTT Map Tool Macro Set - requires MapTool 1.3.b68+ - SR4 will probably not be receiving any more updates.|
+|SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02_01.cmpgn)|VTT Map Tool Macro Set - requires MapTool 1.3.b68+|
 
 ## Shadowrun 6th Edition
 | Tool        | URL   | Description |
@@ -95,10 +95,15 @@ SR5 Current Version: v02_01|[SR5 Current Version: v02_01](/files/SR5_Framework02
 |Commlink|[https://commlink.rocks/](https://commlink.rocks/)|Character Management Desktop Program|
 |Genesis RPG Framework - SR6|[https://www.rpgframework.de/en/roleplaying/shadowrun-6/](https://www.rpgframework.de/en/roleplaying/shadowrun-6/)|Character Manager and creator for SR6|
 |Foundry Framework for SR6|[https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/](https://www.rpgframework.de/en/shadowrun-6-foundry-game-system/)|Foundry landing page, git repo linked on page|
-|Google Sheet Character Generator|[https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727](https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727)||
+|Google Sheet Character Generator|[https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727](https://docs.google.com/spreadsheets/d/1Dtg8kb9izi6MxzJn-y-lOjfzM5YF9Uo9/edit?gid=1866239727#gid=1866239727)|Community-built SR6 character generator as a Google Sheet|
+
+## Shadowrun Anarchy 2nd Edition
+| Tool        | URL   | Description |
+| ----------- | ----- | ----------- |
+|Pink Mohawk Website|[https://www.pinkmohawk.net](Pinkmohawk.net)|A companion app for Shadowrun: Anarchy 2.0.|
 
 ## Generic Tools
 | Tool | URL | Description |
 | ------- | ----- | ---------- |
 |Dice Roller| [https://draff-roller.vercel.app/](https://draff-roller.vercel.app/)|Just a generic dice roller!|
-|iOS Dice Roller App for SR4-6|[https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219](https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219)||
+|iOS Dice Roller App for SR4-6|[https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219](https://apps.apple.com/ca/app/schattenwurf-for-shadowrun/id1336558219)|iOS dice roller app optimised for Shadowrun's dice pool system|
