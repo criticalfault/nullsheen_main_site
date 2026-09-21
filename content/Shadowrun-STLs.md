@@ -84,3 +84,5 @@ datatables: true
 |Night City Police Badge|[https://www.thingiverse.com/thing:4141933](https://www.thingiverse.com/thing:4141933)|| Free |
 |Credstick|[https://www.thingiverse.com/thing:6548818](https://www.thingiverse.com/thing:6548818)|| Free |
 |Bottled Demon Artifact|[/files/BottledDemonFigure.stl](/files/BottledDemonFigure.stl)|| Free |
+|RunedBone|[/files/RunedBone.stl](/files/RunedBone.stl)|| Free |
+|Deformed Bullet (True Scale)|[/files/deformed_bullet_true_scale.stl](/files/deformed_bullet_true_scale.stl)|| Free |
