@@ -79,6 +79,12 @@ summaryLength = 70
   parent = "menu.shadowrun"
 
 [[menu.main]]
+  name = "Shadowrun Websites"
+  weight = 8
+  url = "/shadowrun-websites/"
+  parent = "menu.shadowrun"
+
+[[menu.main]]
   name = "Cypher System"
   weight = 2
   identifier = "menu.cypher"

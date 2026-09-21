@@ -58,6 +58,8 @@ Check out **[The Archive](/archive/)** for:
 
 **[Shadowrun Podcasts List](/shadowrun-podcasts-list/)** - Discover amazing Shadowrun actual play podcasts and community content
 
+**[Shadowrun Websites](/shadowrun-websites/)** - Forums, wikis, fan sites, and other Shadowrun corners of the web
+
 ## 🎨 VTT & Props
 
 ### Virtual Tabletop Resources
