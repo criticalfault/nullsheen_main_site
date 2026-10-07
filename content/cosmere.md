@@ -51,7 +51,22 @@ Everything currently available for the Stormlight Archive campaign setting. This
 
 ## Mistborn PDFs
 
-*The Mistborn campaign setting is expected in 2026. Links will be added when available.*
+| Title | PDF |
+|-------|-----|
+| Mistborn Handbook | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581300/cosmere-rpg-mistborn-handbook?affiliate_id=135005) |
+| Mistborn World Guide | [DriveThruRPG](https://www.drivethrurpg.com/product/581301/cosmere-rpg-mistborn-world-guide?affiliate_id=135005)|
+| Mistborn Legacy | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581302/cosmere-rpg-mistborn-legacy?affiliate_id=135005) |
+| Mistborn: Welcome to Scadrial | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581306/cosmere-rpg-mistborn-welcome-to-scadrial?affiliate_id=135005) |
+
+### What Each Book Is
+
+**Mistborn Handbook** — The core rulebook for the Mistborn setting. Covers the Plotweaver system adapted for Scadrial, character creation, Allomancy, Feruchemy, and all core mechanics for running games in the Final Empire era and beyond.
+
+**Mistborn World Guide** — A deep dive into the world of Scadrial: its history, factions, noble houses, the skaa underground, and the threat of the Lord Ruler. Essential companion to the Handbook for GMs building campaigns.
+
+**Mistborn Legacy** — An adventure set in the world of Scadrial. Requires the Mistborn Handbook.
+
+**Welcome to Scadrial** — A spoiler-free introduction to the world of Scadrial for players new to the Mistborn novels. Great to hand out at session zero so everyone is on the same page without spoiling the books.
 
 ---
 

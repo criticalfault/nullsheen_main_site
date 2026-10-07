@@ -37,10 +37,5 @@ A few STL tokens for the table. These are useful for tracking resources during p
 - **[17th Shard](https://www.17thshard.com/)** - Premier Cosmere fan community
 - **[Stormlight Archive Timeline (v3.1.2)](https://docs.google.com/spreadsheets/d/1zq5bJoKE83ggDCjH43i1hZi0CIpB2iAx7v37zQPVFK0/edit?gid=856252766#gid=856252766)** - Community-built timeline spreadsheet covering events across the Stormlight Archive Timeline!
 
-## 🛒 Support the Site
-
-Looking to pick up Cosmere RPG books? Head over to the **[Cosmere RPG Books](/cosmere/)** page for the full list of Stormlight Archive PDFs with affiliate links. Buying through them helps keep this site running at no extra cost to you.
-
----
 
 *Working on Stormlight content? [Let me know](/contact/) what you'd like to see here!*
