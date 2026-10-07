@@ -146,8 +146,14 @@ summaryLength = 70
   parent = "menu.other"
 
 [[menu.main]]
-  name = "Public Access"
+  name = "Ars Magica"
   weight = 6
+  url = "/ars-magica/"
+  parent = "menu.other"
+
+[[menu.main]]
+  name = "Public Access"
+  weight = 7
   url = "/public-access/"
   parent = "menu.other"
 
