@@ -51,12 +51,12 @@ Everything currently available for the Stormlight Archive campaign setting. This
 
 ## Mistborn PDFs
 
-| Title | PDF |
-|-------|-----|
-| Mistborn Handbook | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581300/cosmere-rpg-mistborn-handbook?affiliate_id=135005) |
-| Mistborn World Guide | [DriveThruRPG](https://www.drivethrurpg.com/product/581301/cosmere-rpg-mistborn-world-guide?affiliate_id=135005)|
-| Mistborn Legacy | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581302/cosmere-rpg-mistborn-legacy?affiliate_id=135005) |
-| Mistborn: Welcome to Scadrial | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581306/cosmere-rpg-mistborn-welcome-to-scadrial?affiliate_id=135005) |
+| # | Title | Type | PDF |
+|---|-------|------|-----|
+| 1 | Mistborn Handbook | Core Rulebook | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581300/cosmere-rpg-mistborn-handbook?affiliate_id=135005) |
+| 2 | Mistborn World Guide | Setting Sourcebook | [DriveThruRPG](https://www.drivethrurpg.com/product/581301/cosmere-rpg-mistborn-world-guide?affiliate_id=135005) |
+| 3 | Mistborn Legacy | Adventure | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581302/cosmere-rpg-mistborn-legacy?affiliate_id=135005) |
+| 4 | Welcome to Scadrial | Setting Guide | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581306/cosmere-rpg-mistborn-welcome-to-scadrial?affiliate_id=135005) |
 
 ### What Each Book Is
 
@@ -67,6 +67,18 @@ Everything currently available for the Stormlight Archive campaign setting. This
 **Mistborn Legacy** — An adventure set in the world of Scadrial. Requires the Mistborn Handbook.
 
 **Welcome to Scadrial** — A spoiler-free introduction to the world of Scadrial for players new to the Mistborn novels. Great to hand out at session zero so everyone is on the same page without spoiling the books.
+
+---
+
+## Chasmfiend Magazine
+
+A community magazine for the Cosmere RPG packed with new rules, adventures, and setting content.
+
+| # | Title | PDF |
+|---|-------|-----|
+| 1 | Chasmfiend Magazine #1 | [DriveThruRPG](https://www.drivethrurpg.com/product/489835/cosmere-rpg-chasmfiend-magazine-1?affiliate_id=135005) |
+| 2 | Chasmfiend Magazine #2 | [DriveThruRPG](https://www.drivethrurpg.com/product/530158/cosmere-rpg-chasmfiend-magazine-2?affiliate_id=135005) |
+| 3 | Chasmfiend Magazine #3 | [DriveThruRPG](https://www.drivethrurpg.com/product/578174/cosmere-rpg-chasmfiend-magazine-3?affiliate_id=135005) |
 
 ---
 
