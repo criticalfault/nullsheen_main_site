@@ -12,6 +12,14 @@ The Mistborn RPG brings Brandon Sanderson's world of Scadrial to the tabletop. W
 
 *Coming soon! Mistborn tools and resources are in development.*
 
+## 📚 Books
+
+| Title | PDF |
+|-------|-----|
+| Mistborn Handbook | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581300/cosmere-rpg-mistborn-handbook?affiliate_id=135005) |
+| Mistborn Legacy | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581302/cosmere-rpg-mistborn-legacy?affiliate_id=135005) |
+| Mistborn: Welcome to Scadrial | [DriveThruRPG](https://www.drivethrurpg.com/en/product/581306/cosmere-rpg-mistborn-welcome-to-scadrial?affiliate_id=135005) |
+
 ## 📚 Useful Links
 
 - **[Brotherwise Games - Mistborn RPG](https://brotherwisegames.com/)** - Official publisher
