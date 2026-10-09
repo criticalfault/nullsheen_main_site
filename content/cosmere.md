@@ -55,6 +55,12 @@ Everything currently available for the Stormlight Archive campaign setting. This
 
 ---
 
+## 🔍 Tools
+
+- **[Mystery Web](https://mystery-web.nullsheen.com/)** - Build investigation webs for your Cosmere campaigns: columns of clue cards, links between them, and an optional finale box. Great for plotting out mysteries across Roshar or the greater Cosmere.
+
+---
+
 *Missing something or have a suggestion? [Let me know!](/contact/)*
 
 ---
