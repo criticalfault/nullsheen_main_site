@@ -17,6 +17,7 @@ All of our web-based tools are free to use. Click any tool below to learn more o
 
 - **[Matrix Generator](/tools/matrix-generator/)** - Generate SR3 security sheafs instantly
 - **[Matrix Builder](/tools/matrix-builder/)** - Design detailed SR2 Matrix systems
+- **[Matrix Chatter](/tools/matrix-chatter/)** - Generate in-game Matrix chat logs for any edition
 
 ### Combat & GM Tools
 
