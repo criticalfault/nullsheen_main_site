@@ -21,6 +21,7 @@ Welcome to the ultimate Shadowrun resource hub! Whether you're a GM prepping you
 
 - **[Matrix Builder](https://matrix2.nullsheen.com/)** - Detailed matrix creation for 2nd Edition
 - **[Matrix Generator](https://matrix.nullsheen.com/)** - Generate security sheafs on the fly (3rd Edition)
+- **[Matrix Chatter](https://matrix-chatter.nullsheen.com/)** - Generate in-game Matrix chat logs (All Editions)
 - **[Cyberdeck Calculator](https://sourceforge.net/projects/ccoc/)** - Custom cyberdeck calculator (3rd Edition)
 
 ### Combat & Initiative

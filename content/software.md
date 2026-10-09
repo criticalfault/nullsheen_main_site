@@ -19,6 +19,7 @@ I've decided to attempt to collect as much as I possibly can for various project
 |Initiative Tracker|https://initiative-tracker.nullsheen.com|2nd & 3rd|Tracks initiative for PCs and NPCs with condition monitors|
 |Run Generator|[https://shadowrun-run-generator.nullsheen.com](https://shadowrun-run-generator.nullsheen.com/)|All|Get ideas for different Shadowruns|
 |Loot Generator|[https://shadowrun-loot-generator.nullsheen.com](https://shadowrun-loot-generator.nullsheen.com/)|1st - 3rd|Generate generic various cyberpunk style loot|
+|Matrix Chatter|[https://matrix-chatter.nullsheen.com](https://matrix-chatter.nullsheen.com/)|All|Generate in-game Matrix chat logs for flavor and props|
 
 
 
