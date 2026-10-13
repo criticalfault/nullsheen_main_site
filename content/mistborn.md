@@ -12,6 +12,14 @@ The Mistborn RPG brings Brandon Sanderson's world of Scadrial to the tabletop. W
 
 *Coming soon! Mistborn tools and resources are in development.*
 
+## 🖨️ 3D Print Files
+
+| File | Description |
+|------|-------------|
+| [Ettmetal Token](/files/Cosmere/Ettmetal_Token.3mf) | Single Ettmetal token for Mistborn games |
+| [Ettmetal Tokens](/files/Cosmere/Ettmetal_Tokens.3mf) | Multi-token set for tracking Ettmetal |
+| [Endeavor Tracker](/files/Cosmere/endeavor_tracker.zip) | Track Endeavors across your Mistborn campaign |
+
 ## 📚 Books
 
 | Title | PDF |
