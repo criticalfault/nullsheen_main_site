@@ -74,3 +74,4 @@ A few STL tokens for the table. These are useful for tracking resources during p
 | [Investiture Token](/files/Cosmere/TokenInvestiture.stl) | Token for tracking Investiture |
 | [Focus Token](/files/Cosmere/focus_token.stl) | Token for tracking Focus|
 | [Blank Token](/files/Cosmere/TokenBlank.stl) | Empty token body — good base for making your own custom tokens |
+| [Endeavor Tracker](/files/Cosmere/endeavor_tracker.zip) | Track Endeavors for any Cosmere RPG campaign (Stormlight & Mistborn) |
