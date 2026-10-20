@@ -23,9 +23,9 @@ However, this site hasn't been updated in some time. I hope it stays with us, bu
 However, in accordance with my own mission. They will also live here forever (Or at least until GitHub sinks into the swamp and something new and shiny replaces it).
 
 
-- [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE_01.pdf)
-- [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE_02.pdf)
-- [The Third Annual Neo-Anarchists Guide To Everything Else™, 5 September 1992](/files/NAGEE_03.pdf)
-- [The Fourth Annual Neo-Anarchists Guide To Everything Else™, 23 February 1993](/files/NAGEE_04.pdf)
-- [NAGEE: The Neo-Anarchists Guide to Everything Else 5, 1 April 1994](/files/NAGEE_05.pdf)
-- [NAGEE: The Neo-Anarchists Guide to Everything Else 6, 1 December 1994](/files/NAGEE_06.pdf)
+- [The First Annual Neo-Anarchists Guide To Everything Else®, 15 March 1992](/files/NAGEE/NAGEE_01.pdf)
+- [The Second Annual Neo-Anarchists Guide To Everything Else™, 26 May 1992](/files/NAGEE/NAGEE_02.pdf)
+- [The Third Annual Neo-Anarchists Guide To Everything Else™, 5 September 1992](/files/NAGEE/NAGEE_03.pdf)
+- [The Fourth Annual Neo-Anarchists Guide To Everything Else™, 23 February 1993](/files/NAGEE/NAGEE_04.pdf)
+- [NAGEE: The Neo-Anarchists Guide to Everything Else 5, 1 April 1994](/files/NAGEE/NAGEE_05.pdf)
+- [NAGEE: The Neo-Anarchists Guide to Everything Else 6, 1 December 1994](/files/NAGEE/NAGEE_06.pdf)
