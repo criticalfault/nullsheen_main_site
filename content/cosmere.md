@@ -75,3 +75,5 @@ A few STL tokens for the table. These are useful for tracking resources during p
 | [Focus Token](/files/Cosmere/focus_token.stl) | Token for tracking Focus|
 | [Blank Token](/files/Cosmere/TokenBlank.stl) | Empty token body — good base for making your own custom tokens |
 | [Endeavor Tracker](/files/Cosmere/endeavor_tracker.zip) | Track Endeavors for any Cosmere RPG campaign (Stormlight & Mistborn) |
+| [Knights Radiant Token](/files/Cosmere/KnightsRadiant_Token.3mf) | Knights Radiant token for tracking orders or allegiances at the table |
+| [Double-sided Turn Tracker & Reaction Coin](/files/Cosmere/Doublesided_Turn_Tracker_and_Reaction_Coin.3mf) | Flip coin for turn order and reactions — double-sided for dual use |
