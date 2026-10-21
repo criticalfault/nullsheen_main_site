@@ -27,6 +27,10 @@ All of our web-based tools are free to use. Click any tool below to learn more o
 
 ## Other Systems
 
+### Cosmere RPG (Plotweaver System)
+
+- **[Mystery Web](https://mystery-web.nullsheen.com/)** - Build investigation webs for your Cosmere campaigns. Create columns of clue cards, draw links between them, and add an optional finale box. Great for plotting out mysteries across Roshar or Scadrial.
+
 ### Rifts
 
 - **[Rifts Initiative Tracker](/tools/rifts-initiative-tracker/)** - Track Rifts combat encounters

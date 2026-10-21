@@ -18,7 +18,7 @@ Mythic Bastionland is a fantasy RPG of myth-building and exploration, where you 
 
 ## 📚 Useful Links
 
-- **[Mythic Bastionland](https://www.drivethrurpg.com/en/product/514996/mythic-bastionland?affiliate_id=135005)** - Official announcement
+- **[Mythic Bastionland](https://www.drivethrurpg.com/en/product/514996/mythic-bastionland?affiliate_id=135005)** - Core Book
 - **[Bastionland](https://www.bastionland.com/)** - Chris McDowall's blog
 - **[mythic.bastionland.tools - Map Maker](https://mythic.bastionland.tools/map)** - This is by far the best map maker.
 

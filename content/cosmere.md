@@ -45,13 +45,35 @@ Everything currently available for the Stormlight Archive campaign setting. This
 
 **Stormlight Scenarios** — Seven ready-to-drop adventure scenarios spanning tiers 1, 2, and 3. Range from the Herdazian countryside to the depths of Urithiru.
 
-**Advanced Adversaries** — Expanded enemy profiles and threats drawn from across Roshar. More ICE for your campaigns.
+**Advanced Adversaries** — Expanded enemy profiles and threats drawn from across Roshar. 
 
 ---
 
 ## Mistborn PDFs
 
-*The Mistborn campaign setting is expected in 2026. Links will be added when available.*
+The Mistborn campaign setting is set on Scadrial from Brandon Sanderson's Mistborn series. These titles cover the Era 1 and Era 2 settings.
+
+### Mistborn RPG PDFs
+
+| # | Title | Type | PDF |
+|---|-------|------|-----|
+| 1 | Mistborn Handbook | Core Rulebook | [DriveThruRPG](https://www.drivethrurpg.com/product/581300/cosmere-rpg-mistborn-handbook?affiliate_id=135005) |
+| 2 | Mistborn World Guide | Setting Sourcebook | [DriveThruRPG](https://www.drivethrurpg.com/product/581301/cosmere-rpg-mistborn-world-guide?affiliate_id=135005) |
+| 3 | Mistborn Legacy | Adventure | [DriveThruRPG](https://www.drivethrurpg.com/product/581302/cosmere-rpg-mistborn-legacy?affiliate_id=135005) |
+| 4 | Welcome to Scadrial | Setting Guide | [DriveThruRPG](https://www.drivethrurpg.com/product/581306/cosmere-rpg-mistborn-welcome-to-scadrial?affiliate_id=135005) |
+| 5 | Mistborn GM Screen | GM Screen | [DriveThruRPG](https://www.drivethrurpg.com/product/581308/cosmere-rpg-mistborn-gm-screen?affiliate_id=135005) |
+
+### What Each Book Is
+
+**Mistborn Handbook** — The core rulebook for the Mistborn campaign setting. Covers the Plotweaver system adapted for Scadrial, character creation with Allomancy, Feruchemy, and Hemalurgy, and all the mechanics you need to run games in the Final Empire or the Era 2 political landscape.
+
+**Mistborn World Guide** — Deep lore on Scadrial: the Final Empire, the Elendel Basin, factions, history, and adversary profiles. Essential companion to the Handbook for GMs building out their campaigns.
+
+**Mistborn Legacy** — A full adventure set in the Mistborn world. Designed to drop into your campaign and introduce players to the threats and intrigue of Scadrial. Uniquely played across both Eras!
+
+**Welcome to Scadrial** — A spoiler-conscious setting guide for players new to the Mistborn novels. Covers the world without giving away major plot beats. A great handout at session zero.
+
+**Mistborn GM Screen** — A landscape GM screen with reference tables and art from the Mistborn setting. Keeps key rules at your fingertips during play.
 
 ---
 
@@ -71,9 +93,9 @@ A few STL tokens for the table. These are useful for tracking resources during p
 
 | File | Description |
 |------|-------------|
-| [Investiture Token](/files/Cosmere/TokenInvestiture.stl) | Token for tracking Investiture |
+| [Generic Cosmere Investiture Token](/files/Cosmere/TokenInvestiture.stl) | Token for tracking Investiture |
 | [Focus Token](/files/Cosmere/focus_token.stl) | Token for tracking Focus|
 | [Blank Token](/files/Cosmere/TokenBlank.stl) | Empty token body — good base for making your own custom tokens |
 | [Endeavor Tracker](/files/Cosmere/endeavor_tracker.zip) | Track Endeavors for any Cosmere RPG campaign (Stormlight & Mistborn) |
-| [Knights Radiant Token](/files/Cosmere/KnightsRadiant_Token.3mf) | Knights Radiant token for tracking orders or allegiances at the table |
+| [Knights Radiant Token](/files/Cosmere/KnightsRadiant_Token.3mf) | Knights Radiant token for tracking  investiture at the table |
 | [Double-sided Turn Tracker & Reaction Coin](/files/Cosmere/Doublesided_Turn_Tracker_and_Reaction_Coin.3mf) | Flip coin for turn order and reactions — double-sided for dual use |
