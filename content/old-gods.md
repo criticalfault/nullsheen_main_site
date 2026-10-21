@@ -5,6 +5,7 @@ draft: false
 banner: "/images/oldGods.webp"
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 Welcome to the dark hollers and haunted hills of Appalachia. Based on the hit podcast, Old Gods of Appalachia brings cosmic horror to the mountains using the Cypher System.

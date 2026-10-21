@@ -4,6 +4,7 @@ date: 2026-09-21T00:00:00Z
 draft: false
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 Ars Magica is a tabletop RPG set in a mythologized version of medieval Europe, where magi of the Order of Hermes wield powerful magic alongside their companions and grogs. Published by Atlas Games.

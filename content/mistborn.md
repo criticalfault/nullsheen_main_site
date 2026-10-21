@@ -4,6 +4,7 @@ date: 2026-07-26T12:00:00Z
 draft: false
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 The Mistborn RPG brings Brandon Sanderson's world of Scadrial to the tabletop. Whether you are burning metals as a Mistborn or Misting, scheming in the underground, or navigating the political intrigue of the Final Empire, there is plenty to explore. Published by Brotherwise Games.

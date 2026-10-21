@@ -4,6 +4,7 @@ date: 2025-11-09T20:45:00Z
 draft: false
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 The Magnus Archives RPG brings the hit horror podcast to life using the Cypher System. Investigate supernatural mysteries and face cosmic terrors.

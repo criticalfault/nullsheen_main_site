@@ -4,6 +4,7 @@ date: 2026-07-26T12:00:00Z
 draft: false
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 The Stormlight Archive RPG brings Brandon Sanderson's epic world of Roshar to the tabletop. Play as Knights Radiant, soldiers, or wandering scholars navigating a world battered by Highstorms and threatened by an ancient evil. Published by Brotherwise Games.
