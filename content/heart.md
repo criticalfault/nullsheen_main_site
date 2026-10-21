@@ -5,6 +5,7 @@ draft: false
 banner: "/images/heartRPG.jpg"
 type: page
 show_reading_time: false
+datatables: true
 ---
 
 Heart: The City Beneath is a dark fantasy RPGs from Rowan, Rook and Decard set in a cursed underground dungeon below a mile-high city of revolution.
