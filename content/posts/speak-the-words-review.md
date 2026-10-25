@@ -1,6 +1,6 @@
 ---
 title: "Speak the Words - Adventure Review"
-date: 2026-09-21T00:00:00Z
+date: 2026-010-21T00:00:00Z
 draft: true
 authors: ["Dean"]
 banner: "/images/mainBG.jpg"
@@ -20,8 +20,8 @@ All of this being said, I eventually discovered that Brotherwise Games had gotte
 
 ## Spoilers Ahead!
 
-Spoilers are inbound for the beginning of the series. Something that is difficult with this world in general is how there are always more secrets and that the world building is thick that even off hand comments can ruin some reveals for people who senstivie to spoilers. So please bear with me on this because talking about the adventure in and of itself covers some reveals from "The Way of Kings". If you don't mind them or you've read, please continue on!
+Spoilers are inbound for the beginning of the series. Something that is difficult with this world in general is how there are always more secrets and that the world building is thick that even off hand comments can ruin some reveals for people who are senstivie to spoilers. So please bear with me on this because talking about the adventure in and of itself covers some reveals from "The Way of Kings". If you don't mind them or you've read, please continue on!
 
 ## Adventure Review
 
-Speak the Words throws you right into the action after the return of the radiants. There is a local
+Speak the Words throws you right into the action after the return of the radiants. Two hopeful radiants are returning back to their home town 
