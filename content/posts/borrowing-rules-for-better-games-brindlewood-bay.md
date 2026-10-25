@@ -5,6 +5,8 @@ author: Dean
 tags: ["gm help", "guides", "other rpgs", "opinion"]
 banner: "/images/book-and-pen.jpg"
 show_reading_time: true
+description: "What GMs can borrow from the Brindlewood Bay system — Paint the Scene, collaborative worldbuilding, and setting real stakes — to make any TTRPG more immersive and player-driven."
+keywords: ["Brindlewood Bay system", "borrowed TTRPG rules", "Paint the Scene GM technique", "TTRPG GM tips", "Powered by the Apocalypse GM help"]
 draft: false
 ---
 

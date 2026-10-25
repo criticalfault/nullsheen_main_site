@@ -6,6 +6,8 @@ banner: "/images/EyeWitness/EyeWitnessCover.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 authors: ["Dean"]
 show_reading_time: true
+description: "A full review and GM notes for Eye Witness, a 2nd Edition Shadowrun adventure. Includes spoilers, matrix sheaf suggestions, and tips for running this matrix-heavy mystery."
+keywords: ["Eye Witness Shadowrun review", "Shadowrun 2nd edition adventure", "Shadowrun adventure review", "Eye Witness SR2", "Shadowrun GM notes"]
 ---
 
 Eye Witness is an adventure for 2nd Edition Shadowrun. It is a wildly complicated backstory for a very straightforward adventure. The adventure surrounds a mystery where the players will be sent around to collect evidence for a fellow Shadowrunner bent on revenge. It will have the players bouncing all over Seattle and going to places they may have never even considered.

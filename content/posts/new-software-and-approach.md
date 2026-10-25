@@ -6,6 +6,8 @@ banner: "/images/nullsheen.png"
 tags: ['foundry', 'other rpgs']
 authors: ["Dean"]
 show_reading_time: true
+description: "New NullSheen tools — a Shadowrun 2e Foundry prototype, the Hex Crawler, Heart RPG Planner, and a Traveller character generator — plus thoughts on a possible site rebrand."
+keywords: ["Shadowrun Foundry module", "Shadowrun 2e Foundry", "NullSheen tools 2025", "Hex Crawler TTRPG", "Heart RPG planner", "Traveller character generator"]
 ---
 It's been a little while since my last blog post, but that's only because life has been full of exciting changes. While writing had to wait, I've been busy building tools and exploring new RPG projects. Today, I'm excited to share what I've been working on, give you some links to try them out, and even talk a bit about a possible rebrand for Null Sheen. Let's dive in.
 

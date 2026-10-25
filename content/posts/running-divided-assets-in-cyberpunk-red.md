@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/CPRED.jpg"
 tags: ['GM Help', 'Adventure Reviews', 'Cyberpunk RED']
 show_reading_time: true
+description: "How to run the Shadowrun adventure Divided Assets in Cyberpunk RED — stat block replacements, corporation swaps, vehicle conversions, and why the story is even better in Night City."
+keywords: ["Divided Assets Cyberpunk RED", "Shadowrun Cyberpunk RED conversion", "Cyberpunk RED adventure", "Shadowrun adventure conversion", "Cyberpunk RED GM guide"]
 ---
 
 Most of you know me as someone who writes things for Shadowrun and Cyberpunk concepts in general. I currently am playing Cyberpunk Red just as often as playing Shadowrun 3rd edition. So I begin to see the tying threads between concepts and stories. A lot of stories in Shadowrun cannot be ported to Cyberpunk. The fantasy element is played pretty often in these stories, but every once in a while it's left almost entirely out. This gives us the rare opportunity to tell the story in both universes almost entirely unchanged. Divided Assets is one of those adventures.

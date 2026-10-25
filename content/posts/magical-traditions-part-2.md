@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/MagicalTraditions2.webp"
 tags: ['GM Help','Magical Traditions']
 show_reading_time: true
+description: "Magical traditions for Shadowrun Part 2 — a guide to Braucherei (Pennsylvania Dutch folk magic) and Wicca, including trappings, spells, holy spaces, and GM advice for each tradition."
+keywords: ["Shadowrun Braucherei", "Shadowrun Wicca", "Shadowrun magical traditions part 2", "Shadowrun mage guide", "folk magic Shadowrun", "Pennsylvania Dutch Shadowrun"]
 ---
 
 ## Books Used in this article. 

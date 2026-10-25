@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/bottled-demon/Bottled_Demon.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Bottled Demon, a magic-heavy Shadowrun 1st Edition adventure. Includes VTT maps and tips for improving this dragon real estate adventure."
+keywords: ["Bottled Demon Shadowrun review", "Shadowrun 1st edition adventure", "Shadowrun magic adventure", "Bottled Demon SR1", "Shadowrun GM notes"]
 ---
 
 ### Overview:

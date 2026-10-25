@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Tools','Archive']
 show_reading_time: true
+description: "Preserving old Shadowrun 2nd Edition software — the original SR2 character generator files, now mirrored on GitHub with extracted data in JSON format for future projects."
+keywords: ["Shadowrun 2nd edition character generator", "Shadowrun SR2 software", "SRCG Shadowrun", "Shadowrun character creator archive", "Shadowrun old software"]
 ---
 
 After doing a deep dive on researching old Shadowrun Programs (and I think I've decided to collect them all for mirrors) I stumbled onto an SR2 Character Creator. This was great for me because if I end up going down that road of making a character creator, I now have all of the base data files to extract the data and put it into a standard format (JSON in this case). 

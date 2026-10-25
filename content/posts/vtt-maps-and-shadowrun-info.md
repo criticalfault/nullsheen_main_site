@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/vtt-icons.webp"
 tags: ['GM Help']
 show_reading_time: true
+description: "Free VTT map resources for Shadowrun — FastJack's optimized map collection, a fully annotated Seattle map, and Sprawl Maps for running the sprawl online."
+keywords: ["Shadowrun VTT maps", "Shadowrun Seattle map", "Shadowrun online maps", "FastJack Shadowrun maps", "Shadowrun Roll20 maps"]
 ---
 
 After doing some digging and trying to find some good resources for VTT maps (A question that I see gets posted all over the place). I also needed a bit of a lighter post as I finish up the final touches on “Blood On the Pavement”, my next release for the Lonestar Stories first season. This should be available soon! Please take a look at my first releases: [Blood For Money!](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money)

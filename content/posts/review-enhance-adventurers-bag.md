@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/review_pages/FullPackImage.jpg"
 tags: ['product_reviews']
 show_reading_time: true
+description: "A hands-on review of the ENHANCE Travel Bag Adventurer — a durable gaming bag for hauling tabletop RPG books, minis, and accessories to your game table."
+keywords: ["ENHANCE travel bag review", "TTRPG gaming bag", "tabletop RPG accessories", "gaming bag review", "Shadowrun book bag"]
 ---
 
 [Enhance Travel Bag Adventurer](https://amzn.to/4bYT12U)

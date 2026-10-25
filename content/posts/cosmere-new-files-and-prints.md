@@ -6,6 +6,8 @@ banner: "/images/3dPrinting.jpg"
 tags: ['Cosmere','GM Help','3D Printing']
 authors: ["Dean"]
 show_reading_time: true
+description: "New Cosmere RPG 3D print files and reference documents — Knights Radiant token, double-sided turn tracker, Radiant Reference Cards, and more, made for Gamehole Con 2026."
+keywords: ["Cosmere RPG 3D prints", "Stormlight Archive tokens", "Cosmere tabletop props", "3D print TTRPG", "Shadowrun STL files", "Cosmere RPG files"]
 ---
 
 I've been doing a lot of prep work lately (All for Gamehole Con) and in the process I ended up making a pile of new Cosmere files that are worth sharing. This is a collection of Tokens, trackers and reference cards. Rather than just quietly add them to the [Cosmere page](/cosmere/) and hope you notice, I figured a proper post was in order.

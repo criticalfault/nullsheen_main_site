@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/character-sheets-bg.png"
 tags: ['GM Help', 'Archive']
 show_reading_time: true
+description: "A comprehensive collection of Shadowrun character sheets for every edition — from 1st through 4th — including form-fillable PDFs, Google Sheets, and community-made options."
+keywords: ["Shadowrun character sheets", "Shadowrun 2nd edition character sheet", "Shadowrun 3rd edition sheet", "free Shadowrun sheets", "Shadowrun PDF character sheet"]
 ---
 
 After doing some digging into character sheets for an up and coming game. I suddenly realize the crap shoot that was finding character sheets for Shadowrun. On one hand, it makes sense. The IP has been shared and scattered to the winds across half a dozen companies all keeping their own digital presence. On the other, we used to have things like dumpshock.org to keep us with what we needed. Nowadays, well it's a whole different ball game. I think it's time to change that. One place, all the sheets you'll ever need.

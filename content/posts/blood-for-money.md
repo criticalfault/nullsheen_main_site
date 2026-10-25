@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
+description: "The Blood for Money adventure for the NullSheen Lone Star campaign — a Shadowrun kidnapping scenario where a rich kid's plan goes terribly wrong and officers have to sort it out."
+keywords: ["Shadowrun Blood for Money", "Shadowrun Lone Star adventure", "Shadowrun kidnapping adventure", "Shadowrun 2nd edition campaign", "Shadowrun police adventure"]
 ---
 
 ## Books Useful for this article. 

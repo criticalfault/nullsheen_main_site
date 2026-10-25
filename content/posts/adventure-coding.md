@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
+description: "The Coding adventure for the NullSheen Lone Star campaign — a Shadowrun scenario where officers escort a rare organ donor to hospital and face a desperate cyber-hostage situation."
+keywords: ["Shadowrun Lone Star adventure", "Shadowrun adventure module", "Shadowrun Lone Star campaign", "Shadowrun 2nd edition adventure", "Shadowrun police campaign"]
 ---
 
 ## Books Useful for this article. 

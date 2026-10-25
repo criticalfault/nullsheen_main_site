@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/chooseyourarchetype.webp"
 tags: ["Player Help", "Any Edition"]
 show_reading_time: true
+description: "A breakdown of every Shadowrun archetype — Mage, Shaman, Decker, Rigger, Street Samurai, and Face — to help new players decide what character to make in any edition."
+keywords: ["Shadowrun archetypes", "what to play Shadowrun", "Shadowrun character types", "Shadowrun new player guide", "Shadowrun mage vs shaman"]
 ---
 
 ## Books Useful for this article.

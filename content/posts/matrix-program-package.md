@@ -5,6 +5,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Decking', 'Archive', 'Tools']
 show_reading_time: true
+description: "A look at the Cyberspace Matrix Program Package by IceToaster — a classic Windows 3.x Shadowrun tool with a 3D DOOM-style matrix emulator, construction set, and cyberdeck designer."
+keywords: ["Shadowrun matrix program", "Shadowrun decking tool", "IceToaster cyberspace", "Shadowrun VR 1.0", "Shadowrun software archive", "Shadowrun 2nd edition matrix"]
 ---
 
 While digging through old archives from a mention in a cyberdeck subreddit. I stumbled across something I hadn't seen in years — the **Cyberspace/Matrix Program Package** built by **IceToaster** for Windows 3.x and 95. This thing is a genuine piece of Shadowrun history and I am genuinely excited to share it.

@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/totalEclipseReview.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Total Eclipse, a magic-heavy Shadowrun adventure featuring the band The Elementals. Includes spoilers and tips for running this music-driven 2nd Edition run."
+keywords: ["Total Eclipse Shadowrun review", "Shadowrun adventure review", "Shadowrun 2nd edition", "Shadowrun music adventure", "Total Eclipse SR2"]
 ---
 
 Before we dive in! I wrote another section of my adventure: [Protect and Serve](https://legacy.drivethrurpg.com/product/507031/Lone-Star-Stories-Protect-and-Serve?src=affiliate135005&affiliate_id=135005).

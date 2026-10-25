@@ -6,6 +6,8 @@ banner: "/images/NewYearsFixed.jpg"
 tags: ['Real Talk']
 show_reading_time: true
 authors: ["Dean"]
+description: "2025 goals for NullSheen — new tools in development, growing site traffic, and a call for help finding form-fillable 1st Edition Shadowrun character sheets."
+keywords: ["NullSheen 2025", "Shadowrun tools 2025", "Shadowrun weapon designer", "Shadowrun 1st edition sheet", "tabletop RPG tools"]
 ---
 
 Greetings Shadowpunks!

@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['GM Help','3rd Edition']
 show_reading_time: true
+description: "A detailed Shadowrun 3rd Edition matrix example using the Doc Wagon system — multi-node architecture, private LTGs, interrogation tests, and extra security explained step by step."
+keywords: ["Shadowrun matrix example", "Shadowrun 3rd edition matrix", "Doc Wagon Shadowrun", "SR3 matrix system", "Shadowrun matrix GM guide"]
 ---
 
 ## Books Used in this article. 

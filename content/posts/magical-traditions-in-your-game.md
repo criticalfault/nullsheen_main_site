@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/MagicalTraditions.JPG"
 tags: ['GM Help','Magical Traditions']
 show_reading_time: true
+description: "A Shadowrun GM's guide to Voodoo and Palo Mayombe as magical traditions — covering real-world beliefs, Hougans and Mambos, spirits, and how to bring these faiths to the table."
+keywords: ["Shadowrun Voodoo", "Shadowrun magical traditions", "Shadowrun Palo Mayombe", "Shadowrun shaman guide", "magical traditions Shadowrun part 1"]
 ---
 
 ## Books Used in this article. 

@@ -6,6 +6,8 @@ banner: "/images/oldGods.webp"
 tags: ["Game Reviews", "Old Gods of Appalachia"]
 authors: ["Dean"]
 show_reading_time: true
+description: "A full review of Old Gods of Appalachia RPG — the Cypher System folk horror game set in early 1900s Appalachia. Covering the system, setting, and how to make it atmospheric at the table."
+keywords: ["Old Gods of Appalachia review", "Old Gods of Appalachia RPG", "Cypher System review", "Monte Cook Games folk horror", "OGoA tabletop review"]
 ---
 
 This is my first ever game review, I hope it is something you good folks enjoy. If so, let me know. I'd love to do a lot more of it!

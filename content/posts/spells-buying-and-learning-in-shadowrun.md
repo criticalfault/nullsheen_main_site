@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/spells_in_shadowrun.webp"
 tags: ['GM Help', 'Any Edition']
 show_reading_time: true
+description: "How mages and shamans buy, learn, and encode spells in Shadowrun — including teachers, formula sources, and how magical traditions shape spell acquisition."
+keywords: ["Shadowrun spells", "Shadowrun mage guide", "buying spells Shadowrun", "magical traditions Shadowrun", "Shadowrun hermetic mage", "Shadowrun shaman"]
 ---
 
 ## Books Useful for this article. 

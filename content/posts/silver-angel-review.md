@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/SilverAngel.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Silver Angel, the first published Shadowrun adventure. Includes spoilers, matrix focus tips, and why this matrix-forward 1st Edition run still holds up."
+keywords: ["Silver Angel Shadowrun review", "Shadowrun 1st edition adventure", "first Shadowrun adventure", "Silver Angel SR1", "Shadowrun GM notes"]
 ---
 
 Silver Angel was the first published Adventure for Shadowrun. It was paired with the original Game Master's screen for 1st Edition Shadowrun. What’s interesting is that it also came with standees (cardboard cutouts that you could use to show placement of characters and NPCs) which we wouldn’t see again until DMZ was released. These paired excellently with the Sprawl Maps. 

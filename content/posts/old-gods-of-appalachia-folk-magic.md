@@ -3,9 +3,11 @@ title: "Old Gods of Appalachia - Folk Magic Overview"
 date: 2025-11-20T14:02:44-06:00
 draft: false
 banner: "/images/OGoA_RPG_items.jpg"
-tags: ["Old Gods of Appalachia"]
+tags: ["Old Gods of Appalachia", "GM Help"]
 author: Dean
 show_reading_time: true
+description: "A folk magic primer for Old Gods of Appalachia RPG — covering protection magic, nailing it down, ward mechanics, and how cunning folk and wise witches practice in the setting."
+keywords: ["Old Gods of Appalachia folk magic", "OGoA RPG guide", "Cypher System folk magic", "Old Gods of Appalachia GM help", "TTRPG folk magic rules"]
 ---
 
 This is my attempt to make a kind of unified folk magic primer for new people coming to the game that want to play wise witch and cunning folk. This is definitely a work in progress and doesn't cover everything thats possible out there, but its a good place to start perhaps. If you guys have any input, please send it my way!

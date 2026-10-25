@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['GM Help','3rd Edition']
 show_reading_time: true
+description: "Shadowrun 3rd Edition matrix examples — how to design the GridGuide system with proper IC loadouts, security sheafs, and actions for deckers to take on a live corporate network."
+keywords: ["Shadowrun GridGuide matrix", "SR3 matrix example", "Shadowrun matrix design", "Shadowrun 3rd edition GM guide", "SR3 security sheaf example"]
 ---
 
 ## Books Used in this article. 

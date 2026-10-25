@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
+description: "The Decker game — a classic Shadowrun 2nd Edition matrix dungeon crawler, preserved and linked for anyone who wants to experience old-school decking as it was originally envisioned."
+keywords: ["Decker game Shadowrun", "Shadowrun matrix game", "Shadowrun 2nd edition game", "Decker SourceForge", "Shadowrun software archive"]
 ---
 
 A long long time in a galaxy far far away, any kind of shadowrun content was gold. It was rare and beautiful to behold. Decker was one of those nuggets from the era. It was difficult, but getting ahead was extremely satisfying. This of course led to save scumming like never before! All of this said, it was written in an era of windows that has since passed, but just like everything these days. A spark held in someones heart allowed it to step forward into the future.

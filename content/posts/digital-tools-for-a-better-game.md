@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/digital_tools.png"
 tags: ['GM Help']
 show_reading_time: true
+description: "Digital tools for running Shadowrun online — Discord servers, dice rollers, downtime systems, and VTT recommendations for bringing Shadowrun to your remote table."
+keywords: ["Shadowrun online tools", "Shadowrun Discord", "Shadowrun VTT", "digital tools TTRPG", "run Shadowrun online", "Shadowrun Roll20"]
 ---
 As time continued forward and with the horrid times that was the panic following the COVID, we as tabletop gamers ran into some serious problems. The games that we wanted to play with our friends suddenly had to move online. Separated from our friends and unable to share a table, we turned to the tools that were made for online play. The real problem here is, most things were made for DnD. Shadowrun DOES have its own tactical movements, but they are a tad clunky (in my opinion of course).
 

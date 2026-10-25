@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/DarkAngelCover.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Dark Angel, a Shadowrun 2nd Edition adventure about recovering recordings from a legendary rocker. Balanced, atmospheric, and one of the best SR2 runs."
+keywords: ["Dark Angel Shadowrun review", "Shadowrun 2nd edition adventure", "SR2 adventure review", "Shadowrun rock musician adventure", "Shadowrun GM notes"]
 ---
 
 Dark Angel is a Shadowrun adventure for 2nd Edition. The plot revolves around recovering the original recordings from the Legendary Rocker, Dark Angel. Seems he killed himself (though it’s murky that anyone would set himself on fire as a way of going out) and some new kid suddenly showed up with recordings and signed contracts. This of course seems like the HOTTEST of Bull Drek that could be, because Angel swore he would never record them and sell out. It’s up to you and your friends to recover the songs and get the skinny on how this person got their hands on these things.

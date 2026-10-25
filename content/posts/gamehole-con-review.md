@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/gameholecon/GameHoleCon.jpg"
 tags: ['Real Talk']
 show_reading_time: true
+description: "A recap of Gamehole Con 2024 — TSR old guards, Seth Skorkowsky, Marc Miller of Traveller, seminars on psychology of tabletop games, and playing Magnus Archives and Symbaroum."
+keywords: ["Gamehole Con 2024", "Gamehole Con recap", "Seth Skorkowsky Gamehole", "Marc Miller Traveller", "TTRPG convention 2024", "Magnus Archives RPG con"]
 ---
 
 Cons and I have a kind of strange relationship. In general, I absolutely love meeting people but I get very concerned with large crowds. So Gamehole turned out to be just about the perfect size for me. Plenty of people but easy enough to walk around without having to struggle through a crowd. One of the main concerns with a “smaller con” is that its harder to get big names to show up to the cons. Gamehole Con doesn’t have that problem at all. People from all over the country flew into Madison for the event!

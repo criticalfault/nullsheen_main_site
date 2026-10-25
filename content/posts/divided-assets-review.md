@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/dividedassets.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Divided Assets, a roleplay-heavy Shadowrun 2nd Edition adventure set in Denver about kidnapping and the human cost of corporate extractions."
+keywords: ["Divided Assets Shadowrun review", "Shadowrun 2nd edition adventure", "Shadowrun Denver adventure", "SR2 adventure review", "Shadowrun GM notes"]
 ---
 
 I know it's been awhile folks! I've been busy writing Holostreets! [Blood For Money](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money) and [Blood on the Pavement](https://legacy.drivethrurpg.com/product/490882/Lone-Star-Stories-Blood-On-The-Pavement). I am looking for people to review these in any capacity so if you are interested please reach out to me! Otherwise, lets get into Divided Assets!

@@ -6,6 +6,9 @@ authors: ["Dean"]
 banner: "/images/Euphoria.webp"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
+description: "A full review and GM notes for Queen Euphoria, a classic horror-tinged Shadowrun adventure. Includes spoilers, matrix sheaf additions, and tips for running this magic-heavy run."
+keywords: ["Queen Euphoria Shadowrun review", "Shadowrun adventure review", "Shadowrun horror adventure", "SR2 adventure", "Shadowrun 2nd edition GM notes"]
+---
 ---
 
 It seems I am often drawn to Shadowrun adventures with famous characters in the fiction of the world. Starting with Dark Angel and now moving onto Queen Euphoria, there is something special about the world that was written in those first few adventures of Shadowrun. 

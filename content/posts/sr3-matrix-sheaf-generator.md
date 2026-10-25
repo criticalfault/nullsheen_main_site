@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Tools', '3rd Edition']
 show_reading_time: true
+description: "Introducing the Shadowrun 3rd Edition Matrix Security Sheaf Generator — a free online tool for instantly generating SR3 matrix systems with rules references and run tracking."
+keywords: ["Shadowrun 3rd edition matrix generator", "SR3 matrix sheaf", "Shadowrun matrix tool", "Shadowrun security sheaf generator", "Shadowrun GM tools"]
 ---
 
 ## Books Used in this article. 

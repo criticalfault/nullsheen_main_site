@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/ComparingShadowrunAndCyberpunk.webp"
 tags: ['Opinion','Cyberpunk']
 show_reading_time: true
+description: "The key differences between Cyberpunk and Shadowrun — how legacy defines Cyberpunk characters while survival and doing good defines Shadowrun, and what that means for your game."
+keywords: ["Cyberpunk vs Shadowrun", "Shadowrun vs Cyberpunk 2020", "differences Cyberpunk Shadowrun", "Cyberpunk RPG themes", "Shadowrun themes", "tabletop RPG comparison"]
 ---
 
 In the vast and complex landscape of cyberpunk fiction, two prominent universes have captured the imaginations of fans worldwide: Cyberpunk and Shadowrun. While both exist within the gritty, neon-lit framework of cyberpunk, they diverge significantly in their themes, with Cyberpunk focusing on legacy, and Shadowrun focusing on the living. I hope to highlight how each universe uniquely defines the essence of its characters and the worlds they inhabit and why this matters to you and your game.
