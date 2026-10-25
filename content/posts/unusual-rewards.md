@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/unusual_items_header.webp"
 tags: ['GM Help', 'Any Edition']
 show_reading_time: true
+description: "Beyond nuyen — creative Shadowrun rewards like cyberware, drugs, programs, and spells that create new stories and moral dilemmas for your runners."
+keywords: ["Shadowrun rewards", "Shadowrun GM tips", "unusual Shadowrun loot", "Shadowrun barter", "GM help Shadowrun"]
 ---
 ## Books Used in this article. 
  - [SR3 Core](https://amzn.to/3WFuueI)

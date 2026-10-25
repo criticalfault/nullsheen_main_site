@@ -5,6 +5,8 @@ banner: "/images/Pink_Fohawk.jpeg"
 draft: false
 authors: ["Dean"]
 show_reading_time: true
+description: "A spotlight on the Pink Fohawk podcast — a passionate Shadowrun actual play and discussion show with a welcoming community Discord for fans of all editions."
+keywords: ["Pink Fohawk podcast", "Shadowrun podcast", "Shadowrun actual play", "Shadowrun community", "Shadowrun Discord"]
 ---
 
 When I started Shadowrun again, I wanted to be able to hear more stories from different people in order to get back into the mindset of it. I stumbled on Pink Fohawk and found another few folks who are deeply passionate about Shadowrun. Their podcast is incredibly fun, it has some folly and music work, but it definitely just some friends sitting around a table and having a damn good time. 

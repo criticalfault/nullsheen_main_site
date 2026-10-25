@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Adventure']
 show_reading_time: true
+description: "The Lone Star campaign setting for Shadowrun — rules for evidence gathering, court cases, and 12 planned episodic police procedural adventures set in Seattle 2075."
+keywords: ["Shadowrun Lone Star campaign", "Shadowrun police campaign", "Shadowrun Lone Star rules", "Shadowrun 2nd edition campaign", "Shadowrun Seattle 2075"]
 ---
 
 ## Adventures using this setting

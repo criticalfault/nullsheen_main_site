@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/binary.png"
 tags: ['GM Helper']
 show_reading_time: true
+description: "How to fix the most common decker problems in Shadowrun — making the matrix relevant to the whole party, speeding up decking scenes, and keeping the cyberpunk feel alive at the table."
+keywords: ["Shadowrun decker problems", "Shadowrun matrix GM guide", "how to run matrix Shadowrun", "Shadowrun decking tips", "Shadowrun 3rd edition matrix"]
 ---
 
 One of the most common problems new GMs (And old for that matter) is running the Matrix for their players. In every edition of Shadowrun, the matrix has been a pivotal part of the game. It makes sense in the larger picture, Gibson's Neuromancer (Which you absolutely NEED to read if your running Shadowrun or Cyberpunk! [[Hardcover](https://amzn.to/4gAYDm1) or [Sprawl Trilogy (Plus Burning Chrome)](https://amzn.to/4fhJgOq) - Good Christmas Gifts!] gives us the first console cowboy and we have been seeking that experience every since. 

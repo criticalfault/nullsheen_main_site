@@ -6,6 +6,8 @@ banner: "/images/gameholecon2025/20251019_191656.jpg"
 tags: ['Real Talk']
 authors: ["Dean"]
 show_reading_time: true
+description: "A recap of Gamehole Con 2025 — running Monte Cook Games demos, playing Dread Expectations, and news from Catalyst on the Shadowrun 2nd edition front."
+keywords: ["Gamehole Con 2025", "Gamehole Con recap", "Monte Cook Games Gamehole", "Shadowrun Catalyst news", "TTRPG convention 2025"]
 ---
 
 Another year another Gamehole Con in the books. This one was a lot different from my first experience because I finally stepped up to Gamemaster a bunch of games. I also worked with Monte Cook games to help show people their games and teach their system. That was an awesome experience to say the least. I also got a chance to talk to Catalyst people and got some news on our 2e battle. 

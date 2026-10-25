@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/digital_tools.png"
 tags: ['Archive','GM Helper']
 show_reading_time: true
+description: "Custom Shadowrun 2nd Edition character sheets for Roll20, created by Lord Nago. Download files and get links to the original Reddit post and YouTube walkthrough."
+keywords: ["Shadowrun Roll20 sheet", "Shadowrun 2nd edition Roll20", "SR2 Roll20 character sheet", "Shadowrun VTT", "Roll20 Shadowrun"]
 ---
 
 As we continue to march forward in reclaiming our past a few people stepped up and created tools for our future. One such person is [Lord Nago](https://www.reddit.com/user/LordNago/). 

@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/Anchors.webp"
 tags: ['3rd Edition','GM Helper']
 show_reading_time: true
+description: "How to get more out of anchoring foci in Shadowrun — using curse magic, placed fetishes, and delayed spells to create stealth horror scenarios and persistent magical threats."
+keywords: ["Shadowrun anchoring foci", "Shadowrun curse magic", "Shadowrun 3rd edition magic", "Shadowrun fetish magic", "anchoring spells Shadowrun"]
 ---
 
 When we play games with magic often we look at it in the lens of our understanding most of us learned from games like Dungeons and Dragons. That is to say that magical people always go into combat with magical shields and energy blasts. Fireballs and Counterspells to keep yourself from getting fried. Shadowrun has a lot of this too, but there is more insidious magic that exists and it’s as old as the human race.

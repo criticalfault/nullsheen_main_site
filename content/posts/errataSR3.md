@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Archive','3rd Edition']
 show_reading_time: true
+description: "The complete Shadowrun 3rd Edition errata, version 4.1 — every correction from the original FanPro printings, preserved and searchable for GMs running SR3."
+keywords: ["Shadowrun 3rd edition errata", "SR3 errata", "Shadowrun corrections", "FanPro Shadowrun errata", "Shadowrun 3rd edition rules corrections"]
 ---
 
 This is a scrape from the https://www.shadowrunrpg.com site for ALL of their Erratas. They seem to have kind of let this go to seed and I know a TON of people are looking for this. I take no claim for any of this, I just want to preserve it for future generations to have the corrections they might be looking for.

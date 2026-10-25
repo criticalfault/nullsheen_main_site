@@ -6,6 +6,8 @@ banner: "/images/Ivy-and-Chrome.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 author: Dean
 show_reading_time: true
+description: "A full review and GM notes for Ivy and Chrome, a Shadowrun 1st Edition adventure. Heavily imbalanced but with strong story heart — includes tips to fix the two most dangerous encounters."
+keywords: ["Ivy and Chrome Shadowrun review", "Shadowrun 1st edition adventure", "Shadowrun adventure review", "SR1 adventure", "Shadowrun GM tips"]
 ---
 
 [Ivy and Chrome](https://www.drivethrurpg.com/product/64091/shadowrun-ivy-chrome?affiliate_id=135005) is a Shadowrun adventure from the dawn of Shadowrun (1st edition). This adventure has a great balance of things to have players do (Magic, Decking, Rigging, Combat, Social) but is also one of the single most unbalanced adventures I have ever personally seen. I think the story has great heart, but it needs a WILD amount of tweaks to keep your players from accidentally wandering into what I can only describe as 2 absolutely apocalyptic battles.

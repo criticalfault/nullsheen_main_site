@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Tools']
 show_reading_time: true
+description: "Announcing the NullSheen initiative tracker — a free online tool for Shadowrun 2nd and 3rd Edition combat initiative with automatic damage-based initiative reduction."
+keywords: ["Shadowrun initiative tracker", "Shadowrun 2nd edition tool", "Shadowrun 3rd edition combat", "free Shadowrun tools", "Shadowrun online initiative"]
 ---
 
 After some more requests for tools, I bring you all my initiative tracker. So far it is made for Shadowrun 2nd And 3rd Edition (With a simple toggle for each edition). Currently it is configured to instantly remove initiative as they take damage. This is how my table plays however I realize a lot of others may not. I will make a toggle in the future which will remove this feature for tables that don't play with it.

@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/WhichEdition.webp"
 tags: ['Opinion','GM Help']
 show_reading_time: true
+description: "A complete breakdown of every Shadowrun edition — dice systems, character creation, matrix, magic, and metaplot — to help you pick the right edition for your group."
+keywords: ["Shadowrun edition guide", "which Shadowrun edition should I play", "Shadowrun 2nd vs 3rd edition", "best Shadowrun edition", "Shadowrun edition comparison"]
 ---
 
 One of the most common questions we get on the various Shadowrun Subreddits is what edition is right for me and my group? Think is unfortunately always answered with the obvious “It depends”. I’m going to hopefully lay out all the information to make the choice for you and your group. Each edition has a lot to offer and gives a completely different feel to your game. Let’s see where your group falls. This will be a living document, so as I find some better examples and feedback on how best to explain some editions.

@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/TheShadowrunSupplemental.webp"
 tags: ['Archive','GM Help']
 show_reading_time: true
+description: "Archiving the Shadowrun Supplementals — a fan-made zine from 1997 onwards, preserving all nine issues of the community's beloved player-and-GM-written Shadowrun publication."
+keywords: ["Shadowrun Supplemental", "Shadowrun zine archive", "Shadowrun fan zine", "Adam Jury Shadowrun", "Shadowrun community archive"]
 ---
 
 On January 1st, 1992 we were given Shadowrun in its second form. Now revised with an attempt to bring the systems together and resolve some rules disputes, this gave us the form Shadowrun would exist in for some time. In 1997 Adam Jury rounded up some articles and put together the first Shadowrun Supplemental. This was a collection of articles written by players and Game Masters about topics they wanted to see in their games. Things they wanted to share with the world at large of Shadowrun players. 

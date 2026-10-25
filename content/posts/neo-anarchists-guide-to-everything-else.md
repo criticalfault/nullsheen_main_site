@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/nagee.webp"
 tags: ['Archive','GM Help']
 show_reading_time: true
+description: "Archiving the Neo-Anarchists' Guide to Everything Else — a fan-made Shadowrun zine from 1992–1994 by Jerry Stratton and Tony Moller. All five issues preserved and available to download."
+keywords: ["Neo Anarchists Guide Everything Else", "Shadowrun NAGEE", "Shadowrun zine", "Shadowrun fan supplement", "Shadowrun archive", "Shadowrun 2nd edition supplement"]
 ---
 
 We have another Zine that blazed trails in the Shadowrun universe! Started by Jerry Stratton and continued by Tony Moller. This along with the Shadowrun Supplemental were among the first player published materials out there. The first issue came out in 1992 and the last in 1994. 

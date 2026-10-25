@@ -6,6 +6,8 @@ banner: "/images/Gunslinger_Knights_01_Roberto_Pitturru.jpg"
 tags: ["Game Reviews", "Gunslinger Knights", "Cypher System"]
 authors: ["Dean"]
 show_reading_time: true
+description: "A full review of Gunslinger Knights — the Cypher System RPG about dimension-hopping Arthurian knights on magical motorcycles fighting necromantic invaders in a post-apocalyptic world."
+keywords: ["Gunslinger Knights review", "Gunslinger Knights RPG", "Cypher System review", "Monte Cook Games", "TTRPG review", "post-apocalyptic RPG"]
 ---
 
 Im a big fan of a lot of games (Which is why I have this website honestly), that goes double for games with unique settings and very few are as unique as Gunslinger Knights. It's a game that is a bit weird but wholly wonderful.  Part post-apocalypse, part 1980s cartoon, part Arthurian legend, it holds something for everyone who has even the slightest inclination for high octane fun. 

@@ -6,6 +6,8 @@ banner: "/images/3dPrinting.jpg"
 tags: ['GM Help', 'Guide']
 authors: ["Dean"]
 show_reading_time: true
+description: "Why physical props improve your TTRPG sessions — tangible connections, memory anchors, and how 3D printed handouts make key story items unforgettable for your players."
+keywords: ["TTRPG physical props", "tabletop RPG props", "3D print RPG props", "Shadowrun props", "GM tips props", "TTRPG memory anchors"]
 ---
 
 Before we get into this months topic, I wanted to tell everyone I finished my next book! It can be found here: [https://legacy.drivethrurpg.com/product/514075/Lone-Star-Stories-Blood-Of-The-Lamb](https://legacy.drivethrurpg.com/product/514075/Lone-Star-Stories-Blood-Of-The-Lamb). I’m also only 2 purchases away from getting my first Copper Badge for [https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money)! If you ever wanted to support me, this would be a fantastic way to do so! 

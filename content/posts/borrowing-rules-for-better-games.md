@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/borrowingRules.webp"
 tags: ['GM Help']
 show_reading_time: true
+description: "Six mechanics from other RPGs you should steal for your game — Push Rolls, GM Intrusions, Devil's Bargains, Stunts, Succeed with Consequences, and Raises explained and adapted."
+keywords: ["TTRPG borrowed mechanics", "GM tips tabletop RPG", "best RPG mechanics steal", "Call of Cthulhu push roll", "Cypher System intrusions", "Blades in the Dark devil bargain"]
 ---
 
 A lot of tabletops have attempts to make the perfect system. This of course has lent to tons of iterations of different ways of rolling dice, creating statistics and skill tests. This however has the amazing byproduct of creating some mechanics that are system agnostic that you can use to make your games more exciting and more interesting regardless of the game you are running. Here are 6 examples from games that are near and dear to my heart. As a collector I tend to play a lot of different games and have enjoyed learning new systems. Hopefully you can find something worthwhile to use in your game!

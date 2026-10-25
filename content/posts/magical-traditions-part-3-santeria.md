@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/santeria-priest.webp"
 tags: ['GM Help','Magical Traditions']
 show_reading_time: true
+description: "A deep dive into Santeria/Lukumi as a Shadowrun magical tradition — covering Orishas, ancestor veneration, Eggun, and how to bring this Afro-Caribbean tradition to the table."
+keywords: ["Shadowrun Santeria", "Shadowrun magical traditions", "Lukumi Shadowrun", "Orishas Shadowrun", "Shadowrun shamanism", "magical traditions guide"]
 ---
 
 ## Books/Sites Used in this article. 

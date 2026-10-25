@@ -6,6 +6,8 @@ banner: "/images/DoubleExposure.jpg"
 tags: ['Adventure Reviews', 'GM Helper']
 show_reading_time: true
 authors: ["Dean"]
+description: "A full review and GM notes for Double Exposure, a story-heavy Shadowrun 2nd Edition adventure set in a mysterious commune growing real food in the Barrens. Spoilers included."
+keywords: ["Double Exposure Shadowrun review", "Shadowrun 2nd edition adventure", "Shadowrun adventure review", "SR2 adventure", "Shadowrun GM notes"]
 ---
 
 > "Is this the path to Eden?" - Johnathan Tang

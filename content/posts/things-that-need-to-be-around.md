@@ -5,6 +5,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
+description: "Preserving NSRCG and the Decker game — two essential old Shadowrun software tools, now mirrored for download before they disappear from the internet forever."
+keywords: ["NSRCG Shadowrun", "Decker game Shadowrun", "Shadowrun software archive", "Shadowrun character creator", "Shadowrun old programs"]
 ---
 
 There are a lot of tools I used growing up and trying to learn Shadowrun. The few that always made me happiest were the ones that really gave me the fully control and customization that Shadowrun allows. People at FASA really dug into the idea that characters will want signature weapons/vehicles/spells/etc. That being a major part of who they are meant we needed that DEEP control over who and what they were. 

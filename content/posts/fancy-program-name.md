@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/programs.webp"
 tags: ['3rd Edition','GM Helper']
 show_reading_time: true
+description: "Immersive program names for every Shadowrun 3rd Edition program rating — Analyze, Attack, and more — to make your decker's arsenal feel more real at the table."
+keywords: ["Shadowrun program names", "Shadowrun 3rd edition programs", "Shadowrun decker immersion", "SR3 matrix programs", "Shadowrun flavor names"]
 ---
 
 ## Program Names for more immersion

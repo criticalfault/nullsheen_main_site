@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/vtt-icons.webp"
 tags: ['GM Help']
 show_reading_time: true
+description: "Free VTT icons and map resources for Shadowrun — custom IC tokens, GTA overhead maps for Seattle, and a massive collection of character and NPC tokens for online play."
+keywords: ["Shadowrun VTT icons", "Shadowrun tokens", "Shadowrun VTT maps", "Shadowrun online maps", "Shadowrun Roll20 tokens", "Shadowrun Foundry assets"]
 ---
 
 As we spoke about before, Covid really threw our lives when it came to game into some strangeness. We had to spin up new methods of keeping our stories alive. Though this is my least favorite of the ways to run a game. It holds itself aloft as something that can bring people together from across the world to enjoy the stories of friends who cannot gather around a table. Though in a more modern adaptation. Some have even begun to bring digital tables to their play groups. To this end I wanted to talk about digital assets and where to find them. 

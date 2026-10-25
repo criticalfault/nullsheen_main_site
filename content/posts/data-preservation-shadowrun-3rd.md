@@ -5,6 +5,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Archive']
 show_reading_time: true
+description: "Preserving Shadowrun 3rd Edition game data — a GitHub repository of SR3 source data in JSON format, extracted from old programs and cross-referenced for future use."
+keywords: ["Shadowrun 3rd edition data", "Shadowrun data preservation", "SR3 JSON data", "Shadowrun GitHub", "Shadowrun 3rd edition archive"]
 ---
 
 After seeing various sites I used to rely on disappearing day by day, I have grown nostalgic about the various programs i had used through out the years. As I have seen new players dig for resources for them to come up empty it has sparked my own interest in tossing my hat into the ring. I of course cannot promise I will suceed in some of these plans that seeing this data has given me, but what I can promise, is getting the data into a place for it to be preserved for the future.

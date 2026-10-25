@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/older-cyberpunk-tech-movies.webp"
 tags: ['Cyberpunk', 'Movies', 'Opinion']
 show_reading_time: true
+description: "Older movies that inspired Shadowrun and Cyberpunk technology — SimSense, BTLs, neural interfaces, and cyberware concepts seen in films from the 1980s and 1990s."
+keywords: ["cyberpunk movies Shadowrun inspiration", "SimSense movies", "BTL chip movies", "older cyberpunk films", "Shadowrun tech movies", "Strange Days movie"]
 ---
 
 I’ve always found it so interesting that so many movies out there feel like the framework for what became Shadowrun and Cyberpunk. I know the zeitgeist of the time was that technology was going to give us a world that would allow for infinite convenience and automation. That would have allowed tech to come into every aspect of our lives, from micro foods that give us all of the nutrients needed to cars that could beat traffic by flying into the sky. This was what we had dreamed of in the 1980s. Some of us however, saw the writing on the wall. We knew that with automation would come the loss of jobs, with new and greater technology corporations greed would not be satisfied with old profits and that the human cost would rise. So a few things from the shiny future dared to show us its underbelly and from that we started to see the dystopia. 

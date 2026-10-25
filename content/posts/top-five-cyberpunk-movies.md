@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/cyberpunkMovies.webp"
 tags: ['Cyberpunk', 'Movies', 'Opinion']
 show_reading_time: true
+description: "The top five cyberpunk movies every Shadowrun GM should watch — from Blade Runner to Ghost in the Shell — and why they matter for setting the tone at your table."
+keywords: ["cyberpunk movies list", "best cyberpunk films", "Shadowrun inspiration movies", "Blade Runner tabletop RPG", "cyberpunk genre films", "movies for Shadowrun GMs"]
 ---
 
 Sometimes you just need a movie to get your Cyberpunk on. What better way than to catch some of the best Cyberpunk movies out there. Anyone running Shadowrun should have at least seen these movies mentioned in order to get some insight into the minds and feelings surrounding the game as its inception. Some of these are newer movies but based on much older properties.  

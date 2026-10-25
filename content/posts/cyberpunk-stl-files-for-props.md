@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/cyberpunk_stl_files/PrintingSTLs.webp"
 tags: ['GM Help']
 show_reading_time: true
+description: "A curated list of free STL files for 3D printing Shadowrun and Cyberpunk RED props and terrain — buildings, vehicles, neon signs, and more for your cyberpunk tabletop."
+keywords: ["Shadowrun 3D print STL", "Cyberpunk RED terrain", "tabletop RPG 3D printing", "cyberpunk miniatures STL", "Shadowrun props 3D print"]
 ---
 
 **STL Files for Shadowrun and Cyberpunk (Red or otherwise)**

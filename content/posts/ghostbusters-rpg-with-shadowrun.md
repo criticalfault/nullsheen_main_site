@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Tools','GM Help']
 show_reading_time: true
+description: "A Ghostbusters RPG built on Shadowrun 3rd Edition rules — character creation, franchising, and rules for combining the action of Shadowrun with the mystery of Call of Cthulhu."
+keywords: ["Ghostbusters RPG Shadowrun", "Shadowrun 3rd edition hack", "Ghostbusters tabletop RPG", "Shadowrun homebrew", "crossover RPG Shadowrun"]
 ---
 
 # The New Ghost Busters - RPG using Shadowrun 3rd Edition

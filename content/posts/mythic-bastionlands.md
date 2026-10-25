@@ -6,6 +6,8 @@ banner: "/images/mythicBastionlands.png"
 tags: ["Game Reviews","Mythic Bastionlands"]
 author: Dean
 show_reading_time: true
+description: "A review of Mythic Bastionlands — a unique fantasy TTRPG where 72 knights gifted by seers work together across a sprawling map to find and stop the myths plaguing their kingdom."
+keywords: ["Mythic Bastionlands review", "Mythic Bastionlands RPG", "Chris McDowall game", "OSR fantasy RPG", "knight RPG review", "TTRPG review 2026"]
 ---
 
 &nbsp;

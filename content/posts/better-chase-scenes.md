@@ -6,6 +6,8 @@ authors: ["Dean"]
 banner: "/images/VehicleChases.webp"
 tags: ['GM Help', 'Guide']
 show_reading_time: true
+description: "How to run better vehicle chase scenes in Shadowrun — a custom system with segments, complications, speed tiers, and rules that create cinematic chase moments at your table."
+keywords: ["Shadowrun chase rules", "Shadowrun vehicle chase", "Shadowrun GM guide", "chase scene tabletop RPG", "Shadowrun 3rd edition house rules"]
 ---
 
 # Vehicle Chases

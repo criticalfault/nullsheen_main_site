@@ -6,6 +6,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Decking', 'Guides']
 show_reading_time: true
+description: "A guide to getting the most out of your Shadowrun decker — covering matrix searching, databases, cybercrime opportunities, and clever tricks most players overlook."
+keywords: ["Shadowrun decker guide", "Shadowrun matrix tricks", "decking Shadowrun 3rd edition", "Shadowrun matrix searching", "how to play decker Shadowrun"]
 ---
 
 ## Books Used in this article. 

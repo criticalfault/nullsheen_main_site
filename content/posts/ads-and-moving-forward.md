@@ -5,6 +5,8 @@ draft: false
 authors: ["Dean"]
 tags: ['Real Talk']
 show_reading_time: true
+description: "Why NullSheen switched from Google Ads to Amazon affiliate links — and the first Shadowrun book recommendations for new and returning players."
+keywords: ["NullSheen affiliate links", "Shadowrun book recommendations", "Shadowrun Amazon", "support TTRPG blog", "Shadowrun 3rd edition books"]
 ---
 
 After doing a lot of thinking about this little side project of mine, I had decided I perhaps needed to begin to supplement the cost of this website/hosting for tools/investment of time. I hate to make any kind of clutter or cause anyone any strife when it comes to reading my articles, using my tools, or just generally enjoying the spirit of the reason my site exists. However, seeing the cost continue to rise, I will need to come up with something.
