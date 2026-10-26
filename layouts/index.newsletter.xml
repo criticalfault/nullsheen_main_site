@@ -1,0 +1,26 @@
+{{- /*
+  Newsletter feed for MailerLite's RSS campaign.
+  Only lists blog posts dated BEFORE today (America/Chicago), so a post
+  published today is emailed the next morning, giving time for fixes.
+  The guid is the permalink, so editing a post never triggers a resend.
+*/ -}}
+{{- $today := time.AsTime (now.Format "2006-01-02") -}}
+{{- $ready := where (where site.RegularPages "Section" "posts") "Date" "lt" $today -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0">
+  <channel>
+    <title>{{ site.Title }}</title>
+    <link>{{ site.Home.Permalink }}</link>
+    <description>New posts from {{ site.Title }}</description>
+    <language>{{ site.LanguageCode }}</language>
+    {{- range first 10 $ready }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid>{{ .Permalink }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>
