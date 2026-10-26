@@ -2,7 +2,7 @@
 title: "Anne Rice's Immortal Universe Roleplaying Game Review"
 date: 2026-10-20T12:00:00Z
 draft: false
-banner: "/images/AnneRicesImmortalUniverse.webp"
+banner: "/images/immortal_universe/AnneRicesImmortalUniverse.webp"
 tags: ["Game Reviews", "Anne Rice", "Vampire RPG", "Renegade Game Studios", "Interview with the Vampire"]
 authors: ["Dean"]
 show_reading_time: true
