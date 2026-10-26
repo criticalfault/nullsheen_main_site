@@ -4,6 +4,7 @@ title = 'NullSheen - TTRPG Gaming Tools and Reviews'
 theme = 'hugo-universal-theme'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
+timeZone = "America/Chicago"
 
 # number of words of summarized post content
 summaryLength = 70
@@ -306,3 +307,12 @@ summaryLength = 70
   category = "categories"
   tag = "tags"
   author = "authors"
+
+# Newsletter feed (/newsletter.xml): only posts dated before today, so
+# MailerLite's daily RSS campaign emails each new post the day after it's published.
+[outputFormats.newsletter]
+  mediaType = "application/rss+xml"
+  baseName = "newsletter"
+
+[outputs]
+  home = ["HTML", "RSS", "newsletter"]
