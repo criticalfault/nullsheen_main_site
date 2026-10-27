@@ -42,7 +42,7 @@ The adventure streamed on Twitch during Gamehole Con (I'll post the link here on
 
 #### Anne Rice's Immortal Universe: Interview With a Vampire
 
-I actually did a whole review on this already which you can find here! It was super interesting to see how this played out. Also oddly entertaining to be running this at the same time as a table of Dungeon Crawler Carl directly across from us — both owned by the same company, apparently. I'm backing it now that it's out, so hopefully I'll have a more in-depth review once I get my hands on the book and can run a proper campaign.
+I actually did a whole review on this already which you can find [here](https://www.nullsheen.com/posts/anne-rice-immortal-universe-review/)! It was super interesting to see how this played out. Also oddly entertaining to be running this at the same time as a table of Dungeon Crawler Carl directly across from us — both owned by the same company, apparently. I'm backing it now that it's out, so hopefully I'll have a more in-depth review once I get my hands on the book and can run a proper campaign.
 
 Hilariously, when we finished our game they asked if anyone wanted to be interviewed and of course I said yes, because I cannot stop myself from talking about games. So I am now in the official release video for the IU Backerkit. You can see my ugly mug [here](https://youtu.be/6maXuPuf0ss?si=H6SVm_TSbuw4Jhx9) if you so dare.
 
