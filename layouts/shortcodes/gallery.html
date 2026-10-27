@@ -1,0 +1,76 @@
+{{/* gallery shortcode
+   Usage: {{< gallery images="/images/foo.jpg, /images/bar.jpg" caption="Optional caption" >}}
+
+   Params:
+     images  – comma-separated list of image paths (required)
+     caption – optional caption shown below the grid
+*/}}
+
+{{ $id     := printf "nsg-%d" .Ordinal }}
+{{ $images := split (.Get "images") "," }}
+{{ $caption := .Get "caption" | default "" }}
+
+<div class="ns-gallery" id="{{ $id }}-grid">
+  {{ range $i, $src := $images }}
+    {{ $src = trim $src " " }}
+    <a class="ns-gallery__item"
+       href="{{ $src }}"
+       data-lb="{{ $id }}"
+       data-idx="{{ $i }}"
+       aria-label="Open image {{ add $i 1 }}">
+      <img src="{{ $src }}" alt="Gallery image {{ add $i 1 }}" loading="lazy" />
+    </a>
+  {{ end }}
+</div>
+{{ if $caption }}<p class="ns-gallery__caption">{{ $caption }}</p>{{ end }}
+
+<div class="ns-lightbox" id="{{ $id }}-lb" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="ns-lightbox__close" aria-label="Close">&times;</button>
+  <button class="ns-lightbox__prev" aria-label="Previous">&#8249;</button>
+  <button class="ns-lightbox__next" aria-label="Next">&#8250;</button>
+  <img class="ns-lightbox__img" src="" alt="" />
+</div>
+
+<script>
+(function () {
+  var id      = '{{ $id }}';
+  var lb      = document.getElementById(id + '-lb');
+  var lbImg   = lb.querySelector('.ns-lightbox__img');
+  var items   = Array.from(document.querySelectorAll('[data-lb="' + id + '"]'));
+  var current = 0;
+
+  function open(idx) {
+    current = idx;
+    lbImg.src = items[idx].getAttribute('href');
+    lb.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    lb.classList.remove('is-open');
+    document.body.style.overflow = '';
+  }
+
+  function prev() { open((current - 1 + items.length) % items.length); }
+  function next() { open((current + 1) % items.length); }
+
+  items.forEach(function(item) {
+    item.addEventListener('click', function(e) {
+      e.preventDefault();
+      open(parseInt(item.getAttribute('data-idx'), 10));
+    });
+  });
+
+  lb.querySelector('.ns-lightbox__close').addEventListener('click', close);
+  lb.querySelector('.ns-lightbox__prev').addEventListener('click', prev);
+  lb.querySelector('.ns-lightbox__next').addEventListener('click', next);
+  lb.addEventListener('click', function(e) { if (e.target === lb) close(); });
+
+  document.addEventListener('keydown', function(e) {
+    if (!lb.classList.contains('is-open')) return;
+    if (e.key === 'Escape')      close();
+    if (e.key === 'ArrowLeft')   prev();
+    if (e.key === 'ArrowRight')  next();
+  });
+})();
+</script>

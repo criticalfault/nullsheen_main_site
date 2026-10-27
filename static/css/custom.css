@@ -15,3 +15,97 @@
 .home-carousel p {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
+
+/* ============================================================
+   Photo Gallery & Lightbox
+   ============================================================ */
+.ns-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+  margin: 1.5rem 0;
+}
+
+.ns-gallery__item {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #111;
+  aspect-ratio: 4 / 3;
+}
+
+.ns-gallery__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.ns-gallery__item:hover img {
+  transform: scale(1.05);
+  opacity: 0.85;
+}
+
+.ns-gallery__caption {
+  text-align: center;
+  font-style: italic;
+  color: #888;
+  margin-top: 0.25rem;
+}
+
+/* Lightbox */
+.ns-lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.92);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+}
+
+.ns-lightbox.is-open {
+  display: flex;
+}
+
+.ns-lightbox__img {
+  max-width: 92vw;
+  max-height: 88vh;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.7);
+  display: block;
+}
+
+.ns-lightbox__close,
+.ns-lightbox__prev,
+.ns-lightbox__next {
+  position: absolute;
+  background: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 2.5rem;
+  line-height: 1;
+  padding: 0.25rem 0.75rem;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.ns-lightbox__close:hover,
+.ns-lightbox__prev:hover,
+.ns-lightbox__next:hover { opacity: 1; }
+
+.ns-lightbox__close { top: 1rem; right: 1.25rem; font-size: 2rem; }
+.ns-lightbox__prev  { left: 1rem; top: 50%; transform: translateY(-50%); font-size: 3rem; }
+.ns-lightbox__next  { right: 1rem; top: 50%; transform: translateY(-50%); font-size: 3rem; }
+
+@media (max-width: 600px) {
+  .ns-gallery {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 4px;
+  }
+}
