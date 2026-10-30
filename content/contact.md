@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Get in touch with Dean at NullSheen about the site, Shadowrun tools, or old TTRPG software and files you'd like to see preserved."
 date: 2024-05-10T00:44:31Z
 draft: false
 banner: "/images/"

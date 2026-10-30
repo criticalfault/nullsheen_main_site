@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+description: "Meet Dean, the programmer and longtime Shadowrun player behind NullSheen's free TTRPG tools, reviews and digital preservation projects."
 date: 2024-05-10T00:49:26Z
 draft: false
 banner: "/images/DeanWebphoto.jpg"

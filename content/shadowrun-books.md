@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Books"
+description: "Shadowrun novels, 2nd and 3rd Edition sourcebooks and classic game cartridges, with links to buy each on DriveThruRPG, Amazon or Noble Knight."
 date: 2024-05-20T03:19:44Z
 draft: false
 banner: "/images/BookSeller.webp"
@@ -52,7 +53,7 @@ Noble Knight often has rotating stock and you can get alerted when stock comes i
 | 5th             |Kill Code              |[Amazon](https://amzn.to/3yK1V5V)| [PDF](https://www.drivethrurpg.com/en/product/244831/shadowrun-kill-code-advanced-matrix-rules?src=affiliate135005&affiliate_id=135005) | No  |
 | 5th             |Better Than Bad        |[Amazon](https://amzn.to/4bZsWR5)| [PDF](https://www.drivethrurpg.com/en/product/259492/shadowrun-better-than-bad-deep-shadows?src=affiliate135005&affiliate_id=135005) | No  |
 | 5th             |State Of The Art ADL   |[Amazon](https://amzn.to/4bWJLMw)| No |No  |
-| 5th             |Street Lethal          |[Amazon](https://amzn.to/4bUHh1P)| [PDF](https://www.drivethrurpg.com/en/product/244832/shadowrun-street-lethal-advanced-combat-rules) |No  |
+| 5th             |Street Lethal          |[Amazon](https://amzn.to/4bUHh1P)| [PDF](https://www.drivethrurpg.com/en/product/244832/shadowrun-street-lethal-advanced-combat-rules?affiliate_id=135005) |No  |
 | 4th|ShadowRun Fourth Edition - Anniversary|[Amazon](https://amzn.to/4bFaBsg)|[PDF](https://legacy.drivethrurpg.com/product/60553/Shadowrun-4th-Ed-20th-Anniversary-Core-Rulebook?term=shadowrun+4th+ann?src=affiliate135005&affiliate_id=135005)|No|
 | 4th | Arsenal |[Amazon](https://amzn.to/3KoFLZn)| [PDF](https://www.drivethrurpg.com/en/product/57423/shadowrun-arsenal?src=affiliate135005&affiliate_id=135005) | No  |
 | 4th | Augmentation |[Amazon](https://amzn.to/4bGRgr8)| [PDF](https://www.drivethrurpg.com/en/product/57422/shadowrun-augmentation?src=affiliate135005&affiliate_id=135005) | No  |

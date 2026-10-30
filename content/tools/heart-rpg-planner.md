@@ -1,5 +1,6 @@
 ---
 title: "Heart RPG Delve Planner"
+description: "Free delve planner for Heart: The City Beneath. Track landmarks, domains, stress and fallout as your party descends."
 date: 2025-11-10T13:15:00Z
 draft: false
 type: page

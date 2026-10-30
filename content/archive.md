@@ -1,5 +1,6 @@
 ---
 title: "Archive"
+description: "A preservation archive of classic Shadowrun material: character sheets, cheat sheets, KA-GE, Shadowland, Shadowrun Supplementals and Missions."
 date: 2023-07-02T23:55:11Z
 draft: false
 banner: "/images/BookSeller.webp"

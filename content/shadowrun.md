@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Resources Hub"
+description: "Everything Shadowrun on NullSheen: free character generators, GM tools, books, podcasts, archives and guides for every edition."
 date: 2025-11-09T20:30:00Z
 draft: false
 banner: "/images/mainBG.jpg"
@@ -65,7 +66,7 @@ Check out **[The Archive](/archive/)** for:
 
 ### Virtual Tabletop Resources
 
-- **[VTT Maps & Icons](/vtt-maps-and-shadowrun-info/)** - Maps, tokens, and VTT resources
+- **[VTT Maps & Icons](/posts/vtt-maps-and-shadowrun-info/)** - Maps, tokens, and VTT resources
 - **[FastJack's VTT Maps](https://drive.google.com/drive/u/0/folders/1hgbjEtL5GXVdRaeGuV49mt-RY8pdHVAX)** - Tons of VTT resources
 - **[Seattle Map](https://www.google.com/maps/d/u/0/viewer?mid=1_1ES7tdzvO65eeErMFvEu_uedVM&hl=en_US&ll=47.59829722438376%2C-122.3312584238638&z=15)** - Real-world Seattle locations mapped
 

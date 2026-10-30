@@ -1,5 +1,6 @@
 ---
 title: "Hex Crawler"
+description: "Free online hex crawl generator for tabletop RPGs: wilderness hex maps with terrain, points of interest and travel tracking."
 date: 2025-11-10T13:20:00Z
 draft: false
 type: page

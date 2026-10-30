@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Run Generator"
+description: "Generate Shadowrun run ideas instantly: objectives, Johnsons, complications and twists for extractions, datasteals, wetwork and more."
 date: 2025-11-09T21:30:00Z
 draft: false
 type: page

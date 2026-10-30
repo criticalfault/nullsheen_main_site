@@ -1,5 +1,6 @@
 ---
 title: "Software And Tools"
+description: "A preservation collection of classic Shadowrun software and fan tools, from character generators to GM utilities of the Windows 3.x and 95 era."
 date: 2023-09-01T12:53:33Z
 banner: "/images/AltPostArt.jpg"
 draft: false

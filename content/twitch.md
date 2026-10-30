@@ -1,5 +1,6 @@
 ---
 title: "Live Streams"
+description: "Watch Dean's live TTRPG streams on Twitch: Shadowrun campaigns, Heart delves, other tabletop games and tool development."
 date: 2025-11-10T13:30:00Z
 draft: false
 type: page

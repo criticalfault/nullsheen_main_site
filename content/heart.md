@@ -1,5 +1,6 @@
 ---
 title: "Heart: The City Beneath"
+description: "Heart: The City Beneath RPG resources: every book and PDF with where to buy it, plus the Heart Delve Planner and other tools."
 date: 2025-11-09T20:45:00Z
 draft: false
 banner: "/images/heartRPG.jpg"

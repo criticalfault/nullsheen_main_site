@@ -1,5 +1,6 @@
 ---
 title: "Stormlight Archive RPG"
+description: "Stormlight Archive RPG resources: Radiant reference cards, 3D print files and tools for running Brandon Sanderson's Roshar."
 date: 2026-07-26T12:00:00Z
 draft: false
 type: page

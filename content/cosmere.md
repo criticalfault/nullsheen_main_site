@@ -1,5 +1,6 @@
 ---
 title: "Cosmere RPG Books"
+description: "Cosmere RPG books for the Stormlight Archive and Mistborn settings, what each covers and where to buy it, plus free 3D print files and tools."
 date: 2026-07-26T12:00:00Z
 draft: false
 type: page
