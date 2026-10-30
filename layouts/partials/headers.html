@@ -3,7 +3,7 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ $title_plain := .Title | markdownify | plainify }}
-<title>{{ $title_plain }}</title>
+<title>{{ if or .IsHome (in (lower $title_plain) "nullsheen") }}{{ $title_plain }}{{ else }}{{ $title_plain }} | NullSheen{{ end }}</title>
 <meta name="author" content="{{ .Param "author" }}" />
 {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
 {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
@@ -11,8 +11,11 @@
 {{ if gt (len $keywords) 0 }}
 <meta name="keywords" content="{{ delimit (uniq $keywords) ", " }}">
 {{ end }}
-{{ $description_plain := default .Site.Params.defaultDescription .Description | markdownify | plainify }}
+{{ $desc := .Description }}
+{{ if and (not $desc) (eq .Kind "term") }}{{ $desc = printf "%s articles, reviews and tools on NullSheen." .Title }}{{ end }}
+{{ $description_plain := default .Site.Params.defaultDescription $desc | markdownify | plainify }}
 <meta name="description" content="{{ $description_plain }}">
+<link rel="canonical" href="{{ .Permalink }}">
 
 {{ hugo.Generator }}
 
@@ -57,7 +60,7 @@
 <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
 <!-- Facebook OpenGraph tags -->
-{{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
+{{ $is_blog := and (eq .Type "posts") (eq .Kind "page") }}
 {{ $has_image := or (isset .Params "banner") (isset .Params "featured_image") }}
 {{ $image := "" }}
 {{ if isset .Params "banner" }}
@@ -77,7 +80,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:description" content="{{ $description_plain }}">
 <meta property="og:image" content="{{ $image | absURL }}">
-<meta property="og:image:type" content="image/{{ if eq $image_ext ".svg" }}svg+xml{{ else }}{{ trim $image_ext "." }}{{ end }}">
+<meta property="og:image:type" content="image/{{ if eq $image_ext ".svg" }}svg+xml{{ else if in (slice ".jpg" ".jpeg") (lower $image_ext) }}jpeg{{ else }}{{ trim $image_ext "." | lower }}{{ end }}">
 {{ with .Params.banner_alt }}<meta property="og:image:alt" content="{{ . | markdownify | plainify }}">{{ end }}
 {{/* Removed imageConfig to avoid errors with unsupported image formats */}}
 {{ end }}
