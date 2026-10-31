@@ -1,5 +1,6 @@
 ---
 title: "Matrix Chatter Generator"
+description: "Generate in-game Matrix chat logs for Shadowrun: corporate intercepts, runner chatter and IC messages to add flavor to your runs."
 date: 2026-10-09T12:00:00Z
 draft: false
 banner: "/images/MatrixGenerator2.jpg"

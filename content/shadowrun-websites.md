@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Websites"
+description: "Shadowrun websites worth bookmarking: official publishers, wikis and rules references, forums, fan sites and streams."
 date: 2026-09-21T00:00:00Z
 draft: false
 banner: "/images/mainBG.jpg"

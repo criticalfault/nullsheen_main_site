@@ -1,5 +1,6 @@
 ---
 title: "Fallout Status Tracker"
+description: "Free online status tracker for the Fallout RPG (Modiphius 2d20): track radiation, injuries, conditions and combat at the table."
 date: 2025-11-10T13:20:00Z
 draft: false
 type: page

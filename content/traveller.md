@@ -1,5 +1,6 @@
 ---
 title: "Traveller RPG"
+description: "Traveller RPG resources for the classic science fiction game of exploration and trade, with links to Mongoose Traveller and the Traveller Wiki."
 date: 2025-11-09T20:45:00Z
 draft: false
 type: page

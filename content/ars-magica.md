@@ -1,5 +1,6 @@
 ---
 title: "Ars Magica"
+description: "Ars Magica RPG resources: where to buy the Definitive Edition and the best community sites for running the Order of Hermes."
 date: 2026-09-21T00:00:00Z
 draft: false
 type: page

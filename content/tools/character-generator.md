@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Character Generator"
+description: "Free online Shadowrun character generator for 2nd and 3rd Edition. Build street samurai, deckers and mages with the math done for you."
 date: 2025-11-09T21:30:00Z
 draft: false
 banner: "/images/CharacterGen.jpg"

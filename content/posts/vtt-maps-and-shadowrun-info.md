@@ -10,7 +10,7 @@ description: "Free VTT map resources for Shadowrun — FastJack's optimized map 
 keywords: ["Shadowrun VTT maps", "Shadowrun Seattle map", "Shadowrun online maps", "FastJack Shadowrun maps", "Shadowrun Roll20 maps"]
 ---
 
-After doing some digging and trying to find some good resources for VTT maps (A question that I see gets posted all over the place). I also needed a bit of a lighter post as I finish up the final touches on “Blood On the Pavement”, my next release for the Lonestar Stories first season. This should be available soon! Please take a look at my first releases: [Blood For Money!](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money)
+After doing some digging and trying to find some good resources for VTT maps (A question that I see gets posted all over the place). I also needed a bit of a lighter post as I finish up the final touches on “Blood On the Pavement”, my next release for the Lonestar Stories first season. This should be available soon! Please take a look at my first releases: [Blood For Money!](https://legacy.drivethrurpg.com/product/484834/Lone-Star-Stories-Blood-For-Money?src=affiliate135005&affiliate_id=135005)
 
 One day I will work on making a massive searchable table for maps, however after digging through the subreddit I discovered this gem and wanted to make sure it has a place that isn't just buried within Reddit. That will be on the horizon, but for now, here are three really solid resources.
 

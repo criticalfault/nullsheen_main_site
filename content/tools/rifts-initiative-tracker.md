@@ -1,5 +1,6 @@
 ---
 title: "Rifts Initiative Tracker"
+description: "Free initiative tracker for Rifts RPG combat: track actions per melee, initiative order and every combatant in the fight."
 date: 2025-11-09T21:30:00Z
 draft: false
 type: page

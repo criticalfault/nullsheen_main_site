@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Podcasts"
+description: "Shadowrun podcasts worth a listen, from actual plays to lore and drama shows, with the edition and style each one covers."
 date: 2023-11-18T00:52:06Z
 draft: false
 banner: "/images/podcasts.jpg"

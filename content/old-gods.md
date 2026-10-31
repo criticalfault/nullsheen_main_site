@@ -1,5 +1,6 @@
 ---
 title: "Old Gods of Appalachia RPG"
+description: "Old Gods of Appalachia RPG resources: every Cypher System book and PDF with where to buy it, plus a review and tools."
 date: 2025-11-09T20:45:00Z
 draft: false
 banner: "/images/oldGods.webp"

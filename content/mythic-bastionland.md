@@ -1,5 +1,6 @@
 ---
 title: "Mythic Bastionland"
+description: "Mythic Bastionland resources: 3D-printable Knight tokens and a mapping tool in development for the RPG of Knights and Myths."
 date: 2025-11-28T14:45:00Z
 banner: "/images/mythicBastionlands.png"
 draft: false

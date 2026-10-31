@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "How NullSheen.com collects, uses and protects your information, including analytics, advertising and newsletter data."
 date: 2024-05-10T01:08:24Z
 draft: false
 ---

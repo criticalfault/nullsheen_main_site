@@ -1,5 +1,6 @@
 ---
 title: "Matrix Builder"
+description: "Design custom Shadowrun 2nd Edition Matrix systems node by node, with your own IC placement, connections and security ratings."
 date: 2025-11-09T21:30:00Z
 draft: false
 banner: "/images/MatrixGenerator2.jpg"

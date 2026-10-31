@@ -1,5 +1,6 @@
 ---
 title: "Dungeons & Dragons"
+description: "Dungeons & Dragons adventure reviews and resources, from classic AD&D 2nd Edition modules to modern 5th Edition."
 date: 2025-11-28T14:30:00Z
 draft: false
 type: page

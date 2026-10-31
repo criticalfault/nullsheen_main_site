@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun STLs"
+description: "Free and paid 3D-printable Shadowrun and cyberpunk STL files, from miniatures to terrain and props, collected in one searchable list."
 date: 2023-03-19T13:51:34Z
 draft: false
 banner: "/images/BookSeller.webp"

@@ -1,0 +1,6 @@
+{{- /* Opens outside links in a new tab and marks affiliate partner links as sponsored, as Google asks for paid links. */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $partners := slice "amzn.to" "www.amazon.com" "amazon.com" "www.drivethrurpg.com" "legacy.drivethrurpg.com" "www.nobleknight.com" "nobleknight.com" "www.tkqlhce.com" "www.jdoqocy.com" -}}
+{{- $sponsored := in $partners $u.Host -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $u.IsAbs }} target="_blank" rel="{{ if $sponsored }}sponsored {{ end }}noopener"{{ end }}>{{ .Text }}</a>
+{{- /* keep no trailing newline */ -}}

@@ -1,5 +1,6 @@
 ---
 title: "Matrix Security Sheaf Generator"
+description: "Generate complete Shadowrun 3rd Edition Matrix security sheafs in seconds, with security ratings and IC placement for any host."
 date: 2025-11-09T21:30:00Z
 draft: false
 banner: "/images/MatrixGenerator3.jpg"

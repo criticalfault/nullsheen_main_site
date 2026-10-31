@@ -1,5 +1,6 @@
 ---
 title: "Initiative Tracker"
+description: "Free online Shadowrun initiative tracker for 2nd and 3rd Edition that handles initiative passes and condition monitors for you."
 date: 2025-11-09T21:30:00Z
 draft: false
 banner: "/images/InitTracker.jpg"

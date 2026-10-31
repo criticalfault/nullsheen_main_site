@@ -1,5 +1,6 @@
 ---
 title: "Shadowrun Weapon Designer"
+description: "Design custom Shadowrun 3rd Edition weapons with balanced stats and automatic costs for firearms, melee and exotic gear."
 date: 2025-11-10T13:20:00Z
 draft: false
 type: page

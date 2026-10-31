@@ -1,5 +1,6 @@
 ---
 title: "Public Access"
+description: "Public Access RPG resources: free adventures and assets, tools and links for the horror game about the TV Odyssey station."
 date: 2025-11-28T14:45:00Z
 banner: "/images/PublicAccess.png"
 draft: false
@@ -25,11 +26,11 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 | Lost Transmission | [Blasted Deep Lake](https://damage-control-16.itch.io/blasted-deep-lake-a-lost-transmission-for-public-access) | Brian Miranda | |
 | Lost Transmission | [The Alamoalta Experiment](https://joe-kenobi.itch.io/the-alamoalta-experiment) | Aaron Sinner | |
 | Mini-Mystery Bundle | The La Fresca Mall Directory | Various | |
-| Mystery | [Be Kind, Rewind](https://www.drivethrurpg.com/m/product/449428) | Aaron Sinner | |
-| Mystery | [Lucky Come Home](https://www.drivethrurpg.com/m/product/439294) | Aaron Sinner | |
+| Mystery | [Be Kind, Rewind](https://www.drivethrurpg.com/en/product/449428?affiliate_id=135005) | Aaron Sinner | |
+| Mystery | [Lucky Come Home](https://www.drivethrurpg.com/en/product/439294?affiliate_id=135005) | Aaron Sinner | |
 | Mystery | [Love and War at the Ren Faire](https://mountainfoot.itch.io/love-and-war-at-the-ren-faire) | mountainfoot | |
 | Mystery | [Station 25.5](https://steph-infection-games.itch.io/errant-transmissions) | Steph Infection | |
-| Mystery | [Little Red Corvette](https://www.drivethrurpg.com/product/475979/Little-Red-Corvette-a-Public-Access-mystery) | Gulix | |
+| Mystery | [Little Red Corvette](https://www.drivethrurpg.com/en/product/475979?affiliate_id=135005) | Gulix | |
 | Mystery | [AnimaCon 2004](https://chaoticblade5.itch.io/animacon-2004) | Chaotic Jamgochian | |
 | Mystery | [Electric Dreams/Digital Nightmares](https://drlemons.itch.io/electric-dreamsdigital-nightmares) | J Evan Parks | |
 | Mystery | [En route vers Deeplake](https://growth64.itch.io/en-route-vers-deeplake) | Growth64 | In French |
@@ -43,11 +44,11 @@ Public Access is a post modern horror game about a group of people (The Latchkey
 | Mystery | [The Degoya County Florba Experience](https://like-the-jeans.itch.io/degoya-county-florba-experince) | Levi, like the jeans! | |
 | Mystery | [Turn to Page 53](https://scealtabeaga.itch.io/turn-to-page-53) | J.L. Shannon | |
 | Mystery | [My Kingdom is as Great](https://cassidykh.itch.io/my-kingdom-is-as-great) | Cassidy Hadlock | |
-| Mystery | [That is His Nature](https://www.drivethrurpg.com/m/product/470382) | Aaron Sinner | |
+| Mystery | [That is His Nature](https://www.drivethrurpg.com/en/product/470382?affiliate_id=135005) | Aaron Sinner | |
 | Odyssey Tape | [Welcome Home](https://bloody-gorgeous.itch.io/welcome-home) | Sarah Bolling | |
 | Odyssey Tape | [Brain Bowl 17](https://joe-kenobi.itch.io/brain-bowls-self-help) | Aaron Sinner | |
-| Odyssey Tape | [History Come Alive 21](https://www.drivethrurpg.com/m/product/449428) | Aaron Sinner | |
-| Odyssey Tape | [Happy Jack 09 Bear Trap White Residual?](https://www.drivethrurpg.com/m/product/439294) | Aaron Sinner | |
+| Odyssey Tape | [History Come Alive 21](https://www.drivethrurpg.com/en/product/449428?affiliate_id=135005) | Aaron Sinner | |
+| Odyssey Tape | [Happy Jack 09 Bear Trap White Residual?](https://www.drivethrurpg.com/en/product/439294?affiliate_id=135005) | Aaron Sinner | |
 | Odyssey Tape | [Ditches Are Deadly Pure-White](https://steph-infection-games.itch.io/errant-transmissions) | Steph Infection | |
 | Odyssey Tape | [Them's the Tapes! - Commercial](https://steph-infection-games.itch.io/errant-transmissions) | Steph Infection | |
 | Odyssey Tape | [Cardboard Carl](https://steph-infection-games.itch.io/errant-transmissions) | Steph Infection | |

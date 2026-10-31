@@ -1,5 +1,6 @@
 ---
 title: "Mistborn RPG"
+description: "Mistborn RPG resources from Brotherwise Games: tools and references for running Brandon Sanderson's Scadrial at your table."
 date: 2026-07-26T12:00:00Z
 draft: false
 type: page

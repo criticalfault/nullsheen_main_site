@@ -1,5 +1,6 @@
 ---
 title: "The Magnus Archives RPG"
+description: "The Magnus Archives RPG resources for the Cypher System horror game: the core rulebook and supplements with where to buy them."
 date: 2025-11-09T20:45:00Z
 draft: false
 type: page

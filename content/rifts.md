@@ -1,5 +1,6 @@
 ---
 title: "Rifts RPG"
+description: "Rifts RPG resources from Palladium Books: a free Rifts initiative tracker, where to buy the books and useful links."
 date: 2025-11-09T21:00:00Z
 draft: false
 type: page
